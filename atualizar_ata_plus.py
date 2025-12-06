@@ -110,7 +110,7 @@ def main():
             "critical": True
         },
         {
-            "comando": f'git add docs/ && git commit -m "Atualização automática N8N - {datetime.now().strftime("%d/%m/%Y %H:%M")}" && git push',
+            "comando": f'git add docs/ .gitignore && git diff --quiet && git diff --staged --quiet || (git commit --no-verify -m "Atualização automática N8N - {datetime.now().strftime("%d/%m/%Y %H:%M")}" && git push)',
             "descricao": "Git Commit e Push",
             "cwd": BASE_DIR / "ata-plus-deploy",
             "critical": False  # Sem mudanças não é erro
