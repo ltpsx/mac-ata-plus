@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>MAC Atacado - ATA Plus</title>
+
+<style>
+  :root {
+    --bg: #050505;
+    --card-bg: #191919;
+    --accent: #ff7b00;
+    --accent2: #ffb347;
+    --text: #ffffff;
+    --muted: #aaaaaa;
+  }
+
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: Arial, sans-serif;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+  }
+
+  .container {
+    max-width: 600px;
+    width: 100%;
+  }
+
+  h1 {
+    text-align: center;
+    font-size: 32px;
+    margin-bottom: 10px;
+    background: linear-gradient(135deg, var(--accent), var(--accent2));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+
+  .subtitle {
+    text-align: center;
+    color: var(--muted);
+    font-size: 16px;
+    margin-bottom: 40px;
+  }
+
+  .cards {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+  }
+
+  .card {
+    background: var(--card-bg);
+    border-radius: 15px;
+    padding: 25px;
+    text-decoration: none;
+    color: var(--text);
+    transition: all 0.3s ease;
+    border: 2px solid transparent;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.5);
+  }
+
+  .card:hover {
+    border-color: var(--accent);
+    transform: translateY(-3px);
+    box-shadow: 0 8px 25px rgba(255, 123, 0, 0.3);
+  }
+
+  .card-title {
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 8px;
+  }
+
+  .card-desc {
+    color: var(--muted);
+    font-size: 14px;
+  }
+
+  .footer {
+    text-align: center;
+    margin-top: 40px;
+    color: var(--muted);
+    font-size: 12px;
+  }
+
+  @media (max-width: 600px) {
+    h1 {
+      font-size: 24px;
+    }
+
+    .card-title {
+      font-size: 18px;
+    }
+  }
+</style>
+</head>
+
+<body>
+<div class="container">
+  <h1>🛒 MAC Atacado - ATA Plus</h1>
+  <p class="subtitle">Sistema de Tabelas e Pedidos</p>
+
+  <div class="cards">
+    <a href="./app/" class="card">
+      <div class="card-title">📱 App de Pedidos</div>
+      <div class="card-desc">Faça seus pedidos com busca inteligente e exportação para Excel</div>
+    </a>
+
+    <a href="./tabela/" class="card">
+      <div class="card-title">📒 Tabela de Preços</div>
+      <div class="card-desc">Consulte preços, estoque e informações dos produtos</div>
+    </a>
+  </div>
+
+  <div class="footer">
+    MAC Atacado - Sistema de Gestão ATA Plus<br>
+    Atualizado automaticamente via GitHub Actions
+  </div>
+</div>
+</body>
+</html>
