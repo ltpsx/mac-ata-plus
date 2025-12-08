@@ -479,7 +479,7 @@
 <div class="wrapper">
   <h1>🛒 App de Pedidos</h1>
   <p class="sub">MAC Atacado - Catálogo Digital</p>
-  <p class="sub">Atualizado: 08/12/2025 17:17</p>
+  <p class="sub">Atualizado: 08/12/2025 17:31</p>
 
   <div class="tabs">
     <div class="tab active" onclick="mudarTab('buscar')">Buscar</div>
@@ -704,11 +704,21 @@
     const itens = Object.values(carrinho);
     if (itens.length === 0) return;
 
+    // Captura nome do cliente e desconto
+    const nomeCliente = document.getElementById('nome-cliente')?.value.trim() || 'Cliente';
+    const descontoInput = document.getElementById('desconto-input');
+    const desconto = parseFloat(descontoInput?.value || 0);
+    const subtotal = calcularTotal();
+    const totalFinal = calcularTotalComDesconto();
+
     const pedido = {
       id: Date.now(),
       data: new Date().toLocaleString('pt-BR'),
+      cliente: nomeCliente,
       itens: itens,
-      total: calcularTotal()
+      subtotal: subtotal,
+      desconto: desconto,
+      total: totalFinal
     };
 
     pedidosSalvos.push(pedido);
@@ -716,7 +726,7 @@
 
     limparCarrinho();
     mudarTab('pedidos');
-    alert('✅ Pedido salvo com sucesso!');
+    alert(`✅ Pedido salvo com sucesso!\n\nCliente: ${nomeCliente}\nTotal: R$ ${formatarPreco(totalFinal)}`);
   }
 
   function editarPedido(id) {
@@ -758,6 +768,15 @@
     const pedido = pedidosSalvos.find(p => p.id === id);
     if (!pedido) return;
 
+    // Cabeçalho do pedido
+    const header = [
+      ['PEDIDO - MAC ATACADO'],
+      ['Cliente:', pedido.cliente || 'Cliente'],
+      ['Data:', pedido.data],
+      []
+    ];
+
+    // Itens do pedido
     const dados = pedido.itens.map(item => ({
       'Código': item.codigo,
       'Cód. Fabric': item.fabric,
@@ -768,11 +787,27 @@
       'Subtotal': formatarPreco(converterPreco(item.preco) * item.qtd)
     }));
 
-    const ws = XLSX.utils.json_to_sheet(dados);
+    // Rodapé com totais
+    const subtotal = pedido.subtotal || pedido.total;
+    const footer = [
+      {},
+      { 'Produto': 'Subtotal:', 'Subtotal': formatarPreco(subtotal) }
+    ];
+
+    if (pedido.desconto > 0) {
+      footer.push({ 'Produto': `Desconto (${pedido.desconto}%):`, 'Subtotal': `-${formatarPreco(subtotal * pedido.desconto / 100)}` });
+    }
+
+    footer.push({ 'Produto': 'TOTAL:', 'Subtotal': formatarPreco(pedido.total) });
+
+    const ws = XLSX.utils.aoa_to_sheet(header);
+    XLSX.utils.sheet_add_json(ws, dados, { origin: -1 });
+    XLSX.utils.sheet_add_json(ws, footer, { origin: -1, skipHeader: true });
+
     const wb = XLSX.utils.book_new();
     XLSX.utils.book_append_sheet(wb, ws, "Pedido");
 
-    const filename = `pedido_${new Date(pedido.id).toISOString().slice(0,10)}.xlsx`;
+    const filename = `pedido_${pedido.cliente.replace(/\s+/g, '_')}_${new Date(pedido.id).toISOString().slice(0,10)}.xlsx`;
     XLSX.writeFile(wb, filename);
   }
 
@@ -780,6 +815,25 @@
     return Object.values(carrinho).reduce((sum, item) => {
       return sum + (converterPreco(item.preco) * item.qtd);
     }, 0);
+  }
+
+  function calcularTotalComDesconto() {
+    const subtotal = calcularTotal();
+    const descontoInput = document.getElementById('desconto-input');
+    let desconto = parseFloat(descontoInput?.value || 0);
+
+    // Limita desconto a 5%
+    if (desconto > 5) {
+      desconto = 5;
+      if (descontoInput) descontoInput.value = 5;
+    }
+    if (desconto < 0) {
+      desconto = 0;
+      if (descontoInput) descontoInput.value = 0;
+    }
+
+    const valorDesconto = subtotal * (desconto / 100);
+    return subtotal - valorDesconto;
   }
 
   function atualizarUI() {
@@ -798,6 +852,13 @@
     // Atualiza carrinho
     renderizarCarrinho();
     renderizarPedidos();
+
+    // Atualiza total com desconto
+    const totalComDescontoEl = document.getElementById('total-com-desconto');
+    if (totalComDescontoEl && totalItens > 0) {
+      const totalFinal = calcularTotalComDesconto();
+      totalComDescontoEl.textContent = `R$ ${formatarPreco(totalFinal)}`;
+    }
   }
 
   function renderizarCarrinho() {
@@ -834,10 +895,28 @@
           <span>Itens:</span>
           <span>${itens.reduce((sum, item) => sum + item.qtd, 0)}</span>
         </div>
-        <div class="carrinho-total-final">
-          <span>Total:</span>
+        <div class="carrinho-total-linha" style="padding-top: 8px; border-top: 1px solid #333; margin-top: 8px;">
+          <span>Subtotal:</span>
           <span>R$ ${formatarPreco(total)}</span>
         </div>
+        <div class="carrinho-total-linha" style="align-items: center;">
+          <span>Desconto (máx 5%):</span>
+          <div style="display: flex; align-items: center; gap: 5px;">
+            <input type="number" id="desconto-input" min="0" max="5" step="0.1" value="0"
+              style="width: 60px; padding: 4px; text-align: center; background: #0a0a0a; border: 1px solid #333; border-radius: 4px; color: white;"
+              onchange="atualizarUI()" />
+            <span style="font-size: 12px;">%</span>
+          </div>
+        </div>
+        <div class="carrinho-total-final">
+          <span>Total:</span>
+          <span id="total-com-desconto">R$ ${formatarPreco(total)}</span>
+        </div>
+      </div>
+
+      <div style="margin: 12px 0;">
+        <input type="text" id="nome-cliente" placeholder="Nome do cliente (opcional)"
+          style="width: 100%; padding: 10px; background: #0a0a0a; border: 1px solid #333; border-radius: 6px; color: white; font-size: 14px;" />
       </div>
 
       <button class="btn btn-finalizar" onclick="finalizarPedido()">
@@ -862,8 +941,16 @@
         ${pedidosSalvos.map(pedido => `
           <div class="pedido-card">
             <div class="pedido-header">
-              <div class="pedido-data">📅 ${pedido.data}</div>
-              <div class="pedido-total">R$ ${formatarPreco(pedido.total)}</div>
+              <div>
+                <div class="pedido-data">📅 ${pedido.data}</div>
+                <div style="font-size: 13px; color: var(--accent); margin-top: 2px;">
+                  👤 ${pedido.cliente || 'Cliente'}
+                </div>
+              </div>
+              <div style="text-align: right;">
+                <div class="pedido-total">R$ ${formatarPreco(pedido.total)}</div>
+                ${pedido.desconto > 0 ? `<div style="font-size: 11px; color: var(--price);">Desc: ${pedido.desconto}%</div>` : ''}
+              </div>
             </div>
             <div class="pedido-itens">
               ${pedido.itens.length} item(ns) - ${pedido.itens.reduce((sum, i) => sum + i.qtd, 0)} unidade(s)
