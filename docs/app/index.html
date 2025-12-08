@@ -448,7 +448,7 @@
 <div class="wrapper">
   <h1>🛒 App de Pedidos</h1>
   <p class="sub">MAC Atacado - Catálogo Digital</p>
-  <p class="sub">Atualizado: 08/12/2025 16:55</p>
+  <p class="sub">Atualizado: 08/12/2025 17:05</p>
 
   <div class="tabs">
     <div class="tab active" onclick="mudarTab('buscar')">Buscar</div>
@@ -539,6 +539,12 @@
     return parseFloat(precoStr) || 0;
   }
 
+  // Formata número para exibição em pt-BR (12.08 -> 12,08)
+  function formatarPreco(valor) {
+    const numero = typeof valor === 'number' ? valor : converterPreco(valor);
+    return numero.toFixed(2).replace('.', ',');
+  }
+
   function aplicarFiltro(filtro = "") {
     const container = document.getElementById('lista');
     const info = document.getElementById('info-lista');
@@ -585,7 +591,7 @@
         <div class="produto">
           <div class="produto-header">
             <div class="produto-nome">${p.nome || 'Sem nome'}</div>
-            <div class="produto-preco">R$ ${preco.toFixed(2)}</div>
+            <div class="produto-preco">R$ ${formatarPreco(preco)}</div>
           </div>
           <div class="produto-info">
             Cód: ${p.codigo || '-'} | Marca: ${p.marca || '-'} | Estoque: ${estoque}
@@ -682,8 +688,8 @@
       'Marca': item.marca,
       'Produto': item.nome,
       'Quantidade': item.qtd,
-      'Preço Unit.': converterPreco(item.preco).toFixed(2),
-      'Subtotal': (converterPreco(item.preco) * item.qtd).toFixed(2)
+      'Preço Unit.': formatarPreco(item.preco),
+      'Subtotal': formatarPreco(converterPreco(item.preco) * item.qtd)
     }));
 
     const ws = XLSX.utils.json_to_sheet(dados);
@@ -735,10 +741,10 @@
           <div class="carrinho-item">
             <div class="carrinho-item-header">
               <div class="carrinho-item-nome">${item.nome}</div>
-              <div class="carrinho-item-preco">R$ ${(converterPreco(item.preco) * item.qtd).toFixed(2)}</div>
+              <div class="carrinho-item-preco">R$ ${formatarPreco(converterPreco(item.preco) * item.qtd)}</div>
             </div>
             <div class="carrinho-item-info">
-              Qtd: ${item.qtd} x R$ ${converterPreco(item.preco).toFixed(2)}
+              Qtd: ${item.qtd} x R$ ${formatarPreco(item.preco)}
             </div>
             <div class="carrinho-item-acoes">
               <button class="btn btn-remover" onclick="removerDoCarrinho('${item.codigo}')">Remover</button>
@@ -754,7 +760,7 @@
         </div>
         <div class="carrinho-total-final">
           <span>Total:</span>
-          <span>R$ ${total.toFixed(2)}</span>
+          <span>R$ ${formatarPreco(total)}</span>
         </div>
       </div>
 
@@ -781,7 +787,7 @@
           <div class="pedido-card">
             <div class="pedido-header">
               <div class="pedido-data">📅 ${pedido.data}</div>
-              <div class="pedido-total">R$ ${pedido.total.toFixed(2)}</div>
+              <div class="pedido-total">R$ ${formatarPreco(pedido.total)}</div>
             </div>
             <div class="pedido-itens">
               ${pedido.itens.length} item(ns) - ${pedido.itens.reduce((sum, i) => sum + i.qtd, 0)} unidade(s)
@@ -825,7 +831,7 @@
       <div class="detalhes-grupo">
         <div class="detalhes-label">Preço</div>
         <div class="detalhes-valor" style="color: var(--price); font-size: 18px; font-weight: 700;">
-          R$ ${converterPreco(produto.preco).toFixed(2)}
+          R$ ${formatarPreco(produto.preco)}
         </div>
       </div>
     `;
