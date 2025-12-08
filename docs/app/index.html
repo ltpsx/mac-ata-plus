@@ -115,6 +115,15 @@
     border: 1px solid #222;
   }
 
+  .produto-sem-estoque {
+    opacity: 0.6;
+    background: #1a1a1a;
+  }
+
+  .produto-sem-estoque .produto-nome {
+    color: #888;
+  }
+
   .produto-header {
     display: flex;
     justify-content: space-between;
@@ -167,6 +176,17 @@
     border-radius: 6px;
     cursor: pointer;
     transition: all 0.2s;
+  }
+
+  .btn:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+    background: #444;
+  }
+
+  .qtd-input:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
   }
 
   .btn-add {
@@ -369,6 +389,17 @@
     font-size: 13px;
   }
 
+  .btn-editar {
+    background: #2196F3;
+    color: white;
+    padding: 8px 12px;
+    font-size: 13px;
+  }
+
+  .btn-editar:active {
+    transform: scale(0.97);
+  }
+
   .btn-excluir {
     background: #c62828;
     color: white;
@@ -448,7 +479,7 @@
 <div class="wrapper">
   <h1>🛒 App de Pedidos</h1>
   <p class="sub">MAC Atacado - Catálogo Digital</p>
-  <p class="sub">Atualizado: 08/12/2025 17:05</p>
+  <p class="sub">Atualizado: 08/12/2025 17:17</p>
 
   <div class="tabs">
     <div class="tab active" onclick="mudarTab('buscar')">Buscar</div>
@@ -587,18 +618,21 @@
     container.innerHTML = exibir.map(p => {
       const preco = converterPreco(p.preco);
       const estoque = parseInt(p.estoque || 0);
+      const semEstoque = estoque === 0;
       return `
-        <div class="produto">
+        <div class="produto ${semEstoque ? 'produto-sem-estoque' : ''}">
           <div class="produto-header">
             <div class="produto-nome">${p.nome || 'Sem nome'}</div>
             <div class="produto-preco">R$ ${formatarPreco(preco)}</div>
           </div>
           <div class="produto-info">
-            Cód: ${p.codigo || '-'} | Marca: ${p.marca || '-'} | Estoque: ${estoque}
+            Cód: ${p.codigo || '-'} | Marca: ${p.marca || '-'} | Estoque: ${estoque > 0 ? estoque : '<span style="color: #ff4444;">SEM ESTOQUE</span>'}
           </div>
           <div class="produto-acoes">
-            <input type="number" class="qtd-input" id="qtd-${p.codigo}" value="1" min="1" />
-            <button class="btn btn-add" onclick="addCarrinho('${p.codigo}')">Adicionar</button>
+            <input type="number" class="qtd-input" id="qtd-${p.codigo}" value="1" min="1" max="${estoque}" ${semEstoque ? 'disabled' : ''} />
+            <button class="btn btn-add" onclick="addCarrinho('${p.codigo}')" ${semEstoque ? 'disabled' : ''}>
+              ${semEstoque ? '❌ Indisponível' : 'Adicionar'}
+            </button>
             <button class="btn btn-detalhes" onclick="verDetalhes('${p.codigo}')">ℹ️</button>
           </div>
         </div>
@@ -610,8 +644,22 @@
     const produto = produtos.find(p => p.codigo === codigo);
     if (!produto) return;
 
+    // Verifica estoque
+    const estoque = parseInt(produto.estoque || 0);
+    if (estoque === 0) {
+      alert('❌ Produto sem estoque!');
+      return;
+    }
+
     const input = document.getElementById(`qtd-${codigo}`);
     const qtd = parseInt(input.value) || 1;
+
+    // Valida quantidade vs estoque
+    const qtdAtualCarrinho = carrinho[codigo]?.qtd || 0;
+    if (qtdAtualCarrinho + qtd > estoque) {
+      alert(`⚠️ Estoque insuficiente!\nDisponível: ${estoque}\nNo carrinho: ${qtdAtualCarrinho}`);
+      return;
+    }
 
     if (carrinho[codigo]) {
       carrinho[codigo].qtd += qtd;
@@ -669,6 +717,34 @@
     limparCarrinho();
     mudarTab('pedidos');
     alert('✅ Pedido salvo com sucesso!');
+  }
+
+  function editarPedido(id) {
+    const pedido = pedidosSalvos.find(p => p.id === id);
+    if (!pedido) return;
+
+    if (!confirm('Deseja editar este pedido?\n\nOs itens serão carregados no carrinho e você poderá modificá-los.')) return;
+
+    // Limpa carrinho atual
+    carrinho = {};
+
+    // Carrega itens do pedido no carrinho
+    pedido.itens.forEach(item => {
+      carrinho[item.codigo] = {
+        ...item,
+        qtd: item.qtd
+      };
+    });
+
+    // Remove o pedido da lista (será salvo novamente após edição)
+    pedidosSalvos = pedidosSalvos.filter(p => p.id !== id);
+    localStorage.setItem('pedidos', JSON.stringify(pedidosSalvos));
+
+    // Vai para aba do carrinho
+    mudarTab('carrinho');
+    atualizarUI();
+
+    alert('✏️ Pedido carregado no carrinho!\n\nVocê pode adicionar, remover ou alterar itens.\nQuando terminar, salve o pedido novamente.');
   }
 
   function excluirPedido(id) {
@@ -795,6 +871,9 @@
             <div class="pedido-acoes">
               <button class="btn btn-exportar" onclick="exportarPedido(${pedido.id})">
                 📥 Exportar XLSX
+              </button>
+              <button class="btn btn-editar" onclick="editarPedido(${pedido.id})">
+                ✏️ Editar
               </button>
               <button class="btn btn-excluir" onclick="excluirPedido(${pedido.id})">
                 🗑️
