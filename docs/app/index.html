@@ -448,7 +448,7 @@
 <div class="wrapper">
   <h1>🛒 App de Pedidos</h1>
   <p class="sub">MAC Atacado - Catálogo Digital</p>
-  <p class="sub">Atualizado: 07/12/2025 09:00</p>
+  <p class="sub">Atualizado: 08/12/2025 16:55</p>
 
   <div class="tabs">
     <div class="tab active" onclick="mudarTab('buscar')">Buscar</div>
@@ -530,6 +530,15 @@
       .replace(/\p{Diacritic}/gu, "");
   }
 
+  // Converte preço de string BR (12,08) para número float (12.08)
+  function converterPreco(preco) {
+    if (typeof preco === 'number') return preco;
+    if (!preco) return 0;
+    // Remove pontos de milhar e substitui vírgula por ponto
+    const precoStr = preco.toString().replace(/\./g, '').replace(',', '.');
+    return parseFloat(precoStr) || 0;
+  }
+
   function aplicarFiltro(filtro = "") {
     const container = document.getElementById('lista');
     const info = document.getElementById('info-lista');
@@ -570,7 +579,7 @@
     info.textContent = `${exibir.length} produto(s) encontrado(s)${filtrados.length > 100 ? ' (mostrando primeiros 100)' : ''}`;
 
     container.innerHTML = exibir.map(p => {
-      const preco = parseFloat(p.preco || 0);
+      const preco = converterPreco(p.preco);
       const estoque = parseInt(p.estoque || 0);
       return `
         <div class="produto">
@@ -673,8 +682,8 @@
       'Marca': item.marca,
       'Produto': item.nome,
       'Quantidade': item.qtd,
-      'Preço Unit.': parseFloat(item.preco || 0).toFixed(2),
-      'Subtotal': (parseFloat(item.preco || 0) * item.qtd).toFixed(2)
+      'Preço Unit.': converterPreco(item.preco).toFixed(2),
+      'Subtotal': (converterPreco(item.preco) * item.qtd).toFixed(2)
     }));
 
     const ws = XLSX.utils.json_to_sheet(dados);
@@ -687,7 +696,7 @@
 
   function calcularTotal() {
     return Object.values(carrinho).reduce((sum, item) => {
-      return sum + (parseFloat(item.preco || 0) * item.qtd);
+      return sum + (converterPreco(item.preco) * item.qtd);
     }, 0);
   }
 
@@ -726,10 +735,10 @@
           <div class="carrinho-item">
             <div class="carrinho-item-header">
               <div class="carrinho-item-nome">${item.nome}</div>
-              <div class="carrinho-item-preco">R$ ${(parseFloat(item.preco || 0) * item.qtd).toFixed(2)}</div>
+              <div class="carrinho-item-preco">R$ ${(converterPreco(item.preco) * item.qtd).toFixed(2)}</div>
             </div>
             <div class="carrinho-item-info">
-              Qtd: ${item.qtd} x R$ ${parseFloat(item.preco || 0).toFixed(2)}
+              Qtd: ${item.qtd} x R$ ${converterPreco(item.preco).toFixed(2)}
             </div>
             <div class="carrinho-item-acoes">
               <button class="btn btn-remover" onclick="removerDoCarrinho('${item.codigo}')">Remover</button>
@@ -816,7 +825,7 @@
       <div class="detalhes-grupo">
         <div class="detalhes-label">Preço</div>
         <div class="detalhes-valor" style="color: var(--price); font-size: 18px; font-weight: 700;">
-          R$ ${parseFloat(produto.preco || 0).toFixed(2)}
+          R$ ${converterPreco(produto.preco).toFixed(2)}
         </div>
       </div>
     `;
