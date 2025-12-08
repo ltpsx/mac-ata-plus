@@ -1,5 +1,5 @@
 {
-  "name": "ATA Plus - Atualização Automática",
+  "name": "ATA Plus - Executar Tudo",
   "nodes": [
     {
       "parameters": {
@@ -16,24 +16,23 @@
       "name": "A cada hora",
       "type": "n8n-nodes-base.scheduleTrigger",
       "typeVersion": 1,
-      "position": [
-        250,
-        300
-      ]
+      "position": [250, 300]
     },
     {
       "parameters": {
         "command": "python",
-        "arguments": "C:\\Users\\compr\\OneDrive\\Estoque\\precos_project\\ata-plus-deploy\\atualizar_ata_plus.py"
+        "arguments": "C:\\Users\\compr\\OneDrive\\Estoque\\precos_project\\ata-plus-deploy\\executar_tudo.py",
+        "workingDirectory": "C:\\Users\\compr\\OneDrive\\Estoque\\precos_project\\ata-plus-deploy",
+        "environment": "GIT_TERMINAL_PROMPT=0",
+        "options": {
+          "timeout": 600
+        }
       },
       "id": "2",
-      "name": "Executar Atualização ATA Plus",
+      "name": "Executar script executar_tudo.py",
       "type": "n8n-nodes-base.executeCommand",
       "typeVersion": 1,
-      "position": [
-        470,
-        300
-      ]
+      "position": [470, 300]
     }
   ],
   "connections": {
@@ -41,7 +40,7 @@
       "main": [
         [
           {
-            "node": "Executar Atualização ATA Plus",
+            "node": "Executar script executar_tudo.py",
             "type": "main",
             "index": 0
           }
@@ -49,13 +48,7 @@
       ]
     }
   },
-  "pinData": {},
   "settings": {
     "executionOrder": "v1"
-  },
-  "staticData": null,
-  "tags": [],
-  "triggerCount": 0,
-  "updatedAt": "2025-12-06T12:30:00.000Z",
-  "versionId": "1"
+  }
 }

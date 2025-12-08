@@ -1,0 +1,74 @@
+{
+  "name": "ATA Plus - Atualização Automática",
+  "nodes": [
+    {
+      "parameters": {
+        "rule": {
+          "interval": [
+            {
+              "field": "cronExpression",
+              "expression": "0 * * * *"
+            }
+          ]
+        }
+      },
+      "id": "schedule-trigger",
+      "name": "A cada hora",
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1.1,
+      "position": [
+        250,
+        300
+      ]
+    },
+    {
+      "parameters": {
+        "command": "python",
+        "arguments": "atualizar_ata_plus.py"
+      },
+      "id": "execute-command",
+      "name": "Executar Atualização ATA Plus",
+      "type": "n8n-nodes-base.executeCommand",
+      "typeVersion": 1,
+      "position": [
+        500,
+        300
+      ],
+      "executeOnce": false,
+      "alwaysOutputData": false,
+      "onError": "continueErrorOutput",
+      "continueOnFail": false,
+      "notesInFlow": true,
+      "notes": "Executa script Python que:\n1. Exporta dados do ERP\n2. Gera tabela HTML\n3. Gera app de pedidos\n4. Prepara deploy\n5. Faz git push",
+      "settings": {
+        "timeout": 600
+      },
+      "credentials": {},
+      "options": {
+        "cwd": "C:\\Users\\compr\\OneDrive\\Estoque\\precos_project\\ata-plus-deploy"
+      }
+    }
+  ],
+  "connections": {
+    "A cada hora": {
+      "main": [
+        [
+          {
+            "node": "Executar Atualização ATA Plus",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "pinData": {},
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "staticData": null,
+  "tags": [],
+  "triggerCount": 0,
+  "updatedAt": "2025-12-08T20:40:00.000Z",
+  "versionId": "1"
+}
