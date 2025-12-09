@@ -479,7 +479,7 @@
 <div class="wrapper">
   <h1>🛒 App de Pedidos</h1>
   <p class="sub">MAC Atacado - Catálogo Digital</p>
-  <p class="sub">Atualizado: 09/12/2025 15:03</p>
+  <p class="sub">Atualizado: 09/12/2025 15:21</p>
 
   <div class="tabs">
     <div class="tab active" onclick="mudarTab('buscar')">Buscar</div>
@@ -956,7 +956,7 @@
               </div>
               <div style="text-align: right;">
                 <div class="pedido-total">R$ ${formatarPreco(pedido.total)}</div>
-                ${pedido.desconto > 0 ? `<div style="font-size: 11px; color: var(--price);">Desc: ${pedido.desconto}%</div>` : ''}
+                ${pedido.desconto > 0 ? `<div style="font-size: 11px; color: var(--muted);">Com ${pedido.desconto}% de desconto</div>` : ''}
               </div>
             </div>
             <div class="pedido-itens">

@@ -8132,7 +8132,7 @@
     "fabric": "MTX6L-BS",
     "marca": "MOTOKOI BR",
     "nome": "BATERIA BIZ / FAN 125 ES 09/TITAN150 MIX 09 ED MTX6L-BS MOTOKOI",
-    "estoque": "829",
+    "estoque": "828",
     "preco": "109,69"
   },
   {
@@ -34060,7 +34060,7 @@
     "fabric": "",
     "marca": "PANTANEIRO",
     "nome": "CAPA CHUVA PANTANEIRO PVC TORNADO EXG",
-    "estoque": "40",
+    "estoque": "39",
     "preco": "102,38"
   },
   {
@@ -66084,7 +66084,7 @@
     "fabric": "25042",
     "marca": "TRILHA",
     "nome": "DIAFRAGMA PISTONETE FALCON TRILHA COMPLETO",
-    "estoque": "53",
+    "estoque": "52",
     "preco": "70,62"
   },
   {
@@ -77468,7 +77468,7 @@
     "fabric": "ARM471/1",
     "marca": "TECFIL",
     "nome": "FILTRO AR BIZ 125 2012 TECFIL",
-    "estoque": "14",
+    "estoque": "13",
     "preco": "32,22"
   },
   {
@@ -97980,7 +97980,7 @@
     "fabric": "TL004",
     "marca": "TMAC",
     "nome": "LAMPADA LANTERNA TRAS. 2 POLOS CG 125 FREIO TMAC",
-    "estoque": "9045",
+    "estoque": "9044",
     "preco": "1,4"
   },
   {
@@ -150680,6 +150680,14 @@
     "preco": "74,36"
   },
   {
+    "codigo": "52115",
+    "fabric": "10123031",
+    "marca": "WGK",
+    "nome": "ROLAMENTO VIRABREQUIM CB 250/ CB 300/XRE 300 WGK",
+    "estoque": "0",
+    "preco": "0"
+  },
+  {
     "codigo": "51439",
     "fabric": "1106017",
     "marca": "WW3",
@@ -150694,6 +150702,14 @@
     "nome": "ROLAMENTO VIRABREQUIM CB 300/XRE 300 RUG",
     "estoque": "0",
     "preco": "110,89"
+  },
+  {
+    "codigo": "52116",
+    "fabric": "10123021",
+    "marca": "WGK",
+    "nome": "ROLAMENTO VIRABREQUIM CBX 250/ XR 250 WGK",
+    "estoque": "0",
+    "preco": "0"
   },
   {
     "codigo": "51440",
