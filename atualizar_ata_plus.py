@@ -110,8 +110,8 @@ def main():
             "critical": True
         },
         {
-            "comando": f'set GIT_TERMINAL_PROMPT=0&& set GCM_INTERACTIVE=never&& git add docs/ .gitignore && git diff --quiet && git diff --staged --quiet || (git commit --no-verify -m "Atualização automática N8N - {datetime.now().strftime("%d/%m/%Y %H:%M")}" && git push)',
-            "descricao": "Git Commit e Push",
+            "comando": f'set GIT_TERMINAL_PROMPT=0&& set GCM_INTERACTIVE=never&& git add docs/ .gitignore && git diff --quiet && git diff --staged --quiet || (git commit --no-verify -m "Atualização automática N8N - {datetime.now().strftime("%d/%m/%Y %H:%M")}" && (git push || timeout /t 10 && git push || timeout /t 30 && git push))',
+            "descricao": "Git Commit e Push (com retry)",
             "cwd": BASE_DIR / "ata-plus-deploy",
             "critical": False  # Sem mudanças não é erro
         }
