@@ -13944,6 +13944,14 @@
     "preco": "523,95"
   },
   {
+    "codigo": "29088",
+    "fabric": "38684",
+    "marca": "DANNIXX",
+    "nome": "BOMBA COMBUSTIVEL BROS 160 ES 15> DANNIXX",
+    "estoque": "1",
+    "preco": "401,63"
+  },
+  {
     "codigo": "51898",
     "fabric": "TP070",
     "marca": "TMAC",
@@ -14172,7 +14180,7 @@
     "fabric": "TP040",
     "marca": "TMAC",
     "nome": "BOMBA COMBUSTIVEL TITAN 150 09 GAS TMAC",
-    "estoque": "5",
+    "estoque": "4",
     "preco": "291,64"
   },
   {
@@ -15028,7 +15036,7 @@
     "fabric": "44084",
     "marca": "MOTOBOR",
     "nome": "BORRACHA PEDALEIRA TITAN 160 DIANT MOTOBOR (PAR)",
-    "estoque": "322",
+    "estoque": "321",
     "preco": "10,91"
   },
   {
@@ -68436,7 +68444,7 @@
     "fabric": "07006",
     "marca": "DANIDREA",
     "nome": "EIXO CAVALETE CENTRAL CG/TO/TITAN/TITAN 150 TODAS DANIDREA",
-    "estoque": "34",
+    "estoque": "33",
     "preco": "24,3"
   },
   {
@@ -76276,7 +76284,7 @@
     "fabric": "04211",
     "marca": "PROJETIL",
     "nome": "ESTRIBO PEDAL APOIO TITAN 160/FAN 160 PRETO PROJETIL",
-    "estoque": "104",
+    "estoque": "103",
     "preco": "31,49"
   },
   {
@@ -79428,7 +79436,7 @@
     "fabric": "KOI0354",
     "marca": "MOTOKOI",
     "nome": "FILTRO OLEO FAZER 250/LANDER MOTOKOI",
-    "estoque": "95",
+    "estoque": "91",
     "preco": "6,29"
   },
   {
@@ -79788,7 +79796,7 @@
     "fabric": "KOI0356",
     "marca": "MOTOKOI",
     "nome": "FILTRO OLEO YES/KATANA/SUZUKI INTRUDER 125 MOTOKOI",
-    "estoque": "107",
+    "estoque": "106",
     "preco": "4,19"
   },
   {
@@ -89892,7 +89900,7 @@
     "fabric": "11021285",
     "marca": "X11",
     "nome": "JAQUETA X11 ONE SPORT PRETO 4G",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "540,75"
   },
   {
@@ -95908,7 +95916,7 @@
     "fabric": "H03976XS",
     "marca": "VAZ",
     "nome": "KIT TRANSMISSAO BROS 150 09 VAZ (49/17/428HX128) H03976XS",
-    "estoque": "93",
+    "estoque": "92",
     "preco": "103,95"
   },
   {
@@ -96052,7 +96060,7 @@
     "fabric": "001-KOI-008H4",
     "marca": "MOTOKOI",
     "nome": "KIT TRANSMISSAO CB 300 MOTOKOI (37/13/520VOX110L) C/RETENTOR",
-    "estoque": "6",
+    "estoque": "5",
     "preco": "194,24"
   },
   {
@@ -97796,7 +97804,7 @@
     "fabric": "KOI0357",
     "marca": "MOTOKOI",
     "nome": "LAMPADA FAROL BIZ 100/125/DREAM/BROS 150 09/12 MOTOKOI 12V35",
-    "estoque": "385",
+    "estoque": "383",
     "preco": "3,66"
   },
   {
@@ -98060,7 +98068,7 @@
     "fabric": "12499",
     "marca": "PHILIPS",
     "nome": "LAMPADA LANTERNA TRAS. 2 POLOS CG 125 FREIO PHILLIPS",
-    "estoque": "81",
+    "estoque": "80",
     "preco": "4,73"
   },
   {
@@ -98180,7 +98188,7 @@
     "fabric": "LF-01 SB",
     "marca": "STALLION",
     "nome": "LAMPADA LED FAROL TITAN H4 LED STALLION",
-    "estoque": "2918",
+    "estoque": "2917",
     "preco": "18,38"
   },
   {
@@ -98412,7 +98420,7 @@
     "fabric": "TL005",
     "marca": "TMAC",
     "nome": "LAMPADA PAINEL ESMAGADA CRISTAL TMAC T10",
-    "estoque": "25423",
+    "estoque": "25422",
     "preco": "1,04"
   },
   {
@@ -101276,7 +101284,7 @@
     "fabric": "4455",
     "marca": "IPIRANGA",
     "nome": "LUBRIFICANTES MOTO 4T IPIRANGA 10W30 SL SEMI-SINTETICO",
-    "estoque": "718",
+    "estoque": "717",
     "preco": "29,39"
   },
   {
@@ -101324,7 +101332,7 @@
     "fabric": "123075",
     "marca": "MOBIL",
     "nome": "LUBRIFICANTES MOTO 4T MOBIL 10W30 SEMI-SINTETICO",
-    "estoque": "1979",
+    "estoque": "5579",
     "preco": "31,49"
   },
   {
@@ -101356,7 +101364,7 @@
     "fabric": "121708",
     "marca": "MOBIL",
     "nome": "LUBRIFICANTES MOTO 4T MOBIL 20W50",
-    "estoque": "531",
+    "estoque": "5803",
     "preco": "25,19"
   },
   {
@@ -101380,7 +101388,7 @@
     "fabric": "111548",
     "marca": "MOTUL",
     "nome": "LUBRIFICANTES MOTO 4T MOTUL 5000+ 10W30",
-    "estoque": "1043",
+    "estoque": "1042",
     "preco": "40,94"
   },
   {
@@ -101396,7 +101404,7 @@
     "fabric": "",
     "marca": "MOTUL",
     "nome": "LUBRIFICANTES MOTO 4T MOTUL 5000+ 20W50",
-    "estoque": "298",
+    "estoque": "297",
     "preco": "43,58"
   },
   {
@@ -101412,7 +101420,7 @@
     "fabric": "104078",
     "marca": "MOTUL",
     "nome": "LUBRIFICANTES MOTO 4T MOTUL 5100 10W40",
-    "estoque": "342",
+    "estoque": "341",
     "preco": "60,38"
   },
   {
@@ -101476,7 +101484,7 @@
     "fabric": "2010000001042",
     "marca": "OXFORD",
     "nome": "LUBRIFICANTES MOTO 4T OXFORD 20W50",
-    "estoque": "8681",
+    "estoque": "8680",
     "preco": "13,64"
   },
   {
@@ -110828,7 +110836,7 @@
     "fabric": "25134K",
     "marca": "MOTOKOI BR",
     "nome": "MOLA PEDAL FREIO CG/TO/TITAN MOTOKOI",
-    "estoque": "385",
+    "estoque": "384",
     "preco": "1,55"
   },
   {
@@ -111244,7 +111252,7 @@
     "fabric": "25330K",
     "marca": "MOTOKOI BR",
     "nome": "MOLA STOP DE FREIO CG/ML/TU/TITAN MOTOKOI",
-    "estoque": "53",
+    "estoque": "52",
     "preco": "1,1"
   },
   {
@@ -121900,7 +121908,7 @@
     "fabric": "N906",
     "marca": "COBREQ",
     "nome": "PASTILHA FREIO TITAN ES/ML/STRADA/CBX150 DIANTEIRO COBREQ N-906",
-    "estoque": "37",
+    "estoque": "36",
     "preco": "15,13"
   },
   {
@@ -123068,7 +123076,7 @@
     "fabric": "KOI-00100 STD",
     "marca": "MOTOKOI BR",
     "nome": "PATIM FREIO TITAN 00/TITAN 150 0,00 DIANT/TRAS MOTOKOI BR",
-    "estoque": "550",
+    "estoque": "549",
     "preco": "14,69"
   },
   {
@@ -124852,7 +124860,7 @@
     "fabric": "100600301",
     "marca": "POLIMET",
     "nome": "PEDAL FREIO TITAN 150 POLIMET",
-    "estoque": "17",
+    "estoque": "16",
     "preco": "43,58"
   },
   {
@@ -135324,7 +135332,7 @@
     "fabric": "3450",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 130/70-13 TECHNIC BELLATRIX TL 63P",
-    "estoque": "7",
+    "estoque": "6",
     "preco": "270,34"
   },
   {
@@ -148596,7 +148604,7 @@
     "fabric": "TR301",
     "marca": "TMAC",
     "nome": "RETROVISOR BMW TMAC (PAR HONDA) GIRO 360",
-    "estoque": "9",
+    "estoque": "8",
     "preco": "47,25"
   },
   {
@@ -149868,7 +149876,7 @@
     "fabric": "KOI0241",
     "marca": "MOTOKOI BR",
     "nome": "RETROVISOR TITAN 150 PAR MOTOKOI BR",
-    "estoque": "2065",
+    "estoque": "2064",
     "preco": "19,94"
   },
   {
@@ -150580,7 +150588,7 @@
     "fabric": "TM980",
     "marca": "TMAC",
     "nome": "ROLAMENTO 6301-RS CROMO RODA DIANT. CG TMAC",
-    "estoque": "2936",
+    "estoque": "2934",
     "preco": "4,19"
   },
   {
@@ -158740,7 +158748,7 @@
     "fabric": "TP101",
     "marca": "TMAC",
     "nome": "TORNEIRA GASOLINA TITAN 150 TMAC",
-    "estoque": "114",
+    "estoque": "113",
     "preco": "14,19"
   },
   {
@@ -160988,7 +160996,7 @@
     "fabric": "23003K",
     "marca": "MOTOKOI BR",
     "nome": "VARAO FREIO TITAN 150 MOTOKOI",
-    "estoque": "95",
+    "estoque": "94",
     "preco": "10,87"
   },
   {
@@ -161548,7 +161556,7 @@
     "fabric": "CPR8EA9",
     "marca": "NGK",
     "nome": "VELA TITAN 150/FAN 150 CPR8EA-9 NGK",
-    "estoque": "674",
+    "estoque": "673",
     "preco": "29,93"
   },
   {
