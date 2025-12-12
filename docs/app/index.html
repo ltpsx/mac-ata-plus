@@ -476,7 +476,7 @@
 <div class="wrapper">
   <h1>🛒 App de Pedidos</h1>
   <p class="sub">MAC Atacado - Catálogo Digital</p>
-  <p class="sub">Atualizado: 12/12/2025 17:37</p>
+  <p class="sub">Atualizado: 12/12/2025 17:43</p>
 
   <div class="tabs">
     <div class="tab active" onclick="mudarTab('buscar')">Buscar</div>
@@ -512,7 +512,7 @@
 <!-- Botões fixos (só aparecem quando há itens no carrinho) -->
 <div id="carrinho-resumo" class="carrinho-resumo" style="display: none;">
   <button class="btn btn-ver-carrinho" onclick="mudarTab('carrinho')">
-    Ver Carrinho (<span id="carrinho-count-btn">0</span>)
+    Ver Carrinho (<span id="carrinho-count-btn">0</span>) - R$ <span id="carrinho-total-btn">0,00</span>
   </button>
   <button class="btn btn-limpar" onclick="confirmarLimparCarrinho()">🗑️</button>
 </div>
@@ -805,10 +805,12 @@
   function atualizarUI() {
     const itensCarrinho = Object.values(carrinho);
     const totalItens = itensCarrinho.reduce((sum, item) => sum + item.qtd, 0);
+    const totalValor = calcularTotal();
 
     // Atualiza contadores
     document.getElementById('carrinho-count').textContent = totalItens;
     document.getElementById('carrinho-count-btn').textContent = totalItens;
+    document.getElementById('carrinho-total-btn').textContent = totalValor.toFixed(2);
     document.getElementById('pedidos-count').textContent = pedidosSalvos.length;
 
     // Mostra/esconde botões fixos
