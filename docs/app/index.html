@@ -476,7 +476,7 @@
 <div class="wrapper">
   <h1>🛒 App de Pedidos</h1>
   <p class="sub">MAC Atacado - Catálogo Digital</p>
-  <p class="sub">Atualizado: 12/12/2025 17:43</p>
+  <p class="sub">Atualizado: 13/12/2025 09:03</p>
 
   <div class="tabs">
     <div class="tab active" onclick="mudarTab('buscar')">Buscar</div>
@@ -611,7 +611,7 @@
             Cód: ${p.codigo || '-'} | Marca: ${p.marca || '-'} | Estoque: ${estoque}
           </div>
           <div class="produto-acoes">
-            <input type="number" class="qtd-input" id="qtd-${p.codigo}" value="1" min="1" ${semEstoque ? 'disabled' : ''} />
+            <input type="number" class="qtd-input" id="qtd-${p.codigo}" value="1" min="1" ${semEstoque ? 'disabled' : ''} onfocus="this.select()" />
             <button class="btn btn-add" onclick="addCarrinho('${p.codigo}')" ${semEstoque ? 'disabled style="opacity:0.5;cursor:not-allowed"' : ''}>Adicionar</button>
             <button class="btn btn-detalhes" onclick="verDetalhes('${p.codigo}')">ℹ️</button>
           </div>
