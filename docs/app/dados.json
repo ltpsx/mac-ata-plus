@@ -5044,7 +5044,7 @@
     "fabric": "KOI0311",
     "marca": "MOTOKOI",
     "nome": "ARO RODA 1.60 X 18 CG/TOD/TIT DIANT MOTOKOI",
-    "estoque": "95",
+    "estoque": "91",
     "preco": "83,99"
   },
   {
@@ -5116,7 +5116,7 @@
     "fabric": "KOI0313",
     "marca": "MOTOKOI",
     "nome": "ARO RODA 1.85 X 18 CG/TOD/TIT TRAS MOTOKOI",
-    "estoque": "117",
+    "estoque": "113",
     "preco": "94,49"
   },
   {
@@ -5316,7 +5316,7 @@
     "fabric": "22330K",
     "marca": "MOTOKOI BR",
     "nome": "ARRUELA BUJAO OLEO TITAN 150/BIZ/YBR 12MM MOTOKOI",
-    "estoque": "262",
+    "estoque": "261",
     "preco": "0,39"
   },
   {
@@ -8212,7 +8212,7 @@
     "fabric": "MTX6L-BS",
     "marca": "MOTOKOI BR",
     "nome": "BATERIA BIZ / FAN 125 ES 09/TITAN150 MIX 09 ED MTX6L-BS MOTOKOI",
-    "estoque": "466",
+    "estoque": "465",
     "preco": "109,69"
   },
   {
@@ -8236,7 +8236,7 @@
     "fabric": "MTX5L-BS",
     "marca": "MOTOKOI BR",
     "nome": "BATERIA BIZ/TITAN 2000 ES/TITAN150 KS 125 MTX5L-BS MOTOKOI",
-    "estoque": "136",
+    "estoque": "116",
     "preco": "99,23"
   },
   {
@@ -8380,7 +8380,7 @@
     "fabric": "MTX7L-BS",
     "marca": "MOTOKOI BR",
     "nome": "BATERIA TWISTER/BROS 150/HUNTER/FALCON/INTRUDER/TITAN150 ES/ESD MTX7L-BS MOTOKOI",
-    "estoque": "78",
+    "estoque": "77",
     "preco": "133,22"
   },
   {
@@ -8844,7 +8844,7 @@
     "fabric": "LBJ027",
     "marca": "LBJ",
     "nome": "BICO INJETOR TITAN 150 09/10 LBJ",
-    "estoque": "19",
+    "estoque": "18",
     "preco": "103,95"
   },
   {
@@ -14236,7 +14236,7 @@
     "fabric": "90217340",
     "marca": "MAGNETRON",
     "nome": "BOMBA COMBUSTIVEL TITAN 150 / FAN 150 MIX ATE 2011 MAGNETRON",
-    "estoque": "11",
+    "estoque": "10",
     "preco": "493,4"
   },
   {
@@ -18632,14 +18632,6 @@
     "preco": "554,69"
   },
   {
-    "codigo": "21278",
-    "fabric": "000309-00-1",
-    "marca": "SCHERER/SORETTO",
-    "nome": "CABO ACELERADOR APACHE 150 SORETTO MAXI",
-    "estoque": "1",
-    "preco": "99,2"
-  },
-  {
     "codigo": "23935",
     "fabric": "90.20830281",
     "marca": "CONTROLFLEX",
@@ -19187,7 +19179,7 @@
     "codigo": "20745",
     "fabric": "30430",
     "marca": "SCHERER/SORETTO",
-    "nome": "CABO ACELERADOR BROS 160 EDD/ESD/ES \"A\" SORETTO",
+    "nome": "CABO ACELERADOR BROS 160 15/22 EDD/ESD/ES \"A\" SORETTO",
     "estoque": "2",
     "preco": "78,71"
   },
@@ -19195,7 +19187,7 @@
     "codigo": "22551",
     "fabric": "355",
     "marca": "SCHERER/SORETTO",
-    "nome": "CABO ACELERADOR BROS 160 EDD/ESD/ES \"A\" SORETTO MAXXI",
+    "nome": "CABO ACELERADOR BROS 160 15/22 EDD/ESD/ES \"A\" SORETTO MAXXI",
     "estoque": "4",
     "preco": "90,02"
   },
@@ -19203,7 +19195,7 @@
     "codigo": "28140",
     "fabric": "TM5030",
     "marca": "TMAC",
-    "nome": "CABO ACELERADOR BROS 160 EDD/ESD/ES \"A\" TMAC",
+    "nome": "CABO ACELERADOR BROS 160 15/22 EDD/ESD/ES \"A\" TMAC",
     "estoque": "2",
     "preco": "9,53"
   },
@@ -19211,7 +19203,7 @@
     "codigo": "41130",
     "fabric": "9020830279",
     "marca": "CONTROLFLEX",
-    "nome": "CABO ACELERADOR BROS 160 EDD/ESD/ES \"B\" CONTROLFLEX +",
+    "nome": "CABO ACELERADOR BROS 160 15/22 EDD/ESD/ES \"B\" CONTROLFLEX +",
     "estoque": "6",
     "preco": "14,5"
   },
@@ -19219,7 +19211,7 @@
     "codigo": "44416",
     "fabric": "KOI0027",
     "marca": "MOTOKOI",
-    "nome": "CABO ACELERADOR BROS 160 EDD/ESD/ES \"B\" MOTOKOI",
+    "nome": "CABO ACELERADOR BROS 160 15/22 EDD/ESD/ES \"B\" MOTOKOI",
     "estoque": "175",
     "preco": "9,14"
   },
@@ -19227,7 +19219,7 @@
     "codigo": "20746",
     "fabric": "30431",
     "marca": "SCHERER/SORETTO",
-    "nome": "CABO ACELERADOR BROS 160 EDD/ESD/ES \"B\" SORETTO",
+    "nome": "CABO ACELERADOR BROS 160 15/22 EDD/ESD/ES \"B\" SORETTO",
     "estoque": "3",
     "preco": "76,24"
   },
@@ -19235,7 +19227,7 @@
     "codigo": "22552",
     "fabric": "356",
     "marca": "SCHERER/SORETTO",
-    "nome": "CABO ACELERADOR BROS 160 EDD/ESD/ES \"B\" SORETTO MAXXI",
+    "nome": "CABO ACELERADOR BROS 160 15/22 EDD/ESD/ES \"B\" SORETTO MAXXI",
     "estoque": "4",
     "preco": "90,02"
   },
@@ -19243,7 +19235,7 @@
     "codigo": "28141",
     "fabric": "TM5031",
     "marca": "TMAC",
-    "nome": "CABO ACELERADOR BROS 160 EDD/ESD/ES \"B\" TMAC",
+    "nome": "CABO ACELERADOR BROS 160 15/22 EDD/ESD/ES \"B\" TMAC",
     "estoque": "28",
     "preco": "10,59"
   },
@@ -19251,7 +19243,7 @@
     "codigo": "20778",
     "fabric": "34026",
     "marca": "TRILHA",
-    "nome": "CABO ACELERADOR BROS 160 EDD/ESD/ES \"B\" TRILHA",
+    "nome": "CABO ACELERADOR BROS 160 15/22 EDD/ESD/ES \"B\" TRILHA",
     "estoque": "8",
     "preco": "14,47"
   },
@@ -19288,14 +19280,6 @@
     "preco": "14,69"
   },
   {
-    "codigo": "28173",
-    "fabric": "TM5046",
-    "marca": "TMAC",
-    "nome": "CABO ACELERADOR BURGMAN I 12 E/D  TMAC",
-    "estoque": "7",
-    "preco": "14,69"
-  },
-  {
     "codigo": "47688",
     "fabric": "KOI0297",
     "marca": "MOTOKOI",
@@ -19310,6 +19294,14 @@
     "nome": "CABO ACELERADOR BURGMAN I 12 E/D SORETTO MAXXI",
     "estoque": "2",
     "preco": "141,58"
+  },
+  {
+    "codigo": "28173",
+    "fabric": "TM5046",
+    "marca": "TMAC",
+    "nome": "CABO ACELERADOR BURGMAN I 12 E/D TMAC",
+    "estoque": "7",
+    "preco": "14,69"
   },
   {
     "codigo": "25297",
@@ -19355,7 +19347,7 @@
     "codigo": "25303",
     "fabric": "90.20830323",
     "marca": "CONTROLFLEX",
-    "nome": "CABO ACELERADOR CB 250  F  \"B\" CONTROLFLEX MAIS",
+    "nome": "CABO ACELERADOR CB 250  F  \"B\" CONTROLFLEX +",
     "estoque": "0",
     "preco": "16,1"
   },
@@ -19392,10 +19384,18 @@
     "preco": "10,49"
   },
   {
+    "codigo": "4426",
+    "fabric": "KOI0036",
+    "marca": "MOTOKOI",
+    "nome": "CABO ACELERADOR CB 300 R \"A\" 09/15 C/ABS MOTOKOI",
+    "estoque": "264",
+    "preco": "7,91"
+  },
+  {
     "codigo": "13397",
     "fabric": "30363",
     "marca": "SCHERER/SORETTO",
-    "nome": "CABO ACELERADOR CB 300 R \"A\" - ABS 09/12 SORETTO",
+    "nome": "CABO ACELERADOR CB 300 R \"A\" 09/15 C/ABS SORETTO",
     "estoque": "4",
     "preco": "84,98"
   },
@@ -19403,55 +19403,23 @@
     "codigo": "9511",
     "fabric": "333",
     "marca": "SCHERER/SORETTO",
-    "nome": "CABO ACELERADOR CB 300 R \"A\" - ABS 09/12 SORETTO MAXXI",
+    "nome": "CABO ACELERADOR CB 300 R \"A\" 09/15 C/ABS SORETTO MAXXI",
     "estoque": "4",
     "preco": "62,97"
-  },
-  {
-    "codigo": "28167",
-    "fabric": "TM5060",
-    "marca": "TMAC",
-    "nome": "CABO ACELERADOR CB 300 R \"A\" - ABS TMAC",
-    "estoque": "25",
-    "preco": "10,34"
   },
   {
     "codigo": "28169",
     "fabric": "TM5059",
     "marca": "TMAC",
-    "nome": "CABO ACELERADOR CB 300 R \"A\" 14 TMAC",
+    "nome": "CABO ACELERADOR CB 300 R \"A\" 09/15 C/BS TMAC",
     "estoque": "28",
     "preco": "9,25"
-  },
-  {
-    "codigo": "4426",
-    "fabric": "KOI0036",
-    "marca": "MOTOKOI",
-    "nome": "CABO ACELERADOR CB 300 R \"A\" C/ABS MOTOKOI",
-    "estoque": "264",
-    "preco": "7,91"
-  },
-  {
-    "codigo": "25322",
-    "fabric": "9020019352",
-    "marca": "CONTROLFLEX",
-    "nome": "CABO ACELERADOR CB 300 R \"A\" CONTROLFLEX",
-    "estoque": "0",
-    "preco": "0"
-  },
-  {
-    "codigo": "22482",
-    "fabric": "90.20830143",
-    "marca": "CONTROLFLEX",
-    "nome": "CABO ACELERADOR CB 300 R \"A\" CONTROLFLEX +",
-    "estoque": "0",
-    "preco": "13,9"
   },
   {
     "codigo": "44427",
     "fabric": "KOI0037",
     "marca": "MOTOKOI",
-    "nome": "CABO ACELERADOR CB 300 R \"A\" S/ABS MOTOKOI",
+    "nome": "CABO ACELERADOR CB 300 R \"A\" 09/15 S/ABS MOTOKOI",
     "estoque": "160",
     "preco": "9,48"
   },
@@ -19459,7 +19427,7 @@
     "codigo": "13394",
     "fabric": "30360",
     "marca": "SCHERER/SORETTO",
-    "nome": "CABO ACELERADOR CB 300 R \"A\" SORETTO",
+    "nome": "CABO ACELERADOR CB 300 R \"A\" 09/15 S/ABS SORETTO",
     "estoque": "0",
     "preco": "84,22"
   },
@@ -19467,31 +19435,47 @@
     "codigo": "8899",
     "fabric": "331",
     "marca": "SCHERER/SORETTO",
-    "nome": "CABO ACELERADOR CB 300 R \"A\" SORETTO MAXXI",
+    "nome": "CABO ACELERADOR CB 300 R \"A\" 09/15 S/ABS SORETTO MAXXI",
     "estoque": "2",
     "preco": "97,15"
   },
   {
-    "codigo": "34334",
-    "fabric": "",
+    "codigo": "28167",
+    "fabric": "TM5060",
     "marca": "TMAC",
-    "nome": "CABO ACELERADOR CB 300 R \"A\" TMAC",
-    "estoque": "0",
-    "preco": "7,49"
+    "nome": "CABO ACELERADOR CB 300 R \"A\" 09/15 S/ABS TMAC",
+    "estoque": "25",
+    "preco": "10,34"
+  },
+  {
+    "codigo": "12245",
+    "fabric": "18957",
+    "marca": "TRILHA",
+    "nome": "CABO ACELERADOR CB 300 R \"B\" 09/12 S/TRILHA",
+    "estoque": "1",
+    "preco": "13,4"
   },
   {
     "codigo": "23043",
     "fabric": "1103702",
     "marca": "K-CABOS",
-    "nome": "CABO ACELERADOR CB 300 R \"B\" - ABS K-CABOS",
+    "nome": "CABO ACELERADOR CB 300 R \"B\" 09/15 C/ABS K-CABOS",
     "estoque": "2",
     "preco": "8,69"
+  },
+  {
+    "codigo": "44400",
+    "fabric": "KOI0012",
+    "marca": "MOTOKOI",
+    "nome": "CABO ACELERADOR CB 300 R \"B\" 09/15 C/ABS MOTOKOI",
+    "estoque": "255",
+    "preco": "8,79"
   },
   {
     "codigo": "13398",
     "fabric": "30364",
     "marca": "SCHERER/SORETTO",
-    "nome": "CABO ACELERADOR CB 300 R \"B\" - ABS SORETTO",
+    "nome": "CABO ACELERADOR CB 300 R \"B\" 09/15 C/ABS SORETTO",
     "estoque": "7",
     "preco": "75,24"
   },
@@ -19499,7 +19483,7 @@
     "codigo": "9512",
     "fabric": "334",
     "marca": "SCHERER/SORETTO",
-    "nome": "CABO ACELERADOR CB 300 R \"B\" - ABS SORETTO MAXXI",
+    "nome": "CABO ACELERADOR CB 300 R \"B\" 09/15 C/ABS SORETTO MAXXI",
     "estoque": "3",
     "preco": "58,78"
   },
@@ -19507,39 +19491,15 @@
     "codigo": "28168",
     "fabric": "TM5013",
     "marca": "TMAC",
-    "nome": "CABO ACELERADOR CB 300 R \"B\" - ABS TMAC",
+    "nome": "CABO ACELERADOR CB 300 R \"B\" 09/15 C/ABS TMAC",
     "estoque": "16",
     "preco": "10,08"
-  },
-  {
-    "codigo": "44400",
-    "fabric": "KOI0012",
-    "marca": "MOTOKOI",
-    "nome": "CABO ACELERADOR CB 300 R \"B\" C/ABS MOTOKOI",
-    "estoque": "255",
-    "preco": "8,79"
-  },
-  {
-    "codigo": "22440",
-    "fabric": "90.20830144",
-    "marca": "CONTROLFLEX",
-    "nome": "CABO ACELERADOR CB 300 R \"B\" CONTROFLEX +",
-    "estoque": "0",
-    "preco": "16,61"
-  },
-  {
-    "codigo": "25323",
-    "fabric": "9020019353",
-    "marca": "CONTROLFLEX",
-    "nome": "CABO ACELERADOR CB 300 R \"B\" CONTROLFLEX",
-    "estoque": "0",
-    "preco": "0"
   },
   {
     "codigo": "23042",
     "fabric": "1103403",
     "marca": "K-CABOS",
-    "nome": "CABO ACELERADOR CB 300 R \"B\" K-CABOS",
+    "nome": "CABO ACELERADOR CB 300 R \"B\" 09/15 S/ABS K-CABOS",
     "estoque": "2",
     "preco": "11,94"
   },
@@ -19547,7 +19507,7 @@
     "codigo": "44402",
     "fabric": "KOI0013",
     "marca": "MOTOKOI",
-    "nome": "CABO ACELERADOR CB 300 R \"B\" S/ABS MOTOKOI",
+    "nome": "CABO ACELERADOR CB 300 R \"B\" 09/15 S/ABS MOTOKOI",
     "estoque": "193",
     "preco": "9,14"
   },
@@ -19555,7 +19515,7 @@
     "codigo": "13395",
     "fabric": "30361",
     "marca": "SCHERER/SORETTO",
-    "nome": "CABO ACELERADOR CB 300 R \"B\" SORETTO",
+    "nome": "CABO ACELERADOR CB 300 R \"B\" 09/15 S/ABS SORETTO",
     "estoque": "4",
     "preco": "55,79"
   },
@@ -19563,7 +19523,7 @@
     "codigo": "8900",
     "fabric": "332",
     "marca": "SCHERER/SORETTO",
-    "nome": "CABO ACELERADOR CB 300 R \"B\" SORETTO MAXXI",
+    "nome": "CABO ACELERADOR CB 300 R \"B\" 09/15 S/ABS SORETTO MAXXI",
     "estoque": "3",
     "preco": "70,2"
   },
@@ -19571,25 +19531,9 @@
     "codigo": "28174",
     "fabric": "TM5014",
     "marca": "TMAC",
-    "nome": "CABO ACELERADOR CB 300 R \"B\" TMAC",
+    "nome": "CABO ACELERADOR CB 300 R \"B\" 09/15 S/ABS TMAC",
     "estoque": "1",
     "preco": "10,59"
-  },
-  {
-    "codigo": "34340",
-    "fabric": "",
-    "marca": "TMAC",
-    "nome": "CABO ACELERADOR CB 300 R \"B\" TMAC",
-    "estoque": "0",
-    "preco": "6,12"
-  },
-  {
-    "codigo": "12245",
-    "fabric": "18957",
-    "marca": "TRILHA",
-    "nome": "CABO ACELERADOR CB 300 R \"B\" TRILHA",
-    "estoque": "1",
-    "preco": "13,4"
   },
   {
     "codigo": "20539",
@@ -28628,7 +28572,7 @@
     "fabric": "26051",
     "marca": "R1",
     "nome": "CABO VELOCIMETRO BIZ 125 05/08 / BIZ 100 12/15 R1",
-    "estoque": "338",
+    "estoque": "337",
     "preco": "12,08"
   },
   {
@@ -31764,7 +31708,7 @@
     "fabric": "KOI0168",
     "marca": "MOTOKOI",
     "nome": "CAMARA DE AR DIANT/TRAS CG MOTOKOI 18",
-    "estoque": "12305",
+    "estoque": "12304",
     "preco": "15,74"
   },
   {
@@ -32556,7 +32500,7 @@
     "fabric": "KOI0188",
     "marca": "MOTOKOI BR",
     "nome": "CAPA BANCO BIZ 125 05/08 MOTOKOI",
-    "estoque": "119",
+    "estoque": "118",
     "preco": "24,14"
   },
   {
@@ -32652,7 +32596,7 @@
     "fabric": "KOI0187",
     "marca": "MOTOKOI BR",
     "nome": "CAPA BANCO BIZ 125 18/19 MOTOKOI",
-    "estoque": "8",
+    "estoque": "7",
     "preco": "24,14"
   },
   {
@@ -35508,7 +35452,7 @@
     "fabric": "KOI0319",
     "marca": "MOTOKOI",
     "nome": "CAPA IMPERMEAVEL BANCO P/ MOTO GG MOTOKOI",
-    "estoque": "110",
+    "estoque": "109",
     "preco": "15,74"
   },
   {
@@ -39300,7 +39244,7 @@
     "fabric": "1189058F04",
     "marca": "EBF",
     "nome": "CAPACETE EBF NEW SPARK FLASH PRETO FOSCO/PRATA 58",
-    "estoque": "7",
+    "estoque": "6",
     "preco": "219,45"
   },
   {
@@ -40756,7 +40700,7 @@
     "fabric": "1264058P07",
     "marca": "EBF",
     "nome": "CAPACETE EBF SPARK JET BORBOLETA PRETO/ROSA 58",
-    "estoque": "3",
+    "estoque": "2",
     "preco": "124,95"
   },
   {
@@ -41076,7 +41020,7 @@
     "fabric": "1250056PFO",
     "marca": "EBF",
     "nome": "CAPACETE EBF SPARK JET SOLID PRETO FOSCO 56",
-    "estoque": "28",
+    "estoque": "27",
     "preco": "114,45"
   },
   {
@@ -46212,7 +46156,7 @@
     "fabric": "CAP-35PT",
     "marca": "TORK",
     "nome": "CAPACETE TORK LIBERTY FOUR PRETO 58",
-    "estoque": "837",
+    "estoque": "836",
     "preco": "83,99"
   },
   {
@@ -58740,7 +58684,7 @@
     "fabric": "",
     "marca": "TOTAL PRINT",
     "nome": "CHAVEIRO UNIVERSAL AVULSO",
-    "estoque": "1208",
+    "estoque": "1207",
     "preco": "4,19"
   },
   {
@@ -63324,7 +63268,7 @@
     "fabric": "TM1470",
     "marca": "TMAC",
     "nome": "CONDUTOR AR TITAN 150 04/08 TMAC",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "16,28"
   },
   {
@@ -66796,7 +66740,7 @@
     "fabric": "14026K",
     "marca": "MOTOKOI BR",
     "nome": "COXIM PISCA TITAN 150 / 2000 C/ PARAFUSO E PORCA MOTOKOI",
-    "estoque": "302",
+    "estoque": "301",
     "preco": "5,4"
   },
   {
@@ -67652,7 +67596,7 @@
     "fabric": "KOI00300",
     "marca": "MOTOKOI BR",
     "nome": "CUBO RODA TITAN 150 TRASEIRA MOTOKOI BR",
-    "estoque": "84",
+    "estoque": "83",
     "preco": "118,14"
   },
   {
@@ -78924,7 +78868,7 @@
     "fabric": "8K4809",
     "marca": "MELC",
     "nome": "FAROL COMPLETO TITAN 150 14 C/CARENAGEM PRETO INJETADO MELC (8K4809)",
-    "estoque": "7",
+    "estoque": "6",
     "preco": "131,24"
   },
   {
@@ -78988,7 +78932,7 @@
     "fabric": "13014",
     "marca": "PLASMOTO",
     "nome": "FAROL COMPLETO TITAN 150/FAN 150 ATE 13 PLASMOTO",
-    "estoque": "6",
+    "estoque": "5",
     "preco": "48,2"
   },
   {
@@ -82332,7 +82276,7 @@
     "fabric": "90250271",
     "marca": "MAGNETRON",
     "nome": "FUSIVEL 10A LAMINA MINI MAGNETRON",
-    "estoque": "56",
+    "estoque": "54",
     "preco": "1,85"
   },
   {
@@ -84068,7 +84012,7 @@
     "fabric": "VE99008001050",
     "marca": "VEDAMOTORS",
     "nome": "GUARNICAO CUBA CARBURADOR CG/ML/TUR/XL125/CBX/NX150 VEDAMOTORS",
-    "estoque": "811",
+    "estoque": "810",
     "preco": "2,09"
   },
   {
@@ -85332,7 +85276,7 @@
     "fabric": "TC4029",
     "marca": "TMAC",
     "nome": "GUIA DESLIZADOR CORRENTE TRANSMISSAO NX 200/ XLR 125 TMAC",
-    "estoque": "3",
+    "estoque": "2",
     "preco": "18,51"
   },
   {
@@ -87292,7 +87236,7 @@
     "fabric": "TC2111",
     "marca": "TMAC",
     "nome": "INTERRUPTOR NEUTRO CG/ML/TUR. TMAC",
-    "estoque": "72",
+    "estoque": "71",
     "preco": "4,19"
   },
   {
@@ -93332,7 +93276,7 @@
     "fabric": "TC029",
     "marca": "TMAC",
     "nome": "JOGO RAIO DIANT TITAN 99 TMAC 4MM",
-    "estoque": "22",
+    "estoque": "17",
     "preco": "32,43"
   },
   {
@@ -93548,7 +93492,7 @@
     "fabric": "KOI0119",
     "marca": "MOTOKOI",
     "nome": "JOGO RAIO DIANT/TRAS TITAN/FAN KS 2000/150 MOTOKOI 4MM",
-    "estoque": "8792",
+    "estoque": "8790",
     "preco": "19,94"
   },
   {
@@ -97996,7 +97940,7 @@
     "fabric": "H03800XS",
     "marca": "VAZ",
     "nome": "KIT TRANSMISSAO BIZ 125 VAZ (34/14/428HX106L)",
-    "estoque": "2549",
+    "estoque": "2548",
     "preco": "62,99"
   },
   {
@@ -99948,7 +99892,7 @@
     "fabric": "VE05084000001",
     "marca": "VEDAMOTORS",
     "nome": "KIT VEDACAO TAMPA VALVULA TITAN 150 VEDAMOTORS - GUARNICAO + 2 RETENTORES",
-    "estoque": "141",
+    "estoque": "140",
     "preco": "10,49"
   },
   {
@@ -100348,7 +100292,7 @@
     "fabric": "LF-01 SB",
     "marca": "STALLION",
     "nome": "LAMPADA LED FAROL TITAN H4 LED STALLION",
-    "estoque": "2791",
+    "estoque": "2790",
     "preco": "18,38"
   },
   {
@@ -100708,7 +100652,7 @@
     "fabric": "TL006-1",
     "marca": "TMAC",
     "nome": "LAMPADA PISCA TITAN 00 KS / ES  SUPER PINGAO  W16 TMAC (LARANJA)",
-    "estoque": "2869",
+    "estoque": "2865",
     "preco": "1,09"
   },
   {
@@ -103428,7 +103372,7 @@
     "fabric": "4407",
     "marca": "IPIRANGA",
     "nome": "LUBRIFICANTES MOTO 4T IPIRANGA 20W50 SL",
-    "estoque": "1045",
+    "estoque": "1044",
     "preco": "22,04"
   },
   {
@@ -103460,7 +103404,7 @@
     "fabric": "123075",
     "marca": "MOBIL",
     "nome": "LUBRIFICANTES MOTO 4T MOBIL 10W30 SEMI-SINTETICO",
-    "estoque": "5042",
+    "estoque": "5041",
     "preco": "31,49"
   },
   {
@@ -103532,7 +103476,7 @@
     "fabric": "",
     "marca": "MOTUL",
     "nome": "LUBRIFICANTES MOTO 4T MOTUL 5000+ 20W50",
-    "estoque": "187",
+    "estoque": "184",
     "preco": "43,58"
   },
   {
@@ -103612,7 +103556,7 @@
     "fabric": "2010000001042",
     "marca": "OXFORD",
     "nome": "LUBRIFICANTES MOTO 4T OXFORD 20W50",
-    "estoque": "7620",
+    "estoque": "7619",
     "preco": "13,64"
   },
   {
@@ -108628,7 +108572,7 @@
     "fabric": "44200K",
     "marca": "MOTOKOI BR",
     "nome": "MANOPLA BIZ 100 MOTOKOI C/ROLDANA",
-    "estoque": "37",
+    "estoque": "27",
     "preco": "8,39"
   },
   {
@@ -109532,7 +109476,7 @@
     "fabric": "44201K",
     "marca": "MOTOKOI BR",
     "nome": "MANOPLA TITAN 2000 C. ROLDANA MOTOKOI",
-    "estoque": "187",
+    "estoque": "177",
     "preco": "7,88"
   },
   {
@@ -111588,7 +111532,7 @@
     "fabric": "MNP0207",
     "marca": "PIRACAPAS",
     "nome": "MOCHILA PIZZA PIRACAPAS 45 LTS NYLON PRETA",
-    "estoque": "9",
+    "estoque": "8",
     "preco": "136,5"
   },
   {
@@ -115668,7 +115612,7 @@
     "fabric": "TP005",
     "marca": "TMAC",
     "nome": "PAINEL TITAN 150 ESD 04/08 C/ODOMETRO TMAC",
-    "estoque": "10",
+    "estoque": "9",
     "preco": "117,41"
   },
   {
@@ -117012,7 +116956,7 @@
     "fabric": "TM7223",
     "marca": "TMAC",
     "nome": "PARAFUSO ESTRIBO 8X20 TMAC (SEXTAVADO/FLANGE/CHAVE 12)",
-    "estoque": "22727",
+    "estoque": "22707",
     "preco": "1,04"
   },
   {
@@ -117028,7 +116972,7 @@
     "fabric": "21284K",
     "marca": "MOTOKOI BR",
     "nome": "PARAFUSO FIX PARALAMA MOTOKOI FL 6/28 TITAN 150",
-    "estoque": "232",
+    "estoque": "230",
     "preco": "0,71"
   },
   {
@@ -120772,7 +120716,7 @@
     "fabric": "302705",
     "marca": "MELC",
     "nome": "PARALAMA DIANT TITAN 150 05/06  AZUL MELC (302705)",
-    "estoque": "8",
+    "estoque": "7",
     "preco": "37,28"
   },
   {
@@ -122548,7 +122492,7 @@
     "fabric": "174701",
     "marca": "MELC",
     "nome": "PARALAMA TRASEIRO TITAN 150/FAN ESD 14/18 /CARGO/START 16/20 (A) PRETO MELC (174701)",
-    "estoque": "41",
+    "estoque": "40",
     "preco": "32,41"
   },
   {
@@ -124020,7 +123964,7 @@
     "fabric": "N906",
     "marca": "COBREQ",
     "nome": "PASTILHA FREIO TITAN ES/ML/STRADA/CBX150 DIANTEIRO COBREQ N-906",
-    "estoque": "25",
+    "estoque": "24",
     "preco": "15,13"
   },
   {
@@ -125188,7 +125132,7 @@
     "fabric": "KOI-00100 STD",
     "marca": "MOTOKOI BR",
     "nome": "PATIM FREIO TITAN 00/TITAN 150 0,00 DIANT/TRAS MOTOKOI BR",
-    "estoque": "445",
+    "estoque": "439",
     "preco": "14,69"
   },
   {
@@ -130892,7 +130836,7 @@
     "fabric": "8023",
     "marca": "GVS",
     "nome": "PISCA TITAN 150 14/FAN 150 14 DD/TE CRISTAL GVS C/SOQUETE TITAN 00",
-    "estoque": "9",
+    "estoque": "7",
     "preco": "21,84"
   },
   {
@@ -130964,7 +130908,7 @@
     "fabric": "8024",
     "marca": "GVS",
     "nome": "PISCA TITAN 150 14/FAN 150 14 DE/TD CRISTAL GVS C/SOQUETE TITAN 00",
-    "estoque": "8",
+    "estoque": "6",
     "preco": "21,84"
   },
   {
@@ -136700,7 +136644,7 @@
     "fabric": "6103",
     "marca": "TECHNIC",
     "nome": "PNEU DIANT 2.75-18 TECHNIC SPORT R TT 42P",
-    "estoque": "973",
+    "estoque": "970",
     "preco": "115,49"
   },
   {
@@ -137844,7 +137788,7 @@
     "fabric": "",
     "marca": "LEVORIN",
     "nome": "PNEU TRAS 90/90-18 LEVORIN DAKKAR II TL 57P (SEM CAMARA)",
-    "estoque": "225",
+    "estoque": "224",
     "preco": "236,25"
   },
   {
@@ -137924,7 +137868,7 @@
     "fabric": "6113",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 90/90-18 TECHNIC SPORT R TT 57P",
-    "estoque": "469",
+    "estoque": "466",
     "preco": "130,2"
   },
   {
@@ -139260,7 +139204,7 @@
     "fabric": "23283K",
     "marca": "MOTOKOI BR",
     "nome": "PRESILHA FIXACAO RABETA TITAN/FAN 150 160 14/20 POP 110I 15/21 MOTOKOI",
-    "estoque": "445",
+    "estoque": "441",
     "preco": "1,33"
   },
   {
@@ -139708,7 +139652,7 @@
     "fabric": "16069",
     "marca": "MOTOBOR",
     "nome": "PROTETOR CAMARA AR ARO 17 MOTOBOR",
-    "estoque": "159",
+    "estoque": "139",
     "preco": "2,15"
   },
   {
@@ -143396,7 +143340,7 @@
     "fabric": "334800",
     "marca": "MELC",
     "nome": "RABETA FAN 150 14/15 ESDI PRETO MELC (334800)",
-    "estoque": "12",
+    "estoque": "11",
     "preco": "69,29"
   },
   {
@@ -145236,7 +145180,7 @@
     "fabric": "TC912",
     "marca": "TMAC",
     "nome": "REFIL BOMBA COMBUSTIVEL CB 300 2012 TMAC C/FILTRO",
-    "estoque": "10",
+    "estoque": "9",
     "preco": "107,68"
   },
   {
@@ -146996,7 +146940,7 @@
     "fabric": "TM170",
     "marca": "TMAC",
     "nome": "RELE PISCA TITAN 150 ATE 08 /FAN 125 04-09/TWISTER 06-08/BROS 150 06-08 TMAC",
-    "estoque": "75",
+    "estoque": "74",
     "preco": "12,01"
   },
   {
@@ -149228,7 +149172,7 @@
     "fabric": "TM089",
     "marca": "TMAC",
     "nome": "RETENTOR CAMBIO YES/INTRUDER/KATANA TMAC",
-    "estoque": "19",
+    "estoque": "18",
     "preco": "1,65"
   },
   {
@@ -149636,7 +149580,7 @@
     "fabric": "1104691",
     "marca": "MOTOPORT",
     "nome": "RETENTOR HASTE VALVULA TWISTER/TITAN 150/TITAN 2002/BIZ MOTOPORT (PAR)",
-    "estoque": "646",
+    "estoque": "643",
     "preco": "3,15"
   },
   {
@@ -150972,7 +150916,7 @@
     "fabric": "TR301",
     "marca": "TMAC",
     "nome": "RETROVISOR BMW TMAC (PAR HONDA) GIRO 360",
-    "estoque": "5",
+    "estoque": "4",
     "preco": "47,25"
   },
   {
@@ -151820,7 +151764,7 @@
     "fabric": "4771",
     "marca": "GVS",
     "nome": "RETROVISOR MINI TITAN 150 FAN 2014 PAR GVS",
-    "estoque": "2",
+    "estoque": "3",
     "preco": "19,95"
   },
   {
@@ -152252,7 +152196,7 @@
     "fabric": "KOI0242",
     "marca": "MOTOKOI BR",
     "nome": "RETROVISOR TITAN 150 NOVA PAR MOTOKOI BR",
-    "estoque": "736",
+    "estoque": "735",
     "preco": "22,04"
   },
   {
@@ -152268,7 +152212,7 @@
     "fabric": "KOI0241",
     "marca": "MOTOKOI BR",
     "nome": "RETROVISOR TITAN 150 PAR MOTOKOI BR",
-    "estoque": "1824",
+    "estoque": "1822",
     "preco": "19,94"
   },
   {
@@ -152860,7 +152804,7 @@
     "fabric": "562030",
     "marca": "NACHI",
     "nome": "ROLAMENTO 6203 RODA TRAS NX/XR/ XLR/ DREAN C/ 1 BLIND NACHI",
-    "estoque": "76",
+    "estoque": "74",
     "preco": "25,94"
   },
   {
@@ -153468,7 +153412,7 @@
     "fabric": "192400",
     "marca": "MELC",
     "nome": "ROLDANA ACELERADOR BIZ 125 05/17/BIZ 100 12/15/BIZ 110I 16/17 MELC",
-    "estoque": "148",
+    "estoque": "138",
     "preco": "2,44"
   },
   {
@@ -153916,7 +153860,7 @@
     "fabric": "C6132",
     "marca": "CORAMI",
     "nome": "ROTOR BOMBA OLEO COMPLETO TITAN 150/BROS 06/12 CORAMI",
-    "estoque": "37",
+    "estoque": "35",
     "preco": "24,58"
   },
   {
@@ -157076,7 +157020,7 @@
     "fabric": "4153",
     "marca": "PROJETIL",
     "nome": "SUPORTE PLACA UNIVERSAL PLACA NOVA (GRANDE) PROJETIL MOLDURA PRATA PINTADA",
-    "estoque": "33",
+    "estoque": "32",
     "preco": "13,64"
   },
   {
@@ -163556,7 +163500,7 @@
     "fabric": "1010331",
     "marca": "WGK",
     "nome": "VARETA DE VALVULA CG/TITAN 125  WGK",
-    "estoque": "9",
+    "estoque": "7",
     "preco": "7,58"
   },
   {
@@ -163964,7 +163908,7 @@
     "fabric": "CPR8EA9",
     "marca": "NGK",
     "nome": "VELA TITAN 150/FAN 150 CPR8EA-9 NGK",
-    "estoque": "555",
+    "estoque": "554",
     "preco": "29,93"
   },
   {
@@ -167700,7 +167644,7 @@
     "fabric": "1644C",
     "marca": "POLIVISOR",
     "nome": "VISEIRA TORK LIBERTY FOUR 2,20 MM POLIVISOR",
-    "estoque": "61",
+    "estoque": "60",
     "preco": "28,02"
   },
   {
