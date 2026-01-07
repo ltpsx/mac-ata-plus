@@ -8212,7 +8212,7 @@
     "fabric": "MTX6L-BS",
     "marca": "MOTOKOI BR",
     "nome": "BATERIA BIZ / FAN 125 ES 09/TITAN150 MIX 09 ED MTX6L-BS MOTOKOI",
-    "estoque": "468",
+    "estoque": "466",
     "preco": "109,69"
   },
   {
@@ -18148,7 +18148,7 @@
     "fabric": "TM1431",
     "marca": "TMAC",
     "nome": "BUJAO OLEO CG/TOD/TIT/CBX 200 TMAC C/ANEL + MOLA + PENEIRA",
-    "estoque": "56",
+    "estoque": "55",
     "preco": "6,29"
   },
   {
@@ -18931,17 +18931,9 @@
     "codigo": "49478",
     "fabric": "TM5092",
     "marca": "TMAC",
-    "nome": "CABO ACELERADOR BIZ 125/125I TMAC",
+    "nome": "CABO ACELERADOR BIZ 125 11/12 TMAC",
     "estoque": "18",
     "preco": "8,7"
-  },
-  {
-    "codigo": "14689",
-    "fabric": "347",
-    "marca": "SCHERER/SORETTO",
-    "nome": "CABO ACELERADOR BROS 125 13 SORETTO MAXXI",
-    "estoque": "4",
-    "preco": "56,26"
   },
   {
     "codigo": "44417",
@@ -18966,6 +18958,14 @@
     "nome": "CABO ACELERADOR BROS 125 13/14 SORETTO",
     "estoque": "2",
     "preco": "50,42"
+  },
+  {
+    "codigo": "14689",
+    "fabric": "347",
+    "marca": "SCHERER/SORETTO",
+    "nome": "CABO ACELERADOR BROS 125 13/14 SORETTO MAXXI",
+    "estoque": "4",
+    "preco": "56,26"
   },
   {
     "codigo": "28139",
@@ -19019,7 +19019,7 @@
     "codigo": "25934",
     "fabric": "90.20830149",
     "marca": "CONTROLFLEX",
-    "nome": "CABO ACELERADOR BROS 150 02/08 CONTROLFLEX +",
+    "nome": "CABO ACELERADOR BROS 150 03/08 CONTROLFLEX +",
     "estoque": "16",
     "preco": "9,44"
   },
@@ -19027,7 +19027,7 @@
     "codigo": "27398",
     "fabric": "078395",
     "marca": "IRON MAX",
-    "nome": "CABO ACELERADOR BROS 150 02/08 IRON MAX",
+    "nome": "CABO ACELERADOR BROS 150 03/08 IRON MAX",
     "estoque": "1",
     "preco": "7,77"
   },
@@ -19035,33 +19035,9 @@
     "codigo": "23050",
     "fabric": "1100680",
     "marca": "K-CABOS",
-    "nome": "CABO ACELERADOR BROS 150 02/08 K-CABOS",
+    "nome": "CABO ACELERADOR BROS 150 03/08 K-CABOS",
     "estoque": "1",
     "preco": "7,44"
-  },
-  {
-    "codigo": "44398",
-    "fabric": "KOI0010",
-    "marca": "MOTOKOI",
-    "nome": "CABO ACELERADOR BROS 150 02/08 MOTOKOI",
-    "estoque": "24",
-    "preco": "6,77"
-  },
-  {
-    "codigo": "8897",
-    "fabric": "000321-00-1",
-    "marca": "SCHERER/SORETTO",
-    "nome": "CABO ACELERADOR BROS 150 02/08 SORETTO MAXXI",
-    "estoque": "3",
-    "preco": "46,12"
-  },
-  {
-    "codigo": "28186",
-    "fabric": "TM5011",
-    "marca": "TMAC",
-    "nome": "CABO ACELERADOR BROS 150 02/08 TMAC",
-    "estoque": "62",
-    "preco": "8,22"
   },
   {
     "codigo": "0200000522995",
@@ -19072,12 +19048,36 @@
     "preco": "0"
   },
   {
+    "codigo": "44398",
+    "fabric": "KOI0010",
+    "marca": "MOTOKOI",
+    "nome": "CABO ACELERADOR BROS 150 03/08 MOTOKOI",
+    "estoque": "24",
+    "preco": "6,77"
+  },
+  {
     "codigo": "0200000522339",
     "fabric": "17910KRE9000A",
     "marca": "MOTOKOI PRO",
     "nome": "CABO ACELERADOR BROS 150 03/08 MOTOKOI PRO",
     "estoque": "0",
     "preco": "0"
+  },
+  {
+    "codigo": "8897",
+    "fabric": "000321-00-1",
+    "marca": "SCHERER/SORETTO",
+    "nome": "CABO ACELERADOR BROS 150 03/08 SORETTO MAXXI",
+    "estoque": "3",
+    "preco": "46,12"
+  },
+  {
+    "codigo": "28186",
+    "fabric": "TM5011",
+    "marca": "TMAC",
+    "nome": "CABO ACELERADOR BROS 150 03/08 TMAC",
+    "estoque": "62",
+    "preco": "8,22"
   },
   {
     "codigo": "23926",
@@ -19088,12 +19088,28 @@
     "preco": "11,81"
   },
   {
+    "codigo": "0200000523008",
+    "fabric": "17910KREB000B",
+    "marca": "MOTOKOI",
+    "nome": "CABO ACELERADOR BROS 150 09/12 MOTOKOI",
+    "estoque": "0",
+    "preco": "0"
+  },
+  {
     "codigo": "44399",
     "fabric": "KOI0011",
     "marca": "MOTOKOI",
     "nome": "CABO ACELERADOR BROS 150 09/12 MOTOKOI",
     "estoque": "35",
     "preco": "7,31"
+  },
+  {
+    "codigo": "0200000522353",
+    "fabric": "17910KREB000A",
+    "marca": "MOTOKOI PRO",
+    "nome": "CABO ACELERADOR BROS 150 09/12 MOTOKOI PRO",
+    "estoque": "0",
+    "preco": "0"
   },
   {
     "codigo": "20726",
@@ -19112,26 +19128,10 @@
     "preco": "9"
   },
   {
-    "codigo": "0200000523008",
-    "fabric": "17910KREB000B",
-    "marca": "MOTOKOI",
-    "nome": "CABO ACELERADOR BROS 150 09/13 MOTOKOI",
-    "estoque": "0",
-    "preco": "0"
-  },
-  {
-    "codigo": "0200000522353",
-    "fabric": "17910KREB000A",
-    "marca": "MOTOKOI PRO",
-    "nome": "CABO ACELERADOR BROS 150 09/13 MOTOKOI PRO",
-    "estoque": "0",
-    "preco": "0"
-  },
-  {
     "codigo": "44414",
     "fabric": "KOI0025",
     "marca": "MOTOKOI",
-    "nome": "CABO ACELERADOR BROS 150 13 MOTOKOI",
+    "nome": "CABO ACELERADOR BROS 150 13/14 MOTOKOI",
     "estoque": "219",
     "preco": "7,5"
   },
@@ -19139,9 +19139,25 @@
     "codigo": "28153",
     "fabric": "TM5028",
     "marca": "TMAC",
-    "nome": "CABO ACELERADOR BROS 150 13 TMAC",
+    "nome": "CABO ACELERADOR BROS 150 13/14 TMAC",
     "estoque": "54",
     "preco": "9,02"
+  },
+  {
+    "codigo": "25987",
+    "fabric": "9020190405",
+    "marca": "CONTROLFLEX",
+    "nome": "CABO ACELERADOR BROS 160 15/22 EDD/ESD/ES \"A\" CONTROLFLEX",
+    "estoque": "0",
+    "preco": "15,76"
+  },
+  {
+    "codigo": "25294",
+    "fabric": "90.20830278",
+    "marca": "CONTROLFLEX",
+    "nome": "CABO ACELERADOR BROS 160 15/22 EDD/ESD/ES \"A\" CONTROLFLEX +",
+    "estoque": "0",
+    "preco": "12,72"
   },
   {
     "codigo": "0200000523015",
@@ -19152,36 +19168,20 @@
     "preco": "0"
   },
   {
+    "codigo": "44415",
+    "fabric": "KOI0026",
+    "marca": "MOTOKOI",
+    "nome": "CABO ACELERADOR BROS 160 15/22 EDD/ESD/ES \"A\" MOTOKOI",
+    "estoque": "156",
+    "preco": "8,06"
+  },
+  {
     "codigo": "0200000522360",
     "fabric": "17910KREG010A",
     "marca": "MOTOKOI PRO",
     "nome": "CABO ACELERADOR BROS 160 15/22 EDD/ESD/ES \"A\" MOTOKOI PRO",
     "estoque": "0",
     "preco": "0"
-  },
-  {
-    "codigo": "25987",
-    "fabric": "9020190405",
-    "marca": "CONTROLFLEX",
-    "nome": "CABO ACELERADOR BROS 160 EDD/ESD/ES \"A\" CONTROLFLEX",
-    "estoque": "0",
-    "preco": "15,76"
-  },
-  {
-    "codigo": "25294",
-    "fabric": "90.20830278",
-    "marca": "CONTROLFLEX",
-    "nome": "CABO ACELERADOR BROS 160 EDD/ESD/ES \"A\" CONTROLFLEX +",
-    "estoque": "0",
-    "preco": "12,72"
-  },
-  {
-    "codigo": "44415",
-    "fabric": "KOI0026",
-    "marca": "MOTOKOI",
-    "nome": "CABO ACELERADOR BROS 160 EDD/ESD/ES \"A\" MOTOKOI",
-    "estoque": "156",
-    "preco": "8,06"
   },
   {
     "codigo": "20745",
@@ -29780,7 +29780,7 @@
     "fabric": "TM7014",
     "marca": "TMAC",
     "nome": "CABO VELOCIMETRO TWISTER TMAC",
-    "estoque": "117",
+    "estoque": "116",
     "preco": "10,59"
   },
   {
@@ -30980,7 +30980,7 @@
     "fabric": "05007",
     "marca": "DANIDREA",
     "nome": "CAIXA DIRECAO COLAR TITAN 00/TITAN 150/TITAN 160 DANIDREA",
-    "estoque": "65",
+    "estoque": "64",
     "preco": "34,13"
   },
   {
@@ -31612,7 +31612,7 @@
     "fabric": "KOI0167",
     "marca": "MOTOKOI",
     "nome": "CAMARA DE AR DIANT BIZ MOTOKOI (250-17)",
-    "estoque": "1924",
+    "estoque": "1923",
     "preco": "15,23"
   },
   {
@@ -31884,7 +31884,7 @@
     "fabric": "KOI0169",
     "marca": "MOTOKOI",
     "nome": "CAMARA DE AR TRAS BIZ MOTOKOI R14",
-    "estoque": "2453",
+    "estoque": "2452",
     "preco": "15,23"
   },
   {
@@ -34260,7 +34260,7 @@
     "fabric": "KOI0227",
     "marca": "MOTOKOI BR",
     "nome": "CAPA BANCO TITAN 150 09/13/FAN 150 09/13/FAN 125 09/13 MOTOKOI BR",
-    "estoque": "86",
+    "estoque": "85",
     "preco": "18,38"
   },
   {
@@ -37164,7 +37164,7 @@
     "fabric": "1217056PTO",
     "marca": "EBF",
     "nome": "CAPACETE EBF 7 NEW PRETO 56",
-    "estoque": "54",
+    "estoque": "53",
     "preco": "104,98"
   },
   {
@@ -37500,7 +37500,7 @@
     "fabric": "1259060PFO",
     "marca": "EBF",
     "nome": "CAPACETE EBF AUTOMATICO SOLID PRETO FOSCO 60",
-    "estoque": "2",
+    "estoque": "1",
     "preco": "124,95"
   },
   {
@@ -37572,7 +37572,7 @@
     "fabric": "1281060P04",
     "marca": "EBF",
     "nome": "CAPACETE EBF AUTOMATICO STYLE PRETO/PRATA 60",
-    "estoque": "19",
+    "estoque": "18",
     "preco": "124,95"
   },
   {
@@ -39316,7 +39316,7 @@
     "fabric": "1189061F04",
     "marca": "EBF",
     "nome": "CAPACETE EBF NEW SPARK FLASH PRETO FOSCO/PRATA 61/62",
-    "estoque": "2",
+    "estoque": "1",
     "preco": "219,45"
   },
   {
@@ -41740,7 +41740,7 @@
     "fabric": "1295058P18",
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 CRUSH PRETO/ROXO 58",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "313,95"
   },
   {
@@ -46188,7 +46188,7 @@
     "fabric": "CAP-149RS",
     "marca": "TORK",
     "nome": "CAPACETE TORK LIBERTY FOUR KIDS ROSA 54",
-    "estoque": "69",
+    "estoque": "68",
     "preco": "89,24"
   },
   {
@@ -46212,7 +46212,7 @@
     "fabric": "CAP-35PT",
     "marca": "TORK",
     "nome": "CAPACETE TORK LIBERTY FOUR PRETO 58",
-    "estoque": "838",
+    "estoque": "837",
     "preco": "83,99"
   },
   {
@@ -46220,7 +46220,7 @@
     "fabric": "CAP-36PT",
     "marca": "TORK",
     "nome": "CAPACETE TORK LIBERTY FOUR PRETO 60",
-    "estoque": "343",
+    "estoque": "342",
     "preco": "83,99"
   },
   {
@@ -55380,7 +55380,7 @@
     "fabric": "SR-15C",
     "marca": "STALLION",
     "nome": "CARREGADOR CELULAR C. SUPORTE STALLION C/CARREGADOR ALUMINIO FIXO RETROVISOR",
-    "estoque": "277",
+    "estoque": "276",
     "preco": "32,4"
   },
   {
@@ -58132,7 +58132,7 @@
     "fabric": "90260030",
     "marca": "MAGNETRON",
     "nome": "CHAVE CONTATO TITAN 02/04 MAGNETRON",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "23,63"
   },
   {
@@ -61676,7 +61676,7 @@
     "fabric": "1307000039",
     "marca": "PROTERCAPAS",
     "nome": "COLETE INFANTIL PROTERCAPAS PRETO",
-    "estoque": "31",
+    "estoque": "30",
     "preco": "29,39"
   },
   {
@@ -66948,7 +66948,7 @@
     "fabric": "12132K",
     "marca": "MOTOKOI BR",
     "nome": "COXIM TAMPA VALVULA TITAN/FAN 125/150 2004/11 MOTOKOI",
-    "estoque": "269",
+    "estoque": "267",
     "preco": "1,22"
   },
   {
@@ -84524,7 +84524,7 @@
     "fabric": "15193K",
     "marca": "MOTOKOI BR",
     "nome": "GUARNICAO TAMPA VALVULA TITAN 150/FAN 125 09 MOTOKOI C/COXIM",
-    "estoque": "263",
+    "estoque": "262",
     "preco": "4,65"
   },
   {
@@ -86636,7 +86636,7 @@
     "fabric": "GU-97HCLT",
     "marca": "TORK",
     "nome": "GUIDAO TITAN 150 04/08 CROMADO TORK LIGHT",
-    "estoque": "0",
+    "estoque": "200",
     "preco": "20,99"
   },
   {
@@ -97996,7 +97996,7 @@
     "fabric": "H03800XS",
     "marca": "VAZ",
     "nome": "KIT TRANSMISSAO BIZ 125 VAZ (34/14/428HX106L)",
-    "estoque": "2550",
+    "estoque": "2549",
     "preco": "62,99"
   },
   {
@@ -101612,8 +101612,8 @@
     "fabric": "LT-12H",
     "marca": "TORK",
     "nome": "LANTERNA TRASEIRA TWISTER VERMELHA COMPLETA TORK",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "30",
+    "preco": "89,25"
   },
   {
     "codigo": "42751",
@@ -102476,7 +102476,7 @@
     "fabric": "07085",
     "marca": "PLASMOTO",
     "nome": "LENTE PAINEL BIZ 125 13 PLASMOTO",
-    "estoque": "24",
+    "estoque": "23",
     "preco": "28,69"
   },
   {
@@ -103436,7 +103436,7 @@
     "fabric": "",
     "marca": "LUBRAX",
     "nome": "LUBRIFICANTES MOTO 4T LUBRAX 10W30 SL PROFISSIONAL",
-    "estoque": "221",
+    "estoque": "219",
     "preco": "27,83"
   },
   {
@@ -103444,7 +103444,7 @@
     "fabric": "",
     "marca": "LUBRAX",
     "nome": "LUBRIFICANTES MOTO 4T LUBRAX 20W50 SL",
-    "estoque": "404",
+    "estoque": "400",
     "preco": "22,04"
   },
   {
@@ -103460,7 +103460,7 @@
     "fabric": "123075",
     "marca": "MOBIL",
     "nome": "LUBRIFICANTES MOTO 4T MOBIL 10W30 SEMI-SINTETICO",
-    "estoque": "5043",
+    "estoque": "5042",
     "preco": "31,49"
   },
   {
@@ -103492,7 +103492,7 @@
     "fabric": "121708",
     "marca": "MOBIL",
     "nome": "LUBRIFICANTES MOTO 4T MOBIL 20W50",
-    "estoque": "3033",
+    "estoque": "3031",
     "preco": "25,19"
   },
   {
@@ -103500,7 +103500,7 @@
     "fabric": "110551",
     "marca": "MOTUL",
     "nome": "LUBRIFICANTES MOTO 4T MOTUL 3000+ 20W50",
-    "estoque": "1279",
+    "estoque": "1277",
     "preco": "34,64"
   },
   {
@@ -103524,7 +103524,7 @@
     "fabric": "104062",
     "marca": "MOTUL",
     "nome": "LUBRIFICANTES MOTO 4T MOTUL 5000+ 10W40",
-    "estoque": "118",
+    "estoque": "117",
     "preco": "40,94"
   },
   {
@@ -103612,7 +103612,7 @@
     "fabric": "2010000001042",
     "marca": "OXFORD",
     "nome": "LUBRIFICANTES MOTO 4T OXFORD 20W50",
-    "estoque": "7621",
+    "estoque": "7620",
     "preco": "13,64"
   },
   {
@@ -110356,7 +110356,7 @@
     "fabric": "16059K",
     "marca": "MOTOKOI BR",
     "nome": "MEDIDOR OLEO CG/TOD/TIT MOTOKOI",
-    "estoque": "44",
+    "estoque": "43",
     "preco": "2,07"
   },
   {
@@ -111588,7 +111588,7 @@
     "fabric": "MNP0207",
     "marca": "PIRACAPAS",
     "nome": "MOCHILA PIZZA PIRACAPAS 45 LTS NYLON PRETA",
-    "estoque": "10",
+    "estoque": "9",
     "preco": "136,5"
   },
   {
@@ -112444,7 +112444,7 @@
     "fabric": "25135K",
     "marca": "MOTOKOI BR",
     "nome": "MOLA DESCANCO LATERAL TITAN KS/150/BIZ MOTOKOI",
-    "estoque": "469",
+    "estoque": "468",
     "preco": "2,37"
   },
   {
@@ -124508,7 +124508,7 @@
     "fabric": "KOI-00101 A",
     "marca": "MOTOKOI BR",
     "nome": "PATIM FREIO BIZ/BROS/XL 125 0,25 TRAS MOTOKOI BR",
-    "estoque": "305",
+    "estoque": "304",
     "preco": "15,74"
   },
   {
@@ -125276,7 +125276,7 @@
     "fabric": "KOI0135",
     "marca": "MOTOKOI",
     "nome": "PATIM FREIO TITAN 00/TITAN 150 0,75 DIANT/TRAS MOTOKOI",
-    "estoque": "707",
+    "estoque": "705",
     "preco": "16,21"
   },
   {
@@ -136764,7 +136764,7 @@
     "fabric": "100663",
     "marca": "MAGGION",
     "nome": "PNEU DIANT 60/100-17 MAGGION  BIZ 100 /DREAM STREET MF7 TT",
-    "estoque": "74",
+    "estoque": "72",
     "preco": "100,79"
   },
   {
@@ -136820,7 +136820,7 @@
     "fabric": "18822",
     "marca": "LEVORIN",
     "nome": "PNEU DIANT 80/100-18 LEVORIN MATRIX",
-    "estoque": "1993",
+    "estoque": "1992",
     "preco": "220,4"
   },
   {
@@ -137788,7 +137788,7 @@
     "fabric": "16083",
     "marca": "LEVORIN",
     "nome": "PNEU TRAS 80/100-14 LEVORIN MATRIX BIZ",
-    "estoque": "57",
+    "estoque": "56",
     "preco": "219,45"
   },
   {
@@ -137796,7 +137796,7 @@
     "fabric": "100266",
     "marca": "MAGGION",
     "nome": "PNEU TRAS 80/100-14 MAGGION STREET BIZ 100 TT",
-    "estoque": "293",
+    "estoque": "292",
     "preco": "117,59"
   },
   {
@@ -137852,7 +137852,7 @@
     "fabric": "15353",
     "marca": "LEVORIN",
     "nome": "PNEU TRAS 90/90-18 LEVORIN MATRIX",
-    "estoque": "2633",
+    "estoque": "2631",
     "preco": "230,99"
   },
   {
@@ -150740,7 +150740,7 @@
     "fabric": "9337",
     "marca": "GVS",
     "nome": "RETROVISOR BIZ 125 18 GVS L/D ROSCA INVERSA 9MM",
-    "estoque": "16",
+    "estoque": "15",
     "preco": "21,84"
   },
   {
@@ -152268,7 +152268,7 @@
     "fabric": "KOI0241",
     "marca": "MOTOKOI BR",
     "nome": "RETROVISOR TITAN 150 PAR MOTOKOI BR",
-    "estoque": "1826",
+    "estoque": "1824",
     "preco": "19,94"
   },
   {
@@ -155516,8 +155516,8 @@
     "fabric": "SU-167HP",
     "marca": "TORK",
     "nome": "SUPORTE BAU REMOVIVEL TITAN 150 2014/ FAN 150 2014 TORK",
-    "estoque": "0",
-    "preco": "149,24"
+    "estoque": "12",
+    "preco": "146,76"
   },
   {
     "codigo": "12068",
@@ -155564,8 +155564,8 @@
     "fabric": "SU-71H",
     "marca": "TORK",
     "nome": "SUPORTE BAU REMOVIVEL UNIVERSAL TORK",
-    "estoque": "0",
-    "preco": "158,01"
+    "estoque": "6",
+    "preco": "183,75"
   },
   {
     "codigo": "34314",
@@ -157060,7 +157060,7 @@
     "fabric": "5526",
     "marca": "GVS",
     "nome": "SUPORTE PLACA (PLASTICO) GRANDE NOVO 200MM X 170MM TITAN GVS",
-    "estoque": "56",
+    "estoque": "55",
     "preco": "10,91"
   },
   {
