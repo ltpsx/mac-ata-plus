@@ -2848,14 +2848,6 @@
     "preco": "16,79"
   },
   {
-    "codigo": "32564",
-    "fabric": "100002",
-    "marca": "RIFFEL",
-    "nome": "AMORTECEDOR BIZ 100 RIFFEL",
-    "estoque": "0",
-    "preco": "60,36"
-  },
-  {
     "codigo": "15086",
     "fabric": "CR22535M",
     "marca": "COFAP",
@@ -2896,14 +2888,6 @@
     "preco": "152,25"
   },
   {
-    "codigo": "32566",
-    "fabric": "100005",
-    "marca": "RIFFEL",
-    "nome": "AMORTECEDOR BIZ 125 RIFFEL",
-    "estoque": "0",
-    "preco": "58,03"
-  },
-  {
     "codigo": "0200000523718",
     "fabric": "52400-KRH-901",
     "marca": "MOTOKOI PRO",
@@ -2934,14 +2918,6 @@
     "nome": "AMORTECEDOR BROS 125/150 ATE 2005 MONOCHOQUE COFAP",
     "estoque": "3",
     "preco": "577,5"
-  },
-  {
-    "codigo": "46227",
-    "fabric": "10010017",
-    "marca": "SCUD",
-    "nome": "AMORTECEDOR BROS 125/150/BROS 160/XRE 190 SCUD",
-    "estoque": "0",
-    "preco": "329,86"
   },
   {
     "codigo": "0200000523725",
@@ -3128,14 +3104,6 @@
     "preco": "0"
   },
   {
-    "codigo": "26253",
-    "fabric": "10261",
-    "marca": "SOLIDEZ",
-    "nome": "AMORTECEDOR FALCON SOLIDEZ",
-    "estoque": "0",
-    "preco": "313,95"
-  },
-  {
     "codigo": "26066",
     "fabric": "TM934",
     "marca": "TMAC",
@@ -3256,14 +3224,6 @@
     "preco": "0"
   },
   {
-    "codigo": "34903",
-    "fabric": "10150",
-    "marca": "SOLIDEZ",
-    "nome": "AMORTECEDOR POP 100 SOLIDEZ",
-    "estoque": "0",
-    "preco": "89,48"
-  },
-  {
     "codigo": "25774",
     "fabric": "TM935",
     "marca": "TMAC",
@@ -3376,28 +3336,12 @@
     "preco": "125,99"
   },
   {
-    "codigo": "48122",
-    "fabric": "AM1015",
-    "marca": "NAKATA",
-    "nome": "AMORTECEDOR TITAN 2000 NAKATA",
-    "estoque": "0",
-    "preco": "0"
-  },
-  {
     "codigo": "32565",
     "fabric": "100001",
     "marca": "RIFFEL",
     "nome": "AMORTECEDOR TITAN 2000 RIFFEL",
     "estoque": "1",
     "preco": "78,37"
-  },
-  {
-    "codigo": "46221",
-    "fabric": "10010006",
-    "marca": "SCUD",
-    "nome": "AMORTECEDOR TITAN 2000 SCUD (PAR)",
-    "estoque": "0",
-    "preco": "146"
   },
   {
     "codigo": "25526",
@@ -3422,14 +3366,6 @@
     "nome": "AMORTECEDOR TORNADO AUDAX",
     "estoque": "0",
     "preco": "355,38"
-  },
-  {
-    "codigo": "22935",
-    "fabric": "1101333",
-    "marca": "BUXI",
-    "nome": "AMORTECEDOR TORNADO BUXI",
-    "estoque": "0",
-    "preco": "297,3"
   },
   {
     "codigo": "25775",
@@ -3542,14 +3478,6 @@
     "nome": "AMORTECEDOR XRE 300 RT",
     "estoque": "1",
     "preco": "328,07"
-  },
-  {
-    "codigo": "46224",
-    "fabric": "10010015",
-    "marca": "SCUD",
-    "nome": "AMORTECEDOR XRE 300 SCUD",
-    "estoque": "0",
-    "preco": "387,18"
   },
   {
     "codigo": "26068",
@@ -5766,14 +5694,6 @@
     "nome": "ARVORE COMANDO VALVULA FAN 125 2009 MHX",
     "estoque": "0",
     "preco": "83,42"
-  },
-  {
-    "codigo": "11135",
-    "fabric": "009886",
-    "marca": "SCUD",
-    "nome": "ARVORE COMANDO VALVULA FAN 125 2009 SCUD 10030003",
-    "estoque": "0",
-    "preco": "67,39"
   },
   {
     "codigo": "29057",
@@ -17980,7 +17900,7 @@
     "fabric": "TM1440",
     "marca": "TMAC",
     "nome": "BUJAO OLEO 13 MM TMAC SILICONE",
-    "estoque": "117",
+    "estoque": "116",
     "preco": "7,34"
   },
   {
@@ -18052,7 +17972,7 @@
     "fabric": "10110261",
     "marca": "WGK",
     "nome": "BUJAO OLEO 150 WGK C/ANEL",
-    "estoque": "27",
+    "estoque": "26",
     "preco": "4,36"
   },
   {
@@ -18902,22 +18822,6 @@
     "nome": "CABO ACELERADOR BIZ 125 11/12 CONTROLFLEX +",
     "estoque": "0",
     "preco": "12,72"
-  },
-  {
-    "codigo": "20747",
-    "fabric": "30432",
-    "marca": "SCHERER/SORETTO",
-    "nome": "CABO ACELERADOR BIZ 125 11/12 SORETTO",
-    "estoque": "0",
-    "preco": "88,65"
-  },
-  {
-    "codigo": "20521",
-    "fabric": "349",
-    "marca": "SCHERER/SORETTO",
-    "nome": "CABO ACELERADOR BIZ 125 11/12 SORETTO MAXI",
-    "estoque": "0",
-    "preco": "53,48"
   },
   {
     "codigo": "49478",
@@ -22064,14 +21968,6 @@
     "preco": "0"
   },
   {
-    "codigo": "34335",
-    "fabric": "30260",
-    "marca": "SCHERER/SORETTO",
-    "nome": "CABO ACELERADOR TWISTER \"A\" SORETTO",
-    "estoque": "0",
-    "preco": "54,23"
-  },
-  {
     "codigo": "8845",
     "fabric": "000317-00-1",
     "marca": "SCHERER/SORETTO",
@@ -23300,7 +23196,7 @@
     "fabric": "TM8053",
     "marca": "TMAC",
     "nome": "CABO AFOGADOR FALCON 400 99/08 TMAC",
-    "estoque": "34",
+    "estoque": "33",
     "preco": "11,54"
   },
   {
@@ -29488,14 +29384,6 @@
     "preco": "9,44"
   },
   {
-    "codigo": "9530",
-    "fabric": "000658-00-1",
-    "marca": "SCHERER/SORETTO",
-    "nome": "CABO VELOCIMETRO TITAN 150 2009 SCHERER MAXXI",
-    "estoque": "0",
-    "preco": "43,69"
-  },
-  {
     "codigo": "20724",
     "fabric": "030347-00-3",
     "marca": "SCHERER/SORETTO",
@@ -31606,14 +31494,6 @@
     "nome": "CAMARA DE AR DIANT BROS/XTZ/CB 400/450 MOTOKOI T19",
     "estoque": "437",
     "preco": "18,89"
-  },
-  {
-    "codigo": "35729",
-    "fabric": "SCA-19",
-    "marca": "SCUD",
-    "nome": "CAMARA DE AR DIANT BROS/XTZ/CB 400/450 SCUD SCA-19 C/VACINA",
-    "estoque": "0",
-    "preco": "31,49"
   },
   {
     "codigo": "26671",
@@ -46164,7 +46044,7 @@
     "fabric": "CAP-36PT",
     "marca": "TORK",
     "nome": "CAPACETE TORK LIBERTY FOUR PRETO 60",
-    "estoque": "342",
+    "estoque": "341",
     "preco": "83,99"
   },
   {
@@ -49028,7 +48908,7 @@
     "fabric": "103901",
     "marca": "MELC",
     "nome": "CARCACA PAINEL INTERNA BRANCA YBR 125 2009 ED FACTOR MELC",
-    "estoque": "3",
+    "estoque": "2",
     "preco": "34,05"
   },
   {
@@ -58684,7 +58564,7 @@
     "fabric": "",
     "marca": "TOTAL PRINT",
     "nome": "CHAVEIRO UNIVERSAL AVULSO",
-    "estoque": "1204",
+    "estoque": "1203",
     "preco": "4,19"
   },
   {
@@ -60248,14 +60128,6 @@
     "preco": "46,53"
   },
   {
-    "codigo": "39920",
-    "fabric": "10430026",
-    "marca": "SCUD",
-    "nome": "CILINDRO BENGALA INTERNO BIZ 125 05/10 SCUD",
-    "estoque": "0",
-    "preco": "95,13"
-  },
-  {
     "codigo": "34331",
     "fabric": "TIC41012",
     "marca": "COFAP",
@@ -60308,7 +60180,7 @@
     "fabric": "TIC41021M",
     "marca": "COFAP",
     "nome": "CILINDRO BENGALA INTERNO BIZ 125 11/17/BIZ 100 13 ED COFAP",
-    "estoque": "6",
+    "estoque": "4",
     "preco": "85,56"
   },
   {
@@ -60800,14 +60672,6 @@
     "preco": "103,95"
   },
   {
-    "codigo": "20201",
-    "fabric": "071526",
-    "marca": "MAXX",
-    "nome": "CILINDRO BENGALA INTERNO WEB 100 MAXX",
-    "estoque": "0",
-    "preco": "44,08"
-  },
-  {
     "codigo": "28458",
     "fabric": "TM1322",
     "marca": "TMAC",
@@ -61216,14 +61080,6 @@
     "preco": "207"
   },
   {
-    "codigo": "17396",
-    "fabric": "18366",
-    "marca": "TRILHA",
-    "nome": "CILINDRO MESTRE FREIO FALCON DIANT. SUPERIOR TRILHA",
-    "estoque": "0",
-    "preco": "125,61"
-  },
-  {
     "codigo": "26658",
     "fabric": "TM483",
     "marca": "TMAC",
@@ -61286,14 +61142,6 @@
     "nome": "CILINDRO MESTRE FREIO TITAN 150 09/13/FAN 150 INFERIOR TMAC",
     "estoque": "20",
     "preco": "104,25"
-  },
-  {
-    "codigo": "16044",
-    "fabric": "20134",
-    "marca": "TRILHA",
-    "nome": "CILINDRO MESTRE FREIO TITAN 150 09/13/FAN 150 INFERIOR TRILHA",
-    "estoque": "0",
-    "preco": "144,64"
   },
   {
     "codigo": "44332",
@@ -61374,14 +61222,6 @@
     "nome": "CILINDRO MESTRE FREIO TITAN 2000/TITAN 150/TITAN 160/CBX 200/CBX 250 SUPERIOR TMAC",
     "estoque": "669",
     "preco": "47,78"
-  },
-  {
-    "codigo": "16043",
-    "fabric": "17162",
-    "marca": "TRILHA",
-    "nome": "CILINDRO MESTRE FREIO TITAN 2000/TITAN 150/TITAN 160/CBX 200/CBX 250 SUPERIOR TRILHA",
-    "estoque": "0",
-    "preco": "119,96"
   },
   {
     "codigo": "26656",
@@ -61470,14 +61310,6 @@
     "nome": "CILINDRO MESTRE FREIO YBR 125 ED SUPERIOR COMPLETO MAX PREMIUM",
     "estoque": "0",
     "preco": "69,36"
-  },
-  {
-    "codigo": "16537",
-    "fabric": "10120008",
-    "marca": "SCUD",
-    "nome": "CILINDRO MESTRE FREIO YBR 125 ED SUPERIOR SCUD",
-    "estoque": "0",
-    "preco": "99,44"
   },
   {
     "codigo": "26650",
@@ -76876,7 +76708,7 @@
     "fabric": "TM702",
     "marca": "TMAC",
     "nome": "ESTATOR TITAN 92/99 S/BASE TMAC",
-    "estoque": "4",
+    "estoque": "3",
     "preco": "72,45"
   },
   {
@@ -81364,7 +81196,7 @@
     "fabric": "PSL639",
     "marca": "TECFIL",
     "nome": "FILTRO OLEO GSX/BANDIT/STROM TECFIL",
-    "estoque": "40",
+    "estoque": "35",
     "preco": "19,67"
   },
   {
@@ -81508,7 +81340,7 @@
     "fabric": "KOI0355",
     "marca": "MOTOKOI",
     "nome": "FILTRO OLEO TWISTER/FALCON/CB300/XRE300/TORNADO/XLX MOTOKOI",
-    "estoque": "580",
+    "estoque": "579",
     "preco": "4,19"
   },
   {
@@ -97824,14 +97656,6 @@
     "preco": "62,99"
   },
   {
-    "codigo": "43586",
-    "fabric": "KTC0100",
-    "marca": "CACHORRO LOCO",
-    "nome": "KIT TRANSMISSAO BIZ 100 CACHORRO LOCO (35/15/428HX108L)",
-    "estoque": "0",
-    "preco": "60,07"
-  },
-  {
     "codigo": "43022",
     "fabric": "GSW001",
     "marca": "GSW",
@@ -97894,14 +97718,6 @@
     "nome": "KIT TRANSMISSAO BIZ 110I 16/17 MOTOKOI (33/14/428HX106L)",
     "estoque": "0",
     "preco": "56,7"
-  },
-  {
-    "codigo": "43595",
-    "fabric": "KTC0125",
-    "marca": "CACHORRO LOCO",
-    "nome": "KIT TRANSMISSAO BIZ 125 CACHORRO LOCO (34/14/428HX106L)",
-    "estoque": "0",
-    "preco": "59,47"
   },
   {
     "codigo": "52121",
@@ -98108,7 +97924,7 @@
     "fabric": "H04003XS",
     "marca": "VAZ",
     "nome": "KIT TRANSMISSAO BROS 160/XRE 190 VAZ (48/16/428HX128L)",
-    "estoque": "384",
+    "estoque": "383",
     "preco": "102,66"
   },
   {
@@ -98134,14 +97950,6 @@
     "nome": "KIT TRANSMISSAO CB 250 MOTOKOI (40/13/520HX110L)",
     "estoque": "0",
     "preco": "103,95"
-  },
-  {
-    "codigo": "45358",
-    "fabric": "001-P21B-061H0",
-    "marca": "P21",
-    "nome": "KIT TRANSMISSAO CB 250 P21 (40/13/520HX110L)",
-    "estoque": "0",
-    "preco": "129,77"
   },
   {
     "codigo": "33777",
@@ -98320,14 +98128,6 @@
     "preco": "103,95"
   },
   {
-    "codigo": "43589",
-    "fabric": "KTC0104",
-    "marca": "CACHORRO LOCO",
-    "nome": "KIT TRANSMISSAO CRYPTON 100 98/03 CACHORRO LOCO (37/15/428HX98L)",
-    "estoque": "0",
-    "preco": "65,53"
-  },
-  {
     "codigo": "16109",
     "fabric": "Y00004T",
     "marca": "VAZ",
@@ -98430,14 +98230,6 @@
     "nome": "KIT TRANSMISSAO DT 200 R VAZ",
     "estoque": "12",
     "preco": "208,95"
-  },
-  {
-    "codigo": "43610",
-    "fabric": "KTC0217",
-    "marca": "CACHORRO LOCO",
-    "nome": "KIT TRANSMISSAO FACTOR 125I 17 CACHORRO LOCO (43/14/428HX126L)",
-    "estoque": "0",
-    "preco": "66,62"
   },
   {
     "codigo": "46473",
@@ -98608,14 +98400,6 @@
     "preco": "93,45"
   },
   {
-    "codigo": "43067",
-    "fabric": "GSW064",
-    "marca": "GSW",
-    "nome": "KIT TRANSMISSAO FAZER 250 18 ED ABS GSW (46/15/428HX136L)",
-    "estoque": "0",
-    "preco": "93,05"
-  },
-  {
     "codigo": "46478",
     "fabric": "001-KOI-072H0",
     "marca": "MOTOKOI",
@@ -98678,14 +98462,6 @@
     "nome": "KIT TRANSMISSAO FAZER 250 VAZ (45/15/428HX132) (XTREME S) Y04510XS",
     "estoque": "18",
     "preco": "152,24"
-  },
-  {
-    "codigo": "43639",
-    "fabric": "KTC0218",
-    "marca": "CACHORRO LOCO",
-    "nome": "KIT TRANSMISSAO FAZER YS 250 18 CACHORRO LOCO (15T/46T/428HX136L)",
-    "estoque": "0",
-    "preco": "83"
   },
   {
     "codigo": "46481",
@@ -99080,28 +98856,12 @@
     "preco": "872,76"
   },
   {
-    "codigo": "28508",
-    "fabric": "91049",
-    "marca": "RIFFEL",
-    "nome": "KIT TRANSMISSAO SUZUKI INTRUDER 125 12/17 RIFFEL ACO 1045",
-    "estoque": "0",
-    "preco": "93,89"
-  },
-  {
     "codigo": "38536",
     "fabric": "S01272X",
     "marca": "VAZ",
     "nome": "KIT TRANSMISSAO SUZUKI V-STROM DL1000 02/08 VAZ (42/17/525HORX112L)",
     "estoque": "1",
     "preco": "906,63"
-  },
-  {
-    "codigo": "43601",
-    "fabric": "KTC0150",
-    "marca": "CACHORRO LOCO",
-    "nome": "KIT TRANSMISSAO TITAN 150 CACHORRO LOCO (43/16/428HX118)",
-    "estoque": "0",
-    "preco": "0"
   },
   {
     "codigo": "43291",
@@ -99238,14 +98998,6 @@
     "nome": "KIT TRANSMISSAO TITAN 160 VAZ (44/15/428HX118L) H04007XS",
     "estoque": "3535",
     "preco": "62,99"
-  },
-  {
-    "codigo": "43614",
-    "fabric": "KTC2000",
-    "marca": "CACHORRO LOCO",
-    "nome": "KIT TRANSMISSAO TITAN 2000 CACHORRO LOCO (44/14/428HX116)",
-    "estoque": "0",
-    "preco": "59,47"
   },
   {
     "codigo": "52127",
@@ -99422,14 +99174,6 @@
     "nome": "KIT TRANSMISSAO VSTROM 650 DL RK (47/15/525KRX118L)",
     "estoque": "1",
     "preco": "1102,13"
-  },
-  {
-    "codigo": "25941",
-    "fabric": "10530021 IN",
-    "marca": "SCUD",
-    "nome": "KIT TRANSMISSAO WEB 100 SCUD (36/14/428HX108L)",
-    "estoque": "0",
-    "preco": "132,37"
   },
   {
     "codigo": "48190",
@@ -99916,7 +99660,7 @@
     "fabric": "12153M512V",
     "marca": "PHILIPS",
     "nome": "LAMPADA FAROL BIZ 100/125/DREAM/BROS 150 09/12 PHILLIPS M5",
-    "estoque": "44",
+    "estoque": "41",
     "preco": "23,63"
   },
   {
@@ -103380,7 +103124,7 @@
     "fabric": "",
     "marca": "LUBRAX",
     "nome": "LUBRIFICANTES MOTO 4T LUBRAX 10W30 SL PROFISSIONAL",
-    "estoque": "209",
+    "estoque": "207",
     "preco": "27,83"
   },
   {
@@ -103436,7 +103180,7 @@
     "fabric": "121708",
     "marca": "MOBIL",
     "nome": "LUBRIFICANTES MOTO 4T MOBIL 20W50",
-    "estoque": "2842",
+    "estoque": "2841",
     "preco": "25,19"
   },
   {
@@ -103460,7 +103204,7 @@
     "fabric": "111548",
     "marca": "MOTUL",
     "nome": "LUBRIFICANTES MOTO 4T MOTUL 5000+ 10W30",
-    "estoque": "518",
+    "estoque": "517",
     "preco": "40,94"
   },
   {
@@ -107328,22 +107072,6 @@
     "preco": "16,05"
   },
   {
-    "codigo": "23502",
-    "fabric": "10300061",
-    "marca": "SCUD",
-    "nome": "MANETE FREIO LEAD 110 DIANT POLIDO SCUD",
-    "estoque": "0",
-    "preco": "19,82"
-  },
-  {
-    "codigo": "23503",
-    "fabric": "10300062",
-    "marca": "SCUD",
-    "nome": "MANETE FREIO LEAD 110 TRAS POLIDO SCUD",
-    "estoque": "0",
-    "preco": "22,49"
-  },
-  {
     "codigo": "5200",
     "fabric": "P-1043",
     "marca": "PROTEC",
@@ -107358,14 +107086,6 @@
     "nome": "MANETE FREIO MAX SED SUNDOWN FREIO A DISCO PROTEC",
     "estoque": "8",
     "preco": "3,01"
-  },
-  {
-    "codigo": "36067",
-    "fabric": "10300069",
-    "marca": "SCUD",
-    "nome": "MANETE FREIO MT 03 16/19 SCUD",
-    "estoque": "0",
-    "preco": "26,47"
   },
   {
     "codigo": "5212",
@@ -110680,14 +110400,6 @@
     "preco": "131,25"
   },
   {
-    "codigo": "38392",
-    "fabric": "10310008",
-    "marca": "SCUD",
-    "nome": "MESA INFERIOR GUIDAO TITAN 150 09/ SCUD",
-    "estoque": "0",
-    "preco": "159,97"
-  },
-  {
     "codigo": "32764",
     "fabric": "235",
     "marca": "FABRECK",
@@ -111288,14 +111000,6 @@
     "preco": "73,54"
   },
   {
-    "codigo": "16554",
-    "fabric": "010122",
-    "marca": "SCUD",
-    "nome": "MESA SUPERIOR GUIDAO TITAN 150 09/ SCUD",
-    "estoque": "0",
-    "preco": "62,58"
-  },
-  {
     "codigo": "14141",
     "fabric": "1015461",
     "marca": "WGK",
@@ -111358,14 +111062,6 @@
     "nome": "MESA SUPERIOR GUIDAO TITAN 2000 PROTEC",
     "estoque": "2",
     "preco": "62,99"
-  },
-  {
-    "codigo": "16556",
-    "fabric": "004962",
-    "marca": "SCUD",
-    "nome": "MESA SUPERIOR GUIDAO TITAN 2000 SCUD",
-    "estoque": "0",
-    "preco": "45,71"
   },
   {
     "codigo": "22057",
@@ -111532,7 +111228,7 @@
     "fabric": "MNP0207",
     "marca": "PIRACAPAS",
     "nome": "MOCHILA PIZZA PIRACAPAS 45 LTS NYLON PRETA",
-    "estoque": "3",
+    "estoque": "1",
     "preco": "136,5"
   },
   {
@@ -111964,7 +111660,7 @@
     "fabric": "25402",
     "marca": "MOTOBOR",
     "nome": "MOLA BATENTE GARFO DIANT TITAN 00 MOTOBOR (UNITARO)",
-    "estoque": "65",
+    "estoque": "63",
     "preco": "3,23"
   },
   {
@@ -114560,14 +114256,6 @@
     "preco": "31,8"
   },
   {
-    "codigo": "16062",
-    "fabric": "26315",
-    "marca": "MHX",
-    "nome": "PAINEL BIZ 100 02/05 MHX C/MARCADOR",
-    "estoque": "0",
-    "preco": "213,09"
-  },
-  {
     "codigo": "51286",
     "fabric": "37000",
     "marca": "R1",
@@ -114686,14 +114374,6 @@
     "nome": "PAINEL BIZ 110I SOLIDEZ",
     "estoque": "4",
     "preco": "118,47"
-  },
-  {
-    "codigo": "38618",
-    "fabric": "1103709",
-    "marca": "CONDOR",
-    "nome": "PAINEL BIZ 125 05/08 ES CONDOR",
-    "estoque": "0",
-    "preco": "131,67"
   },
   {
     "codigo": "51742",
@@ -114894,14 +114574,6 @@
     "nome": "PAINEL BROS 125 13/14 TMAC",
     "estoque": "2",
     "preco": "135,19"
-  },
-  {
-    "codigo": "25061",
-    "fabric": "601.014",
-    "marca": "AOLIXIN",
-    "nome": "PAINEL BROS 125/150 03/05 AOLIXIN",
-    "estoque": "0",
-    "preco": "135,5"
   },
   {
     "codigo": "17460",
@@ -123940,7 +123612,7 @@
     "fabric": "KOI0380",
     "marca": "MOTOKOI",
     "nome": "PASTILHA FREIO TITAN 160 18/FAN 150 18 CBS MOTOKOI",
-    "estoque": "107",
+    "estoque": "106",
     "preco": "11,54"
   },
   {
@@ -125124,7 +124796,7 @@
     "fabric": "KOI0132",
     "marca": "MOTOKOI",
     "nome": "PATIM FREIO TITAN 00/TITAN 150 0,00 DIANT/TRAS MOTOKOI",
-    "estoque": "1956",
+    "estoque": "1955",
     "preco": "16,21"
   },
   {
@@ -136716,7 +136388,7 @@
     "fabric": "100663",
     "marca": "MAGGION",
     "nome": "PNEU DIANT 60/100-17 MAGGION  BIZ 100 /DREAM STREET MF7 TT",
-    "estoque": "63",
+    "estoque": "61",
     "preco": "100,79"
   },
   {
@@ -143636,7 +143308,7 @@
     "fabric": "331700",
     "marca": "MELC",
     "nome": "RABETA TITAN 00/01 E 04 VERMELHO MELC (331700)",
-    "estoque": "20",
+    "estoque": "19",
     "preco": "52,49"
   },
   {
@@ -148020,7 +147692,7 @@
     "fabric": "44080K",
     "marca": "MOTOKOI BR",
     "nome": "REPARO PINCA FREIO 2 PISTOES MOTOKOI KIT",
-    "estoque": "37",
+    "estoque": "36",
     "preco": "7,2"
   },
   {
@@ -148292,7 +147964,7 @@
     "fabric": "P40FORK455004",
     "marca": "VEDAMOTORS",
     "nome": "RETENTOR BENGALA BIZ 125 11/BIZ 100 12/CRYPTON 115 VEDAMOTORS (PAR)",
-    "estoque": "10",
+    "estoque": "9",
     "preco": "25,31"
   },
   {
@@ -149588,7 +149260,7 @@
     "fabric": "1104691",
     "marca": "MOTOPORT",
     "nome": "RETENTOR HASTE VALVULA TWISTER/TITAN 150/TITAN 2002/BIZ MOTOPORT (PAR)",
-    "estoque": "640",
+    "estoque": "639",
     "preco": "3,15"
   },
   {
@@ -152220,7 +151892,7 @@
     "fabric": "KOI0241",
     "marca": "MOTOKOI BR",
     "nome": "RETROVISOR TITAN 150 PAR MOTOKOI BR",
-    "estoque": "1808",
+    "estoque": "1807",
     "preco": "19,94"
   },
   {
@@ -155156,7 +154828,7 @@
     "fabric": "SQ0004",
     "marca": "RT",
     "nome": "SOQUETE FAROL BROS 125 09/10 POP 100 15 RT",
-    "estoque": "89",
+    "estoque": "87",
     "preco": "8,93"
   },
   {
@@ -158812,7 +158484,7 @@
     "fabric": "321701",
     "marca": "MELC",
     "nome": "TAMPA LATERAL TITAN 00/01 E 04 VERMELHA MELC (321701)",
-    "estoque": "8",
+    "estoque": "7",
     "preco": "52,49"
   },
   {
@@ -164940,7 +164612,7 @@
     "fabric": "1708C",
     "marca": "POLIVISOR",
     "nome": "VISEIRA EBF EOX 2,20 MM CRSTAL POLIVISOR",
-    "estoque": "78",
+    "estoque": "77",
     "preco": "26,78"
   },
   {
@@ -167988,7 +167660,7 @@
     "fabric": "1744C",
     "marca": "POLIVISOR",
     "nome": "VISEIRA TORK NEW LIBERTY 3/TORK NEW ATOMIC/EBF NEW SPARK JET CRISTAL POLIVISOR",
-    "estoque": "488",
+    "estoque": "487",
     "preco": "28,67"
   },
   {
