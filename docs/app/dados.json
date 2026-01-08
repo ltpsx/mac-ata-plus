@@ -1764,7 +1764,7 @@
     "fabric": "10709",
     "marca": "SIVERST",
     "nome": "AGULHA BOIA C/ SEDE CG/ML/TU ECCO MED. 10,02MM SIVERST",
-    "estoque": "50",
+    "estoque": "49",
     "preco": "17,46"
   },
   {
@@ -8212,7 +8212,7 @@
     "fabric": "MTX6L-BS",
     "marca": "MOTOKOI BR",
     "nome": "BATERIA BIZ / FAN 125 ES 09/TITAN150 MIX 09 ED MTX6L-BS MOTOKOI",
-    "estoque": "451",
+    "estoque": "450",
     "preco": "109,69"
   },
   {
@@ -14860,7 +14860,7 @@
     "fabric": "44066",
     "marca": "MOTOBOR",
     "nome": "BORRACHA PEDAL DE PARTIDA CG/ML/TU MOTOBOR",
-    "estoque": "51",
+    "estoque": "50",
     "preco": "1,91"
   },
   {
@@ -21572,7 +21572,7 @@
     "fabric": "KOI0004",
     "marca": "MOTOKOI",
     "nome": "CABO ACELERADOR TITAN 150 2004/08 MOTOKOI",
-    "estoque": "672",
+    "estoque": "671",
     "preco": "7,34"
   },
   {
@@ -29076,7 +29076,7 @@
     "fabric": "26183",
     "marca": "R1",
     "nome": "CABO VELOCIMETRO LEAD 110 R1",
-    "estoque": "20",
+    "estoque": "18",
     "preco": "12,08"
   },
   {
@@ -29108,7 +29108,7 @@
     "fabric": "TM7037",
     "marca": "TMAC",
     "nome": "CABO VELOCIMETRO NEO AT 115 05/07 TMAC",
-    "estoque": "2",
+    "estoque": "0",
     "preco": "10,49"
   },
   {
@@ -31708,7 +31708,7 @@
     "fabric": "KOI0168",
     "marca": "MOTOKOI",
     "nome": "CAMARA DE AR DIANT/TRAS CG MOTOKOI 18",
-    "estoque": "12129",
+    "estoque": "12127",
     "preco": "15,74"
   },
   {
@@ -35244,7 +35244,7 @@
     "fabric": "1005001143",
     "marca": "PROTERCAPAS",
     "nome": "CAPA CHUVA PROTERCAPA NYLON UNISEX GG",
-    "estoque": "83",
+    "estoque": "82",
     "preco": "148,46"
   },
   {
@@ -46156,7 +46156,7 @@
     "fabric": "CAP-35PT",
     "marca": "TORK",
     "nome": "CAPACETE TORK LIBERTY FOUR PRETO 58",
-    "estoque": "832",
+    "estoque": "830",
     "preco": "83,99"
   },
   {
@@ -64436,7 +64436,7 @@
     "fabric": "HA04.133T",
     "marca": "VAZ",
     "nome": "COROA CG 82 33D VAZ - HA04.133T",
-    "estoque": "43",
+    "estoque": "42",
     "preco": "65,52"
   },
   {
@@ -66372,7 +66372,7 @@
     "fabric": "65",
     "marca": "PROTEC",
     "nome": "COXIM COROA TITAN 150 PROTEC ***UNITARIO***",
-    "estoque": "135",
+    "estoque": "131",
     "preco": "2,89"
   },
   {
@@ -84124,7 +84124,7 @@
     "fabric": "VE15008009000",
     "marca": "VEDAMOTORS",
     "nome": "GUARNICAO CUBA CARBURADOR YES 125 /INTRUDER 125 VEDAMOTORS",
-    "estoque": "218",
+    "estoque": "217",
     "preco": "4,73"
   },
   {
@@ -84396,7 +84396,7 @@
     "fabric": "VE99016001085",
     "marca": "VEDAMOTORS",
     "nome": "GUARNICAO TAMPA VALVULA CG/ML/TO/TITAN CDI 99 VEDAMOTORS",
-    "estoque": "313",
+    "estoque": "309",
     "preco": "3,14"
   },
   {
@@ -87068,7 +87068,7 @@
     "fabric": "TM0280",
     "marca": "TMAC",
     "nome": "INTERRUPTOR FAROL ALTO/BAIXO BIZ 100/125 2005/09/BIZ 110I 16/17 TMAC",
-    "estoque": "36",
+    "estoque": "35",
     "preco": "3,22"
   },
   {
@@ -95524,7 +95524,7 @@
     "fabric": "VS05610000175",
     "marca": "VEDAMOTORS",
     "nome": "KIT A CG/TODAY/TITAN99 (KIT) VEDAMOTORS",
-    "estoque": "50",
+    "estoque": "49",
     "preco": "13,49"
   },
   {
@@ -99164,7 +99164,7 @@
     "fabric": "H03673XS",
     "marca": "VAZ",
     "nome": "KIT TRANSMISSAO TITAN 150 VAZ (43/16/428HX118L) H03673XS",
-    "estoque": "5417",
+    "estoque": "5415",
     "preco": "62,99"
   },
   {
@@ -100116,7 +100116,7 @@
     "fabric": "H4FIT",
     "marca": "PHILIPS",
     "nome": "LAMPADA FAROL TITAN H4 12V 35X35 PHILLIPS FIT",
-    "estoque": "305",
+    "estoque": "304",
     "preco": "25,19"
   },
   {
@@ -103388,7 +103388,7 @@
     "fabric": "",
     "marca": "LUBRAX",
     "nome": "LUBRIFICANTES MOTO 4T LUBRAX 20W50 SL",
-    "estoque": "390",
+    "estoque": "387",
     "preco": "22,04"
   },
   {
@@ -127636,7 +127636,7 @@
     "fabric": "TM2015",
     "marca": "TMAC",
     "nome": "PEDALEIRA BROS 125 03/05/BROS 150 06/14/FALCON/NX 200/XR 200/XLR 125 DIANT/ESQ TMAC",
-    "estoque": "17",
+    "estoque": "16",
     "preco": "23,77"
   },
   {
@@ -128708,7 +128708,7 @@
     "fabric": "HB03.116",
     "marca": "VAZ",
     "nome": "PINHAO TITAN 150/BROS 16D VAZ - HB03.116",
-    "estoque": "164",
+    "estoque": "163",
     "preco": "13,13"
   },
   {
@@ -136756,7 +136756,7 @@
     "fabric": "3100",
     "marca": "TECHNIC",
     "nome": "PNEU DIANT 60/100-17 TECHNIC TIGER BIZ TT 33L",
-    "estoque": "540",
+    "estoque": "539",
     "preco": "97,13"
   },
   {
@@ -137812,7 +137812,7 @@
     "fabric": "",
     "marca": "LEVORIN",
     "nome": "PNEU TRAS 90/90-18 LEVORIN MATRIX TL 57P (SEM CAMARA)",
-    "estoque": "25",
+    "estoque": "24",
     "preco": "269,81"
   },
   {
@@ -137876,7 +137876,7 @@
     "fabric": "6113",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 90/90-18 TECHNIC SPORT R TT 57P",
-    "estoque": "461",
+    "estoque": "460",
     "preco": "130,2"
   },
   {
@@ -144196,7 +144196,7 @@
     "fabric": "334704",
     "marca": "MELC",
     "nome": "RABETA TITAN 150 15 EX BRANCA(LAT BCA/MEIO VMO) MELC (334704)",
-    "estoque": "3",
+    "estoque": "2",
     "preco": "79,1"
   },
   {
