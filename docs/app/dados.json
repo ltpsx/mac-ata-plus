@@ -2412,7 +2412,7 @@
     "fabric": "50325-KVK-900",
     "marca": "HONDA",
     "nome": "ALCA MODELO ORIGINAL CB 300 R ESQ HONDA",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "288,74"
   },
   {
@@ -5932,7 +5932,7 @@
     "fabric": "C503",
     "marca": "CORAMI",
     "nome": "ARVORE COMANDO VALVULA TITAN 92/99 CORAMI KIT 3PCS",
-    "estoque": "21",
+    "estoque": "20",
     "preco": "65,53"
   },
   {
@@ -8364,7 +8364,7 @@
     "fabric": "008N10B",
     "marca": "RAIOM",
     "nome": "BATERIA YES/INTRUDER 125/VBLADE RTX8N-BS RAIOM",
-    "estoque": "38",
+    "estoque": "37",
     "preco": "208,95"
   },
   {
@@ -10604,7 +10604,7 @@
     "fabric": "04053",
     "marca": "PLASMOTO",
     "nome": "BLOCO OPTICO CB 300 PLASMOTO",
-    "estoque": "17",
+    "estoque": "16",
     "preco": "114,45"
   },
   {
@@ -15644,7 +15644,7 @@
     "fabric": "4000529",
     "marca": "EBF",
     "nome": "BOTAO EBF SPARK JET",
-    "estoque": "77",
+    "estoque": "76",
     "preco": "13,4"
   },
   {
@@ -31604,7 +31604,7 @@
     "fabric": "KOI0168",
     "marca": "MOTOKOI",
     "nome": "CAMARA DE AR DIANT/TRAS CG MOTOKOI 18",
-    "estoque": "11002",
+    "estoque": "11001",
     "preco": "15,74"
   },
   {
@@ -34252,7 +34252,7 @@
     "fabric": "KOI0229",
     "marca": "MOTOKOI BR",
     "nome": "CAPA BANCO TITAN KS/ES/FAN 00/01 MOTOKOI",
-    "estoque": "13",
+    "estoque": "12",
     "preco": "20,99"
   },
   {
@@ -37084,7 +37084,7 @@
     "fabric": "1217058PTO",
     "marca": "EBF",
     "nome": "CAPACETE EBF 7 NEW PRETO 58",
-    "estoque": "27",
+    "estoque": "26",
     "preco": "104,99"
   },
   {
@@ -51292,7 +51292,7 @@
     "fabric": "223500",
     "marca": "MELC",
     "nome": "CARENAGEM FAROL CB 300 09/14 INJETADA MELC (223500)",
-    "estoque": "9",
+    "estoque": "8",
     "preco": "33,08"
   },
   {
@@ -81012,7 +81012,7 @@
     "fabric": "KL741",
     "marca": "MAHLE",
     "nome": "FILTRO COMBUSTIVEL TITAN 150 09 MIX/FLEX MAHLE",
-    "estoque": "133",
+    "estoque": "132",
     "preco": "12,59"
   },
   {
@@ -81636,7 +81636,7 @@
     "fabric": "PL153",
     "marca": "TECFIL",
     "nome": "FILTRO OLEO TWISTER/FALCON/CB300/XRE300/TORNADO/XLX TECFIL",
-    "estoque": "138",
+    "estoque": "137",
     "preco": "10,49"
   },
   {
@@ -81764,7 +81764,7 @@
     "fabric": "KOI0356",
     "marca": "MOTOKOI",
     "nome": "FILTRO OLEO YES/KATANA/SUZUKI INTRUDER 125 MOTOKOI",
-    "estoque": "97",
+    "estoque": "96",
     "preco": "4,19"
   },
   {
@@ -84676,7 +84676,7 @@
     "fabric": "VE99016001091",
     "marca": "VEDAMOTORS",
     "nome": "GUARNICAO TAMPA VALVULA TWISTER/TORNADO 01/08 VEDAMOTORS",
-    "estoque": "8",
+    "estoque": "7",
     "preco": "22,58"
   },
   {
@@ -96756,7 +96756,7 @@
     "fabric": "1102418",
     "marca": "KMP PREMIUM",
     "nome": "KIT CILINDRO TODAY 91/ TITAN 01 CDI KMP PREMIUM",
-    "estoque": "4",
+    "estoque": "3",
     "preco": "251,99"
   },
   {
@@ -99196,7 +99196,7 @@
     "fabric": "49375593",
     "marca": "GLOBAL WAY",
     "nome": "KIT TRANSMISSAO TITAN 160 GLOBAL WAY (44/15/428HX118L)",
-    "estoque": "65",
+    "estoque": "64",
     "preco": "46,2"
   },
   {
@@ -100060,7 +100060,7 @@
     "fabric": "H4FIT",
     "marca": "PHILIPS",
     "nome": "LAMPADA FAROL TITAN H4 12V 35X35 PHILLIPS FIT",
-    "estoque": "243",
+    "estoque": "242",
     "preco": "25,19"
   },
   {
@@ -100228,7 +100228,7 @@
     "fabric": "LF-01 SB",
     "marca": "STALLION",
     "nome": "LAMPADA LED FAROL TITAN H4 LED STALLION",
-    "estoque": "2677",
+    "estoque": "2676",
     "preco": "18,38"
   },
   {
@@ -102868,7 +102868,7 @@
     "fabric": "6715",
     "marca": "GVS",
     "nome": "LENTE PISCA TITAN 14/BROS 13 DD/TE CRISTAL GVS",
-    "estoque": "71",
+    "estoque": "69",
     "preco": "8,39"
   },
   {
@@ -102884,7 +102884,7 @@
     "fabric": "6716",
     "marca": "GVS",
     "nome": "LENTE PISCA TITAN 14/BROS 13 DE/TD CRISTAL GVS",
-    "estoque": "97",
+    "estoque": "95",
     "preco": "8,39"
   },
   {
@@ -102924,7 +102924,7 @@
     "fabric": "4923",
     "marca": "ORBITAL",
     "nome": "LENTE PISCA TITAN 2000 CRISTAL ORBITAL",
-    "estoque": "15",
+    "estoque": "11",
     "preco": "6,29"
   },
   {
@@ -103316,7 +103316,7 @@
     "fabric": "4407",
     "marca": "IPIRANGA",
     "nome": "LUBRIFICANTES MOTO 4T IPIRANGA 20W50 SL",
-    "estoque": "883",
+    "estoque": "881",
     "preco": "22,04"
   },
   {
@@ -103324,7 +103324,7 @@
     "fabric": "",
     "marca": "LUBRAX",
     "nome": "LUBRIFICANTES MOTO 4T LUBRAX 10W30 SL PROFISSIONAL",
-    "estoque": "145",
+    "estoque": "143",
     "preco": "27,83"
   },
   {
@@ -103332,7 +103332,7 @@
     "fabric": "",
     "marca": "LUBRAX",
     "nome": "LUBRIFICANTES MOTO 4T LUBRAX 20W50 SL",
-    "estoque": "332",
+    "estoque": "330",
     "preco": "22,04"
   },
   {
@@ -103380,7 +103380,7 @@
     "fabric": "121708",
     "marca": "MOBIL",
     "nome": "LUBRIFICANTES MOTO 4T MOBIL 20W50",
-    "estoque": "1900",
+    "estoque": "1897",
     "preco": "25,19"
   },
   {
@@ -103500,7 +103500,7 @@
     "fabric": "2010000001042",
     "marca": "OXFORD",
     "nome": "LUBRIFICANTES MOTO 4T OXFORD 20W50",
-    "estoque": "6689",
+    "estoque": "6688",
     "preco": "13,64"
   },
   {
@@ -108260,7 +108260,7 @@
     "fabric": "285",
     "marca": "PROTEC",
     "nome": "MANICOTO TITAN 2000 KS ESQUERDO PROTEC",
-    "estoque": "89",
+    "estoque": "88",
     "preco": "11,03"
   },
   {
@@ -118924,7 +118924,7 @@
     "fabric": "303501",
     "marca": "MELC",
     "nome": "PARALAMA DIANT CB 300 09/11 - 13/14 PRETO MELC (303501)",
-    "estoque": "7",
+    "estoque": "6",
     "preco": "72,46"
   },
   {
@@ -124148,7 +124148,7 @@
     "fabric": "KOI0386",
     "marca": "MOTOKOI",
     "nome": "PASTILHA FREIO YBR FACTOR 16/FAZER 150 DIANTEIRO MOTOKOI",
-    "estoque": "5",
+    "estoque": "4",
     "preco": "10,49"
   },
   {
@@ -125012,7 +125012,7 @@
     "fabric": "KOI-00100 STD",
     "marca": "MOTOKOI BR",
     "nome": "PATIM FREIO TITAN 00/TITAN 150 0,00 DIANT/TRAS MOTOKOI BR",
-    "estoque": "397",
+    "estoque": "396",
     "preco": "14,69"
   },
   {
@@ -125052,7 +125052,7 @@
     "fabric": "KOI-00100 A",
     "marca": "MOTOKOI BR",
     "nome": "PATIM FREIO TITAN 00/TITAN 150 0,25 DIANT/TRAS MOTOKOI BR",
-    "estoque": "1204",
+    "estoque": "1203",
     "preco": "15,74"
   },
   {
@@ -125108,7 +125108,7 @@
     "fabric": "KOI-00100 C",
     "marca": "MOTOKOI BR",
     "nome": "PATIM FREIO TITAN 00/TITAN 150 0,75 DIANT/TRAS MOTOKOI BR",
-    "estoque": "870",
+    "estoque": "869",
     "preco": "17,84"
   },
   {
@@ -128572,7 +128572,7 @@
     "fabric": "HB03.114",
     "marca": "VAZ",
     "nome": "PINHAO TITAN 150 / FAN 125 2009 14D VAZ - HB03114",
-    "estoque": "120",
+    "estoque": "119",
     "preco": "12,08"
   },
   {
@@ -136652,7 +136652,7 @@
     "fabric": "18822",
     "marca": "LEVORIN",
     "nome": "PNEU DIANT 80/100-18 LEVORIN MATRIX",
-    "estoque": "1954",
+    "estoque": "1953",
     "preco": "220,4"
   },
   {
@@ -136812,7 +136812,7 @@
     "fabric": "3003",
     "marca": "TECHNIC",
     "nome": "PNEU DIANT 90/90-19 TECHNIC TEC BROS TT 52T",
-    "estoque": "109",
+    "estoque": "108",
     "preco": "180,62"
   },
   {
@@ -137684,7 +137684,7 @@
     "fabric": "15353",
     "marca": "LEVORIN",
     "nome": "PNEU TRAS 90/90-18 LEVORIN MATRIX",
-    "estoque": "2524",
+    "estoque": "2523",
     "preco": "230,99"
   },
   {
@@ -137708,7 +137708,7 @@
     "fabric": "",
     "marca": "MICHELIN",
     "nome": "PNEU TRAS 90/90-18 MICHELIN CITY EXTRA TL 57S",
-    "estoque": "73",
+    "estoque": "71",
     "preco": "293,99"
   },
   {
@@ -145012,7 +145012,7 @@
     "fabric": "90217002",
     "marca": "MAGNETRON",
     "nome": "REFIL BOMBA COMBUSTIVEL BIZ 125 18/21 MAGNETRON",
-    "estoque": "2",
+    "estoque": "1",
     "preco": "221,96"
   },
   {
@@ -149316,7 +149316,7 @@
     "fabric": "1104693",
     "marca": "MOTOPORT",
     "nome": "RETENTOR HASTE VALVULA CG/TOD/TITAN ATE 2001 MOTOPORT VERDE ***PAR***",
-    "estoque": "102",
+    "estoque": "101",
     "preco": "7,73"
   },
   {
@@ -152084,7 +152084,7 @@
     "fabric": "KOI0242",
     "marca": "MOTOKOI BR",
     "nome": "RETROVISOR TITAN 150 NOVA PAR MOTOKOI BR",
-    "estoque": "687",
+    "estoque": "686",
     "preco": "22,04"
   },
   {
@@ -153164,7 +153164,7 @@
     "fabric": "63/28NSL2",
     "marca": "NACHI",
     "nome": "ROLAMENTO VIRABREQUIM TITAN 99 63/28 C/BLIND. NACHI",
-    "estoque": "4",
+    "estoque": "3",
     "preco": "75,38"
   },
   {
@@ -161140,7 +161140,7 @@
     "fabric": "0136",
     "marca": "MOFARDINI",
     "nome": "TRAVA BANCO CG/TOD/TIT MOFARDINI (ENGATE)",
-    "estoque": "16",
+    "estoque": "14",
     "preco": "14,61"
   },
   {
@@ -163860,7 +163860,7 @@
     "fabric": "CR8EHIX9",
     "marca": "NGK",
     "nome": "VELA TWISTER/TORNADO/CB 500 CR8EHIX-9 NGK IRIDIUM",
-    "estoque": "8",
+    "estoque": "7",
     "preco": "76,45"
   },
   {
