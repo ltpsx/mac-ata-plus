@@ -476,7 +476,7 @@
 <div class="wrapper">
   <h1>🛒 App de Pedidos</h1>
   <p class="sub">MAC Atacado - Catálogo Digital</p>
-  <p class="sub">Atualizado: 31/01/2026 08:03</p>
+  <p class="sub">Atualizado: 31/01/2026 08:39</p>
 
   <div class="tabs">
     <div class="tab active" onclick="mudarTab('buscar')">Buscar</div>
@@ -685,7 +685,9 @@
     if (itens.length === 0) return;
 
     const descontoInput = document.getElementById('desconto-input');
+    const descricaoInput = document.getElementById('descricao-pedido');
     const desconto = parseFloat(descontoInput?.value || 0);
+    const descricao = descricaoInput?.value?.trim() || '';
     const subtotal = calcularTotal();
     const valorDesconto = subtotal * (desconto / 100);
     const totalFinal = subtotal - valorDesconto;
@@ -693,6 +695,7 @@
     const pedido = {
       id: Date.now(),
       data: new Date().toLocaleString('pt-BR'),
+      descricao: descricao,
       itens: itens,
       subtotal: subtotal,
       desconto: desconto,
@@ -703,9 +706,12 @@
     pedidosSalvos.push(pedido);
     localStorage.setItem('pedidos', JSON.stringify(pedidosSalvos));
 
+    // Limpa campo de descrição
+    if (descricaoInput) descricaoInput.value = '';
+
     limparCarrinho();
     mudarTab('pedidos');
-    alert('✅ Pedido salvo com sucesso!');
+    alert('✅ Pedido salvo com sucesso!' + (descricao ? `\n\n📝 ${descricao}` : ''));
   }
 
   function excluirPedido(id) {
@@ -735,6 +741,10 @@
 
     // Prepara cabeçalho e rodapé
     const header = [['Data:', pedido.data]];
+    if (pedido.descricao && pedido.descricao.trim()) {
+      header.push(['Cliente/Identificação:', pedido.descricao]);
+    }
+    header.push([]); // Linha em branco
     const footer = [];
 
     footer.push({
@@ -762,7 +772,17 @@
     const wb = XLSX.utils.book_new();
     XLSX.utils.book_append_sheet(wb, ws, "Pedido");
 
-    const filename = `pedido_${new Date(pedido.id).toISOString().slice(0,10)}.xlsx`;
+    // Nome do arquivo com descrição (se existir)
+    let nomeBase = `pedido_${new Date(pedido.id).toISOString().slice(0,10)}`;
+    if (pedido.descricao && pedido.descricao.trim()) {
+      // Remove caracteres especiais do nome do arquivo
+      const descricaoLimpa = pedido.descricao.trim()
+        .replace(/[\\/:*?"<>|]/g, '')
+        .replace(/\s+/g, '_')
+        .substring(0, 30);
+      nomeBase = `pedido_${descricaoLimpa}_${new Date(pedido.id).toISOString().slice(0,10)}`;
+    }
+    const filename = `${nomeBase}.xlsx`;
     XLSX.writeFile(wb, filename);
   }
 
@@ -855,7 +875,12 @@
       </div>
 
       <div class="carrinho-total">
-        <div class="carrinho-total-linha">
+        <div class="carrinho-total-linha" style="flex-direction: column; align-items: stretch; gap: 6px;">
+          <span>Identificação do Pedido:</span>
+          <input type="text" id="descricao-pedido" placeholder="Ex: 2 rodas moto peças, Cliente João..."
+            style="width: 100%; padding: 10px; font-size: 14px; border-radius: 6px; border: 1px solid #333; background: #0a0a0a; color: var(--text);" />
+        </div>
+        <div class="carrinho-total-linha" style="margin-top: 10px;">
           <span>Itens:</span>
           <span>${itens.reduce((sum, item) => sum + item.qtd, 0)}</span>
         </div>
@@ -934,12 +959,14 @@
       <div class="pedidos-lista">
         ${pedidosSalvos.map(pedido => {
           const temDesconto = pedido.desconto && pedido.desconto > 0;
+          const temDescricao = pedido.descricao && pedido.descricao.trim();
           return `
           <div class="pedido-card">
             <div class="pedido-header">
               <div class="pedido-data">📅 ${pedido.data}</div>
               <div class="pedido-total">R$ ${pedido.total.toFixed(2)}</div>
             </div>
+            ${temDescricao ? `<div style="font-size: 15px; font-weight: 600; color: var(--accent); margin-bottom: 6px;">📝 ${pedido.descricao}</div>` : ''}
             <div class="pedido-itens">
               ${pedido.itens.length} item(ns) - ${pedido.itens.reduce((sum, i) => sum + i.qtd, 0)} unidade(s)
               ${temDesconto ? `<br><span style="color: var(--accent);">Desconto: ${pedido.desconto}% (R$ ${pedido.valorDesconto.toFixed(2)})</span>` : ''}
