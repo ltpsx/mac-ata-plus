@@ -47,6 +47,25 @@
     margin-bottom: 12px;
   }
 
+  .loja-badge {
+    text-align: center;
+    background: var(--accent);
+    color: white;
+    padding: 6px 12px;
+    border-radius: 20px;
+    font-size: 12px;
+    font-weight: 700;
+    display: inline-block;
+    margin: 0 auto 12px;
+    width: fit-content;
+  }
+
+  .header-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
   .tabs {
     display: flex;
     gap: 10px;
@@ -474,7 +493,10 @@
 <body>
 
 <div class="wrapper">
-  <h1>🛒 App de Pedidos</h1>
+  <div class="header-container">
+    <h1>🛒 App de Pedidos</h1>
+    <div class="loja-badge">ARAÇATUBA</div>
+  </div>
   <p class="sub">MAC Atacado - Catálogo Digital</p>
   <p class="sub">Atualizado: 31/01/2026 09:13</p>
 
