@@ -8284,7 +8284,7 @@
     "fabric": "ERX 6BS",
     "marca": "ERBS",
     "nome": "BATERIA BIZ / FAN 125 ES 09/TITAN150 MIX 09 ED ERX 6BS ERBS",
-    "estoque": "34",
+    "estoque": "33",
     "preco": "125,98"
   },
   {
@@ -16092,8 +16092,8 @@
     "fabric": "01",
     "marca": "EX RACING",
     "nome": "BOTAO VISEIRA CAPACETE TORK NEW LIBERTY 3 EX RACING PAR",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "500",
+    "preco": "7,34"
   },
   {
     "codigo": "27020",
@@ -21980,7 +21980,7 @@
     "fabric": "TM5002",
     "marca": "TMAC",
     "nome": "CABO ACELERADOR TITAN/FAN 125 2002/08 TMAC",
-    "estoque": "133",
+    "estoque": "132",
     "preco": "9,98"
   },
   {
@@ -26828,7 +26828,7 @@
     "fabric": "KOI0047",
     "marca": "MOTOKOI",
     "nome": "CABO FREIO BIZ 125 05/08 MOTOKOI",
-    "estoque": "42",
+    "estoque": "41",
     "preco": "9,61"
   },
   {
@@ -27668,7 +27668,7 @@
     "fabric": "KOI0051",
     "marca": "MOTOKOI",
     "nome": "CABO FREIO TITAN 02/08 MOTOKOI",
-    "estoque": "29",
+    "estoque": "28",
     "preco": "9,61"
   },
   {
@@ -27732,7 +27732,7 @@
     "fabric": "KOI0043",
     "marca": "MOTOKOI",
     "nome": "CABO FREIO TITAN 150 04/08 MOTOKOI",
-    "estoque": "192",
+    "estoque": "191",
     "preco": "9,44"
   },
   {
@@ -31836,7 +31836,7 @@
     "fabric": "KOI0168",
     "marca": "MOTOKOI",
     "nome": "CAMARA DE AR DIANT/TRAS CG MOTOKOI 18",
-    "estoque": "7700",
+    "estoque": "7698",
     "preco": "15,74"
   },
   {
@@ -31956,7 +31956,7 @@
     "fabric": "KOI0169",
     "marca": "MOTOKOI",
     "nome": "CAMARA DE AR TRAS BIZ MOTOKOI R14",
-    "estoque": "2342",
+    "estoque": "2341",
     "preco": "15,23"
   },
   {
@@ -42924,7 +42924,7 @@
     "fabric": "1309056PFO",
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY MODULAR SOLID SPECIAL PRETO FOSCO 56",
-    "estoque": "0",
+    "estoque": "1",
     "preco": "504"
   },
   {
@@ -44292,7 +44292,7 @@
     "fabric": "MCAP-455GR",
     "marca": "MIXS",
     "nome": "CAPACETE MIXS MX2 STORM PRETO FOSCO/CINZA 56",
-    "estoque": "0",
+    "estoque": "1",
     "preco": "180,6"
   },
   {
@@ -44836,7 +44836,7 @@
     "fabric": "10013434",
     "marca": "TAURUS",
     "nome": "CAPACETE TAURUS SAN MARINO PRETO 60",
-    "estoque": "36",
+    "estoque": "35",
     "preco": "178,49"
   },
   {
@@ -53084,7 +53084,7 @@
     "fabric": "351625",
     "marca": "MELC",
     "nome": "CARENAGEM FRONTAL BIZ 100 04 AZUL MELC (351625)",
-    "estoque": "5",
+    "estoque": "4",
     "preco": "85,11"
   },
   {
@@ -97492,7 +97492,7 @@
     "fabric": "H03800XS",
     "marca": "VAZ",
     "nome": "KIT TRANSMISSAO BIZ 125 VAZ (34/14/428HX106L)",
-    "estoque": "2037",
+    "estoque": "2034",
     "preco": "62,99"
   },
   {
@@ -99556,7 +99556,7 @@
     "fabric": "H4FIT",
     "marca": "PHILIPS",
     "nome": "LAMPADA FAROL TITAN H4 12V 35X35 PHILLIPS FIT",
-    "estoque": "428",
+    "estoque": "426",
     "preco": "28,51"
   },
   {
@@ -99564,7 +99564,7 @@
     "fabric": "TL001",
     "marca": "TMAC",
     "nome": "LAMPADA FAROL TITAN H4 12V 35X35 TMAC",
-    "estoque": "1058",
+    "estoque": "1055",
     "preco": "4,19"
   },
   {
@@ -99604,7 +99604,7 @@
     "fabric": "12499",
     "marca": "PHILIPS",
     "nome": "LAMPADA LANTERNA TRAS. 2 POLOS CG 125 FREIO PHILLIPS",
-    "estoque": "307",
+    "estoque": "306",
     "preco": "4,73"
   },
   {
@@ -102676,7 +102676,7 @@
     "fabric": "123075",
     "marca": "MOBIL",
     "nome": "LUBRIFICANTES MOTO 4T MOBIL 10W30 SEMI-SINTETICO",
-    "estoque": "3717",
+    "estoque": "3715",
     "preco": "31,49"
   },
   {
@@ -102708,7 +102708,7 @@
     "fabric": "121708",
     "marca": "MOBIL",
     "nome": "LUBRIFICANTES MOTO 4T MOBIL 20W50",
-    "estoque": "1703",
+    "estoque": "1701",
     "preco": "25,19"
   },
   {
@@ -102732,7 +102732,7 @@
     "fabric": "111548",
     "marca": "MOTUL",
     "nome": "LUBRIFICANTES MOTO 4T MOTUL 5000+ 10W30",
-    "estoque": "163",
+    "estoque": "161",
     "preco": "40,94"
   },
   {
@@ -107436,7 +107436,7 @@
     "fabric": "284",
     "marca": "PROTEC",
     "nome": "MANICOTO TITAN 2000 KS  DIREITO  S/ROSCA PROTEC",
-    "estoque": "162",
+    "estoque": "161",
     "preco": "11,03"
   },
   {
@@ -125660,7 +125660,7 @@
     "fabric": "1103485",
     "marca": "GP7/GP",
     "nome": "PEDAL CAMBIO XRE 300 CROMADO GP",
-    "estoque": "4",
+    "estoque": "5",
     "preco": "19,62"
   },
   {
@@ -128860,7 +128860,7 @@
     "fabric": "PISCA 27S",
     "marca": "STALLION",
     "nome": "PISCA CB 250 16 ED MOD ESPORTIVO STALLION BASE ORIGINAL (PAR) SEQUENCIAL",
-    "estoque": "530",
+    "estoque": "529",
     "preco": "28,39"
   },
   {
@@ -128868,7 +128868,7 @@
     "fabric": "PISCA 26",
     "marca": "STALLION",
     "nome": "PISCA CB 250 16 ED MOD ESPORTIVO STALLION BASE UNIVERSAL (PAR)",
-    "estoque": "54",
+    "estoque": "52",
     "preco": "22,01"
   },
   {
@@ -135956,7 +135956,7 @@
     "fabric": "6103",
     "marca": "TECHNIC",
     "nome": "PNEU DIANT 2.75-18 TECHNIC SPORT R TT 42P",
-    "estoque": "759",
+    "estoque": "758",
     "preco": "109,2"
   },
   {
@@ -136067,17 +136067,9 @@
     "codigo": "40707",
     "fabric": "",
     "marca": "LEVORIN",
-    "nome": "PNEU DIANT 80/100-18 LEVORIN DAKKAR II TL 47P (SEM CAMARA)",
+    "nome": "PNEU DIANT 80/100-18 LEVORIN DAKAR II TL 47P (SEM CAMARA)",
     "estoque": "49",
     "preco": "239,4"
-  },
-  {
-    "codigo": "6410",
-    "fabric": "18822",
-    "marca": "LEVORIN",
-    "nome": "PNEU DIANT 80/100-18 LEVORIN MATRIX",
-    "estoque": "1715",
-    "preco": "220,4"
   },
   {
     "codigo": "41414",
@@ -136086,6 +136078,14 @@
     "nome": "PNEU DIANT 80/100-18 LEVORIN MATRIX TL 47P (SEM CAMARA)",
     "estoque": "38",
     "preco": "250,41"
+  },
+  {
+    "codigo": "6410",
+    "fabric": "18822",
+    "marca": "LEVORIN",
+    "nome": "PNEU DIANT 80/100-18 LEVORIN MATRIX TT 47P",
+    "estoque": "1715",
+    "preco": "220,4"
   },
   {
     "codigo": "39575",
@@ -136134,14 +136134,6 @@
     "nome": "PNEU DIANT 80/100-18 TECHNIC STROKER TL 47P",
     "estoque": "0",
     "preco": "148,46"
-  },
-  {
-    "codigo": "44174",
-    "fabric": "920005",
-    "marca": "VIPAL",
-    "nome": "PNEU DIANT 80/100-18 VIPAL ST300",
-    "estoque": "0",
-    "preco": "199,49"
   },
   {
     "codigo": "51556",
@@ -137052,7 +137044,7 @@
     "fabric": "100266",
     "marca": "MAGGION",
     "nome": "PNEU TRAS 80/100-14 MAGGION STREET BIZ 100 TT",
-    "estoque": "688",
+    "estoque": "687",
     "preco": "117,59"
   },
   {
@@ -137140,7 +137132,7 @@
     "fabric": "100649",
     "marca": "MAGGION",
     "nome": "PNEU TRAS 90/90-18 MAGGION WINNER TT",
-    "estoque": "1012",
+    "estoque": "1011",
     "preco": "141,75"
   },
   {
@@ -148252,7 +148244,7 @@
     "fabric": "512N",
     "marca": "CORTECO",
     "nome": "RETENTOR CAMBIO CG/TITAN CORTECO",
-    "estoque": "40",
+    "estoque": "39",
     "preco": "13,64"
   },
   {
