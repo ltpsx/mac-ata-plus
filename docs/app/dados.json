@@ -30724,7 +30724,7 @@
     "fabric": "ATRS000-1",
     "marca": "ATROX",
     "nome": "CADEADO TRAVA DISCO PRETO ATROX",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "27,04"
   },
   {
@@ -84208,6 +84208,14 @@
     "preco": "23,63"
   },
   {
+    "codigo": "52894",
+    "fabric": "133700",
+    "marca": "MELC",
+    "nome": "GUIA CABO VELOCIMETRO TITAN 2000 150 09 ED/TITAN 150 14 MELC",
+    "estoque": "0",
+    "preco": "0"
+  },
+  {
     "codigo": "16054",
     "fabric": "25460",
     "marca": "TRILHA",
@@ -84222,6 +84230,14 @@
     "nome": "GUIA CABO VELOCIMETRO TITAN 2000 E ACIMA: BIZ/CG125/TITAN 125 FABRECK",
     "estoque": "0",
     "preco": "2,51"
+  },
+  {
+    "codigo": "52893",
+    "fabric": "131700",
+    "marca": "MELC",
+    "nome": "GUIA CABO VELOCIMETRO TITAN 2000 E ACIMA: BIZ/CG125/TITAN 125 MELC",
+    "estoque": "0",
+    "preco": "0"
   },
   {
     "codigo": "45559",
@@ -84254,6 +84270,14 @@
     "nome": "GUIA CABO VELOCIMETRO TODAY/TITAN 99 PRETO JOJAFER",
     "estoque": "0",
     "preco": "5,24"
+  },
+  {
+    "codigo": "52895",
+    "fabric": "131900",
+    "marca": "MELC",
+    "nome": "GUIA CABO VELOCIMETRO YBR 125/YBR FACTOR MELC",
+    "estoque": "0",
+    "preco": "0"
   },
   {
     "codigo": "25619",
@@ -90180,7 +90204,7 @@
     "fabric": "1443583",
     "marca": "TEXX",
     "nome": "JAQUETA TEXX NEW STRIKE MASCULINA PRETO M",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "506,92"
   },
   {
@@ -90660,7 +90684,7 @@
     "fabric": "11021222",
     "marca": "X11",
     "nome": "JAQUETA X11 BREEZE 2 PRETO 3G",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "639,04"
   },
   {
@@ -102636,7 +102660,7 @@
     "fabric": "4455",
     "marca": "IPIRANGA",
     "nome": "LUBRIFICANTES MOTO 4T IPIRANGA 10W30 SL SEMI-SINTETICO",
-    "estoque": "113",
+    "estoque": "112",
     "preco": "29,39"
   },
   {
@@ -104692,7 +104716,7 @@
     "fabric": "",
     "marca": "X11",
     "nome": "LUVA X11 BLACKOUT PRETO P",
-    "estoque": "7",
+    "estoque": "6",
     "preco": "92,24"
   },
   {
@@ -113196,7 +113220,7 @@
     "fabric": "90205560",
     "marca": "MAGNETRON",
     "nome": "MOTOR PARTIDA TITAN 150/SPORT/MIX/BROS150 06-/FAN150 09 MAGNETRON",
-    "estoque": "4",
+    "estoque": "5",
     "preco": "173,25"
   },
   {
@@ -163372,7 +163396,7 @@
     "fabric": "90222480",
     "marca": "MAGNETRON",
     "nome": "VELA YES 07 ED/INTRUDER 125 07 ED B8RC MAGNETRON",
-    "estoque": "9",
+    "estoque": "8",
     "preco": "6,29"
   },
   {
@@ -164204,7 +164228,7 @@
     "fabric": "4000183",
     "marca": "EBF",
     "nome": "VISEIRA EBF E0X/NEW SPARK INJ 2,00 MM EBF",
-    "estoque": "14",
+    "estoque": "13",
     "preco": "39,38"
   },
   {
