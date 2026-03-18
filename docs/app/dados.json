@@ -5116,7 +5116,7 @@
     "fabric": "KOI0311",
     "marca": "MOTOKOI",
     "nome": "ARO RODA 1.60 X 18 CG/TOD/TIT DIANT MOTOKOI",
-    "estoque": "1002",
+    "estoque": "1001",
     "preco": "62,99"
   },
   {
@@ -6436,7 +6436,7 @@
     "fabric": "102.23.008",
     "marca": "MA",
     "nome": "BAGAGEIRO BIZ 125 11/16 PRETO MA",
-    "estoque": "2",
+    "estoque": "1",
     "preco": "224,92"
   },
   {
@@ -6492,7 +6492,7 @@
     "fabric": "100203102",
     "marca": "POLIMET",
     "nome": "BAGAGEIRO BIZ 125 PRETO REFORCADO POLIMET",
-    "estoque": "3",
+    "estoque": "4",
     "preco": "86,85"
   },
   {
@@ -17756,7 +17756,7 @@
     "fabric": "03503",
     "marca": "DANIDREA",
     "nome": "BUCHA QUADRO ELASTICO TODAY/TITAN/TITAN 150/160 DANIDREA",
-    "estoque": "997",
+    "estoque": "996",
     "preco": "15,74"
   },
   {
@@ -22652,7 +22652,7 @@
     "fabric": "KOI0034",
     "marca": "MOTOKOI",
     "nome": "CABO ACELERADOR XRE 300 \"B\" MOTOKOI",
-    "estoque": "237",
+    "estoque": "236",
     "preco": "7,91"
   },
   {
@@ -24972,7 +24972,7 @@
     "fabric": "KOI0091",
     "marca": "MOTOKOI",
     "nome": "CABO EMBREAGEM FAN 125 ES/KS/ESD 2014 E/D MOTOKOI",
-    "estoque": "380",
+    "estoque": "379",
     "preco": "7,15"
   },
   {
@@ -25844,7 +25844,7 @@
     "fabric": "KOI0090",
     "marca": "MOTOKOI",
     "nome": "CABO EMBREAGEM TITAN 150 14/FAN 150 14 MOTOKOI",
-    "estoque": "214",
+    "estoque": "213",
     "preco": "9,1"
   },
   {
@@ -31068,7 +31068,7 @@
     "fabric": "05007",
     "marca": "DANIDREA",
     "nome": "CAIXA DIRECAO COLAR TITAN 00/TITAN 150/TITAN 160 DANIDREA",
-    "estoque": "70",
+    "estoque": "68",
     "preco": "28,34"
   },
   {
@@ -31844,7 +31844,7 @@
     "fabric": "KOI0168",
     "marca": "MOTOKOI",
     "nome": "CAMARA DE AR DIANT/TRAS CG MOTOKOI 18",
-    "estoque": "6208",
+    "estoque": "6207",
     "preco": "17,33"
   },
   {
@@ -32188,7 +32188,7 @@
     "fabric": "C6008",
     "marca": "CORAMI",
     "nome": "CAMBIO COMPLETO CG 125 83/08 TODAY 89/93",
-    "estoque": "2",
+    "estoque": "1",
     "preco": "215,25"
   },
   {
@@ -54796,7 +54796,7 @@
     "fabric": "SR-15C",
     "marca": "STALLION",
     "nome": "CARREGADOR CELULAR C. SUPORTE STALLION C/CARREGADOR ALUMINIO FIXO RETROVISOR",
-    "estoque": "400",
+    "estoque": "399",
     "preco": "31,49"
   },
   {
@@ -60172,7 +60172,7 @@
     "fabric": "KOI0117",
     "marca": "MOTOKOI",
     "nome": "CILINDRO BENGALA INTERNO TITAN 150/TITAN 160 MOTOKOI",
-    "estoque": "1312",
+    "estoque": "1311",
     "preco": "70,29"
   },
   {
@@ -60188,7 +60188,7 @@
     "fabric": "TM1305",
     "marca": "TMAC",
     "nome": "CILINDRO BENGALA INTERNO TITAN 150/TITAN 160 TMAC",
-    "estoque": "355",
+    "estoque": "354",
     "preco": "59,48"
   },
   {
@@ -60212,7 +60212,7 @@
     "fabric": "KOI0118",
     "marca": "MOTOKOI",
     "nome": "CILINDRO BENGALA INTERNO TITAN 160 EX/START 160 ES LD MOTOKOI",
-    "estoque": "303",
+    "estoque": "302",
     "preco": "97,32"
   },
   {
@@ -80804,7 +80804,7 @@
     "fabric": "OC1019",
     "marca": "MAHLE",
     "nome": "FILTRO OLEO CB 500/HORNET/NINJA 300 MAHLE",
-    "estoque": "57",
+    "estoque": "55",
     "preco": "20,99"
   },
   {
@@ -81068,7 +81068,7 @@
     "fabric": "PSL637",
     "marca": "TECFIL",
     "nome": "FILTRO OLEO HARLEY DAVIDSON TECFIL",
-    "estoque": "8",
+    "estoque": "6",
     "preco": "41,51"
   },
   {
@@ -81172,7 +81172,7 @@
     "fabric": "KOI0355",
     "marca": "MOTOKOI",
     "nome": "FILTRO OLEO TWISTER/FALCON/CB300/XRE300/TORNADO/XLX MOTOKOI",
-    "estoque": "659",
+    "estoque": "658",
     "preco": "4,19"
   },
   {
@@ -93020,7 +93020,7 @@
     "fabric": "TM015",
     "marca": "TMAC",
     "nome": "JOGO RAIO DIANT XTZ 250/LANDER TMAC 4MM",
-    "estoque": "8",
+    "estoque": "7",
     "preco": "46,96"
   },
   {
@@ -93404,7 +93404,7 @@
     "fabric": "TM016",
     "marca": "TMAC",
     "nome": "JOGO RAIO TRAS XTZ 250/LANDER 4MM TMAC",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "39,38"
   },
   {
@@ -95452,7 +95452,7 @@
     "fabric": "1103960",
     "marca": "GP7/GP",
     "nome": "KIT AFOGADOR CARBURADOR TWISTER 01-08 GP7",
-    "estoque": "53",
+    "estoque": "52",
     "preco": "26,78"
   },
   {
@@ -98700,7 +98700,7 @@
     "fabric": "10530012",
     "marca": "SCUD",
     "nome": "KIT TRANSMISSAO TITAN 150 SCUD (43/16/428HX118)",
-    "estoque": "24",
+    "estoque": "23",
     "preco": "75,69"
   },
   {
@@ -98836,7 +98836,7 @@
     "fabric": "H01190XS",
     "marca": "VAZ",
     "nome": "KIT TRANSMISSAO TITAN 2000 VAZ (44/14/428HX116) H01190XS",
-    "estoque": "603",
+    "estoque": "602",
     "preco": "62,99"
   },
   {
@@ -99596,7 +99596,7 @@
     "fabric": "H4FIT",
     "marca": "PHILIPS",
     "nome": "LAMPADA FAROL TITAN H4 12V 35X35 PHILLIPS FIT",
-    "estoque": "335",
+    "estoque": "334",
     "preco": "28,51"
   },
   {
@@ -99644,7 +99644,7 @@
     "fabric": "12499",
     "marca": "PHILIPS",
     "nome": "LAMPADA LANTERNA TRAS. 2 POLOS CG 125 FREIO PHILLIPS",
-    "estoque": "237",
+    "estoque": "235",
     "preco": "4,73"
   },
   {
@@ -102660,7 +102660,7 @@
     "fabric": "4455",
     "marca": "IPIRANGA",
     "nome": "LUBRIFICANTES MOTO 4T IPIRANGA 10W30 SL SEMI-SINTETICO",
-    "estoque": "112",
+    "estoque": "111",
     "preco": "29,39"
   },
   {
@@ -102676,7 +102676,7 @@
     "fabric": "4407",
     "marca": "IPIRANGA",
     "nome": "LUBRIFICANTES MOTO 4T IPIRANGA 20W50 SL",
-    "estoque": "80",
+    "estoque": "55",
     "preco": "22,04"
   },
   {
@@ -102708,7 +102708,7 @@
     "fabric": "123075",
     "marca": "MOBIL",
     "nome": "LUBRIFICANTES MOTO 4T MOBIL 10W30 SEMI-SINTETICO",
-    "estoque": "3868",
+    "estoque": "3867",
     "preco": "31,49"
   },
   {
@@ -102740,7 +102740,7 @@
     "fabric": "121708",
     "marca": "MOBIL",
     "nome": "LUBRIFICANTES MOTO 4T MOBIL 20W50",
-    "estoque": "5293",
+    "estoque": "5268",
     "preco": "25,19"
   },
   {
@@ -102748,7 +102748,7 @@
     "fabric": "110551",
     "marca": "MOTUL",
     "nome": "LUBRIFICANTES MOTO 4T MOTUL 3000+ 20W50",
-    "estoque": "1267",
+    "estoque": "1261",
     "preco": "34,64"
   },
   {
@@ -102844,7 +102844,7 @@
     "fabric": "",
     "marca": "OXFORD",
     "nome": "LUBRIFICANTES MOTO 4T OXFORD 10W30",
-    "estoque": "10967",
+    "estoque": "10966",
     "preco": "16,79"
   },
   {
@@ -102852,7 +102852,7 @@
     "fabric": "2010000001042",
     "marca": "OXFORD",
     "nome": "LUBRIFICANTES MOTO 4T OXFORD 20W50",
-    "estoque": "3672",
+    "estoque": "3671",
     "preco": "13,64"
   },
   {
@@ -124428,7 +124428,7 @@
     "fabric": "KOI0132",
     "marca": "MOTOKOI",
     "nome": "PATIM FREIO TITAN 00/TITAN 150 0,00 DIANT/TRAS MOTOKOI",
-    "estoque": "1649",
+    "estoque": "1647",
     "preco": "16,21"
   },
   {
@@ -126772,7 +126772,7 @@
     "fabric": "LBJ678",
     "marca": "LBJ",
     "nome": "PEDAL PARTIDA TITAN150 04-08/BROS 06-12/FAN125 09-13 LBJ",
-    "estoque": "50",
+    "estoque": "49",
     "preco": "25,44"
   },
   {
@@ -126788,7 +126788,7 @@
     "fabric": "KOI0393",
     "marca": "MOTOKOI",
     "nome": "PEDAL PARTIDA TITAN150 04-08/BROS 06-12/FAN125 09-13 MOTOKOI",
-    "estoque": "160",
+    "estoque": "158",
     "preco": "20,99"
   },
   {
@@ -136180,7 +136180,7 @@
     "fabric": "",
     "marca": "LEVORIN",
     "nome": "PNEU DIANT 90/90-12 LEVORIN MATRIX SCOOTER TL 44J",
-    "estoque": "12",
+    "estoque": "11",
     "preco": "278,25"
   },
   {
@@ -136372,7 +136372,7 @@
     "fabric": "",
     "marca": "LEVORIN",
     "nome": "PNEU TRAS 100/90-10 LEVORIN MATRIX SCOOTER TL",
-    "estoque": "14",
+    "estoque": "13",
     "preco": "262,49"
   },
   {
@@ -144412,7 +144412,7 @@
     "fabric": "1099",
     "marca": "MS EXTENSOR",
     "nome": "REDE ELASTICA PRETO 35 X 35 MS EXTENSOR",
-    "estoque": "296",
+    "estoque": "295",
     "preco": "10,49"
   },
   {
@@ -147452,7 +147452,7 @@
     "fabric": "52001K",
     "marca": "MOTOKOI BR",
     "nome": "REPARO VARAO FREIO CG/TOD/TIT MOTOKOI",
-    "estoque": "95",
+    "estoque": "94",
     "preco": "5,24"
   },
   {
@@ -151996,7 +151996,7 @@
     "fabric": "KOI0396",
     "marca": "MOTOKOI",
     "nome": "ROLAMENTO 6004 COROA TITAN 150 MOTOKOI",
-    "estoque": "113",
+    "estoque": "111",
     "preco": "5,24"
   },
   {
@@ -162028,7 +162028,7 @@
     "fabric": "VE-210026",
     "marca": "VEDAMOTORS",
     "nome": "VALVULA ESCAPE CG/TODAY ATE 91 VEDAMOTORS",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "26,78"
   },
   {
@@ -163260,7 +163260,7 @@
     "fabric": "CPR8EA9",
     "marca": "NGK",
     "nome": "VELA TITAN 150/FAN 150 CPR8EA-9 NGK",
-    "estoque": "256",
+    "estoque": "246",
     "preco": "31,49"
   },
   {
@@ -163284,7 +163284,7 @@
     "fabric": "DP8EA9",
     "marca": "NGK",
     "nome": "VELA TITAN ATE 99 DP8EA-9 NGK",
-    "estoque": "121",
+    "estoque": "111",
     "preco": "18,38"
   },
   {
