@@ -135700,7 +135700,7 @@
     "fabric": "6010",
     "marca": "TECHNIC",
     "nome": "PNEU DIANT 100/80-17 TECHNIC SPORT TWISTER TL 52S",
-    "estoque": "32",
+    "estoque": "53",
     "preco": "199,5"
   },
   {
@@ -135756,7 +135756,7 @@
     "fabric": "6082",
     "marca": "TECHNIC",
     "nome": "PNEU DIANT 110/70-17 TECHNIC SPORT CB 300 TL 54S",
-    "estoque": "16",
+    "estoque": "26",
     "preco": "198,45"
   },
   {
@@ -135764,7 +135764,7 @@
     "fabric": "6197",
     "marca": "TECHNIC",
     "nome": "PNEU DIANT 110/70-17 TECHNIC SPORT R CB 300 TL 54S",
-    "estoque": "1",
+    "estoque": "6",
     "preco": "204,75"
   },
   {
@@ -135932,7 +135932,7 @@
     "fabric": "6133",
     "marca": "TECHNIC",
     "nome": "PNEU DIANT 2.75-17 TECHNIC SPORT R TT 47P",
-    "estoque": "21",
+    "estoque": "26",
     "preco": "122,84"
   },
   {
@@ -135980,7 +135980,7 @@
     "fabric": "6103",
     "marca": "TECHNIC",
     "nome": "PNEU DIANT 2.75-18 TECHNIC SPORT R TT 42P",
-    "estoque": "791",
+    "estoque": "959",
     "preco": "115,49"
   },
   {
@@ -135988,7 +135988,7 @@
     "fabric": "6050",
     "marca": "TECHNIC",
     "nome": "PNEU DIANT 2.75-18 TECHNIC SPORT TL 42P",
-    "estoque": "23",
+    "estoque": "43",
     "preco": "131,25"
   },
   {
@@ -136012,8 +136012,8 @@
     "fabric": "3007",
     "marca": "TECHNIC",
     "nome": "PNEU DIANT 2.75-18 TECHNIC TIGER TT 42P",
-    "estoque": "59",
-    "preco": "109,2"
+    "estoque": "90",
+    "preco": "115,49"
   },
   {
     "codigo": "35873",
@@ -136076,7 +136076,7 @@
     "fabric": "6153",
     "marca": "TECHNIC",
     "nome": "PNEU DIANT 60/100-17 TECHNIC SPORT R BIZ TT 33L",
-    "estoque": "10",
+    "estoque": "21",
     "preco": "94,49"
   },
   {
@@ -136300,7 +136300,7 @@
     "fabric": "3067",
     "marca": "TECHNIC",
     "nome": "PNEU DIANT 90/90-21 TECHNIC PLUS TT 54S",
-    "estoque": "2",
+    "estoque": "3",
     "preco": "226,8"
   },
   {
@@ -136364,8 +136364,8 @@
     "fabric": "6120",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 100/80-18 TECHNIC SPORT R TL 53P",
-    "estoque": "2",
-    "preco": "202,64"
+    "estoque": "7",
+    "preco": "194,25"
   },
   {
     "codigo": "28987",
@@ -136420,7 +136420,7 @@
     "fabric": "3044",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 100/90-17 TECHNIC TMX TT 55M",
-    "estoque": "1",
+    "estoque": "5",
     "preco": "250,94"
   },
   {
@@ -136492,7 +136492,7 @@
     "fabric": "6123",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 100/90-18 TECHNIC SPORT R TT 62P",
-    "estoque": "9",
+    "estoque": "13",
     "preco": "193,18"
   },
   {
@@ -136620,7 +136620,7 @@
     "fabric": "3231",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 120/100-18 TECHNIC TXC TT 68R",
-    "estoque": "2",
+    "estoque": "3",
     "preco": "404,25"
   },
   {
@@ -136628,7 +136628,7 @@
     "fabric": "6191",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 120/70-14 TECHNIC SPORT R TL 69",
-    "estoque": "2",
+    "estoque": "4",
     "preco": "199,49"
   },
   {
@@ -136796,7 +136796,7 @@
     "fabric": "3068",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 130/80-17 TECHNIC TEC PLUS FALCON/XT 600 TT 65S",
-    "estoque": "0",
+    "estoque": "6",
     "preco": "414,76"
   },
   {
@@ -136852,7 +136852,7 @@
     "fabric": "6092",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 140/70-17 TECHNIC SPORT CB 300 TL 66S",
-    "estoque": "9",
+    "estoque": "19",
     "preco": "304,54"
   },
   {
@@ -136860,7 +136860,7 @@
     "fabric": "6199",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 140/70-17 TECHNIC SPORT R CB 300 TL 66S",
-    "estoque": "8",
+    "estoque": "18",
     "preco": "304,5"
   },
   {
@@ -137092,8 +137092,8 @@
     "fabric": "6213",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 80/100-14 TECHNIC SPORT R BIZ TT 49L",
-    "estoque": "16",
-    "preco": "103,95"
+    "estoque": "27",
+    "preco": "110,24"
   },
   {
     "codigo": "33783",
@@ -137204,7 +137204,7 @@
     "fabric": "6119",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 90/90-18 TECHNIC SPORT R TL 57P",
-    "estoque": "4",
+    "estoque": "14",
     "preco": "167,99"
   },
   {
@@ -137212,7 +137212,7 @@
     "fabric": "6113",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 90/90-18 TECHNIC SPORT R TT 57P",
-    "estoque": "568",
+    "estoque": "988",
     "preco": "131,25"
   },
   {
@@ -137244,8 +137244,8 @@
     "fabric": "3008",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 90/90-18 TECHNIC TIGER TT 57P",
-    "estoque": "83",
-    "preco": "124,95"
+    "estoque": "146",
+    "preco": "131,25"
   },
   {
     "codigo": "9626",
