@@ -8316,7 +8316,7 @@
     "fabric": "MTX6L-BS",
     "marca": "MOTOKOI BR",
     "nome": "BATERIA BIZ / FAN 125 ES 09/TITAN150 MIX 09 ED MTX6L-BS MOTOKOI",
-    "estoque": "565",
+    "estoque": "563",
     "preco": "111,29"
   },
   {
@@ -21692,7 +21692,7 @@
     "fabric": "KOI0039",
     "marca": "MOTOKOI",
     "nome": "CABO ACELERADOR TITAN 150 14/FAN 150 2014 \"B\" MOTOKOI",
-    "estoque": "397",
+    "estoque": "396",
     "preco": "8,63"
   },
   {
@@ -21820,7 +21820,7 @@
     "fabric": "90.20830312",
     "marca": "CONTROLFLEX",
     "nome": "CABO ACELERADOR TITAN 150 2012/13 CONTROFLEX +",
-    "estoque": "7",
+    "estoque": "6",
     "preco": "13,13"
   },
   {
@@ -31708,7 +31708,7 @@
     "fabric": "KOI0167",
     "marca": "MOTOKOI",
     "nome": "CAMARA DE AR DIANT BIZ MOTOKOI (250-17)",
-    "estoque": "1291",
+    "estoque": "1289",
     "preco": "16,79"
   },
   {
@@ -31756,7 +31756,7 @@
     "fabric": "KOI0291",
     "marca": "MOTOKOI",
     "nome": "CAMARA DE AR DIANT BROS/XTZ/CB 400/450 MOTOKOI T19",
-    "estoque": "272",
+    "estoque": "271",
     "preco": "18,89"
   },
   {
@@ -31852,7 +31852,7 @@
     "fabric": "KOI0168",
     "marca": "MOTOKOI",
     "nome": "CAMARA DE AR DIANT/TRAS CG MOTOKOI 18",
-    "estoque": "6101",
+    "estoque": "6091",
     "preco": "17,33"
   },
   {
@@ -31972,7 +31972,7 @@
     "fabric": "KOI0169",
     "marca": "MOTOKOI",
     "nome": "CAMARA DE AR TRAS BIZ MOTOKOI R14",
-    "estoque": "1689",
+    "estoque": "1688",
     "preco": "16,79"
   },
   {
@@ -32084,7 +32084,7 @@
     "fabric": "KOI0289",
     "marca": "MOTOKOI",
     "nome": "CAMARA DE AR TRAS TWISTER/BROS/FALCON MOTOKOI (4.00-R17)",
-    "estoque": "318",
+    "estoque": "317",
     "preco": "20,99"
   },
   {
@@ -33716,6 +33716,14 @@
     "fabric": "KOI0935",
     "marca": "MOTOKOI BR",
     "nome": "CAPA BANCO HAOJUE DR 160 FI 2018 PRETA MOTOKOI",
+    "estoque": "0",
+    "preco": "0"
+  },
+  {
+    "codigo": "52908",
+    "fabric": "KOI0936",
+    "marca": "MOTOKOI BR",
+    "nome": "CAPA BANCO HAOJUE NK 150 2020 PRETA MOTOKOI",
     "estoque": "0",
     "preco": "0"
   },
@@ -35492,7 +35500,7 @@
     "fabric": "1005001143",
     "marca": "PROTERCAPAS",
     "nome": "CAPA CHUVA PROTERCAPA NYLON UNISEX GG",
-    "estoque": "21",
+    "estoque": "20",
     "preco": "148,46"
   },
   {
@@ -35662,14 +35670,6 @@
     "nome": "CAPA CONTATO XLR 125 MELC",
     "estoque": "0",
     "preco": "41,99"
-  },
-  {
-    "codigo": "52908",
-    "fabric": "KOI0936",
-    "marca": "MOTOKOI BR",
-    "nome": "CAPA DE BANCO HAOJUE NK 150 2020 PRETA MOTOKOI",
-    "estoque": "0",
-    "preco": "0"
   },
   {
     "codigo": "47775",
@@ -36312,6 +36312,14 @@
     "preco": "21,97"
   },
   {
+    "codigo": "52914",
+    "fabric": "KOI0938",
+    "marca": "PROTERCAPAS",
+    "nome": "CAPA TANQUE FAN 125/CARGO 150/160/START 150/160 14/24 PRETA PROTERCAPAS",
+    "estoque": "0",
+    "preco": "0"
+  },
+  {
     "codigo": "15346",
     "fabric": "15421",
     "marca": "PRG",
@@ -36454,6 +36462,14 @@
     "nome": "CAPA TANQUE TITAN 160 17 PRETO RAFANY/PRG",
     "estoque": "0",
     "preco": "32,61"
+  },
+  {
+    "codigo": "52913",
+    "fabric": "KOI0937",
+    "marca": "PROTERCAPAS",
+    "nome": "CAPA TANQUE TITAN 160/FAN 160/CARGO 160 16/22 PRETO PROTERCAPAS",
+    "estoque": "0",
+    "preco": "0"
   },
   {
     "codigo": "9489",
@@ -41036,7 +41052,7 @@
     "fabric": "1250058PFO",
     "marca": "EBF",
     "nome": "CAPACETE EBF SPARK JET SOLID PRETO FOSCO 58",
-    "estoque": "17",
+    "estoque": "16",
     "preco": "114,45"
   },
   {
@@ -44836,7 +44852,7 @@
     "fabric": "10013516",
     "marca": "TAURUS",
     "nome": "CAPACETE TAURUS SAN MARINO FEMME PRETO 56",
-    "estoque": "86",
+    "estoque": "85",
     "preco": "178,48"
   },
   {
@@ -44844,7 +44860,7 @@
     "fabric": "",
     "marca": "TAURUS",
     "nome": "CAPACETE TAURUS SAN MARINO FEMME PRETO 58",
-    "estoque": "58",
+    "estoque": "57",
     "preco": "178,48"
   },
   {
@@ -55844,7 +55860,7 @@
     "fabric": "2606",
     "marca": "PROJETIL",
     "nome": "CAVALETE LATERAL TITAN 150 C/ BORRACHA PROJETIL",
-    "estoque": "239",
+    "estoque": "238",
     "preco": "23,1"
   },
   {
@@ -92316,7 +92332,7 @@
     "fabric": "VS10700000800",
     "marca": "VEDAMOTORS",
     "nome": "JOGO JUNTAS RD 135/RDZ 135 VEDAMOTORS",
-    "estoque": "2",
+    "estoque": "1",
     "preco": "47,25"
   },
   {
@@ -93140,7 +93156,7 @@
     "fabric": "KOI0119",
     "marca": "MOTOKOI",
     "nome": "JOGO RAIO DIANT/TRAS TITAN/FAN KS 2000/150 MOTOKOI 4MM",
-    "estoque": "8420",
+    "estoque": "8419",
     "preco": "19,94"
   },
   {
@@ -97268,7 +97284,7 @@
     "fabric": "51208",
     "marca": "MOTOBOR",
     "nome": "KIT MECANISMO SAN MARINO COMPLETO MOTOBOR",
-    "estoque": "113",
+    "estoque": "112",
     "preco": "7,63"
   },
   {
@@ -98780,7 +98796,7 @@
     "fabric": "H03673XS",
     "marca": "VAZ",
     "nome": "KIT TRANSMISSAO TITAN 150 VAZ (43/16/428HX118L) H03673XS",
-    "estoque": "4486",
+    "estoque": "4485",
     "preco": "62,99"
   },
   {
@@ -102812,7 +102828,7 @@
     "fabric": "121708",
     "marca": "MOBIL",
     "nome": "LUBRIFICANTES MOTO 4T MOBIL 20W50",
-    "estoque": "5108",
+    "estoque": "5107",
     "preco": "25,19"
   },
   {
@@ -102924,7 +102940,7 @@
     "fabric": "2010000001042",
     "marca": "OXFORD",
     "nome": "LUBRIFICANTES MOTO 4T OXFORD 20W50",
-    "estoque": "3541",
+    "estoque": "3540",
     "preco": "13,64"
   },
   {
@@ -119940,7 +119956,7 @@
     "fabric": "302703",
     "marca": "MELC",
     "nome": "PARALAMA DIANT TITAN 150 04/08 PRETO MELC (302703)",
-    "estoque": "64",
+    "estoque": "63",
     "preco": "34,13"
   },
   {
@@ -127588,7 +127604,7 @@
     "fabric": "68396",
     "marca": "EX RACING",
     "nome": "PESO GUIDAO PCX 150 19 ED CROMADO EX RACING COM BUCHA (PAR)",
-    "estoque": "204",
+    "estoque": "203",
     "preco": "36,31"
   },
   {
@@ -130292,7 +130308,7 @@
     "fabric": "6806",
     "marca": "GVS",
     "nome": "PISCA TITAN 150 14/FAN 150 14 DE/TD CRISTAL GVS",
-    "estoque": "4",
+    "estoque": "3",
     "preco": "36,75"
   },
   {
@@ -130452,7 +130468,7 @@
     "fabric": "TC094",
     "marca": "TMAC",
     "nome": "PISCA TITAN 2000/XRE300/CB300R DD/TE COMPLETO C/ COXIM LARANJA TMAC",
-    "estoque": "90",
+    "estoque": "88",
     "preco": "13,13"
   },
   {
@@ -130508,7 +130524,7 @@
     "fabric": "1134",
     "marca": "ELFA",
     "nome": "PISCA TITAN 2000/XRE300/CB300R DE/TD COMPLETO C/ COXIM LARANJA ELFA",
-    "estoque": "213",
+    "estoque": "212",
     "preco": "8,39"
   },
   {
@@ -136084,7 +136100,7 @@
     "fabric": "",
     "marca": "MAGGION",
     "nome": "PNEU DIANT 60/100-17 MAGGION  BIZ 100 /DREAM STREETFIGHTER MF7 TT",
-    "estoque": "332",
+    "estoque": "331",
     "preco": "100,79"
   },
   {
@@ -137156,7 +137172,7 @@
     "fabric": "",
     "marca": "MICHELIN",
     "nome": "PNEU TRAS 90/90-18 MICHELIN CITY EXTRA TL 57S",
-    "estoque": "55",
+    "estoque": "54",
     "preco": "293,99"
   },
   {
@@ -166364,7 +166380,7 @@
     "fabric": "1010C",
     "marca": "POLIVISOR",
     "nome": "VISEIRA TAURUS SAN MARINO 0,80 MM CRISTAL POLIVISOR",
-    "estoque": "319",
+    "estoque": "317",
     "preco": "5,51"
   },
   {
@@ -166444,7 +166460,7 @@
     "fabric": "1010F",
     "marca": "POLIVISOR",
     "nome": "VISEIRA TAURUS SAN MARINO 0,80 MM FUME POLIVISOR",
-    "estoque": "257",
+    "estoque": "256",
     "preco": "6,62"
   },
   {
