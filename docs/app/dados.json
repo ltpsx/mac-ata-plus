@@ -3444,7 +3444,7 @@
     "fabric": "KOI0180",
     "marca": "MOTOKOI",
     "nome": "AMORTECEDOR TITAN 150 MOTOKOI (PAR)",
-    "estoque": "79",
+    "estoque": "78",
     "preco": "126"
   },
   {
@@ -5180,7 +5180,7 @@
     "fabric": "KOI0313",
     "marca": "MOTOKOI",
     "nome": "ARO RODA 1.85 X 18 CG/TOD/TIT TRAS MOTOKOI",
-    "estoque": "1244",
+    "estoque": "1243",
     "preco": "73,49"
   },
   {
@@ -8332,7 +8332,7 @@
     "fabric": "MTX6L-BS",
     "marca": "MOTOKOI BR",
     "nome": "BATERIA BIZ / FAN 125 ES 09/TITAN150 MIX 09 ED MTX6L-BS MOTOKOI",
-    "estoque": "519",
+    "estoque": "517",
     "preco": "111,29"
   },
   {
@@ -11324,7 +11324,7 @@
     "fabric": "802000",
     "marca": "MELC",
     "nome": "BLOCO OPTICO TWISTER MELC (802000)",
-    "estoque": "10",
+    "estoque": "9",
     "preco": "25"
   },
   {
@@ -15164,7 +15164,7 @@
     "fabric": "44064K",
     "marca": "MOTOKOI BR",
     "nome": "BORRACHA PEDALEIRA CG/TITAN DIANT. MOTOKOI ***PAR***",
-    "estoque": "456",
+    "estoque": "455",
     "preco": "6,87"
   },
   {
@@ -28684,7 +28684,7 @@
     "fabric": "26050",
     "marca": "R1",
     "nome": "CABO VELOCIMETRO BIZ 100 98/04 R1",
-    "estoque": "182",
+    "estoque": "181",
     "preco": "10,49"
   },
   {
@@ -29676,7 +29676,7 @@
     "fabric": "TM7005",
     "marca": "TMAC",
     "nome": "CABO VELOCIMETRO TITAN 150 2009 TMAC",
-    "estoque": "138",
+    "estoque": "137",
     "preco": "9,53"
   },
   {
@@ -31876,7 +31876,7 @@
     "fabric": "KOI0168",
     "marca": "MOTOKOI",
     "nome": "CAMARA DE AR DIANT/TRAS CG MOTOKOI 18",
-    "estoque": "5802",
+    "estoque": "5801",
     "preco": "17,33"
   },
   {
@@ -31996,7 +31996,7 @@
     "fabric": "KOI0169",
     "marca": "MOTOKOI",
     "nome": "CAMARA DE AR TRAS BIZ MOTOKOI R14",
-    "estoque": "1631",
+    "estoque": "1630",
     "preco": "16,79"
   },
   {
@@ -34436,7 +34436,7 @@
     "fabric": "KOI0226",
     "marca": "MOTOKOI BR",
     "nome": "CAPA BANCO TITAN 150 04-08/JOB/SPORT MOTOKOI",
-    "estoque": "193",
+    "estoque": "191",
     "preco": "17,61"
   },
   {
@@ -34468,7 +34468,7 @@
     "fabric": "KOI0227",
     "marca": "MOTOKOI BR",
     "nome": "CAPA BANCO TITAN 150 09/13/FAN 150 09/13/FAN 125 09/13 MOTOKOI",
-    "estoque": "33",
+    "estoque": "32",
     "preco": "17,61"
   },
   {
@@ -35524,7 +35524,7 @@
     "fabric": "1005001143",
     "marca": "PROTERCAPAS",
     "nome": "CAPA CHUVA PROTERCAPA NYLON UNISEX GG",
-    "estoque": "12",
+    "estoque": "11",
     "preco": "148,46"
   },
   {
@@ -35668,7 +35668,7 @@
     "fabric": "1004001131",
     "marca": "PROTERCAPAS",
     "nome": "CAPA CHUVA PROTERCAPAS PVC LIDER M",
-    "estoque": "25",
+    "estoque": "24",
     "preco": "89,24"
   },
   {
@@ -37304,26 +37304,26 @@
     "preco": "0"
   },
   {
-    "codigo": "52960",
-    "fabric": "52960",
+    "codigo": "52962",
+    "fabric": "52962",
     "marca": "BIEFFE",
     "nome": "CAPACETE BIEFFE B-12 KF",
+    "estoque": "0",
+    "preco": "0"
+  },
+  {
+    "codigo": "52960",
+    "fabric": "C02016210ED56",
+    "marca": "BIEFFE",
+    "nome": "CAPACETE BIEFFE B-12 KF BRANCO PEROLA/ROXO 56 (2 VISEIRAS)",
     "estoque": "0",
     "preco": "0"
   },
   {
     "codigo": "52961",
-    "fabric": "52961",
+    "fabric": "C02016210ED58",
     "marca": "BIEFFE",
-    "nome": "CAPACETE BIEFFE B-12 KF",
-    "estoque": "0",
-    "preco": "0"
-  },
-  {
-    "codigo": "52962",
-    "fabric": "52962",
-    "marca": "BIEFFE",
-    "nome": "CAPACETE BIEFFE B-12 KF",
+    "nome": "CAPACETE BIEFFE B-12 KF BRANCO PEROLA/ROXO 58 (2 VISEIRAS)",
     "estoque": "0",
     "preco": "0"
   },
@@ -45044,7 +45044,7 @@
     "fabric": "10013432",
     "marca": "TAURUS",
     "nome": "CAPACETE TAURUS SAN MARINO PRETO 56",
-    "estoque": "207",
+    "estoque": "206",
     "preco": "178,49"
   },
   {
@@ -47340,7 +47340,7 @@
     "fabric": "822000",
     "marca": "MELC",
     "nome": "CARCACA FAROL TWISTER 06/08 MELC (822000)",
-    "estoque": "6",
+    "estoque": "5",
     "preco": "10,44"
   },
   {
@@ -47772,7 +47772,7 @@
     "fabric": "102000",
     "marca": "MELC",
     "nome": "CARCACA PAINEL INFERIOR TWISTER 01/08 PRETA MELC (102000)",
-    "estoque": "10",
+    "estoque": "9",
     "preco": "12,6"
   },
   {
@@ -48916,7 +48916,7 @@
     "fabric": "07016",
     "marca": "PLASMOTO",
     "nome": "CARCACA PAINEL SUPERIOR TWISTER PRATA PLASMOTO",
-    "estoque": "6",
+    "estoque": "5",
     "preco": "30,44"
   },
   {
@@ -61004,7 +61004,7 @@
     "fabric": "KOI0333",
     "marca": "MOTOKOI",
     "nome": "CILINDRO MESTRE FREIO TITAN 2000/TITAN 150/TITAN 160/CBX 200/CBX 250 SUPERIOR MOTOKOI",
-    "estoque": "153",
+    "estoque": "152",
     "preco": "47,24"
   },
   {
@@ -76388,7 +76388,7 @@
     "fabric": "TM725",
     "marca": "TMAC",
     "nome": "ESTATOR FAN 125 09/15 TMAC",
-    "estoque": "13",
+    "estoque": "12",
     "preco": "83,99"
   },
   {
@@ -93292,7 +93292,7 @@
     "fabric": "KOI0119",
     "marca": "MOTOKOI",
     "nome": "JOGO RAIO DIANT/TRAS TITAN/FAN KS 2000/150 MOTOKOI 4MM",
-    "estoque": "8384",
+    "estoque": "8382",
     "preco": "19,94"
   },
   {
@@ -95148,7 +95148,7 @@
     "fabric": "VS05022010005",
     "marca": "VEDAMOTORS",
     "nome": "JUNTA TENSOR CORRENTE COMANDO TITAN 150 04/08/TITAN 160/BROS 160 VEDAMOTORS",
-    "estoque": "62",
+    "estoque": "61",
     "preco": "2,92"
   },
   {
@@ -98404,7 +98404,7 @@
     "fabric": "001-KOI-040H0",
     "marca": "MOTOKOI",
     "nome": "KIT TRANSMISSAO FAZER 250 MOTOKOI (45/15/428HX132L)",
-    "estoque": "41",
+    "estoque": "40",
     "preco": "76,13"
   },
   {
@@ -99604,7 +99604,7 @@
     "fabric": "12153M512V",
     "marca": "PHILIPS",
     "nome": "LAMPADA FAROL BIZ 100/125/DREAM/BROS 150 09/12 PHILLIPS M5",
-    "estoque": "173",
+    "estoque": "172",
     "preco": "23,63"
   },
   {
@@ -99620,7 +99620,7 @@
     "fabric": "ST-ELF-07",
     "marca": "STALLION",
     "nome": "LAMPADA FAROL BIZ 100/125/DREAM/BROS 150 09/12 STALLION M5 LED",
-    "estoque": "344",
+    "estoque": "342",
     "preco": "23,63"
   },
   {
@@ -99684,7 +99684,7 @@
     "fabric": "1105721",
     "marca": "KEISI",
     "nome": "LAMPADA FAROL CRF 230 KEISI M5 12V 35W",
-    "estoque": "20",
+    "estoque": "18",
     "preco": "3,68"
   },
   {
@@ -99980,7 +99980,7 @@
     "fabric": "LF-01 SB",
     "marca": "STALLION",
     "nome": "LAMPADA LED FAROL TITAN H4 LED STALLION",
-    "estoque": "2248",
+    "estoque": "2247",
     "preco": "18,38"
   },
   {
@@ -102948,7 +102948,7 @@
     "fabric": "121708",
     "marca": "MOBIL",
     "nome": "LUBRIFICANTES MOTO 4T MOBIL 20W50",
-    "estoque": "4865",
+    "estoque": "4861",
     "preco": "25,19"
   },
   {
@@ -119988,7 +119988,7 @@
     "fabric": "301712",
     "marca": "MELC",
     "nome": "PARALAMA DIANT TITAN 04 FAN 06/08 PRETO MELC (301712)",
-    "estoque": "27",
+    "estoque": "26",
     "preco": "20,99"
   },
   {
@@ -124748,7 +124748,7 @@
     "fabric": "KOI-00100 C",
     "marca": "MOTOKOI BR",
     "nome": "PATIM FREIO TITAN 00/TITAN 150 0,75 DIANT/TRAS MOTOKOI BR",
-    "estoque": "906",
+    "estoque": "905",
     "preco": "17,84"
   },
   {
@@ -124756,7 +124756,7 @@
     "fabric": "KOI-00100 D",
     "marca": "MOTOKOI BR",
     "nome": "PATIM FREIO TITAN 00/TITAN 150 1,00 DIANT/TRAS MOTOKOI BR",
-    "estoque": "489",
+    "estoque": "488",
     "preco": "17,84"
   },
   {
@@ -137300,7 +137300,7 @@
     "fabric": "",
     "marca": "MICHELIN",
     "nome": "PNEU TRAS 90/90-18 MICHELIN PILOT STREET 2 TL 57S",
-    "estoque": "4",
+    "estoque": "3",
     "preco": "301,78"
   },
   {
@@ -138588,7 +138588,7 @@
     "fabric": "TM7216",
     "marca": "TMAC",
     "nome": "PRESILHA FIXACAO CARENAGEM TITAN 160/TITAN 150 14/FAZER 150 TMAC",
-    "estoque": "926",
+    "estoque": "922",
     "preco": "0,6"
   },
   {
@@ -148108,7 +148108,7 @@
     "fabric": "P40FORK455015",
     "marca": "VEDAMOTORS",
     "nome": "RETENTOR BENGALA TITAN 150/CBX 150/BROS VEDAMOTORS (PAR)",
-    "estoque": "23",
+    "estoque": "22",
     "preco": "18,66"
   },
   {
@@ -151644,7 +151644,7 @@
     "fabric": "4770",
     "marca": "GVS",
     "nome": "RETROVISOR TITAN 150 PAR GVS",
-    "estoque": "13",
+    "estoque": "11",
     "preco": "23,63"
   },
   {
@@ -155868,7 +155868,7 @@
     "fabric": "3790",
     "marca": "PROJETIL",
     "nome": "SUPORTE PARALAMA DIANT FAN 125 2009 PROJETIL",
-    "estoque": "21",
+    "estoque": "20",
     "preco": "30,74"
   },
   {
@@ -166612,7 +166612,7 @@
     "fabric": "1010C",
     "marca": "POLIVISOR",
     "nome": "VISEIRA TAURUS SAN MARINO 0,80 MM CRISTAL POLIVISOR",
-    "estoque": "287",
+    "estoque": "285",
     "preco": "5,51"
   },
   {
@@ -168148,7 +168148,7 @@
     "fabric": "90230920",
     "marca": "MAGNETRON",
     "nome": "VOLANTE FAN 125 09 ES MAGNETRON",
-    "estoque": "14",
+    "estoque": "13",
     "preco": "291,11"
   },
   {
