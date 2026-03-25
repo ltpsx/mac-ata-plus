@@ -8332,7 +8332,7 @@
     "fabric": "MTX6L-BS",
     "marca": "MOTOKOI BR",
     "nome": "BATERIA BIZ / FAN 125 ES 09/TITAN150 MIX 09 ED MTX6L-BS MOTOKOI",
-    "estoque": "474",
+    "estoque": "473",
     "preco": "111,29"
   },
   {
@@ -16124,7 +16124,7 @@
     "fabric": "01",
     "marca": "EX RACING",
     "nome": "BOTAO VISEIRA CAPACETE TORK NEW LIBERTY 3 EX RACING PAR",
-    "estoque": "372",
+    "estoque": "371",
     "preco": "7,34"
   },
   {
@@ -22700,7 +22700,7 @@
     "fabric": "031150-00-1",
     "marca": "SCHERER/SORETTO",
     "nome": "CABO ACELERADOR XT 600/XT 600E 93/94 SORETTO",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "83,4"
   },
   {
@@ -26300,7 +26300,7 @@
     "fabric": "KOI0304",
     "marca": "MOTOKOI",
     "nome": "CABO EMBREAGEM XRE 300/XRE 300 10 ED MOTOKOI",
-    "estoque": "41",
+    "estoque": "40",
     "preco": "9,44"
   },
   {
@@ -29612,7 +29612,7 @@
     "fabric": "KOI0060",
     "marca": "MOTOKOI",
     "nome": "CABO VELOCIMETRO TITAN 150 04/08 MOTOKOI",
-    "estoque": "248",
+    "estoque": "247",
     "preco": "8,93"
   },
   {
@@ -31380,7 +31380,7 @@
     "fabric": "",
     "marca": "TRILHA",
     "nome": "CAIXA DIRECAO CONICO YBR/RD/DT180/NEO TRILHA",
-    "estoque": "6",
+    "estoque": "5",
     "preco": "18,26"
   },
   {
@@ -61276,7 +61276,7 @@
     "fabric": "KOI0334",
     "marca": "MOTOKOI",
     "nome": "CILINDRO MESTRE FREIO TWISTER/CB300R SUPERIOR COMPLETO MOTOKOI",
-    "estoque": "14",
+    "estoque": "13",
     "preco": "57,74"
   },
   {
@@ -67756,7 +67756,7 @@
     "fabric": "21513005900",
     "marca": "TEKBOND",
     "nome": "DESCARBONIZANTE TEKSPRAY 300 ML TEKBOND",
-    "estoque": "106",
+    "estoque": "105",
     "preco": "25,2"
   },
   {
@@ -80996,7 +80996,7 @@
     "fabric": "KL741",
     "marca": "MAHLE",
     "nome": "FILTRO COMBUSTIVEL TITAN 150 09 MIX/FLEX MAHLE",
-    "estoque": "70",
+    "estoque": "69",
     "preco": "12,59"
   },
   {
@@ -81612,7 +81612,7 @@
     "fabric": "KOI0355",
     "marca": "MOTOKOI",
     "nome": "FILTRO OLEO TWISTER/FALCON/CB300/XRE300/TORNADO/XLX MOTOKOI",
-    "estoque": "565",
+    "estoque": "564",
     "preco": "4,19"
   },
   {
@@ -82236,7 +82236,7 @@
     "fabric": "221",
     "marca": "IPIRANGA",
     "nome": "FLUIDO FREIO DOT 4 IPIRANGA 200ML",
-    "estoque": "11",
+    "estoque": "10",
     "preco": "15,26"
   },
   {
@@ -84948,7 +84948,7 @@
     "fabric": "TC3512",
     "marca": "TMAC",
     "nome": "GUIA CORRENTE COMANDO TITAN 150/FAN 09 TMAC",
-    "estoque": "72",
+    "estoque": "71",
     "preco": "5,78"
   },
   {
@@ -94292,7 +94292,7 @@
     "fabric": "VE05001010101",
     "marca": "VEDAMOTORS",
     "nome": "JUNTA CABECOTE TITAN 150/FAN 150/NXR 150 VEDAMOTORS",
-    "estoque": "37",
+    "estoque": "36",
     "preco": "10,49"
   },
   {
@@ -94940,7 +94940,7 @@
     "fabric": "VS05003010301",
     "marca": "VEDAMOTORS",
     "nome": "JUNTA TAMPA LATERAL DIREITO TITAN 150/BROS 150 06/07 VEDAMOTORS",
-    "estoque": "118",
+    "estoque": "119",
     "preco": "8,64"
   },
   {
@@ -99140,7 +99140,7 @@
     "fabric": "H03673XS",
     "marca": "VAZ",
     "nome": "KIT TRANSMISSAO TITAN 150 VAZ (43/16/428HX118L) H03673XS",
-    "estoque": "4371",
+    "estoque": "4370",
     "preco": "62,99"
   },
   {
@@ -99804,7 +99804,7 @@
     "fabric": "VE05084000001",
     "marca": "VEDAMOTORS",
     "nome": "KIT VEDACAO TAMPA VALVULA TITAN 150 VEDAMOTORS - GUARNICAO + 2 RETENTORES",
-    "estoque": "117",
+    "estoque": "116",
     "preco": "10,49"
   },
   {
@@ -103113,7 +103113,7 @@
   },
   {
     "codigo": "45368",
-    "fabric": "",
+    "fabric": "01026931",
     "marca": "LUBRAX",
     "nome": "LUBRIFICANTES MOTO 4T LUBRAX 10W30 SL PROFISSIONAL",
     "estoque": "0",
@@ -103172,7 +103172,7 @@
     "fabric": "121708",
     "marca": "MOBIL",
     "nome": "LUBRIFICANTES MOTO 4T MOBIL 20W50",
-    "estoque": "4747",
+    "estoque": "4743",
     "preco": "25,19"
   },
   {
@@ -103196,7 +103196,7 @@
     "fabric": "111548",
     "marca": "MOTUL",
     "nome": "LUBRIFICANTES MOTO 4T MOTUL 5000+ 10W30",
-    "estoque": "629",
+    "estoque": "628",
     "preco": "40,94"
   },
   {
@@ -107084,7 +107084,7 @@
     "fabric": "1085",
     "marca": "PROTEC",
     "nome": "MANETE FREIO TITAN 160 DISCO PROTEC",
-    "estoque": "48",
+    "estoque": "47",
     "preco": "7,63"
   },
   {
@@ -116012,7 +116012,7 @@
     "fabric": "1099P",
     "marca": "POLIVISOR",
     "nome": "PALA SAN MARINO PRETO POLIVISOR",
-    "estoque": "25",
+    "estoque": "24",
     "preco": "19,43"
   },
   {
@@ -122404,7 +122404,7 @@
     "fabric": "N1840",
     "marca": "COBREQ",
     "nome": "PASTILHA FREIO BROS 160/CB 250 TWISTER/CRF 250 2015/XRE 300 22 C/ABS TRASEIRA COBREQ N-1840",
-    "estoque": "188",
+    "estoque": "187",
     "preco": "30,45"
   },
   {
@@ -123084,7 +123084,7 @@
     "fabric": "N917",
     "marca": "COBREQ",
     "nome": "PASTILHA FREIO FALCON/BROSS/TORNADO/XR200/NX350/XRE300/BROS 160 SEM ABS DIANTEIRO COBREQ N-917",
-    "estoque": "337",
+    "estoque": "336",
     "preco": "30,21"
   },
   {
@@ -127660,7 +127660,7 @@
     "fabric": "P-254",
     "marca": "PROTEC",
     "nome": "PEDALEIRA TITAN 160/FAN 160 PROTEC DIR",
-    "estoque": "42",
+    "estoque": "41",
     "preco": "23,63"
   },
   {
@@ -127668,7 +127668,7 @@
     "fabric": "P-253",
     "marca": "PROTEC",
     "nome": "PEDALEIRA TITAN 160/FAN 160 PROTEC ESQ",
-    "estoque": "22",
+    "estoque": "21",
     "preco": "23,63"
   },
   {
@@ -130596,7 +130596,7 @@
     "fabric": "8023",
     "marca": "GVS",
     "nome": "PISCA TITAN 150 14/FAN 150 14 DD/TE CRISTAL GVS C/SOQUETE TITAN 00",
-    "estoque": "2",
+    "estoque": "1",
     "preco": "21,84"
   },
   {
@@ -136500,7 +136500,7 @@
     "fabric": "",
     "marca": "LEVORIN",
     "nome": "PNEU DIANT 80/100-18 LEVORIN DAKAR II TL 47P (SEM CAMARA)",
-    "estoque": "35",
+    "estoque": "34",
     "preco": "239,4"
   },
   {
@@ -137476,7 +137476,7 @@
     "fabric": "",
     "marca": "LEVORIN",
     "nome": "PNEU TRAS 90/90-18 LEVORIN DAKKAR II TL 57P (SEM CAMARA)",
-    "estoque": "33",
+    "estoque": "32",
     "preco": "236,25"
   },
   {
@@ -139196,7 +139196,7 @@
     "fabric": "51203K",
     "marca": "MOTOKOI BR",
     "nome": "PRISIONEIRO COROA YBR MOTOKOI (KIT C/PORCAS E TRAVAS)",
-    "estoque": "34",
+    "estoque": "33",
     "preco": "11,03"
   },
   {
@@ -144780,7 +144780,7 @@
     "fabric": "1099",
     "marca": "MS EXTENSOR",
     "nome": "REDE ELASTICA PRETO 35 X 35 MS EXTENSOR",
-    "estoque": "184",
+    "estoque": "183",
     "preco": "10,49"
   },
   {
@@ -146588,7 +146588,7 @@
     "fabric": "90226070",
     "marca": "MAGNETRON",
     "nome": "RELE PISCA TITAN 150 ATE 08 /FAN 125 04-09/TWISTER 06-08/BROS 150 06-08 MAGNETRON",
-    "estoque": "73",
+    "estoque": "72",
     "preco": "22,27"
   },
   {
@@ -149284,7 +149284,7 @@
     "fabric": "M739000GB4683",
     "marca": "VEDAMOTORS",
     "nome": "RETENTOR HASTE VALVULA TWISTER/TITAN 150/TITAN 2002/BIZ VEDAMOTORS (PAR)",
-    "estoque": "136",
+    "estoque": "135",
     "preco": "10,49"
   },
   {
@@ -153180,7 +153180,7 @@
     "fabric": "4991ORB",
     "marca": "ORBITAL",
     "nome": "ROLDANA ACELERADOR TWISTER/AERO 150/CBX200 ORBITAL",
-    "estoque": "15",
+    "estoque": "14",
     "preco": "3,96"
   },
   {
@@ -160508,7 +160508,7 @@
     "fabric": "TC4510",
     "marca": "TMAC",
     "nome": "TENSOR CORRENTE COMANDO TITAN 150 TMAC",
-    "estoque": "47",
+    "estoque": "46",
     "preco": "11,73"
   },
   {
@@ -161956,7 +161956,7 @@
     "fabric": "VA0510197",
     "marca": "METAL LEVE",
     "nome": "VALVULA ADMISSAO TITAN 150 METAL LEVE",
-    "estoque": "32",
+    "estoque": "31",
     "preco": "32,55"
   },
   {
@@ -162628,7 +162628,7 @@
     "fabric": "VE0510198",
     "marca": "METAL LEVE",
     "nome": "VALVULA ESCAPE TITAN 150 METAL LEVE",
-    "estoque": "54",
+    "estoque": "53",
     "preco": "43,25"
   },
   {
@@ -166892,7 +166892,7 @@
     "fabric": "1010C",
     "marca": "POLIVISOR",
     "nome": "VISEIRA TAURUS SAN MARINO 0,80 MM CRISTAL POLIVISOR",
-    "estoque": "274",
+    "estoque": "273",
     "preco": "5,51"
   },
   {
@@ -166972,7 +166972,7 @@
     "fabric": "1010F",
     "marca": "POLIVISOR",
     "nome": "VISEIRA TAURUS SAN MARINO 0,80 MM FUME POLIVISOR",
-    "estoque": "231",
+    "estoque": "230",
     "preco": "6,62"
   },
   {
