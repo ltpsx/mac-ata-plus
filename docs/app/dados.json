@@ -14220,7 +14220,7 @@
     "fabric": "TP070",
     "marca": "TMAC",
     "nome": "BOMBA COMBUSTIVEL BROS 160 ES 16-18 TMAC (1 SAIDA)",
-    "estoque": "0",
+    "estoque": "1",
     "preco": "351,75"
   },
   {
@@ -14492,7 +14492,7 @@
     "fabric": "TP061",
     "marca": "TMAC",
     "nome": "BOMBA COMBUSTIVEL TITAN 160/FAN 160 TMAC",
-    "estoque": "5",
+    "estoque": "4",
     "preco": "351,75"
   },
   {
@@ -27084,7 +27084,7 @@
     "fabric": "TM8016",
     "marca": "TMAC",
     "nome": "CABO FREIO BURGMAN 125 06/10 TRAS TMAC",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "20,41"
   },
   {
@@ -31908,7 +31908,7 @@
     "fabric": "KOI0168",
     "marca": "MOTOKOI",
     "nome": "CAMARA DE AR DIANT/TRAS CG MOTOKOI 18",
-    "estoque": "5672",
+    "estoque": "5671",
     "preco": "17,33"
   },
   {
@@ -33132,7 +33132,7 @@
     "fabric": "KOI0192",
     "marca": "MOTOKOI BR",
     "nome": "CAPA BANCO CB 300 09 PRETA MOTOKOI",
-    "estoque": "3",
+    "estoque": "2",
     "preco": "23,63"
   },
   {
@@ -45300,7 +45300,7 @@
     "fabric": "10013432",
     "marca": "TAURUS",
     "nome": "CAPACETE TAURUS SAN MARINO PRETO 56",
-    "estoque": "202",
+    "estoque": "201",
     "preco": "178,49"
   },
   {
@@ -72252,7 +72252,7 @@
     "fabric": "1015",
     "marca": "MS EXTENSOR",
     "nome": "ELASTICO PRETO 1,50 M UNIVERSAL C/ GANCHO FERRO MS EXTENSOR",
-    "estoque": "329",
+    "estoque": "328",
     "preco": "4,19"
   },
   {
@@ -82564,7 +82564,7 @@
     "fabric": "TM0585",
     "marca": "TMAC",
     "nome": "FUSIVEL 15A VIDRO TMAC",
-    "estoque": "4969",
+    "estoque": "4967",
     "preco": "0,47"
   },
   {
@@ -86324,7 +86324,7 @@
     "fabric": "100406101",
     "marca": "POLIMET",
     "nome": "GUIDAO CB 300 R POLIMET",
-    "estoque": "13",
+    "estoque": "12",
     "preco": "44,63"
   },
   {
@@ -92364,7 +92364,7 @@
     "fabric": "VS05700000110",
     "marca": "VEDAMOTORS",
     "nome": "JOGO JUNTAS CB 300/XRE 300 VEDAMOTORS",
-    "estoque": "3",
+    "estoque": "2",
     "preco": "62,99"
   },
   {
@@ -96052,7 +96052,7 @@
     "fabric": "51201",
     "marca": "MOTOBOR",
     "nome": "KIT BUCHA DA COROA C/ PRISIONEIROS MOTOBOR CG/TITAN (COXIM NYLON)",
-    "estoque": "50",
+    "estoque": "49",
     "preco": "16,07"
   },
   {
@@ -99292,7 +99292,7 @@
     "fabric": "001-P21B-036H0",
     "marca": "P21",
     "nome": "KIT TRANSMISSAO TITAN 2000 P21 (44/14/428HX116)",
-    "estoque": "4",
+    "estoque": "3",
     "preco": "59,47"
   },
   {
@@ -99884,7 +99884,7 @@
     "fabric": "ST-ELF-07",
     "marca": "STALLION",
     "nome": "LAMPADA FAROL BIZ 100/125/DREAM/BROS 150 09/12 STALLION M5 LED",
-    "estoque": "339",
+    "estoque": "338",
     "preco": "23,63"
   },
   {
@@ -103324,7 +103324,7 @@
     "fabric": "2010000001042",
     "marca": "OXFORD",
     "nome": "LUBRIFICANTES MOTO 4T OXFORD 20W50",
-    "estoque": "3311",
+    "estoque": "3310",
     "preco": "13,64"
   },
   {
@@ -106772,7 +106772,7 @@
     "fabric": "1089",
     "marca": "PROTEC",
     "nome": "MANETE FREIO BIZ 125 + PROTEC (DISCO)",
-    "estoque": "50",
+    "estoque": "49",
     "preco": "8,2"
   },
   {
@@ -116820,7 +116820,7 @@
     "fabric": "TM7230",
     "marca": "TMAC",
     "nome": "PARAFUSO PINHAO TITAN/TITAN 00 6X10/TITAN 150/TWISTER/TORNADO TMAC",
-    "estoque": "126",
+    "estoque": "124",
     "preco": "0,34"
   },
   {
@@ -123212,7 +123212,7 @@
     "fabric": "N988",
     "marca": "COBREQ",
     "nome": "PASTILHA FREIO FIREBLADE 1000/CBR 600 04-06 DIANT. COBREQ N-988",
-    "estoque": "5",
+    "estoque": "3",
     "preco": "169,26"
   },
   {
@@ -136252,7 +136252,7 @@
     "fabric": "6082",
     "marca": "TECHNIC",
     "nome": "PNEU DIANT 110/70-17 TECHNIC SPORT CB 300 TL 54S",
-    "estoque": "23",
+    "estoque": "22",
     "preco": "198,45"
   },
   {
@@ -138396,7 +138396,7 @@
     "fabric": "19014",
     "marca": "PLASMOTO",
     "nome": "PORTA CORRENTE BIZ 100/125 - POP PLASMOTO",
-    "estoque": "5",
+    "estoque": "4",
     "preco": "12,08"
   },
   {
@@ -149436,7 +149436,7 @@
     "fabric": "VE050571188AN",
     "marca": "VEDAMOTORS",
     "nome": "RETENTOR MESA MAGNETO C/ANEIS BIZ 100 ES VEDAMOTORS",
-    "estoque": "18",
+    "estoque": "17",
     "preco": "23,49"
   },
   {
