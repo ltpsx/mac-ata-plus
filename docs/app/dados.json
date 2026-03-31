@@ -13648,20 +13648,20 @@
     "preco": "52,49"
   },
   {
+    "codigo": "24373",
+    "fabric": "90217150",
+    "marca": "MAGNETRON",
+    "nome": "BOIA TANQUE CB 300 09/12 MAGNETRON",
+    "estoque": "0",
+    "preco": "51,45"
+  },
+  {
     "codigo": "14282",
     "fabric": "26732",
     "marca": "JEC",
     "nome": "BOIA TANQUE CB 300 JEC",
     "estoque": "1",
     "preco": "44,58"
-  },
-  {
-    "codigo": "24373",
-    "fabric": "90217150",
-    "marca": "MAGNETRON",
-    "nome": "BOIA TANQUE CB 300 MAGNETRON",
-    "estoque": "0",
-    "preco": "51,45"
   },
   {
     "codigo": "26102",
@@ -15420,7 +15420,7 @@
     "fabric": "44084K",
     "marca": "MOTOKOI BR",
     "nome": "BORRACHA PEDALEIRA TITAN 160 DIANT MOTOKOI (PAR)",
-    "estoque": "804",
+    "estoque": "803",
     "preco": "9,44"
   },
   {
@@ -32276,7 +32276,7 @@
     "fabric": "KOI0168",
     "marca": "MOTOKOI",
     "nome": "CAMARA DE AR DIANT/TRAS CG MOTOKOI 18",
-    "estoque": "5454",
+    "estoque": "5453",
     "preco": "17,33"
   },
   {
@@ -32396,7 +32396,7 @@
     "fabric": "KOI0169",
     "marca": "MOTOKOI",
     "nome": "CAMARA DE AR TRAS BIZ MOTOKOI R14",
-    "estoque": "1474",
+    "estoque": "1473",
     "preco": "16,79"
   },
   {
@@ -33196,7 +33196,7 @@
     "fabric": "KOI0184",
     "marca": "MOTOKOI BR",
     "nome": "CAPA BANCO BIZ 125/BIZ 100 09/17 PT MOTOKOI",
-    "estoque": "129",
+    "estoque": "128",
     "preco": "22,58"
   },
   {
@@ -38252,7 +38252,7 @@
     "fabric": "1263056P07",
     "marca": "EBF",
     "nome": "CAPACETE EBF AUTOMATICO BORBOLETA PRETO/ROSA 56",
-    "estoque": "23",
+    "estoque": "22",
     "preco": "124,95"
   },
   {
@@ -46284,7 +46284,7 @@
     "fabric": "CAP-35PT",
     "marca": "TORK",
     "nome": "CAPACETE TORK LIBERTY FOUR PRETO 58",
-    "estoque": "627",
+    "estoque": "626",
     "preco": "83,99"
   },
   {
@@ -56876,7 +56876,7 @@
     "fabric": "3655",
     "marca": "PROJETIL",
     "nome": "CAVALETE LATERAL TITAN 150 14 C/ BORRACHA PROJETIL",
-    "estoque": "19",
+    "estoque": "18",
     "preco": "23,1"
   },
   {
@@ -68980,7 +68980,7 @@
     "fabric": "CX017",
     "marca": "CX3",
     "nome": "DISCO EMBREAGEM CG/TOD/TIT/BROS 125/MAX 125 CX3",
-    "estoque": "195",
+    "estoque": "194",
     "preco": "12,59"
   },
   {
@@ -79380,7 +79380,7 @@
     "fabric": "04211",
     "marca": "PROJETIL",
     "nome": "ESTRIBO PEDAL APOIO TITAN 160/FAN 160 PRETO PROJETIL",
-    "estoque": "43",
+    "estoque": "42",
     "preco": "31,49"
   },
   {
@@ -80636,7 +80636,7 @@
     "fabric": "S4V0510200040",
     "marca": "VEDAMOTORS",
     "nome": "FILTRO AR BURGMAN 125 05/10 VEDAMOTORS",
-    "estoque": "13",
+    "estoque": "12",
     "preco": "40,56"
   },
   {
@@ -88188,7 +88188,7 @@
     "fabric": "TM0234",
     "marca": "TMAC",
     "nome": "INTERRUPTOR BUZINA BURGMAN 125 TMAC",
-    "estoque": "11",
+    "estoque": "9",
     "preco": "3,27"
   },
   {
@@ -96156,7 +96156,7 @@
     "fabric": "VS05003000143",
     "marca": "VEDAMOTORS",
     "nome": "JUNTA TAMPA LATERAL DIREITO TITAN 00 KS/ES/KSE VEDAMOTORS",
-    "estoque": "10",
+    "estoque": "9",
     "preco": "8,16"
   },
   {
@@ -111675,7 +111675,7 @@
     "codigo": "19628",
     "fabric": "90203220",
     "marca": "MAGNETRON",
-    "nome": "MESA PORTA ESCOVA LEAD 110 MAGNETRON",
+    "nome": "MESA PORTA ESCOVA LEAD 110 09/15 MAGNETRON",
     "estoque": "0",
     "preco": "14,75"
   },
@@ -111716,7 +111716,7 @@
     "fabric": "90205020",
     "marca": "MAGNETRON",
     "nome": "MESA PORTA ESCOVA TITAN 150 / FAN 09 MAGNETRON",
-    "estoque": "3113",
+    "estoque": "3112",
     "preco": "10,49"
   },
   {
@@ -112372,7 +112372,7 @@
     "fabric": "MNP0211",
     "marca": "PIRACAPAS",
     "nome": "MOCHILA PIZZA PIRACAPAS 45 LTS NYLON VERMELHA/PRETA",
-    "estoque": "5",
+    "estoque": "4",
     "preco": "136,5"
   },
   {
@@ -150300,7 +150300,7 @@
     "fabric": "TM087",
     "marca": "TMAC",
     "nome": "RETENTOR CAMBIO TITAN 150/TITAN 160/BROS 160 TMAC",
-    "estoque": "159",
+    "estoque": "158",
     "preco": "1,65"
   },
   {
