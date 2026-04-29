@@ -8428,7 +8428,7 @@
     "fabric": "MTX7L-BS",
     "marca": "MOTOKOI BR",
     "nome": "BATERIA TWISTER/BROS 150/HUNTER/FALCON/INTRUDER/TITAN150 ES/ESD MTX7L-BS MOTOKOI",
-    "estoque": "80",
+    "estoque": "79",
     "preco": "133,22"
   },
   {
@@ -32404,7 +32404,7 @@
     "fabric": "KOI0169",
     "marca": "MOTOKOI",
     "nome": "CAMARA DE AR TRAS BIZ MOTOKOI R14",
-    "estoque": "506",
+    "estoque": "505",
     "preco": "16,79"
   },
   {
@@ -45492,7 +45492,7 @@
     "fabric": "MCAP-453GR",
     "marca": "MIXS",
     "nome": "CAPACETE MIXS MX2 STORM PRETO/CINZA 60",
-    "estoque": "14",
+    "estoque": "13",
     "preco": "180,6"
   },
   {
@@ -46996,7 +46996,7 @@
     "fabric": "CAP-47PT",
     "marca": "TORK",
     "nome": "CAPACETE TORK LIBERTY FOUR PRETO 56",
-    "estoque": "40",
+    "estoque": "39",
     "preco": "88,32"
   },
   {
@@ -74188,7 +74188,7 @@
     "fabric": "1008",
     "marca": "MS EXTENSOR",
     "nome": "ELASTICO PRETO 2,00 M UNIVERSAL C/ GANCHO PLASTICO MS EXTENSOR",
-    "estoque": "245",
+    "estoque": "244",
     "preco": "4,19"
   },
   {
@@ -93944,6 +93944,14 @@
     "preco": "547,62"
   },
   {
+    "codigo": "53692",
+    "fabric": "",
+    "marca": "X11",
+    "nome": "JAQUETA X11 ONE 2 MASCULINA PRETO/VERMELHO G",
+    "estoque": "0",
+    "preco": "0"
+  },
+  {
     "codigo": "33149",
     "fabric": "013671",
     "marca": "X11",
@@ -105500,7 +105508,7 @@
     "fabric": "104062",
     "marca": "MOTUL",
     "nome": "LUBRIFICANTES MOTO 4T MOTUL 5000+ 10W40",
-    "estoque": "152",
+    "estoque": "151",
     "preco": "49,34"
   },
   {
@@ -109420,7 +109428,7 @@
     "fabric": "19",
     "marca": "PROTEC",
     "nome": "MANETE FREIO TITAN 2000 / TITAN 150 PROTEC",
-    "estoque": "121",
+    "estoque": "120",
     "preco": "6,48"
   },
   {
@@ -113356,7 +113364,7 @@
     "fabric": "MNP0207",
     "marca": "PIRACAPAS",
     "nome": "MOCHILA PIZZA PIRACAPAS 45 LTS NYLON PRETA",
-    "estoque": "70",
+    "estoque": "69",
     "preco": "136,5"
   },
   {
@@ -127396,7 +127404,7 @@
     "fabric": "KOI0133",
     "marca": "MOTOKOI",
     "nome": "PATIM FREIO TITAN 00/TITAN 150 0,25 DIANT/TRAS MOTOKOI",
-    "estoque": "604",
+    "estoque": "603",
     "preco": "16,21"
   },
   {
@@ -130148,7 +130156,7 @@
     "fabric": "45006K",
     "marca": "MOTOKOI BR",
     "nome": "PEDALEIRA TITAN 150 MODELO 160 MOTOKOI PAR",
-    "estoque": "24",
+    "estoque": "23",
     "preco": "31,32"
   },
   {
@@ -139236,7 +139244,7 @@
     "fabric": "6153",
     "marca": "TECHNIC",
     "nome": "PNEU DIANT 60/100-17 TECHNIC SPORT R BIZ TT 33L",
-    "estoque": "21",
+    "estoque": "20",
     "preco": "94,49"
   },
   {
@@ -140188,7 +140196,7 @@
     "fabric": "100266",
     "marca": "MAGGION",
     "nome": "PNEU TRAS 80/100-14 MAGGION STREET BIZ 100 TT",
-    "estoque": "446",
+    "estoque": "444",
     "preco": "117,59"
   },
   {
@@ -140212,7 +140220,7 @@
     "fabric": "6213",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 80/100-14 TECHNIC SPORT R BIZ TT 49L",
-    "estoque": "11",
+    "estoque": "10",
     "preco": "110,24"
   },
   {
@@ -143804,7 +143812,7 @@
     "fabric": "KOI0945",
     "marca": "MOTOKOI BR",
     "nome": "PROTETOR PISO (TAPETE) MOTOKOI BR",
-    "estoque": "200",
+    "estoque": "130",
     "preco": "16,28"
   },
   {
@@ -153564,7 +153572,7 @@
     "fabric": "1398",
     "marca": "NEXTPART",
     "nome": "RETROVISOR BIZ 125/POP/BROS 09 PAR NEXPART",
-    "estoque": "2752",
+    "estoque": "2751",
     "preco": "16,79"
   },
   {
@@ -154996,7 +155004,7 @@
     "fabric": "KOI0241",
     "marca": "MOTOKOI BR",
     "nome": "RETROVISOR TITAN 150 PAR MOTOKOI BR",
-    "estoque": "1023",
+    "estoque": "1022",
     "preco": "19,94"
   },
   {
@@ -160476,7 +160484,7 @@
     "fabric": "5526/2426",
     "marca": "GVS",
     "nome": "SUPORTE PLACA (PLASTICO) GRANDE NOVO 200MM X 170MM TITAN GVS",
-    "estoque": "2",
+    "estoque": "1",
     "preco": "10,91"
   },
   {
@@ -167500,7 +167508,7 @@
     "fabric": "TM993-3",
     "marca": "TMAC",
     "nome": "VELA TITAN 150/FAN 150 TM993-3 TMAC",
-    "estoque": "20",
+    "estoque": "19",
     "preco": "7,92"
   },
   {
@@ -168532,7 +168540,7 @@
     "fabric": "4000183",
     "marca": "EBF",
     "nome": "VISEIRA EBF E0X/NEW SPARK INJ 2,00 MM EBF",
-    "estoque": "14",
+    "estoque": "13",
     "preco": "39,38"
   },
   {
@@ -169564,7 +169572,7 @@
     "fabric": "205.500.006",
     "marca": "ASX",
     "nome": "VISEIRA LS2 FF358 ROXO ASX",
-    "estoque": "21",
+    "estoque": "20",
     "preco": "51,69"
   },
   {
