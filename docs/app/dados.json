@@ -3724,7 +3724,7 @@
     "fabric": "M751000300004",
     "marca": "VEDAMOTORS",
     "nome": "ANEL AGULHA AR CG/ML/TU UNIT 3,00 X 1,00 VEDAMOTORS",
-    "estoque": "35",
+    "estoque": "135",
     "preco": "0,96"
   },
   {
@@ -3852,7 +3852,7 @@
     "fabric": "M752502900004",
     "marca": "VEDAMOTORS",
     "nome": "ANEL COLETOR ADMISSAO VEDAMOTORS  29 X 2,4 CG/ML/TU UNIT",
-    "estoque": "22",
+    "estoque": "52",
     "preco": "1,65"
   },
   {
@@ -3860,7 +3860,7 @@
     "fabric": "M753003340004",
     "marca": "VEDAMOTORS",
     "nome": "ANEL COLETOR ADMISSAO VEDAMOTORS  33,5 X 3 CG/ML/TU 1 UND.",
-    "estoque": "6",
+    "estoque": "16",
     "preco": "2,09"
   },
   {
@@ -3932,7 +3932,7 @@
     "fabric": "S4V0210012076",
     "marca": "VEDAMOTORS",
     "nome": "ANEL ESCAPAMENTO CBX 250 TRAS ESPIRAL VEDAMOTORS",
-    "estoque": "1",
+    "estoque": "11",
     "preco": "12,57"
   },
   {
@@ -3956,7 +3956,7 @@
     "fabric": "TM1050",
     "marca": "TMAC",
     "nome": "ANEL ESCAPAMENTO CG/ML/TUR/XL TMAC",
-    "estoque": "930",
+    "estoque": "929",
     "preco": "0,58"
   },
   {
@@ -4444,7 +4444,7 @@
     "fabric": "M752603162004",
     "marca": "VEDAMOTORS",
     "nome": "ANEL TAMPA VALVULA BIZ 125 VEDAMOTORS",
-    "estoque": "17",
+    "estoque": "217",
     "preco": "2,09"
   },
   {
@@ -4540,7 +4540,7 @@
     "fabric": "M752507500004",
     "marca": "VEDAMOTORS",
     "nome": "ANEL VED TAMPA OHC ML/TU/CBX/NX VEDAMOTORS",
-    "estoque": "2",
+    "estoque": "12",
     "preco": "2,89"
   },
   {
@@ -5068,7 +5068,7 @@
     "fabric": "KOI0311",
     "marca": "MOTOKOI",
     "nome": "ARO RODA 1.60 X 18 CG/TOD/TIT DIANT MOTOKOI",
-    "estoque": "724",
+    "estoque": "723",
     "preco": "69,29"
   },
   {
@@ -5916,7 +5916,7 @@
     "fabric": "C504",
     "marca": "CORAMI",
     "nome": "ARVORE COMANDO VALVULA TITAN 150 04/08 CORAMI",
-    "estoque": "8",
+    "estoque": "7",
     "preco": "65,53"
   },
   {
@@ -6892,7 +6892,7 @@
     "fabric": "100202801",
     "marca": "POLIMET",
     "nome": "BAGAGEIRO TITAN 150 09/12/FAN 125/150 09/12 CROMADO REFORCADO POLIMET",
-    "estoque": "9",
+    "estoque": "8",
     "preco": "115,49"
   },
   {
@@ -8268,7 +8268,7 @@
     "fabric": "MTX6L-BS",
     "marca": "MOTOKOI BR",
     "nome": "BATERIA BIZ / FAN 125 ES 09/TITAN150 MIX 09 ED MTX6L-BS MOTOKOI",
-    "estoque": "165",
+    "estoque": "164",
     "preco": "125,99"
   },
   {
@@ -9292,7 +9292,7 @@
     "fabric": "S410210321002",
     "marca": "VEDAMOTORS",
     "nome": "BIELA BIZ 125 VEDAMOTORS",
-    "estoque": "7",
+    "estoque": "17",
     "preco": "59,85"
   },
   {
@@ -9532,7 +9532,7 @@
     "fabric": "S410210321010",
     "marca": "VEDAMOTORS",
     "nome": "BIELA CG/ML/TUR 83/91 VEDAMOTORS",
-    "estoque": "1",
+    "estoque": "3",
     "preco": "83,99"
   },
   {
@@ -9652,7 +9652,7 @@
     "fabric": "S410485321010",
     "marca": "VEDAMOTORS",
     "nome": "BIELA CRYPTON 105 ATE 05 VEDAMOTORS",
-    "estoque": "1",
+    "estoque": "2",
     "preco": "94,49"
   },
   {
@@ -9876,7 +9876,7 @@
     "fabric": "S410485321006",
     "marca": "VEDAMOTORS",
     "nome": "BIELA FAZER 250 VEDAMOTORS",
-    "estoque": "1",
+    "estoque": "3",
     "preco": "162,75"
   },
   {
@@ -10148,7 +10148,7 @@
     "fabric": "S410210321004",
     "marca": "VEDAMOTORS",
     "nome": "BIELA TITAN 150/NXR BROS VEDAMOTORS",
-    "estoque": "11",
+    "estoque": "16",
     "preco": "80,85"
   },
   {
@@ -10228,8 +10228,8 @@
     "fabric": "S410210321018",
     "marca": "VEDAMOTORS",
     "nome": "BIELA TITAN 160/BROS 160/XRE 190 VEDAMOTORS",
-    "estoque": "2",
-    "preco": "82,94"
+    "estoque": "7",
+    "preco": "86,63"
   },
   {
     "codigo": "50408",
@@ -10308,7 +10308,7 @@
     "fabric": "S410210321003",
     "marca": "VEDAMOTORS",
     "nome": "BIELA TITAN/FAN 125 2002/08/NXR 125 BROS VEDAMOTORS",
-    "estoque": "0",
+    "estoque": "20",
     "preco": "80,85"
   },
   {
@@ -10356,7 +10356,7 @@
     "fabric": "S410210321005",
     "marca": "VEDAMOTORS",
     "nome": "BIELA TITAN/XLR/KS/ES 92/01 CBX/NX200 VEDAMOTORS",
-    "estoque": "1",
+    "estoque": "3",
     "preco": "80,85"
   },
   {
@@ -16108,7 +16108,7 @@
     "fabric": "1097",
     "marca": "POLIVISOR",
     "nome": "BOTAO SAN MARINO UND POLIVISOR",
-    "estoque": "7",
+    "estoque": "6",
     "preco": "2,63"
   },
   {
@@ -16188,7 +16188,7 @@
     "fabric": "01",
     "marca": "EX RACING",
     "nome": "BOTAO VISEIRA CAPACETE TORK NEW ATOMIC/NEW LIBERTY 3/JOY 23 EX RACING PAR",
-    "estoque": "325",
+    "estoque": "324",
     "preco": "7,34"
   },
   {
@@ -17548,7 +17548,7 @@
     "fabric": "71706",
     "marca": "VEDAMOTORS",
     "nome": "BUCHA GARFO ATRITO TWISTER/TORNADO/CBF 250/CBR 1000/CBR 600 VEDAMOTORS",
-    "estoque": "0",
+    "estoque": "4",
     "preco": "41,99"
   },
   {
@@ -28116,7 +28116,7 @@
     "fabric": "KOI0043",
     "marca": "MOTOKOI",
     "nome": "CABO FREIO TITAN 150 04/08 MOTOKOI",
-    "estoque": "38",
+    "estoque": "37",
     "preco": "9,44"
   },
   {
@@ -29996,7 +29996,7 @@
     "fabric": "KOI0060",
     "marca": "MOTOKOI",
     "nome": "CABO VELOCIMETRO TITAN 150 04/08 MOTOKOI",
-    "estoque": "132",
+    "estoque": "131",
     "preco": "8,93"
   },
   {
@@ -31700,7 +31700,7 @@
     "fabric": "TM552",
     "marca": "TMAC",
     "nome": "CAIXA DIRECAO CONICO FAZER 250/XTZ 250/XT 600/XT 660R TMAC",
-    "estoque": "3",
+    "estoque": "2",
     "preco": "28,88"
   },
   {
@@ -32412,7 +32412,7 @@
     "fabric": "11553",
     "marca": "LEVORIN",
     "nome": "CAMARA DE AR TRAS BIZ LEVORIN MSA 14",
-    "estoque": "7600",
+    "estoque": "7599",
     "preco": "20,99"
   },
   {
@@ -33109,7 +33109,7 @@
     "marca": "MOTOKOI BR",
     "nome": "CAPA BANCO BIZ 100 98/07 MOTOKOI (COSTURA LATERAL)",
     "estoque": "51",
-    "preco": "22,58"
+    "preco": "23,63"
   },
   {
     "codigo": "35449",
@@ -34061,7 +34061,7 @@
     "marca": "MOTOKOI BR",
     "nome": "CAPA BANCO FAZER 06/11 PRETA MOTOKOI",
     "estoque": "21",
-    "preco": "19,94"
+    "preco": "23,63"
   },
   {
     "codigo": "39592",
@@ -34173,7 +34173,7 @@
     "marca": "MOTOKOI BR",
     "nome": "CAPA BANCO GSR 125/150 12/16 MOTOKOI",
     "estoque": "1",
-    "preco": "20,99"
+    "preco": "23,1"
   },
   {
     "codigo": "21362",
@@ -34861,7 +34861,7 @@
     "marca": "MOTOKOI BR",
     "nome": "CAPA BANCO TENERE 600 88/93 PRETO MOTOKOI",
     "estoque": "0",
-    "preco": "0"
+    "preco": "25,73"
   },
   {
     "codigo": "21449",
@@ -34877,7 +34877,7 @@
     "marca": "MOTOKOI BR",
     "nome": "CAPA BANCO TENERE 660 14/18 PRETO MOTOKOI",
     "estoque": "0",
-    "preco": "0"
+    "preco": "25,73"
   },
   {
     "codigo": "35452",
@@ -38652,7 +38652,7 @@
     "fabric": "1259058PFO",
     "marca": "EBF",
     "nome": "CAPACETE EBF AUTOMATICO SOLID PRETO FOSCO 58",
-    "estoque": "15",
+    "estoque": "14",
     "preco": "137,46"
   },
   {
@@ -38740,7 +38740,7 @@
     "fabric": "1281056P07",
     "marca": "EBF",
     "nome": "CAPACETE EBF AUTOMATICO STYLE PRETO/ROSA 56",
-    "estoque": "17",
+    "estoque": "16",
     "preco": "137,45"
   },
   {
@@ -58228,7 +58228,7 @@
     "fabric": "TM0302",
     "marca": "TMAC",
     "nome": "CDI TITAN 125 02/04/FAN 05/08 TMAC",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "79,54"
   },
   {
@@ -66348,7 +66348,7 @@
     "fabric": "C251",
     "marca": "CORAMI",
     "nome": "CORRENTE COMANDO BIZ 100/DREAM 100 84 L CORAMI",
-    "estoque": "29",
+    "estoque": "28",
     "preco": "12,59"
   },
   {
@@ -67860,7 +67860,7 @@
     "fabric": "VE05062000103",
     "marca": "VEDAMOTORS",
     "nome": "COXIM COROA TITAN 150 VEDAMOTORS (4 PCS)",
-    "estoque": "38",
+    "estoque": "138",
     "preco": "15,51"
   },
   {
@@ -68276,7 +68276,7 @@
     "fabric": "14026K",
     "marca": "MOTOKOI BR",
     "nome": "COXIM PISCA TITAN 150 / 2000 C/ PARAFUSO E PORCA MOTOKOI",
-    "estoque": "141",
+    "estoque": "139",
     "preco": "5,4"
   },
   {
@@ -68460,7 +68460,7 @@
     "fabric": "VE99065000959",
     "marca": "VEDAMOTORS",
     "nome": "COXIM TAMPA VALVULA TITAN/FAN 125/150 2004/11 VEDAMOTORS",
-    "estoque": "523",
+    "estoque": "520",
     "preco": "4,19"
   },
   {
@@ -69780,7 +69780,7 @@
     "fabric": "S410210250009",
     "marca": "VEDAMOTORS",
     "nome": "DISCO EMBREAGEM CB 300/XRE 300 VEDAMOTORS",
-    "estoque": "1",
+    "estoque": "3",
     "preco": "67,2"
   },
   {
@@ -69844,7 +69844,7 @@
     "fabric": "S410210250003",
     "marca": "VEDAMOTORS",
     "nome": "DISCO EMBREAGEM CG/TOD/TIT/BROS 125/MAX 125 VEDAMOTORS",
-    "estoque": "0",
+    "estoque": "10",
     "preco": "31,49"
   },
   {
@@ -69972,7 +69972,7 @@
     "fabric": "S410485250006",
     "marca": "VEDAMOTORS",
     "nome": "DISCO EMBREAGEM FAZER 150/CROSSER 150/FACTOR 150 VEDAMOTORS",
-    "estoque": "0",
+    "estoque": "2",
     "preco": "37,79"
   },
   {
@@ -70012,7 +70012,7 @@
     "fabric": "S410485250005",
     "marca": "VEDAMOTORS",
     "nome": "DISCO EMBREAGEM FAZER/LANDER VEDAMOTORS",
-    "estoque": "3",
+    "estoque": "5",
     "preco": "60,66"
   },
   {
@@ -70092,7 +70092,7 @@
     "fabric": "S410210250016",
     "marca": "VEDAMOTORS",
     "nome": "DISCO EMBREAGEM POP 110I VEDAMOTORS",
-    "estoque": "0",
+    "estoque": "5",
     "preco": "31,22"
   },
   {
@@ -70196,7 +70196,7 @@
     "fabric": "S410210250004",
     "marca": "VEDAMOTORS",
     "nome": "DISCO EMBREAGEM TITAN 150/TITAN 160/XRE 190 VEDAMOTORS",
-    "estoque": "0",
+    "estoque": "50",
     "preco": "27,83"
   },
   {
@@ -70372,7 +70372,7 @@
     "fabric": "S410510250001",
     "marca": "VEDAMOTORS",
     "nome": "DISCO EMBREAGEM YES 125/INTRUDER VEDAMOTORS",
-    "estoque": "-1",
+    "estoque": "4",
     "preco": "32,55"
   },
   {
@@ -74532,7 +74532,7 @@
     "fabric": "P400210115005",
     "marca": "VEDAMOTORS",
     "nome": "EMBREAGEM KIT COMPLETO CG/TIT95-99/TIT00-04 VEDAMOTORS",
-    "estoque": "3",
+    "estoque": "5",
     "preco": "100,28"
   },
   {
@@ -74644,7 +74644,7 @@
     "fabric": "P400485115002",
     "marca": "VEDAMOTORS",
     "nome": "EMBREAGEM KIT COMPLETO FAZER 250/LANDER 250 VEDAMOTORS",
-    "estoque": "0",
+    "estoque": "4",
     "preco": "227,85"
   },
   {
@@ -74852,7 +74852,7 @@
     "fabric": "P400485115001",
     "marca": "VEDAMOTORS",
     "nome": "EMBREAGEM KIT COMPLETO YBR 125/XTZ 125 VEDAMOTORS",
-    "estoque": "2",
+    "estoque": "5",
     "preco": "114,45"
   },
   {
@@ -81588,7 +81588,7 @@
     "fabric": "S4V0210200051",
     "marca": "VEDAMOTORS",
     "nome": "FILTRO AR BIZ 125 06/10 VEDAMOTORS",
-    "estoque": "6",
+    "estoque": "10",
     "preco": "16,94"
   },
   {
@@ -81620,7 +81620,7 @@
     "fabric": "S4V0210200077",
     "marca": "VEDAMOTORS",
     "nome": "FILTRO AR BIZ 125 2012 VEDAMOTORS",
-    "estoque": "0",
+    "estoque": "50",
     "preco": "29,75"
   },
   {
@@ -81892,7 +81892,7 @@
     "fabric": "S4V0210200120",
     "marca": "VEDAMOTORS",
     "nome": "FILTRO AR ELITE 125 19/24 VEDAMOTORS",
-    "estoque": "0",
+    "estoque": "2",
     "preco": "68,25"
   },
   {
@@ -82252,7 +82252,7 @@
     "fabric": "S4V0485200053",
     "marca": "VEDAMOTORS",
     "nome": "FILTRO AR FAZER 150 14 VEDAMOTORS",
-    "estoque": "17",
+    "estoque": "27",
     "preco": "31,49"
   },
   {
@@ -82292,7 +82292,7 @@
     "fabric": "S4V0485200058",
     "marca": "VEDAMOTORS",
     "nome": "FILTRO AR FAZER 250 16/17/LANDER 250 16/17/TENERE 250 16/17 VEDAMOTORS",
-    "estoque": "0",
+    "estoque": "5",
     "preco": "27,83"
   },
   {
@@ -82324,7 +82324,7 @@
     "fabric": "S4V0485200039",
     "marca": "VEDAMOTORS",
     "nome": "FILTRO AR FAZER 250/XTZ 250 VEDAMOTORS",
-    "estoque": "7",
+    "estoque": "17",
     "preco": "15,74"
   },
   {
@@ -82604,7 +82604,7 @@
     "fabric": "S4V0210200054",
     "marca": "VEDAMOTORS",
     "nome": "FILTRO AR TIT 125-150 09-13/BIZ 110I/POP 110/NXR125-150-160/XRE190 VEDAMOTORS",
-    "estoque": "-8",
+    "estoque": "42",
     "preco": "18,89"
   },
   {
@@ -82684,7 +82684,7 @@
     "fabric": "S4V0210200053",
     "marca": "VEDAMOTORS",
     "nome": "FILTRO AR TITAN 00/08 VEDAMOTORS",
-    "estoque": "0",
+    "estoque": "30",
     "preco": "20,99"
   },
   {
@@ -82780,7 +82780,7 @@
     "fabric": "S4V0210200089",
     "marca": "VEDAMOTORS",
     "nome": "FILTRO AR TITAN 160/TITAN 150 14/15/FAN 125 14/16 VEDAMOTORS",
-    "estoque": "0",
+    "estoque": "50",
     "preco": "26,78"
   },
   {
@@ -83444,7 +83444,7 @@
     "fabric": "FVC016",
     "marca": "VEDAMOTORS",
     "nome": "FILTRO OLEO CB 400 / CB450 / CBR 450 SR VEDAMOTORS",
-    "estoque": "0",
+    "estoque": "3",
     "preco": "26,25"
   },
   {
@@ -83484,7 +83484,7 @@
     "fabric": "FFP004",
     "marca": "VEDAMOTORS",
     "nome": "FILTRO OLEO CB 500/HORNET/NINJA 300 VEDAMOTORS",
-    "estoque": "8",
+    "estoque": "18",
     "preco": "47,25"
   },
   {
@@ -83588,7 +83588,7 @@
     "fabric": "FVC041",
     "marca": "VEDAMOTORS",
     "nome": "FILTRO OLEO FAZER 150/CROSSER 150/FACTOR 125I VEDAMOTORS",
-    "estoque": "0",
+    "estoque": "10",
     "preco": "16,28"
   },
   {
@@ -83644,7 +83644,7 @@
     "fabric": "FVC015",
     "marca": "VEDAMOTORS",
     "nome": "FILTRO OLEO FAZER 250/LANDER VEDAMOTORS",
-    "estoque": "27",
+    "estoque": "47",
     "preco": "14,69"
   },
   {
@@ -83708,7 +83708,7 @@
     "fabric": "FFP009",
     "marca": "VEDAMOTORS",
     "nome": "FILTRO OLEO GSX/BANDIT/STROM VEDAMOTORS",
-    "estoque": "0",
+    "estoque": "10",
     "preco": "52,28"
   },
   {
@@ -83788,7 +83788,7 @@
     "fabric": "FVC018",
     "marca": "VEDAMOTORS",
     "nome": "FILTRO OLEO KAWASAKI NINJA 250 VEDAMOTORS",
-    "estoque": "0",
+    "estoque": "5",
     "preco": "32,98"
   },
   {
@@ -83868,7 +83868,7 @@
     "fabric": "FVC022",
     "marca": "VEDAMOTORS",
     "nome": "FILTRO OLEO TWISTER/FALCON/CB300/XRE300/TORNADO/XLX VEDAMOTORS",
-    "estoque": "0",
+    "estoque": "100",
     "preco": "10,49"
   },
   {
@@ -83924,7 +83924,7 @@
     "fabric": "FVC014",
     "marca": "VEDAMOTORS",
     "nome": "FILTRO OLEO XT 600/660 TENERE VEDAMOTORS",
-    "estoque": "0",
+    "estoque": "50",
     "preco": "25,73"
   },
   {
@@ -84556,7 +84556,7 @@
     "fabric": "TM0570",
     "marca": "TMAC",
     "nome": "FUSIVEL 05A LAMINA TMAC",
-    "estoque": "4908",
+    "estoque": "4907",
     "preco": "0,68"
   },
   {
@@ -84604,7 +84604,7 @@
     "fabric": "90250221",
     "marca": "MAGNETRON",
     "nome": "FUSIVEL 10A LAMINA MAGNETRON",
-    "estoque": "49",
+    "estoque": "47",
     "preco": "1,63"
   },
   {
@@ -84684,7 +84684,7 @@
     "fabric": "90280081",
     "marca": "MAGNETRON",
     "nome": "FUSIVEL 15A LAMINA MAGNETRON",
-    "estoque": "100",
+    "estoque": "98",
     "preco": "1,58"
   },
   {
@@ -86052,7 +86052,7 @@
     "fabric": "M904701923005",
     "marca": "VEDAMOTORS",
     "nome": "GUARDA PO BENGALA CG/ML/TU VEDAMOTORS ****UNIT*****",
-    "estoque": "76",
+    "estoque": "176",
     "preco": "6,83"
   },
   {
@@ -86116,7 +86116,7 @@
     "fabric": "M903602175505",
     "marca": "VEDAMOTORS",
     "nome": "GUARDA PO BENGALA TITAN 150/STRADA VEDAMOTORS ***PAR***",
-    "estoque": "15",
+    "estoque": "115",
     "preco": "12,08"
   },
   {
@@ -86252,7 +86252,7 @@
     "fabric": "VE99008001056",
     "marca": "VEDAMOTORS",
     "nome": "GUARNICAO CUBA CARBURADOR BIZ VEDAMOTORS",
-    "estoque": "29",
+    "estoque": "129",
     "preco": "4,73"
   },
   {
@@ -86284,7 +86284,7 @@
     "fabric": "VE99008001066",
     "marca": "VEDAMOTORS",
     "nome": "GUARNICAO CUBA CARBURADOR CB 600/CB 500 VEDAMOTORS",
-    "estoque": "1",
+    "estoque": "6",
     "preco": "11,03"
   },
   {
@@ -86356,7 +86356,7 @@
     "fabric": "VE990081115AT",
     "marca": "VEDAMOTORS",
     "nome": "GUARNICAO CUBA CARBURADOR FACTOR 125 VEDAMOTORS",
-    "estoque": "3",
+    "estoque": "23",
     "preco": "4,19"
   },
   {
@@ -86404,7 +86404,7 @@
     "fabric": "VE99008001064",
     "marca": "VEDAMOTORS",
     "nome": "GUARNICAO CUBA CARBURADOR TWISTER/FALCON VEDAMOTORS",
-    "estoque": "5",
+    "estoque": "35",
     "preco": "4,1"
   },
   {
@@ -86460,7 +86460,7 @@
     "fabric": "21012035",
     "marca": "VEDAMOTORS",
     "nome": "GUARNICAO ESCAPE CB 400/CB 600 DIANT VEDAMOTORS",
-    "estoque": "2",
+    "estoque": "7",
     "preco": "15,69"
   },
   {
@@ -86492,7 +86492,7 @@
     "fabric": "21012039",
     "marca": "VEDAMOTORS",
     "nome": "GUARNICAO ESCAPE FALCON/XLX 250/XLX 350/NX 350 VEDAMOTORS",
-    "estoque": "0",
+    "estoque": "10",
     "preco": "19,72"
   },
   {
@@ -86572,7 +86572,7 @@
     "fabric": "48512018",
     "marca": "VEDAMOTORS",
     "nome": "GUARNICAO ESCAPE XR 250 TORNADO/CB 300 VEDAMOTORS",
-    "estoque": "0",
+    "estoque": "20",
     "preco": "19,43"
   },
   {
@@ -86636,7 +86636,7 @@
     "fabric": "VE05016001047",
     "marca": "VEDAMOTORS",
     "nome": "GUARNICAO TAMPA VALVULA BIZ 110I/BIZ 125I VEDAMOTORS",
-    "estoque": "0",
+    "estoque": "20",
     "preco": "30,04"
   },
   {
@@ -86668,7 +86668,7 @@
     "fabric": "VE05016000001",
     "marca": "VEDAMOTORS",
     "nome": "GUARNICAO TAMPA VALVULA CB 300/ XRE 300 VEDAMOTORS",
-    "estoque": "6",
+    "estoque": "55",
     "preco": "20,99"
   },
   {
@@ -86684,15 +86684,15 @@
     "fabric": "S410210015043",
     "marca": "VEDAMOTORS",
     "nome": "GUARNICAO TAMPA VALVULA CB 500 (98-01) VEDAMOTORS",
-    "estoque": "0",
-    "preco": "299,25"
+    "estoque": "2",
+    "preco": "299,27"
   },
   {
     "codigo": "14427",
     "fabric": "15085",
     "marca": "MOTOBOR",
     "nome": "GUARNICAO TAMPA VALVULA CG/ML/TO/TITAN CDI 99 MOTOBOR",
-    "estoque": "14",
+    "estoque": "11",
     "preco": "2,71"
   },
   {
@@ -86716,7 +86716,7 @@
     "fabric": "VE99016001085",
     "marca": "VEDAMOTORS",
     "nome": "GUARNICAO TAMPA VALVULA CG/ML/TO/TITAN CDI 99 VEDAMOTORS",
-    "estoque": "56",
+    "estoque": "556",
     "preco": "3,14"
   },
   {
@@ -86724,7 +86724,7 @@
     "fabric": "VE10016001057",
     "marca": "VEDAMOTORS",
     "nome": "GUARNICAO TAMPA VALVULA FAZER 150 VEDAMOTORS",
-    "estoque": "0",
+    "estoque": "10",
     "preco": "6,78"
   },
   {
@@ -86812,7 +86812,7 @@
     "fabric": "VE99016010009",
     "marca": "VEDAMOTORS",
     "nome": "GUARNICAO TAMPA VALVULA TITAN 150/FAN 125 09 VEDAMOTORS",
-    "estoque": "456",
+    "estoque": "856",
     "preco": "4,73"
   },
   {
@@ -86836,8 +86836,8 @@
     "fabric": "VE05016001045",
     "marca": "VEDAMOTORS",
     "nome": "GUARNICAO TAMPA VALVULA TITAN 160/BROS 160 VEDAMOTORS",
-    "estoque": "3",
-    "preco": "5,78"
+    "estoque": "303",
+    "preco": "6,29"
   },
   {
     "codigo": "0200000524777",
@@ -86876,7 +86876,7 @@
     "fabric": "VE99016001091",
     "marca": "VEDAMOTORS",
     "nome": "GUARNICAO TAMPA VALVULA TWISTER/TORNADO 01/08 VEDAMOTORS",
-    "estoque": "20",
+    "estoque": "120",
     "preco": "23,63"
   },
   {
@@ -94500,7 +94500,7 @@
     "fabric": "VS0570000270P",
     "marca": "VEDAMOTORS",
     "nome": "JOGO JUNTAS BIZ 100/DREAM/WEB 100 VEDAMOTORS",
-    "estoque": "2",
+    "estoque": "22",
     "preco": "34,65"
   },
   {
@@ -94524,7 +94524,7 @@
     "fabric": "VS05700090140",
     "marca": "VEDAMOTORS",
     "nome": "JOGO JUNTAS BIZ 125 VEDAMOTORS",
-    "estoque": "26",
+    "estoque": "76",
     "preco": "27,29"
   },
   {
@@ -94596,7 +94596,7 @@
     "fabric": "VS05700000110",
     "marca": "VEDAMOTORS",
     "nome": "JOGO JUNTAS CB 300/XRE 300 VEDAMOTORS",
-    "estoque": "0",
+    "estoque": "20",
     "preco": "62,99"
   },
   {
@@ -94604,7 +94604,7 @@
     "fabric": "VS05700000900",
     "marca": "VEDAMOTORS",
     "nome": "JOGO JUNTAS CB 400 CABECOTE PRESPACK VEDAMOTORS",
-    "estoque": "0",
+    "estoque": "2",
     "preco": "62,57"
   },
   {
@@ -94620,7 +94620,7 @@
     "fabric": "P4VS210700503",
     "marca": "VEDAMOTORS",
     "nome": "JOGO JUNTAS CB 500 98/01 VEDAMOTORS",
-    "estoque": "3",
+    "estoque": "5",
     "preco": "141,75"
   },
   {
@@ -94652,7 +94652,7 @@
     "fabric": "VS05700000320",
     "marca": "VEDAMOTORS",
     "nome": "JOGO JUNTAS CBX 200/NX 200/XR 200 VEDAMOTORS",
-    "estoque": "4",
+    "estoque": "24",
     "preco": "29,75"
   },
   {
@@ -94708,7 +94708,7 @@
     "fabric": "VS05700000170",
     "marca": "VEDAMOTORS",
     "nome": "JOGO JUNTAS CG/TODAY/TITAN 99 CDI VEDAMOTORS",
-    "estoque": "13",
+    "estoque": "63",
     "preco": "30,45"
   },
   {
@@ -94740,7 +94740,7 @@
     "fabric": "VS10700000620",
     "marca": "VEDAMOTORS",
     "nome": "JOGO JUNTAS CRYPTON/ZIG 110 VEDAMOTORS",
-    "estoque": "1",
+    "estoque": "3",
     "preco": "49,15"
   },
   {
@@ -94780,7 +94780,7 @@
     "fabric": "VS05700090280",
     "marca": "VEDAMOTORS",
     "nome": "JOGO JUNTAS FALCON 03/08/XR 400R 03/08 VEDAMOTORS",
-    "estoque": "5",
+    "estoque": "15",
     "preco": "104,99"
   },
   {
@@ -94796,7 +94796,7 @@
     "fabric": "VS05700000002",
     "marca": "VEDAMOTORS",
     "nome": "JOGO JUNTAS FAN 125 2009 VEDAMOTORS",
-    "estoque": "0",
+    "estoque": "20",
     "preco": "29,16"
   },
   {
@@ -94844,7 +94844,7 @@
     "fabric": "VS10700090180",
     "marca": "VEDAMOTORS",
     "nome": "JOGO JUNTAS FAZER 250/XTZ 250 VEDAMOTORS",
-    "estoque": "1",
+    "estoque": "6",
     "preco": "91,35"
   },
   {
@@ -94948,7 +94948,7 @@
     "fabric": "VS05700000120",
     "marca": "VEDAMOTORS",
     "nome": "JOGO JUNTAS POP 100 VEDAMOTORS",
-    "estoque": "0",
+    "estoque": "5",
     "preco": "49,15"
   },
   {
@@ -94956,7 +94956,7 @@
     "fabric": "VS10700000750",
     "marca": "VEDAMOTORS",
     "nome": "JOGO JUNTAS RD 125/RDZ 125 VEDAMOTORS",
-    "estoque": "0",
+    "estoque": "2",
     "preco": "48,67"
   },
   {
@@ -95044,7 +95044,7 @@
     "fabric": "VS05700000140",
     "marca": "VEDAMOTORS",
     "nome": "JOGO JUNTAS TITAN 00 KS/ES/KSE VEDAMOTORS",
-    "estoque": "1",
+    "estoque": "101",
     "preco": "25,73"
   },
   {
@@ -95076,7 +95076,7 @@
     "fabric": "VS05700010001",
     "marca": "VEDAMOTORS",
     "nome": "JOGO JUNTAS TITAN 150/BROS 150 06/07 VEDAMOTORS",
-    "estoque": "146",
+    "estoque": "446",
     "preco": "23,63"
   },
   {
@@ -95100,7 +95100,7 @@
     "fabric": "VS05700000260",
     "marca": "VEDAMOTORS",
     "nome": "JOGO JUNTAS TITAN 160/BROS 160 VEDAMOTORS",
-    "estoque": "0",
+    "estoque": "100",
     "preco": "32,22"
   },
   {
@@ -95140,7 +95140,7 @@
     "fabric": "VS05700000190",
     "marca": "VEDAMOTORS",
     "nome": "JOGO JUNTAS TWISTER/TORNADO S/ BORRACHA VEDAMOTORS",
-    "estoque": "4",
+    "estoque": "34",
     "preco": "51,42"
   },
   {
@@ -95220,7 +95220,7 @@
     "fabric": "VS10700090120",
     "marca": "VEDAMOTORS",
     "nome": "JOGO JUNTAS XT 660R VEDAMOTORS",
-    "estoque": "2",
+    "estoque": "7",
     "preco": "134,65"
   },
   {
@@ -95868,7 +95868,7 @@
     "fabric": "TM013",
     "marca": "TMAC",
     "nome": "JOGO RAIO DIANT/TRAS TITAN/FAN KS 2000/150 TMAC 4MM",
-    "estoque": "2703",
+    "estoque": "2702",
     "preco": "24,14"
   },
   {
@@ -96540,7 +96540,7 @@
     "fabric": "VE0500100101P",
     "marca": "VEDAMOTORS",
     "nome": "JUNTA CABECOTE CG 125 ATE 92 VEDAMOTORS",
-    "estoque": "2",
+    "estoque": "1",
     "preco": "8,93"
   },
   {
@@ -96828,8 +96828,8 @@
     "fabric": "VS05005000146",
     "marca": "VEDAMOTORS",
     "nome": "JUNTA CARCACA TITAN 00 KS/ES/KSE VEDAMOTORS",
-    "estoque": "0",
-    "preco": "8,39"
+    "estoque": "10",
+    "preco": "9,44"
   },
   {
     "codigo": "20953",
@@ -96964,7 +96964,7 @@
     "fabric": "VS05002000142",
     "marca": "VEDAMOTORS",
     "nome": "JUNTA CILINDRO TITAN 00 KS/ES/KSE VEDAMOTORS",
-    "estoque": "26",
+    "estoque": "25",
     "preco": "2,79"
   },
   {
@@ -96972,7 +96972,7 @@
     "fabric": "VS05002010200",
     "marca": "VEDAMOTORS",
     "nome": "JUNTA CILINDRO TITAN 150/FAN 150/NXR 150 VEDAMOTORS",
-    "estoque": "55",
+    "estoque": "155",
     "preco": "3,14"
   },
   {
@@ -97116,7 +97116,7 @@
     "fabric": "VS05035000107",
     "marca": "VEDAMOTORS",
     "nome": "JUNTA FILTRO CENTRIFUGO CG/ML/TU 125 VEDAMOTORS",
-    "estoque": "0",
+    "estoque": "50",
     "preco": "2,09"
   },
   {
@@ -97188,7 +97188,7 @@
     "fabric": "VS05003090143",
     "marca": "VEDAMOTORS",
     "nome": "JUNTA TAMPA LATERAL DIREITO BIZ 125  VEDAMOTORS",
-    "estoque": "3",
+    "estoque": "33",
     "preco": "12,18"
   },
   {
@@ -97196,7 +97196,7 @@
     "fabric": "VS05003000123",
     "marca": "VEDAMOTORS",
     "nome": "JUNTA TAMPA LATERAL DIREITO CB 250 TWISTER VEDAMOTORS",
-    "estoque": "0",
+    "estoque": "5",
     "preco": "15,23"
   },
   {
@@ -97260,7 +97260,7 @@
     "fabric": "S4VS210008084",
     "marca": "VEDAMOTORS",
     "nome": "JUNTA TAMPA LATERAL DIREITO FALCON VEDAMOTORS",
-    "estoque": "6",
+    "estoque": "26",
     "preco": "15,95"
   },
   {
@@ -97268,7 +97268,7 @@
     "fabric": "VS10003000683",
     "marca": "VEDAMOTORS",
     "nome": "JUNTA TAMPA LATERAL DIREITO FAZER 16/FACTOR 150 16/FZ15 23 VEDAMOTORS",
-    "estoque": "0",
+    "estoque": "10",
     "preco": "17,33"
   },
   {
@@ -97276,7 +97276,7 @@
     "fabric": "VS10003090183",
     "marca": "VEDAMOTORS",
     "nome": "JUNTA TAMPA LATERAL DIREITO FAZER 250  VEDAMOTORS",
-    "estoque": "4",
+    "estoque": "14",
     "preco": "18,22"
   },
   {
@@ -97332,7 +97332,7 @@
     "fabric": "VS05003000143",
     "marca": "VEDAMOTORS",
     "nome": "JUNTA TAMPA LATERAL DIREITO TITAN 00 KS/ES/KSE VEDAMOTORS",
-    "estoque": "1",
+    "estoque": "51",
     "preco": "8,16"
   },
   {
@@ -97340,7 +97340,7 @@
     "fabric": "VS05003010301",
     "marca": "VEDAMOTORS",
     "nome": "JUNTA TAMPA LATERAL DIREITO TITAN 150/BROS 150 06/07 VEDAMOTORS",
-    "estoque": "22",
+    "estoque": "322",
     "preco": "9,44"
   },
   {
@@ -97348,7 +97348,7 @@
     "fabric": "VS05003000263",
     "marca": "VEDAMOTORS",
     "nome": "JUNTA TAMPA LATERAL DIREITO TITAN 160/BROS 160 VEDAMOTORS",
-    "estoque": "0",
+    "estoque": "50",
     "preco": "13,13"
   },
   {
@@ -97356,7 +97356,7 @@
     "fabric": "VS05003000195",
     "marca": "VEDAMOTORS",
     "nome": "JUNTA TAMPA LATERAL DIREITO TWISTER/TORNADO/CB 300 VEDAMOTORS",
-    "estoque": "0",
+    "estoque": "30",
     "preco": "10,9"
   },
   {
@@ -97412,7 +97412,7 @@
     "fabric": "VS05004090144",
     "marca": "VEDAMOTORS",
     "nome": "JUNTA TAMPA LATERAL ESQUERDO BIZ 125 VEDAMOTORS",
-    "estoque": "1",
+    "estoque": "51",
     "preco": "6,83"
   },
   {
@@ -97420,7 +97420,7 @@
     "fabric": "VS05004000124",
     "marca": "VEDAMOTORS",
     "nome": "JUNTA TAMPA LATERAL ESQUERDO CB 250 TWISTER VEDAMOTORS",
-    "estoque": "0",
+    "estoque": "5",
     "preco": "15,23"
   },
   {
@@ -97436,7 +97436,7 @@
     "fabric": "VS05004000004",
     "marca": "VEDAMOTORS",
     "nome": "JUNTA TAMPA LATERAL ESQUERDO CB 300/XRE 300 VEDAMOTORS",
-    "estoque": "4",
+    "estoque": "14",
     "preco": "5,45"
   },
   {
@@ -97564,7 +97564,7 @@
     "fabric": "VS05004000144",
     "marca": "VEDAMOTORS",
     "nome": "JUNTA TAMPA LATERAL ESQUERDO TITAN 00 KS/ES/KSE VEDAMOTORS",
-    "estoque": "10",
+    "estoque": "30",
     "preco": "5,78"
   },
   {
@@ -97572,7 +97572,7 @@
     "fabric": "VS05004015400",
     "marca": "VEDAMOTORS",
     "nome": "JUNTA TAMPA LATERAL ESQUERDO TITAN 150/BROS 150 VEDAMOTORS",
-    "estoque": "99",
+    "estoque": "299",
     "preco": "5,78"
   },
   {
@@ -97580,7 +97580,7 @@
     "fabric": "VS05004000264",
     "marca": "VEDAMOTORS",
     "nome": "JUNTA TAMPA LATERAL ESQUERDO TITAN 160/BROS 160 VEDAMOTORS",
-    "estoque": "0",
+    "estoque": "50",
     "preco": "7,88"
   },
   {
@@ -97588,7 +97588,7 @@
     "fabric": "VS05004000254",
     "marca": "VEDAMOTORS",
     "nome": "JUNTA TAMPA LATERAL ESQUERDO TURUNA 85 EM DIANT VEDAMOTORS",
-    "estoque": "0",
+    "estoque": "20",
     "preco": "5,95"
   },
   {
@@ -97636,7 +97636,7 @@
     "fabric": "VS15004008094",
     "marca": "VEDAMOTORS",
     "nome": "JUNTA TAMPA LATERAL ESQUERDO YES 125 VEDAMOTORS",
-    "estoque": "5",
+    "estoque": "15",
     "preco": "11,07"
   },
   {
@@ -97684,7 +97684,7 @@
     "fabric": "S4V0210015072",
     "marca": "VEDAMOTORS",
     "nome": "JUNTA TAMPA VALVULA FALCON VEDAMOTORS",
-    "estoque": "8",
+    "estoque": "28",
     "preco": "27,54"
   },
   {
@@ -97700,7 +97700,7 @@
     "fabric": "VE05070000406",
     "marca": "VEDAMOTORS",
     "nome": "JUNTA TAMPA VALVULA XLX 250/XLX 350 VEDAMOTORS",
-    "estoque": "7",
+    "estoque": "9",
     "preco": "18,38"
   },
   {
@@ -97732,7 +97732,7 @@
     "fabric": "S4V0210078009",
     "marca": "VEDAMOTORS",
     "nome": "JUNTA TENSOR CORRENTE COMANDO FALCON/CB300/CBX 200/BROS150 02/05 VEDAMOTORS",
-    "estoque": "3",
+    "estoque": "8",
     "preco": "5,45"
   },
   {
@@ -97828,7 +97828,7 @@
     "fabric": "VS05610090155",
     "marca": "VEDAMOTORS",
     "nome": "KIT A BIZ 125  VEDAMOTORS",
-    "estoque": "11",
+    "estoque": "41",
     "preco": "17,33"
   },
   {
@@ -97876,7 +97876,7 @@
     "fabric": "VS05610000004",
     "marca": "VEDAMOTORS",
     "nome": "KIT A CB 300/XRE 300 VEDAMOTORS",
-    "estoque": "15",
+    "estoque": "45",
     "preco": "37,28"
   },
   {
@@ -97972,7 +97972,7 @@
     "fabric": "VS10610000630",
     "marca": "VEDAMOTORS",
     "nome": "KIT A CRYPTON 115 VEDAMOTORS",
-    "estoque": "1",
+    "estoque": "3",
     "preco": "21,3"
   },
   {
@@ -98028,7 +98028,7 @@
     "fabric": "VS05610000002",
     "marca": "VEDAMOTORS",
     "nome": "KIT A FAN 125 2009 VEDAMOTORS",
-    "estoque": "6",
+    "estoque": "36",
     "preco": "16,28"
   },
   {
@@ -98044,7 +98044,7 @@
     "fabric": "VS10610000680",
     "marca": "VEDAMOTORS",
     "nome": "KIT A FAZER 150 14/FACTOR 150 16/FZ15 23 VEDAMOTORS",
-    "estoque": "0",
+    "estoque": "3",
     "preco": "30,44"
   },
   {
@@ -98108,7 +98108,7 @@
     "fabric": "VS0561010001K",
     "marca": "VEDAMOTORS",
     "nome": "KIT A TITAN 150 VEDAMOTORS",
-    "estoque": "25",
+    "estoque": "325",
     "preco": "16,83"
   },
   {
@@ -98132,7 +98132,7 @@
     "fabric": "VS05610000260",
     "marca": "VEDAMOTORS",
     "nome": "KIT A TITAN 160/BROS 160 VEDAMOTORS",
-    "estoque": "0",
+    "estoque": "100",
     "preco": "20,21"
   },
   {
@@ -98164,7 +98164,7 @@
     "fabric": "VS05610000145",
     "marca": "VEDAMOTORS",
     "nome": "KIT A TITAN 2000 KS/ES/KSE VEDAMOTORS",
-    "estoque": "0",
+    "estoque": "100",
     "preco": "13,13"
   },
   {
@@ -98212,7 +98212,7 @@
     "fabric": "VS05610000199",
     "marca": "VEDAMOTORS",
     "nome": "KIT A TWISTER/TORNADO VEDAMOTORS",
-    "estoque": "0",
+    "estoque": "20",
     "preco": "30,25"
   },
   {
@@ -98252,7 +98252,7 @@
     "fabric": "VS15610008090",
     "marca": "VEDAMOTORS",
     "nome": "KIT A YES 125 05/07 VEDAMOTORS",
-    "estoque": "3",
+    "estoque": "5",
     "preco": "19,94"
   },
   {
@@ -101548,7 +101548,7 @@
     "fabric": "001-KOI-034H0",
     "marca": "MOTOKOI",
     "nome": "KIT TRANSMISSAO TITAN 150 MOTOKOI (43/16/428HX118)",
-    "estoque": "1174",
+    "estoque": "1173",
     "preco": "57,74"
   },
   {
@@ -102220,7 +102220,7 @@
     "fabric": "VE10105000002",
     "marca": "VEDAMOTORS",
     "nome": "KIT VEDACAO INJECAO ELETRONICO FAZER/LANDER VEDAMOTORS",
-    "estoque": "1",
+    "estoque": "6",
     "preco": "13,13"
   },
   {
@@ -102260,7 +102260,7 @@
     "fabric": "VE05084000004",
     "marca": "VEDAMOTORS",
     "nome": "KIT VEDACAO TAMPA VALVULA CG 160 VEDAMOTORS",
-    "estoque": "0",
+    "estoque": "100",
     "preco": "10,49"
   },
   {
@@ -102268,7 +102268,7 @@
     "fabric": "VE05084000001",
     "marca": "VEDAMOTORS",
     "nome": "KIT VEDACAO TAMPA VALVULA TITAN 150 VEDAMOTORS - GUARNICAO + 2 RETENTORES",
-    "estoque": "27",
+    "estoque": "327",
     "preco": "11,03"
   },
   {
@@ -102492,7 +102492,7 @@
     "fabric": "H4FIT",
     "marca": "PHILIPS",
     "nome": "LAMPADA FAROL TITAN H4 12V 35X35 PHILLIPS FIT",
-    "estoque": "714",
+    "estoque": "713",
     "preco": "28,51"
   },
   {
@@ -102668,7 +102668,7 @@
     "fabric": "LF-01 SB",
     "marca": "STALLION",
     "nome": "LAMPADA LED FAROL TITAN H4 LED STALLION",
-    "estoque": "1795",
+    "estoque": "1794",
     "preco": "18,38"
   },
   {
@@ -105580,7 +105580,7 @@
     "fabric": "123075",
     "marca": "MOBIL",
     "nome": "LUBRIFICANTES MOTO 4T MOBIL 10W30 SEMI-SINTETICO",
-    "estoque": "2584",
+    "estoque": "2581",
     "preco": "36,74"
   },
   {
@@ -105612,7 +105612,7 @@
     "fabric": "121708",
     "marca": "MOBIL",
     "nome": "LUBRIFICANTES MOTO 4T MOBIL 20W50",
-    "estoque": "8711",
+    "estoque": "8708",
     "preco": "27,29"
   },
   {
@@ -105636,7 +105636,7 @@
     "fabric": "111548",
     "marca": "MOTUL",
     "nome": "LUBRIFICANTES MOTO 4T MOTUL 5000+ 10W30",
-    "estoque": "407",
+    "estoque": "406",
     "preco": "49,34"
   },
   {
@@ -105716,7 +105716,7 @@
     "fabric": "",
     "marca": "OXFORD",
     "nome": "LUBRIFICANTES MOTO 4T OXFORD 10W30",
-    "estoque": "10832",
+    "estoque": "10831",
     "preco": "17,84"
   },
   {
@@ -105741,7 +105741,7 @@
     "marca": "YAMAHA",
     "nome": "LUBRIFICANTES MOTO 4T YAMALUBE 10W40 SCOOTER (JASO MB)",
     "estoque": "1",
-    "preco": "52,49"
+    "preco": "56,69"
   },
   {
     "codigo": "38327",
@@ -108644,7 +108644,7 @@
     "fabric": "P-020",
     "marca": "PROTEC",
     "nome": "MANETE EMBREAGEM TITAN 2000 / TITAN 150 PROTEC",
-    "estoque": "332",
+    "estoque": "331",
     "preco": "6,48"
   },
   {
@@ -110684,7 +110684,7 @@
     "fabric": "MA037-001",
     "marca": "CIRCUIT",
     "nome": "MANOPLA CIRCUIT INTERLAGOS PT PLUS",
-    "estoque": "717",
+    "estoque": "716",
     "preco": "23,09"
   },
   {
@@ -126260,7 +126260,7 @@
     "fabric": "N1882",
     "marca": "COBREQ",
     "nome": "PASTILHA FREIO TITAN 160 18/FAN 150 18 CBS COBREQ N-1882",
-    "estoque": "1020",
+    "estoque": "1019",
     "preco": "26,78"
   },
   {
@@ -127556,7 +127556,7 @@
     "fabric": "302CPX",
     "marca": "COBREQ",
     "nome": "PATIM FREIO TITAN 00/TITAN 150 0,25 DIANT/TRAS COBREQ 302CPX",
-    "estoque": "3056",
+    "estoque": "3057",
     "preco": "34,64"
   },
   {
@@ -139468,7 +139468,7 @@
     "fabric": "18822",
     "marca": "LEVORIN",
     "nome": "PNEU DIANT 80/100-18 LEVORIN MATRIX TT 47P",
-    "estoque": "1476",
+    "estoque": "1475",
     "preco": "220,4"
   },
   {
@@ -140388,7 +140388,7 @@
     "fabric": "100266",
     "marca": "MAGGION",
     "nome": "PNEU TRAS 80/100-14 MAGGION STREET BIZ 100 TT",
-    "estoque": "427",
+    "estoque": "425",
     "preco": "117,59"
   },
   {
@@ -140476,7 +140476,7 @@
     "fabric": "100649",
     "marca": "MAGGION",
     "nome": "PNEU TRAS 90/90-18 MAGGION WINNER TT",
-    "estoque": "631",
+    "estoque": "630",
     "preco": "141,75"
   },
   {
@@ -151228,7 +151228,7 @@
     "fabric": "P40FORK455004",
     "marca": "VEDAMOTORS",
     "nome": "RETENTOR BENGALA BIZ 125 11/BIZ 100 12/CRYPTON 115 VEDAMOTORS (PAR)",
-    "estoque": "9",
+    "estoque": "29",
     "preco": "25,31"
   },
   {
@@ -151364,7 +151364,7 @@
     "fabric": "M730902002030",
     "marca": "VEDAMOTORS",
     "nome": "RETENTOR BENGALA CG/TITAN/BIZ 100/BIZ 125 VEDAMOTORS (PAR)",
-    "estoque": "1",
+    "estoque": "51",
     "preco": "15,51"
   },
   {
@@ -151476,7 +151476,7 @@
     "fabric": "P40FORK455166",
     "marca": "VEDAMOTORS",
     "nome": "RETENTOR BENGALA FAZER 250 19/YZFR3/MT03 16 A 19 VEDAMOTORS",
-    "estoque": "0",
+    "estoque": "10",
     "preco": "29,16"
   },
   {
@@ -151612,7 +151612,7 @@
     "fabric": "P40FORK455015",
     "marca": "VEDAMOTORS",
     "nome": "RETENTOR BENGALA TITAN 150/CBX 150/BROS VEDAMOTORS (PAR)",
-    "estoque": "0",
+    "estoque": "100",
     "preco": "18,66"
   },
   {
@@ -151668,7 +151668,7 @@
     "fabric": "P40FORK455042",
     "marca": "VEDAMOTORS",
     "nome": "RETENTOR BENGALA TWISTER/CB 500/CRF 230/FAZER ATE 10 VEDAMOTORS (PAR)",
-    "estoque": "5",
+    "estoque": "35",
     "preco": "20,99"
   },
   {
@@ -151716,7 +151716,7 @@
     "fabric": "P40FORK455053",
     "marca": "VEDAMOTORS",
     "nome": "RETENTOR BENGALA XT 600 (41,0 X 53,0 X 10,5) VEDAMOTORS (PAR)",
-    "estoque": "0",
+    "estoque": "5",
     "preco": "68,27"
   },
   {
@@ -151828,7 +151828,7 @@
     "fabric": "P40FORK455012",
     "marca": "VEDAMOTORS",
     "nome": "RETENTOR BENGALA YBR/FACTOR/FAZER 150/YES VEDAMOTORS",
-    "estoque": "7",
+    "estoque": "17",
     "preco": "20,76"
   },
   {
@@ -151884,7 +151884,7 @@
     "fabric": "M730900242000",
     "marca": "VEDAMOTORS",
     "nome": "RETENTOR CAMBIO BIZ 100/DREAM/BIZ 125 VEDAMOTORS",
-    "estoque": "10",
+    "estoque": "40",
     "preco": "8,93"
   },
   {
@@ -151972,7 +151972,7 @@
     "fabric": "M730900287500",
     "marca": "VEDAMOTORS",
     "nome": "RETENTOR CAMBIO FAZER 150 14/FACTOR 150/125 VEDAMOTORS",
-    "estoque": "0",
+    "estoque": "10",
     "preco": "6,83"
   },
   {
@@ -152052,7 +152052,7 @@
     "fabric": "M73FG00028000",
     "marca": "VEDAMOTORS",
     "nome": "RETENTOR CAMBIO TITAN 150/TITAN 160/BROS 160 VEDAMOTORS",
-    "estoque": "22",
+    "estoque": "122",
     "preco": "6,28"
   },
   {
@@ -152156,7 +152156,7 @@
     "fabric": "M730900290000",
     "marca": "VEDAMOTORS",
     "nome": "RETENTOR HASTE EMBREAGEM CG 125/TUR/ML VEDAMOTORS",
-    "estoque": "3",
+    "estoque": "33",
     "preco": "7,34"
   },
   {
@@ -152284,7 +152284,7 @@
     "fabric": "M730900249100",
     "marca": "VEDAMOTORS",
     "nome": "RETENTOR HASTE EMBREAGEM TWISTER/FAZER/FALCON/YBR 125/TITAN 150 VEDAMOTORS",
-    "estoque": "9",
+    "estoque": "209",
     "preco": "6,83"
   },
   {
@@ -152380,7 +152380,7 @@
     "fabric": "1104693",
     "marca": "MOTOPORT",
     "nome": "RETENTOR HASTE VALVULA CG/TOD/TITAN ATE 2001 MOTOPORT VERDE ***PAR***",
-    "estoque": "49",
+    "estoque": "48",
     "preco": "7,73"
   },
   {
@@ -152556,7 +152556,7 @@
     "fabric": "M739000GB4683",
     "marca": "VEDAMOTORS",
     "nome": "RETENTOR HASTE VALVULA TWISTER/TITAN 150/TITAN 2002/BIZ VEDAMOTORS (PAR)",
-    "estoque": "65",
+    "estoque": "165",
     "preco": "10,49"
   },
   {
@@ -152660,7 +152660,7 @@
     "fabric": "VE990571187AN",
     "marca": "VEDAMOTORS",
     "nome": "RETENTOR MESA MAGNETO C/ANEIS BIZ 100 KS VEDAMOTORS",
-    "estoque": "5",
+    "estoque": "35",
     "preco": "13,41"
   },
   {
@@ -152700,7 +152700,7 @@
     "fabric": "VE990571186AN",
     "marca": "VEDAMOTORS",
     "nome": "RETENTOR MESA MAGNETO C/ANEIS CG/TITAN 125 VEDAMOTORS",
-    "estoque": "3",
+    "estoque": "103",
     "preco": "8,39"
   },
   {
@@ -152860,7 +152860,7 @@
     "fabric": "M730900700100",
     "marca": "VEDAMOTORS",
     "nome": "RETENTOR PARTIDA CG125/150/BIZ125 VEDAMOTORS",
-    "estoque": "8",
+    "estoque": "58",
     "preco": "8,93"
   },
   {
@@ -152916,7 +152916,7 @@
     "fabric": "M735400995000",
     "marca": "VEDAMOTORS",
     "nome": "RETENTOR PARTIDA YBR/XTZ 125/FACTOR 125/DT200 VEDAMOTORS",
-    "estoque": "0",
+    "estoque": "10",
     "preco": "5,34"
   },
   {
@@ -153020,7 +153020,7 @@
     "fabric": "M733000793000",
     "marca": "VEDAMOTORS",
     "nome": "RETENTOR PINHAO BIZ 125 VEDAMOTORS",
-    "estoque": "1",
+    "estoque": "51",
     "preco": "6,29"
   },
   {
@@ -153108,7 +153108,7 @@
     "fabric": "M730001047000",
     "marca": "VEDAMOTORS",
     "nome": "RETENTOR PINHAO CG 125/TITAN 150/TITAN 160/NEXT 250 VEDAMOTORS",
-    "estoque": "39",
+    "estoque": "239",
     "preco": "6,83"
   },
   {
@@ -153124,7 +153124,7 @@
     "fabric": "M730901049600",
     "marca": "VEDAMOTORS",
     "nome": "RETENTOR PINHAO CRYPTON VEDAMOTORS",
-    "estoque": "0",
+    "estoque": "10",
     "preco": "8,39"
   },
   {
@@ -153132,7 +153132,7 @@
     "fabric": "M730901565020",
     "marca": "VEDAMOTORS",
     "nome": "RETENTOR PINHAO FALCON ATHENA",
-    "estoque": "1",
+    "estoque": "11",
     "preco": "8,39"
   },
   {
@@ -153204,7 +153204,7 @@
     "fabric": "M731101242510",
     "marca": "VEDAMOTORS",
     "nome": "RETENTOR PINHAO TWISTER/TORNADO/CB 300/XRE 300 VEDAMOTORS",
-    "estoque": "0",
+    "estoque": "20",
     "preco": "12,44"
   },
   {
@@ -153268,7 +153268,7 @@
     "fabric": "M731502003000",
     "marca": "VEDAMOTORS",
     "nome": "RETENTOR PINHAO YES/INTRUDER VEDAMOTORS",
-    "estoque": "5",
+    "estoque": "10",
     "preco": "11,54"
   },
   {
@@ -153300,7 +153300,7 @@
     "fabric": "M735601346000",
     "marca": "VEDAMOTORS",
     "nome": "RETENTOR RODA DIANTEIRA DIREITA CBX 250/CBR 250 VEDAMOTORS",
-    "estoque": "0",
+    "estoque": "10",
     "preco": "10,49"
   },
   {
@@ -153380,7 +153380,7 @@
     "fabric": "M735602003000",
     "marca": "VEDAMOTORS",
     "nome": "RETENTOR RODA TRASEIRA BIZ 100 ESQ VEDAMOTORS",
-    "estoque": "0",
+    "estoque": "10",
     "preco": "8,12"
   },
   {
@@ -153420,7 +153420,7 @@
     "fabric": "M730902060000",
     "marca": "VEDAMOTORS",
     "nome": "RETENTOR RODA TRASEIRA CG/TITAN VEDAMOTORS",
-    "estoque": "21",
+    "estoque": "41",
     "preco": "6,83"
   },
   {
@@ -155196,7 +155196,7 @@
     "fabric": "KOI0242",
     "marca": "MOTOKOI BR",
     "nome": "RETROVISOR TITAN 150 NOVA PAR MOTOKOI BR",
-    "estoque": "162",
+    "estoque": "161",
     "preco": "22,04"
   },
   {
@@ -158332,7 +158332,7 @@
     "fabric": "22014001202",
     "marca": "TEKBOND",
     "nome": "SILICONE ALTA TEMPERATURA CINZA 50G TEKBOND",
-    "estoque": "8",
+    "estoque": "7",
     "preco": "10,59"
   },
   {
@@ -160660,7 +160660,7 @@
     "fabric": "3064",
     "marca": "PROJETIL",
     "nome": "SUPORTE PISCA TRAS TITAN 00/08 PROJETIL",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "10,49"
   },
   {
@@ -164076,7 +164076,7 @@
     "fabric": "TC4600",
     "marca": "TMAC",
     "nome": "TENSION /ACION. CORRENTE BIZ 100 ROLETES (9 PCS) TMAC",
-    "estoque": "27",
+    "estoque": "26",
     "preco": "26,48"
   },
   {
@@ -166100,7 +166100,7 @@
     "fabric": "VA0510029",
     "marca": "METAL LEVE",
     "nome": "VALVULA ADMISSAO TODAY/TITAN 92/01 METAL LEVE",
-    "estoque": "15",
+    "estoque": "14",
     "preco": "41,99"
   },
   {
@@ -166796,7 +166796,7 @@
     "fabric": "VE0510030",
     "marca": "METAL LEVE",
     "nome": "VALVULA ESCAPE TODAY/TITAN CDI ATE 01 METAL LEVE",
-    "estoque": "11",
+    "estoque": "10",
     "preco": "60,38"
   },
   {
@@ -167772,7 +167772,7 @@
     "fabric": "CPR8EA9",
     "marca": "NGK",
     "nome": "VELA TITAN 150/FAN 150 CPR8EA-9 NGK",
-    "estoque": "510",
+    "estoque": "509",
     "preco": "31,49"
   },
   {
@@ -168884,7 +168884,7 @@
     "fabric": "1708C",
     "marca": "POLIVISOR",
     "nome": "VISEIRA EBF EOX 2,20 MM CRSTAL POLIVISOR",
-    "estoque": "23",
+    "estoque": "22",
     "preco": "26,78"
   },
   {
@@ -172004,7 +172004,7 @@
     "fabric": "1744F",
     "marca": "POLIVISOR",
     "nome": "VISEIRA TORK NEW LIBERTY 3 FUME POLIVISOR",
-    "estoque": "16",
+    "estoque": "15",
     "preco": "31,49"
   },
   {
