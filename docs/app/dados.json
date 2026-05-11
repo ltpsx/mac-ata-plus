@@ -3396,7 +3396,7 @@
     "fabric": "KOI0180",
     "marca": "MOTOKOI",
     "nome": "AMORTECEDOR TITAN 150 MOTOKOI (PAR)",
-    "estoque": "58",
+    "estoque": "78",
     "preco": "115,49"
   },
   {
@@ -3837,7 +3837,7 @@
     "marca": "MOTOKOI BR",
     "nome": "ANEL COLETOR ADMISSAO MOTOKOI 29 X 2,6 CG/ML/TU UNIT",
     "estoque": "0",
-    "preco": "0,6"
+    "preco": "0,79"
   },
   {
     "codigo": "50069",
@@ -3845,7 +3845,7 @@
     "marca": "MOTOKOI BR",
     "nome": "ANEL COLETOR ADMISSAO MOTOKOI 33,5 X 3 CG/ML/TU 1 UND.",
     "estoque": "9",
-    "preco": "0,67"
+    "preco": "0,79"
   },
   {
     "codigo": "2386",
@@ -4437,7 +4437,7 @@
     "marca": "MOTOKOI BR",
     "nome": "ANEL TAMPA VALVULA BIZ 125 MOTOKOI",
     "estoque": "2",
-    "preco": "0,48"
+    "preco": "0,58"
   },
   {
     "codigo": "18205",
@@ -5140,7 +5140,7 @@
     "fabric": "KOI0313",
     "marca": "MOTOKOI",
     "nome": "ARO RODA 1.85 X 18 CG/TOD/TIT TRAS MOTOKOI",
-    "estoque": "866",
+    "estoque": "886",
     "preco": "80,84"
   },
   {
@@ -8268,7 +8268,7 @@
     "fabric": "MTX6L-BS",
     "marca": "MOTOKOI BR",
     "nome": "BATERIA BIZ / FAN 125 ES 09/TITAN150 MIX 09 ED MTX6L-BS MOTOKOI",
-    "estoque": "121",
+    "estoque": "120",
     "preco": "125,99"
   },
   {
@@ -11092,7 +11092,7 @@
     "fabric": "801700",
     "marca": "MELC",
     "nome": "BLOCO OPTICO TITAN 00-04/FAN125 05-13 MELC (801700)",
-    "estoque": "53",
+    "estoque": "52",
     "preco": "16,63"
   },
   {
@@ -12740,7 +12740,7 @@
     "fabric": "TM570",
     "marca": "TMAC",
     "nome": "BOBINA IGNICAO TODAY 92/94 TMAC",
-    "estoque": "4",
+    "estoque": "3",
     "preco": "21,2"
   },
   {
@@ -14812,7 +14812,7 @@
     "fabric": "47815",
     "marca": "MHX",
     "nome": "BOMBA OLEO FAZER/XTZ/FACTOR 125/150 14 MHX",
-    "estoque": "52",
+    "estoque": "82",
     "preco": "85,2"
   },
   {
@@ -15581,7 +15581,7 @@
     "marca": "MOTOKOI BR",
     "nome": "BORRACHA TAMPA LATERAL TANQUE TITAN 2000 MOTOKOI",
     "estoque": "0",
-    "preco": "0,75"
+    "preco": "0,89"
   },
   {
     "codigo": "25461",
@@ -17549,7 +17549,7 @@
     "marca": "MOTOKOI BR",
     "nome": "BUCHA GARFO DESLIZANTE TWISTER/CBR 250R MOTOKOI",
     "estoque": "0",
-    "preco": "0"
+    "preco": "20,99"
   },
   {
     "codigo": "24879",
@@ -17669,7 +17669,7 @@
     "marca": "MOTOKOI BR",
     "nome": "BUCHA GUIA GARFO EXTERNO 1,5MM TITAN 150/TITAN 160/BROS 125/BROS 150/BROS 160 MOTOKOI",
     "estoque": "0",
-    "preco": "0"
+    "preco": "19,43"
   },
   {
     "codigo": "53770",
@@ -17677,7 +17677,7 @@
     "marca": "MOTOKOI BR",
     "nome": "BUCHA QUADRO ELASTICO (KIT) TITAN 160 MOTOKOI",
     "estoque": "0",
-    "preco": "0"
+    "preco": "23,1"
   },
   {
     "codigo": "22537",
@@ -19628,7 +19628,7 @@
     "fabric": "KOI0296",
     "marca": "MOTOKOI",
     "nome": "CABO ACELERADOR BURGMAN ATE 11 MOTOKOI",
-    "estoque": "10",
+    "estoque": "20",
     "preco": "11,54"
   },
   {
@@ -21972,7 +21972,7 @@
     "fabric": "KOI0004",
     "marca": "MOTOKOI",
     "nome": "CABO ACELERADOR TITAN 150 2004/08 MOTOKOI",
-    "estoque": "156",
+    "estoque": "155",
     "preco": "7,34"
   },
   {
@@ -22532,7 +22532,7 @@
     "fabric": "KOI0030",
     "marca": "MOTOKOI",
     "nome": "CABO ACELERADOR TWISTER \"B\" MOTOKOI",
-    "estoque": "96",
+    "estoque": "106",
     "preco": "9,71"
   },
   {
@@ -25860,7 +25860,7 @@
     "fabric": "KOI0303",
     "marca": "MOTOKOI",
     "nome": "CABO EMBREAGEM STRADA MOTOKOI",
-    "estoque": "1",
+    "estoque": "11",
     "preco": "8,39"
   },
   {
@@ -26932,7 +26932,7 @@
     "fabric": "KOI0076",
     "marca": "MOTOKOI",
     "nome": "CABO EMBREAGEM YBR FACTOR 09/12 MOTOKOI",
-    "estoque": "57",
+    "estoque": "67",
     "preco": "12,38"
   },
   {
@@ -27188,7 +27188,7 @@
     "fabric": "KOI0047",
     "marca": "MOTOKOI",
     "nome": "CABO FREIO BIZ 125 05/08 MOTOKOI",
-    "estoque": "20",
+    "estoque": "22",
     "preco": "9,61"
   },
   {
@@ -27348,7 +27348,7 @@
     "fabric": "KOI0052",
     "marca": "MOTOKOI",
     "nome": "CABO FREIO BROS 150 MOTOKOI",
-    "estoque": "18",
+    "estoque": "20",
     "preco": "10,49"
   },
   {
@@ -32228,7 +32228,7 @@
     "fabric": "KOI0291",
     "marca": "MOTOKOI",
     "nome": "CAMARA DE AR DIANT BROS/XTZ/CB 400/450 MOTOKOI T19",
-    "estoque": "2",
+    "estoque": "102",
     "preco": "18,89"
   },
   {
@@ -32404,7 +32404,7 @@
     "fabric": "11553",
     "marca": "LEVORIN",
     "nome": "CAMARA DE AR TRAS BIZ LEVORIN MSA 14",
-    "estoque": "7595",
+    "estoque": "7594",
     "preco": "20,99"
   },
   {
@@ -32428,7 +32428,7 @@
     "fabric": "KOI0169",
     "marca": "MOTOKOI",
     "nome": "CAMARA DE AR TRAS BIZ MOTOKOI R14",
-    "estoque": "400",
+    "estoque": "499",
     "preco": "16,79"
   },
   {
@@ -32500,7 +32500,7 @@
     "fabric": "KOI0290",
     "marca": "MOTOKOI",
     "nome": "CAMARA DE AR TRAS TORNADO/XT/CB MOTOKOI 4.10-18 120/80-18",
-    "estoque": "97",
+    "estoque": "147",
     "preco": "18,89"
   },
   {
@@ -33052,7 +33052,7 @@
     "fabric": "KOI0936",
     "marca": "MOTOKOI BR",
     "nome": "CAPA BANCO BAJAJ DOMINAR 400CC 24 PRETA MOTOKOI",
-    "estoque": "0",
+    "estoque": "2",
     "preco": "35,69"
   },
   {
@@ -33196,7 +33196,7 @@
     "fabric": "KOI0185",
     "marca": "MOTOKOI BR",
     "nome": "CAPA BANCO BIZ 125 18/24 AZUL MOTOKOI",
-    "estoque": "0",
+    "estoque": "15",
     "preco": "28,88"
   },
   {
@@ -33212,8 +33212,8 @@
     "fabric": "KOI0187",
     "marca": "MOTOKOI BR",
     "nome": "CAPA BANCO BIZ 125 18/24 PRETO MOTOKOI",
-    "estoque": "0",
-    "preco": "24,14"
+    "estoque": "30",
+    "preco": "25,19"
   },
   {
     "codigo": "52558",
@@ -33244,7 +33244,7 @@
     "fabric": "KOI0217",
     "marca": "MOTOKOI BR",
     "nome": "CAPA BANCO BROS 125/150 03/08 MOTOKOI",
-    "estoque": "0",
+    "estoque": "50",
     "preco": "21,93"
   },
   {
@@ -33268,7 +33268,7 @@
     "fabric": "KOI0220",
     "marca": "MOTOKOI BR",
     "nome": "CAPA BANCO BROS 150 09/14 MOTOKOI",
-    "estoque": "0",
+    "estoque": "50",
     "preco": "21,84"
   },
   {
@@ -33324,7 +33324,7 @@
     "fabric": "KOI0218",
     "marca": "MOTOKOI BR",
     "nome": "CAPA BANCO BROS 160 15/21 PRETO MOTOKOI",
-    "estoque": "0",
+    "estoque": "50",
     "preco": "20,99"
   },
   {
@@ -33428,7 +33428,7 @@
     "fabric": "KOI0231",
     "marca": "MOTOKOI BR",
     "nome": "CAPA BANCO CARGO TITAN 00/08 MOTOKOI",
-    "estoque": "1",
+    "estoque": "21",
     "preco": "19,43"
   },
   {
@@ -33436,7 +33436,7 @@
     "fabric": "KOI0230",
     "marca": "MOTOKOI BR",
     "nome": "CAPA BANCO CARGO TITAN 09/13 MOTOKOI",
-    "estoque": "1",
+    "estoque": "6",
     "preco": "18,55"
   },
   {
@@ -33540,7 +33540,7 @@
     "fabric": "KOI0192",
     "marca": "MOTOKOI BR",
     "nome": "CAPA BANCO CB 300 09 PRETA MOTOKOI",
-    "estoque": "1",
+    "estoque": "51",
     "preco": "23,63"
   },
   {
@@ -33596,8 +33596,8 @@
     "fabric": "KOI0194",
     "marca": "MOTOKOI BR",
     "nome": "CAPA BANCO CB 450 DX/TR 88/91 PRETA MOTOKOI",
-    "estoque": "0",
-    "preco": "41,99"
+    "estoque": "3",
+    "preco": "36,23"
   },
   {
     "codigo": "39586",
@@ -33668,8 +33668,8 @@
     "fabric": "KOI0195",
     "marca": "MOTOKOI BR",
     "nome": "CAPA BANCO CB 500 97/05 MOTOKOI",
-    "estoque": "0",
-    "preco": "31,49"
+    "estoque": "3",
+    "preco": "28,88"
   },
   {
     "codigo": "46584",
@@ -33972,7 +33972,7 @@
     "fabric": "KOI0249",
     "marca": "MOTOKOI BR",
     "nome": "CAPA BANCO FACTOR 09/15 MOTOKOI",
-    "estoque": "2",
+    "estoque": "12",
     "preco": "22,58"
   },
   {
@@ -34108,7 +34108,7 @@
     "fabric": "KOI0252",
     "marca": "MOTOKOI BR",
     "nome": "CAPA BANCO FAZER 150 SED 13/14 MOTOKOI",
-    "estoque": "0",
+    "estoque": "4",
     "preco": "27,83"
   },
   {
@@ -34124,7 +34124,7 @@
     "fabric": "KOI0256",
     "marca": "MOTOKOI BR",
     "nome": "CAPA BANCO FAZER 250 15/17 PRETA MOTOKOI",
-    "estoque": "0",
+    "estoque": "2",
     "preco": "27,83"
   },
   {
@@ -34132,7 +34132,7 @@
     "fabric": "KOI0257",
     "marca": "MOTOKOI BR",
     "nome": "CAPA BANCO FAZER 250 18/24 PRETA MOTOKOI",
-    "estoque": "0",
+    "estoque": "5",
     "preco": "27,83"
   },
   {
@@ -34140,7 +34140,7 @@
     "fabric": "KOI0931",
     "marca": "MOTOKOI BR",
     "nome": "CAPA BANCO FAZER 250 25 PRETA MOTOKOI",
-    "estoque": "0",
+    "estoque": "3",
     "preco": "27,29"
   },
   {
@@ -34164,8 +34164,8 @@
     "fabric": "KOI0277",
     "marca": "MOTOKOI BR",
     "nome": "CAPA BANCO GSR 125/150 12/16 MOTOKOI",
-    "estoque": "1",
-    "preco": "23,1"
+    "estoque": "3",
+    "preco": "24,68"
   },
   {
     "codigo": "21362",
@@ -34180,7 +34180,7 @@
     "fabric": "KOI0935",
     "marca": "MOTOKOI BR",
     "nome": "CAPA BANCO HAOJUE DR 160 FI 2018 PRETA MOTOKOI",
-    "estoque": "0",
+    "estoque": "2",
     "preco": "27,29"
   },
   {
@@ -34188,7 +34188,7 @@
     "fabric": "KOI0936",
     "marca": "MOTOKOI BR",
     "nome": "CAPA BANCO HAOJUE NK 150 2020 PRETA MOTOKOI",
-    "estoque": "0",
+    "estoque": "2",
     "preco": "26,24"
   },
   {
@@ -34204,7 +34204,7 @@
     "fabric": "KOI0196",
     "marca": "MOTOKOI BR",
     "nome": "CAPA BANCO HORNET 600 08/14 MOTOKOI",
-    "estoque": "0",
+    "estoque": "3",
     "preco": "28,34"
   },
   {
@@ -34220,7 +34220,7 @@
     "fabric": "KOI0278",
     "marca": "MOTOKOI BR",
     "nome": "CAPA BANCO INTRUDER 125 04/16 MOTOKOI",
-    "estoque": "2",
+    "estoque": "7",
     "preco": "26,25"
   },
   {
@@ -34348,7 +34348,7 @@
     "fabric": "KOI0213",
     "marca": "MOTOKOI BR",
     "nome": "CAPA BANCO ML 125 86/89 MOTOKOI",
-    "estoque": "2",
+    "estoque": "7",
     "preco": "28,88"
   },
   {
@@ -34364,7 +34364,7 @@
     "fabric": "KOI0932",
     "marca": "MOTOKOI BR",
     "nome": "CAPA BANCO MOTTU SPORT 110I 22/26 PRETA MOTOKOI",
-    "estoque": "0",
+    "estoque": "2",
     "preco": "35,69"
   },
   {
@@ -34460,7 +34460,7 @@
     "fabric": "KOI0208",
     "marca": "MOTOKOI BR",
     "nome": "CAPA BANCO PCX 150/160 17/18 CARAMELO MOTOKOI",
-    "estoque": "0",
+    "estoque": "3",
     "preco": "36,75"
   },
   {
@@ -34500,8 +34500,8 @@
     "fabric": "KOI0221",
     "marca": "MOTOKOI BR",
     "nome": "CAPA BANCO POP 100 09 VERMELHO MOTOKOI",
-    "estoque": "1",
-    "preco": "30,21"
+    "estoque": "3",
+    "preco": "31,49"
   },
   {
     "codigo": "0200000466121",
@@ -34748,7 +34748,7 @@
     "fabric": "KOI0934",
     "marca": "MOTOKOI BR",
     "nome": "CAPA BANCO SH 150I 2019 PRETA MOTOKOI",
-    "estoque": "0",
+    "estoque": "2",
     "preco": "52,49"
   },
   {
@@ -34852,7 +34852,7 @@
     "fabric": "KOI0265",
     "marca": "MOTOKOI BR",
     "nome": "CAPA BANCO TENERE 600 88/93 PRETO MOTOKOI",
-    "estoque": "0",
+    "estoque": "2",
     "preco": "25,73"
   },
   {
@@ -34868,7 +34868,7 @@
     "fabric": "KOI0266",
     "marca": "MOTOKOI BR",
     "nome": "CAPA BANCO TENERE 660 14/18 PRETO MOTOKOI",
-    "estoque": "0",
+    "estoque": "2",
     "preco": "25,73"
   },
   {
@@ -34900,7 +34900,7 @@
     "fabric": "KOI0226",
     "marca": "MOTOKOI BR",
     "nome": "CAPA BANCO TITAN 150 04/08/JOB/SPORT MOTOKOI",
-    "estoque": "111",
+    "estoque": "411",
     "preco": "17,61"
   },
   {
@@ -34908,7 +34908,7 @@
     "fabric": "KOI0227",
     "marca": "MOTOKOI BR",
     "nome": "CAPA BANCO TITAN 150 09/13/FAN 150 09/13/FAN 125 09/13 MOTOKOI",
-    "estoque": "0",
+    "estoque": "500",
     "preco": "17,61"
   },
   {
@@ -34964,7 +34964,7 @@
     "fabric": "KOI0203",
     "marca": "MOTOKOI BR",
     "nome": "CAPA BANCO TITAN 160/TITAN 150 14/20/FAN 125 14/20/FAN 150 14/20 PT MOTOKOI",
-    "estoque": "0",
+    "estoque": "500",
     "preco": "17,61"
   },
   {
@@ -34972,7 +34972,7 @@
     "fabric": "KOI0228",
     "marca": "MOTOKOI BR",
     "nome": "CAPA BANCO TITAN 160/TITAN 150/FAN 14 PT MOTOKOI",
-    "estoque": "1",
+    "estoque": "51",
     "preco": "18,38"
   },
   {
@@ -34980,7 +34980,7 @@
     "fabric": "KOI0414",
     "marca": "MOTOKOI BR",
     "nome": "CAPA BANCO TITAN 95/99 MOTOKOI",
-    "estoque": "0",
+    "estoque": "50",
     "preco": "17,61"
   },
   {
@@ -35012,7 +35012,7 @@
     "fabric": "KOI0229",
     "marca": "MOTOKOI BR",
     "nome": "CAPA BANCO TITAN KS/ES/FAN 00/01 MOTOKOI",
-    "estoque": "0",
+    "estoque": "60",
     "preco": "20,99"
   },
   {
@@ -35036,8 +35036,8 @@
     "fabric": "KOI0225",
     "marca": "MOTOKOI BR",
     "nome": "CAPA BANCO TITAN KS/ES/FAN 02/08 MOTOKOI",
-    "estoque": "0",
-    "preco": "17,61"
+    "estoque": "100",
+    "preco": "19,43"
   },
   {
     "codigo": "44913",
@@ -35068,7 +35068,7 @@
     "fabric": "KOI0285",
     "marca": "MOTOKOI BR",
     "nome": "CAPA BANCO TODAY 91/94 MOTOKOI",
-    "estoque": "5",
+    "estoque": "20",
     "preco": "20,99"
   },
   {
@@ -35108,7 +35108,7 @@
     "fabric": "KOI0238",
     "marca": "MOTOKOI BR",
     "nome": "CAPA BANCO TORNADO 250 01/08 MOTOKOI",
-    "estoque": "0",
+    "estoque": "10",
     "preco": "20,99"
   },
   {
@@ -35172,7 +35172,7 @@
     "fabric": "KOI0197",
     "marca": "MOTOKOI BR",
     "nome": "CAPA BANCO TWISTER 01/08 MOTOKOI",
-    "estoque": "18",
+    "estoque": "38",
     "preco": "26,78"
   },
   {
@@ -35276,8 +35276,8 @@
     "fabric": "KOI0239",
     "marca": "MOTOKOI BR",
     "nome": "CAPA BANCO XRE 190 16/24 MOTOKOI",
-    "estoque": "1",
-    "preco": "36,75"
+    "estoque": "11",
+    "preco": "31,49"
   },
   {
     "codigo": "52561",
@@ -35324,7 +35324,7 @@
     "fabric": "KOI0240",
     "marca": "MOTOKOI BR",
     "nome": "CAPA BANCO XRE 300 10/15 MOTOKOI",
-    "estoque": "0",
+    "estoque": "20",
     "preco": "31,49"
   },
   {
@@ -35332,7 +35332,7 @@
     "fabric": "KOI0245",
     "marca": "MOTOKOI BR",
     "nome": "CAPA BANCO XRE 300 16/18 MOTOKOI BR",
-    "estoque": "1",
+    "estoque": "6",
     "preco": "31,49"
   },
   {
@@ -35340,7 +35340,7 @@
     "fabric": "KOI0246",
     "marca": "MOTOKOI BR",
     "nome": "CAPA BANCO XRE 300 RALLY 16 VERMELHO MOTOKOI",
-    "estoque": "2",
+    "estoque": "7",
     "preco": "26,78"
   },
   {
@@ -35348,7 +35348,7 @@
     "fabric": "KOI0267",
     "marca": "MOTOKOI BR",
     "nome": "CAPA BANCO XT 225 96/98 MOTOKOI",
-    "estoque": "0",
+    "estoque": "2",
     "preco": "18,89"
   },
   {
@@ -35508,7 +35508,7 @@
     "fabric": "KOI0253",
     "marca": "MOTOKOI BR",
     "nome": "CAPA BANCO XTZ 250 LANDER 08/14 PRETA/AZUL MOTOKOI",
-    "estoque": "3",
+    "estoque": "5",
     "preco": "25,73"
   },
   {
@@ -35532,7 +35532,7 @@
     "fabric": "KOI0254",
     "marca": "MOTOKOI BR",
     "nome": "CAPA BANCO XTZ 250 LANDER 15/19 PRETA/AZUL MOTOKOI",
-    "estoque": "7",
+    "estoque": "9",
     "preco": "31,49"
   },
   {
@@ -35580,7 +35580,7 @@
     "fabric": "KOI0279",
     "marca": "MOTOKOI BR",
     "nome": "CAPA BANCO YES 125 04/15 MOTOKOI",
-    "estoque": "8",
+    "estoque": "18",
     "preco": "20,99"
   },
   {
@@ -36140,7 +36140,7 @@
     "fabric": "KOI0317",
     "marca": "MOTOKOI",
     "nome": "CAPA IMPERMEAVEL BANCO P/ MOTO EGG MOTOKOI",
-    "estoque": "128",
+    "estoque": "138",
     "preco": "15,74"
   },
   {
@@ -36156,7 +36156,7 @@
     "fabric": "KOI0318",
     "marca": "MOTOKOI",
     "nome": "CAPA IMPERMEAVEL BANCO P/ MOTO G MOTOKOI",
-    "estoque": "65",
+    "estoque": "115",
     "preco": "15,74"
   },
   {
@@ -36172,7 +36172,7 @@
     "fabric": "KOI0319",
     "marca": "MOTOKOI",
     "nome": "CAPA IMPERMEAVEL BANCO P/ MOTO GG MOTOKOI",
-    "estoque": "57",
+    "estoque": "107",
     "preco": "15,74"
   },
   {
@@ -36932,8 +36932,8 @@
     "fabric": "1103000286",
     "marca": "PROTERCAPAS",
     "nome": "CAPA TANQUE TITAN 160/FAN 160/CARGO 160 16/24 PRETO PROTERCAPAS",
-    "estoque": "0",
-    "preco": "29,39"
+    "estoque": "3",
+    "preco": "31,49"
   },
   {
     "codigo": "9489",
@@ -38372,7 +38372,7 @@
     "fabric": "1258058P07",
     "marca": "EBF",
     "nome": "CAPACETE EBF AUTOMATICO BOLT PRETO/ROSA 58",
-    "estoque": "5",
+    "estoque": "4",
     "preco": "137,46"
   },
   {
@@ -41836,7 +41836,7 @@
     "fabric": "1286058F17",
     "marca": "EBF",
     "nome": "CAPACETE EBF SPARK JET DRAGON PRETO FOSCO/TIFANY 58",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "213,68"
   },
   {
@@ -42020,7 +42020,7 @@
     "fabric": "1250056PFO",
     "marca": "EBF",
     "nome": "CAPACETE EBF SPARK JET SOLID PRETO FOSCO 56",
-    "estoque": "10",
+    "estoque": "11",
     "preco": "125,9"
   },
   {
@@ -48292,7 +48292,7 @@
     "fabric": "KOI0170",
     "marca": "MOTOKOI",
     "nome": "CARBURADOR TITAN 150 04/08 MOTOKOI",
-    "estoque": "472",
+    "estoque": "471",
     "preco": "73,49"
   },
   {
@@ -58300,7 +58300,7 @@
     "fabric": "90270920",
     "marca": "MAGNETRON",
     "nome": "CDI TODAY/TITAN 92/02 MAGNETRON",
-    "estoque": "19",
+    "estoque": "18",
     "preco": "57,74"
   },
   {
@@ -59524,7 +59524,7 @@
     "fabric": "KOI0324",
     "marca": "MOTOKOI",
     "nome": "CHAVE CONTATO TITAN 02/04 MOTOKOI",
-    "estoque": "4",
+    "estoque": "54",
     "preco": "12,59"
   },
   {
@@ -59644,7 +59644,7 @@
     "fabric": "KOI0326",
     "marca": "MOTOKOI",
     "nome": "CHAVE CONTATO TITAN 150 MOTOKOI",
-    "estoque": "17",
+    "estoque": "37",
     "preco": "25,73"
   },
   {
@@ -60084,7 +60084,7 @@
     "fabric": "KOI0332",
     "marca": "MOTOKOI",
     "nome": "CHAVE CONTATO YES 125 05/11 MOTOKOI",
-    "estoque": "5",
+    "estoque": "25",
     "preco": "38,84"
   },
   {
@@ -63116,7 +63116,7 @@
     "fabric": "1307000039",
     "marca": "PROTERCAPAS",
     "nome": "COLETE INFANTIL PROTERCAPAS PRETO",
-    "estoque": "0",
+    "estoque": "100",
     "preco": "29,39"
   },
   {
@@ -63596,7 +63596,7 @@
     "fabric": "KOI0336",
     "marca": "MOTOKOI",
     "nome": "COLETOR ADMISSAO CG/TODAY/TITAN 125 MOTOKOI",
-    "estoque": "24",
+    "estoque": "44",
     "preco": "9,44"
   },
   {
@@ -63988,7 +63988,7 @@
     "fabric": "KOI0339",
     "marca": "MOTOKOI",
     "nome": "COLETOR ADMISSAO TITAN 150 04/08 S/CAT MOTOKOI",
-    "estoque": "6",
+    "estoque": "26",
     "preco": "10,49"
   },
   {
@@ -64124,7 +64124,7 @@
     "fabric": "KOI0342",
     "marca": "MOTOKOI",
     "nome": "COLETOR ADMISSAO TWISTER/TORNADO MOTOKOI",
-    "estoque": "0",
+    "estoque": "2",
     "preco": "16,79"
   },
   {
@@ -67421,7 +67421,7 @@
     "marca": "MOTOKOI BR",
     "nome": "COXIM (ILHO) PROTETOR ESCAPAMENTO QUADRADO TITAN 150 MOTOKOI",
     "estoque": "38",
-    "preco": "0,87"
+    "preco": "0,89"
   },
   {
     "codigo": "37899",
@@ -67437,7 +67437,7 @@
     "marca": "MOTOKOI BR",
     "nome": "COXIM (ILHO) PROTETOR ESCAPAMENTO REDONDO TITAN 150 MOTOKOI",
     "estoque": "24",
-    "preco": "0,78"
+    "preco": "0,89"
   },
   {
     "codigo": "38628",
@@ -67869,7 +67869,7 @@
     "marca": "MOTOKOI BR",
     "nome": "COXIM COROA TITAN 150/TITAN 160 MOTOKOI (4 PCS)",
     "estoque": "0",
-    "preco": "5,73"
+    "preco": "10,49"
   },
   {
     "codigo": "50131",
@@ -68309,7 +68309,7 @@
     "marca": "MOTOKOI BR",
     "nome": "COXIM SUPERIOR PAINEL TITAN 00/TITAN 150 MOTOKOI",
     "estoque": "0",
-    "preco": "0,75"
+    "preco": "0,89"
   },
   {
     "codigo": "33297",
@@ -69100,7 +69100,7 @@
     "fabric": "0011-CB",
     "marca": "COBREQ",
     "nome": "CUBO RODA TITAN 150 ESD A DISCO DIANTEIRO COBREQ",
-    "estoque": "2",
+    "estoque": "1",
     "preco": "148,59"
   },
   {
@@ -71268,7 +71268,7 @@
     "fabric": "TM444",
     "marca": "TMAC",
     "nome": "DISCO FREIO XTZ 250 LANDER 07/ DIANTEIRO TMAC",
-    "estoque": "4",
+    "estoque": "5",
     "preco": "89,25"
   },
   {
@@ -74796,7 +74796,7 @@
     "fabric": "KOI0351",
     "marca": "MOTOKOI",
     "nome": "EMBREAGEM KIT COMPLETO TWISTER/TORNADO MOTOKOI",
-    "estoque": "43",
+    "estoque": "53",
     "preco": "115,49"
   },
   {
@@ -78108,7 +78108,7 @@
     "fabric": "90278550",
     "marca": "MAGNETRON",
     "nome": "ESTATOR BIZ 100 ES 02/06 MAGNETRON",
-    "estoque": "2",
+    "estoque": "1",
     "preco": "174,97"
   },
   {
@@ -79428,7 +79428,7 @@
     "fabric": "002B",
     "marca": "LIDER",
     "nome": "ESTICADOR C/ PRESILHA LIDER CATRACA",
-    "estoque": "88",
+    "estoque": "87",
     "preco": "76,13"
   },
   {
@@ -79652,7 +79652,7 @@
     "fabric": "TM0976",
     "marca": "TMAC",
     "nome": "ESTICADOR CORRENTE TITAN 150 TMAC",
-    "estoque": "5204",
+    "estoque": "5202",
     "preco": "2,09"
   },
   {
@@ -85620,7 +85620,7 @@
     "fabric": "10243",
     "marca": "SIVERST",
     "nome": "GICLEUR Nº 118 TITAN 150 SIVERST",
-    "estoque": "5",
+    "estoque": "4",
     "preco": "6,72"
   },
   {
@@ -100021,7 +100021,7 @@
     "marca": "MOTOKOI BR",
     "nome": "KIT MANUTENCAO COMPLETO + GUARNICAO CG 125 76/08 MOTOKOI",
     "estoque": "0",
-    "preco": "0"
+    "preco": "13,13"
   },
   {
     "codigo": "43428",
@@ -100596,7 +100596,7 @@
     "fabric": "001-KOI-061H0",
     "marca": "MOTOKOI",
     "nome": "KIT TRANSMISSAO CB 250 MOTOKOI (40/13/520HX110L)",
-    "estoque": "7",
+    "estoque": "11",
     "preco": "103,95"
   },
   {
@@ -100804,7 +100804,7 @@
     "fabric": "001-KOI-082H0",
     "marca": "MOTOKOI",
     "nome": "KIT TRANSMISSAO CRYPTON 115 11 MOTOKOI (41/15/428HX108L)",
-    "estoque": "37",
+    "estoque": "57",
     "preco": "70,35"
   },
   {
@@ -100900,7 +100900,7 @@
     "fabric": "001-KOI-058H0",
     "marca": "MOTOKOI",
     "nome": "KIT TRANSMISSAO FACTOR 150 16/17 MOTOKOI (39/14/428HX124L)",
-    "estoque": "20",
+    "estoque": "24",
     "preco": "73,49"
   },
   {
@@ -100972,7 +100972,7 @@
     "fabric": "001-KOI-029H0",
     "marca": "MOTOKOI",
     "nome": "KIT TRANSMISSAO FAN 125 09 MOTOKOI (43/14/428HX116L)",
-    "estoque": "190",
+    "estoque": "210",
     "preco": "57,74"
   },
   {
@@ -101004,7 +101004,7 @@
     "fabric": "H03868XS",
     "marca": "VAZ",
     "nome": "KIT TRANSMISSAO FAN 125 09 VAZ (43/14/428HX116L) H03868XS",
-    "estoque": "667",
+    "estoque": "666",
     "preco": "62,99"
   },
   {
@@ -101852,7 +101852,7 @@
     "fabric": "001-KOI-007H0",
     "marca": "MOTOKOI",
     "nome": "KIT TRANSMISSAO TWISTER MOTOKOI (37/13/520HX106L)",
-    "estoque": "0",
+    "estoque": "30",
     "preco": "94,49"
   },
   {
@@ -102532,7 +102532,7 @@
     "fabric": "H4FIT",
     "marca": "PHILIPS",
     "nome": "LAMPADA FAROL TITAN H4 12V 35X35 PHILLIPS FIT",
-    "estoque": "652",
+    "estoque": "651",
     "preco": "28,51"
   },
   {
@@ -102588,7 +102588,7 @@
     "fabric": "TL004",
     "marca": "TMAC",
     "nome": "LAMPADA LANTERNA TRAS. 2 POLOS CG 125 FREIO TMAC",
-    "estoque": "7365",
+    "estoque": "7364",
     "preco": "1,4"
   },
   {
@@ -103028,7 +103028,7 @@
     "fabric": "TL003",
     "marca": "TMAC",
     "nome": "LAMPADA PISCA CG 125 12X10W TMAC",
-    "estoque": "2975",
+    "estoque": "2971",
     "preco": "0,83"
   },
   {
@@ -105788,7 +105788,7 @@
     "fabric": "",
     "marca": "YAMAHA",
     "nome": "LUBRIFICANTES MOTO 4T YAMALUBE 10W40 SEMI SINTETICO",
-    "estoque": "387",
+    "estoque": "385",
     "preco": "49,88"
   },
   {
@@ -108676,7 +108676,7 @@
     "fabric": "1086",
     "marca": "PROTEC",
     "nome": "MANETE EMBREAGEM TITAN 160 PROTEC",
-    "estoque": "11",
+    "estoque": "10",
     "preco": "8,64"
   },
   {
@@ -108701,7 +108701,7 @@
     "marca": "PROTEC",
     "nome": "MANETE EMBREAGEM TITAN 2000 / TITAN 150 PROTEC",
     "estoque": "312",
-    "preco": "6,48"
+    "preco": "6,83"
   },
   {
     "codigo": "11606",
@@ -109573,7 +109573,7 @@
     "marca": "PROTEC",
     "nome": "MANETE FREIO TITAN 125/150 FREIO A DISCO ES PROTEC",
     "estoque": "47",
-    "preco": "6,48"
+    "preco": "6,83"
   },
   {
     "codigo": "21594",
@@ -109717,7 +109717,7 @@
     "marca": "PROTEC",
     "nome": "MANETE MINI EMBREAGEM BROS 125 BROS KS PROTEC",
     "estoque": "2",
-    "preco": "5,87"
+    "preco": "7,88"
   },
   {
     "codigo": "13992",
@@ -109973,7 +109973,7 @@
     "marca": "MOTOKOI BR",
     "nome": "MANGUEIRA COMBUSTIVEL C/FILTRO + 11 CM CADA LADO PRETA MOTOKOI",
     "estoque": "0",
-    "preco": "0"
+    "preco": "3,14"
   },
   {
     "codigo": "53793",
@@ -109989,7 +109989,7 @@
     "marca": "MOTOBOR",
     "nome": "MANGUEIRA COMBUSTIVEL PRETA CARRETEL 20MTS MOTOBOR",
     "estoque": "0",
-    "preco": "0"
+    "preco": "57,75"
   },
   {
     "codigo": "38482",
@@ -110469,14 +110469,14 @@
     "marca": "PROTEC",
     "nome": "MANICOTO TITAN 99 ESQUERDO PROTEC CROMADO",
     "estoque": "0",
-    "preco": "27,01"
+    "preco": "31,49"
   },
   {
     "codigo": "5259",
     "fabric": "292",
     "marca": "PROTEC",
     "nome": "MANICOTO TITAN ES / TITAN 150 ESQUERDO  PROTEC",
-    "estoque": "95",
+    "estoque": "94",
     "preco": "12,34"
   },
   {
@@ -113596,7 +113596,7 @@
     "fabric": "MNP0207",
     "marca": "PIRACAPAS",
     "nome": "MOCHILA PIZZA PIRACAPAS 45 LTS NYLON PRETA",
-    "estoque": "41",
+    "estoque": "40",
     "preco": "137,76"
   },
   {
@@ -114237,7 +114237,7 @@
     "marca": "MOTOKOI BR",
     "nome": "MOLA DESCANCO CENTRAL CG/TITAN/FAN MOTOKOI",
     "estoque": "0",
-    "preco": "0"
+    "preco": "5,24"
   },
   {
     "codigo": "27461",
@@ -115876,7 +115876,7 @@
     "fabric": "KOI0404",
     "marca": "MOTOKOI",
     "nome": "MOTOR PARTIDA BURGMAN 125 MOTOKOI",
-    "estoque": "11",
+    "estoque": "21",
     "preco": "140,69"
   },
   {
@@ -115956,7 +115956,7 @@
     "fabric": "KOI0410",
     "marca": "MOTOKOI",
     "nome": "MOTOR PARTIDA CB 300 0915/XRE 300 10/18 MOTOKOI",
-    "estoque": "9",
+    "estoque": "19",
     "preco": "302,39"
   },
   {
@@ -116380,7 +116380,7 @@
     "fabric": "KOI0364",
     "marca": "MOTOKOI",
     "nome": "MOTOR PARTIDA YBR FACTOR / XTZ 125 2009 E/D FACTOR MOTOKOI",
-    "estoque": "7",
+    "estoque": "12",
     "preco": "146,99"
   },
   {
@@ -124996,7 +124996,7 @@
     "fabric": "KOI0366",
     "marca": "MOTOKOI",
     "nome": "PASTILHA FREIO BROS 160/BIZ 125/PCX 19 CBS DIANT MOTOKOI",
-    "estoque": "171",
+    "estoque": "211",
     "preco": "12,59"
   },
   {
@@ -125116,7 +125116,7 @@
     "fabric": "KOI0368",
     "marca": "MOTOKOI",
     "nome": "PASTILHA FREIO CB 300 S.ABS/CB 500 F-X/XJ 6 09-12 TRAS MOTOKOI",
-    "estoque": "44",
+    "estoque": "94",
     "preco": "10,49"
   },
   {
@@ -126044,7 +126044,7 @@
     "fabric": "KOI0375",
     "marca": "MOTOKOI",
     "nome": "PASTILHA FREIO LANDER XTZ / FAZER 250 TRASEIRO MOTOKOI",
-    "estoque": "11",
+    "estoque": "61",
     "preco": "10,49"
   },
   {
@@ -126212,7 +126212,7 @@
     "fabric": "KOI0377",
     "marca": "MOTOKOI",
     "nome": "PASTILHA FREIO SUZUKI BURGMAN DIANTEIRO MOTOKOI",
-    "estoque": "3",
+    "estoque": "23",
     "preco": "10,49"
   },
   {
@@ -126324,7 +126324,7 @@
     "fabric": "KOI0379",
     "marca": "MOTOKOI",
     "nome": "PASTILHA FREIO TITAN 150 PARTIR DE 2009 DIANT MOTOKOI",
-    "estoque": "59",
+    "estoque": "79",
     "preco": "10,24"
   },
   {
@@ -126652,7 +126652,7 @@
     "fabric": "KOI0383",
     "marca": "MOTOKOI",
     "nome": "PASTILHA FREIO XTZ125/YES/XTZ 250 LANDER DIANT MOTOKOI",
-    "estoque": "2",
+    "estoque": "32",
     "preco": "10,49"
   },
   {
@@ -126788,7 +126788,7 @@
     "fabric": "KOI0387",
     "marca": "MOTOKOI",
     "nome": "PASTILHA FREIO YBR/TWISTER/CB 300/NINJA 250 DIANTEIRO MOTOKOI",
-    "estoque": "17",
+    "estoque": "47",
     "preco": "9,44"
   },
   {
@@ -129924,7 +129924,7 @@
     "fabric": "KOI0391",
     "marca": "MOTOKOI",
     "nome": "PEDAL PARTIDA TITAN 00/04  KS/KSE/ES MOTOKOI",
-    "estoque": "12",
+    "estoque": "62",
     "preco": "20,99"
   },
   {
@@ -129956,7 +129956,7 @@
     "fabric": "KOI0392",
     "marca": "MOTOKOI",
     "nome": "PEDAL PARTIDA TITAN 150 09/13 MOTOKOI",
-    "estoque": "5",
+    "estoque": "15",
     "preco": "29,39"
   },
   {
@@ -130028,7 +130028,7 @@
     "fabric": "KOI0393",
     "marca": "MOTOKOI",
     "nome": "PEDAL PARTIDA TITAN150 04-08/BROS 06-12/FAN125 09-13 MOTOKOI",
-    "estoque": "16",
+    "estoque": "66",
     "preco": "20,99"
   },
   {
@@ -131644,7 +131644,7 @@
     "fabric": "23281K",
     "marca": "MOTOKOI BR",
     "nome": "PINO TRAVA TAMPA LATERAL BIZ 100/BIZ 125/TITAN 150 14/TITAN 160 MOTOKOI (MAIOR)",
-    "estoque": "156",
+    "estoque": "147",
     "preco": "2,1"
   },
   {
@@ -139508,7 +139508,7 @@
     "fabric": "6103",
     "marca": "TECHNIC",
     "nome": "PNEU DIANT 2.75-18 TECHNIC SPORT R TT 42P",
-    "estoque": "902",
+    "estoque": "900",
     "preco": "115,49"
   },
   {
@@ -139628,7 +139628,7 @@
     "fabric": "",
     "marca": "LEVORIN",
     "nome": "PNEU DIANT 80/100-18 LEVORIN MATRIX TL 47P (SEM CAMARA)",
-    "estoque": "22",
+    "estoque": "21",
     "preco": "250,41"
   },
   {
@@ -139876,7 +139876,7 @@
     "fabric": "",
     "marca": "LEVORIN",
     "nome": "PNEU TRAS 100/90-10 LEVORIN MATRIX SCOOTER TL",
-    "estoque": "10",
+    "estoque": "9",
     "preco": "262,49"
   },
   {
@@ -140269,7 +140269,7 @@
     "marca": "METZELER",
     "nome": "PNEU TRAS 130/80-17 METZELER TOURANCE 65S CTT XT660",
     "estoque": "0",
-    "preco": "839,97"
+    "preco": "955,49"
   },
   {
     "codigo": "33828",
@@ -140556,7 +140556,7 @@
     "fabric": "100266",
     "marca": "MAGGION",
     "nome": "PNEU TRAS 80/100-14 MAGGION STREET BIZ 100 TT",
-    "estoque": "392",
+    "estoque": "390",
     "preco": "117,59"
   },
   {
@@ -141196,7 +141196,7 @@
     "fabric": "11528",
     "marca": "REGGIO",
     "nome": "PORCA EIXO TRASEIRO TITAN 150 REGGIO",
-    "estoque": "33",
+    "estoque": "32",
     "preco": "3,79"
   },
   {
@@ -150997,7 +150997,7 @@
     "marca": "MOTOKOI BR",
     "nome": "REPARO FREIO START/POP 110 DIANT MOTOKOI",
     "estoque": "10",
-    "preco": "15,75"
+    "preco": "14,69"
   },
   {
     "codigo": "8910",
@@ -151412,7 +151412,7 @@
     "fabric": "P40FORK455004",
     "marca": "VEDAMOTORS",
     "nome": "RETENTOR BENGALA BIZ 125 11/BIZ 100 12/CRYPTON 115 VEDAMOTORS (PAR)",
-    "estoque": "29",
+    "estoque": "28",
     "preco": "25,31"
   },
   {
@@ -156140,7 +156140,7 @@
     "fabric": "KOI0399",
     "marca": "MOTOKOI",
     "nome": "ROLAMENTO 6203 RODA TRAS NX/XR/ XLR/ DREAN S/BLIND MOTOKOI",
-    "estoque": "12",
+    "estoque": "42",
     "preco": "4,73"
   },
   {
@@ -156196,7 +156196,7 @@
     "fabric": "KOI0400",
     "marca": "MOTOKOI",
     "nome": "ROLAMENTO 6204-ZZ C3 CROMO COROA XL250/TRASM CG/ML MOTOKOI",
-    "estoque": "13",
+    "estoque": "63",
     "preco": "6,83"
   },
   {
@@ -156308,7 +156308,7 @@
     "fabric": "KOI0402",
     "marca": "MOTOKOI",
     "nome": "ROLAMENTO 6302-RS CROMO RODA TRAS. CG MOTOKOI",
-    "estoque": "74",
+    "estoque": "124",
     "preco": "5,24"
   },
   {
@@ -165132,7 +165132,7 @@
     "fabric": "TP105",
     "marca": "TMAC",
     "nome": "TORNEIRA GASOLINA YBR 125 K 01/08/YBR 125 E ED 00/08 C/BOTAO T/GRANDE TMAC",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "31,93"
   },
   {
@@ -167125,7 +167125,7 @@
     "marca": "MOTOKOI BR",
     "nome": "VARAO FREIO BIZ 100 MOTOKOI",
     "estoque": "0",
-    "preco": "10,84"
+    "preco": "13,13"
   },
   {
     "codigo": "45223",
@@ -167405,7 +167405,7 @@
     "marca": "MOTOKOI BR",
     "nome": "VARAO FREIO TITAN 160 16/20 MOTOKOI",
     "estoque": "0",
-    "preco": "0"
+    "preco": "15,23"
   },
   {
     "codigo": "38326",
