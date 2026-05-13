@@ -180,7 +180,7 @@
     "fabric": "563804",
     "marca": "MELC",
     "nome": "ABA TANQUE BROS 150 11/13 - BROS 125 2013 VERMELHO MELC (563804)",
-    "estoque": "2",
+    "estoque": "1",
     "preco": "68,24"
   },
   {
@@ -1828,7 +1828,7 @@
     "fabric": "PA00741",
     "marca": "PANTHER",
     "nome": "ADITIVO P/ RADIADOR PANTHER (AMARELO)",
-    "estoque": "16",
+    "estoque": "15",
     "preco": "5,78"
   },
   {
@@ -3380,7 +3380,7 @@
     "fabric": "CR22540M",
     "marca": "COFAP",
     "nome": "AMORTECEDOR TITAN 150 COFAP",
-    "estoque": "159",
+    "estoque": "157",
     "preco": "115,49"
   },
   {
@@ -8268,7 +8268,7 @@
     "fabric": "MTX6L-BS",
     "marca": "MOTOKOI BR",
     "nome": "BATERIA BIZ / FAN 125 ES 09/TITAN150 MIX 09 ED MTX6L-BS MOTOKOI",
-    "estoque": "46",
+    "estoque": "43",
     "preco": "125,99"
   },
   {
@@ -9012,7 +9012,7 @@
     "fabric": "TM990",
     "marca": "TMAC",
     "nome": "BICO RODA S/CAMARA CONICO TMAC",
-    "estoque": "85",
+    "estoque": "84",
     "preco": "8,73"
   },
   {
@@ -15868,7 +15868,7 @@
     "fabric": "4000529",
     "marca": "EBF",
     "nome": "BOTAO EBF SPARK JET",
-    "estoque": "47",
+    "estoque": "46",
     "preco": "13,4"
   },
   {
@@ -30668,7 +30668,7 @@
     "fabric": "90250720",
     "marca": "MAGNETRON",
     "nome": "CACHIMBO VELA TITAN 150/BROS 150 MAGNETRON",
-    "estoque": "176",
+    "estoque": "171",
     "preco": "10,49"
   },
   {
@@ -31004,7 +31004,7 @@
     "fabric": "TD 002",
     "marca": "STALLION",
     "nome": "CADEADO TRAVA DISCO STALLION PRETO C/ALARME",
-    "estoque": "44",
+    "estoque": "43",
     "preco": "41,99"
   },
   {
@@ -31805,7 +31805,7 @@
     "marca": "RACE TECH",
     "nome": "CALCA RACE TECH RACER LADY PRETO S",
     "estoque": "1",
-    "preco": "499,02"
+    "preco": "523,95"
   },
   {
     "codigo": "31789",
@@ -31813,7 +31813,7 @@
     "marca": "RACE TECH",
     "nome": "CALCA RACE TECH RACER LADY PRETO XS",
     "estoque": "1",
-    "preco": "499,02"
+    "preco": "523,95"
   },
   {
     "codigo": "31794",
@@ -31901,7 +31901,7 @@
     "marca": "X11",
     "nome": "CALCA X11 EXTREME AIR FEMININA PRETO/ROSA 4G",
     "estoque": "2",
-    "preco": "765,47"
+    "preco": "838,95"
   },
   {
     "codigo": "32045",
@@ -31949,7 +31949,7 @@
     "marca": "X11",
     "nome": "CALCA X11 TROY FEMININA PRETO M",
     "estoque": "2",
-    "preco": "298,03"
+    "preco": "418,95"
   },
   {
     "codigo": "11133",
@@ -32004,7 +32004,7 @@
     "fabric": "KOI0167",
     "marca": "MOTOKOI",
     "nome": "CAMARA DE AR DIANT BIZ MOTOKOI (250-17)",
-    "estoque": "413",
+    "estoque": "412",
     "preco": "16,79"
   },
   {
@@ -32140,7 +32140,7 @@
     "fabric": "KOI0168",
     "marca": "MOTOKOI",
     "nome": "CAMARA DE AR DIANT/TRAS CG MOTOKOI 18",
-    "estoque": "1682",
+    "estoque": "1680",
     "preco": "17,33"
   },
   {
@@ -38468,7 +38468,7 @@
     "fabric": "1281060P02",
     "marca": "EBF",
     "nome": "CAPACETE EBF AUTOMATICO STYLE PRETO/AZUL 60",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "137,45"
   },
   {
@@ -41668,7 +41668,7 @@
     "fabric": "1286060F02",
     "marca": "EBF",
     "nome": "CAPACETE EBF SPARK JET DRAGON PRETO FOSCO/AZUL 60",
-    "estoque": "4",
+    "estoque": "3",
     "preco": "213,68"
   },
   {
@@ -46620,7 +46620,7 @@
     "fabric": "10013434",
     "marca": "TAURUS",
     "nome": "CAPACETE TAURUS SAN MARINO PRETO 60",
-    "estoque": "127",
+    "estoque": "126",
     "preco": "178,49"
   },
   {
@@ -46964,7 +46964,7 @@
     "fabric": "CAP-35PT",
     "marca": "TORK",
     "nome": "CAPACETE TORK LIBERTY FOUR PRETO 58",
-    "estoque": "557",
+    "estoque": "556",
     "preco": "94,49"
   },
   {
@@ -47944,14 +47944,6 @@
     "preco": "108,39"
   },
   {
-    "codigo": "49555",
-    "fabric": "TM384",
-    "marca": "TMAC",
-    "nome": "CARBURADOR CG 125 /FAN 125 (S/ECCO) TMAC",
-    "estoque": "49",
-    "preco": "81,89"
-  },
-  {
     "codigo": "28294",
     "fabric": "TM385",
     "marca": "TMAC",
@@ -48164,7 +48156,7 @@
     "fabric": "KOI0170",
     "marca": "MOTOKOI",
     "nome": "CARBURADOR TITAN 150 04/08 MOTOKOI",
-    "estoque": "466",
+    "estoque": "465",
     "preco": "73,49"
   },
   {
@@ -48230,6 +48222,14 @@
     "nome": "CARBURADOR TITAN 2002/04/FAN 125 TMAC",
     "estoque": "0",
     "preco": "98,3"
+  },
+  {
+    "codigo": "49555",
+    "fabric": "TM384",
+    "marca": "TMAC",
+    "nome": "CARBURADOR TITAN 2002/04/FAN 125 TMAC",
+    "estoque": "49",
+    "preco": "81,89"
   },
   {
     "codigo": "25801",
@@ -63876,7 +63876,7 @@
     "fabric": "KOI0340",
     "marca": "MOTOKOI",
     "nome": "COLETOR ADMISSAO TITAN 150 06 ED C/CATALISADOR MOTOKOI",
-    "estoque": "9",
+    "estoque": "8",
     "preco": "12,59"
   },
   {
@@ -65804,7 +65804,7 @@
     "fabric": "HA04.138T",
     "marca": "VAZ",
     "nome": "COROA CG 82 38D VAZ - HA04.138T",
-    "estoque": "89",
+    "estoque": "88",
     "preco": "37,28"
   },
   {
@@ -66764,7 +66764,7 @@
     "fabric": "002-KOI-00800",
     "marca": "MOTOKOI",
     "nome": "CORRENTE TRANSMISSAO 428H X 118L MOTOKOI",
-    "estoque": "469",
+    "estoque": "468",
     "preco": "27,29"
   },
   {
@@ -79484,7 +79484,7 @@
     "fabric": "TM0976",
     "marca": "TMAC",
     "nome": "ESTICADOR CORRENTE TITAN 150 TMAC",
-    "estoque": "5192",
+    "estoque": "5190",
     "preco": "2,09"
   },
   {
@@ -84668,7 +84668,7 @@
     "fabric": "90255520",
     "marca": "MAGNETRON",
     "nome": "FUSIVEL 20A VIDRO MAGNETRON (YAMAHA)",
-    "estoque": "42",
+    "estoque": "41",
     "preco": "1,08"
   },
   {
@@ -86388,7 +86388,7 @@
     "fabric": "21012054",
     "marca": "VEDAMOTORS",
     "nome": "GUARNICAO ESCAPE NXR 125/NXR 150 BROS ATE 2008 VEDAMOTORS",
-    "estoque": "18",
+    "estoque": "15",
     "preco": "15,23"
   },
   {
@@ -88812,7 +88812,7 @@
     "fabric": "GU-97HCLT",
     "marca": "TORK",
     "nome": "GUIDAO TITAN 150 04/08 CROMADO TORK LIGHT",
-    "estoque": "1618",
+    "estoque": "1616",
     "preco": "20,99"
   },
   {
@@ -89668,7 +89668,7 @@
     "fabric": "90237020",
     "marca": "MAGNETRON",
     "nome": "INTERRUPTOR PARTIDA BROS 125 KS 03/05 MAGNETRON",
-    "estoque": "5",
+    "estoque": "4",
     "preco": "30,59"
   },
   {
@@ -91724,7 +91724,7 @@
     "fabric": "90214010",
     "marca": "MAGNETRON",
     "nome": "INTERRUPTOR STOP FREIO TITAN 150 TITAN ESD DIANT MAGNETRON",
-    "estoque": "17",
+    "estoque": "16",
     "preco": "9,03"
   },
   {
@@ -92317,7 +92317,7 @@
     "marca": "GP TECH",
     "nome": "JAQUETA GP TECH ESSENCE FEMININA PRETO/CINZA 3G",
     "estoque": "0",
-    "preco": "393,12"
+    "preco": "471,45"
   },
   {
     "codigo": "43296",
@@ -92325,7 +92325,7 @@
     "marca": "GP TECH",
     "nome": "JAQUETA GP TECH ESSENCE FEMININA PRETO/CINZA 4G",
     "estoque": "0",
-    "preco": "393,12"
+    "preco": "471,45"
   },
   {
     "codigo": "43294",
@@ -92333,7 +92333,7 @@
     "marca": "GP TECH",
     "nome": "JAQUETA GP TECH ESSENCE FEMININA PRETO/CINZA G",
     "estoque": "2",
-    "preco": "393,12"
+    "preco": "471,45"
   },
   {
     "codigo": "43295",
@@ -92341,7 +92341,7 @@
     "marca": "GP TECH",
     "nome": "JAQUETA GP TECH ESSENCE FEMININA PRETO/CINZA GG",
     "estoque": "1",
-    "preco": "393,12"
+    "preco": "471,45"
   },
   {
     "codigo": "43293",
@@ -92349,7 +92349,7 @@
     "marca": "GP TECH",
     "nome": "JAQUETA GP TECH ESSENCE FEMININA PRETO/CINZA M",
     "estoque": "0",
-    "preco": "393,12"
+    "preco": "471,45"
   },
   {
     "codigo": "43290",
@@ -92357,7 +92357,7 @@
     "marca": "GP TECH",
     "nome": "JAQUETA GP TECH ESSENCE FEMININA PRETO/CINZA P",
     "estoque": "2",
-    "preco": "393,12"
+    "preco": "471,45"
   },
   {
     "codigo": "40753",
@@ -92365,7 +92365,7 @@
     "marca": "GP TECH",
     "nome": "JAQUETA GP TECH ESSENCE PRETO/CINZA 3G",
     "estoque": "1",
-    "preco": "393,12"
+    "preco": "471,45"
   },
   {
     "codigo": "40754",
@@ -92373,7 +92373,7 @@
     "marca": "GP TECH",
     "nome": "JAQUETA GP TECH ESSENCE PRETO/CINZA M",
     "estoque": "6",
-    "preco": "393,12"
+    "preco": "471,45"
   },
   {
     "codigo": "39541",
@@ -92381,7 +92381,7 @@
     "marca": "GP TECH",
     "nome": "JAQUETA GP TECH ESSENCE PRETO/VERMELHO 10G",
     "estoque": "2",
-    "preco": "393,12"
+    "preco": "471,45"
   },
   {
     "codigo": "39534",
@@ -92389,7 +92389,7 @@
     "marca": "GP TECH",
     "nome": "JAQUETA GP TECH ESSENCE PRETO/VERMELHO 3G",
     "estoque": "2",
-    "preco": "393,12"
+    "preco": "471,45"
   },
   {
     "codigo": "39535",
@@ -92397,7 +92397,7 @@
     "marca": "GP TECH",
     "nome": "JAQUETA GP TECH ESSENCE PRETO/VERMELHO 4G",
     "estoque": "2",
-    "preco": "393,12"
+    "preco": "471,45"
   },
   {
     "codigo": "39536",
@@ -92405,7 +92405,7 @@
     "marca": "GP TECH",
     "nome": "JAQUETA GP TECH ESSENCE PRETO/VERMELHO 5G",
     "estoque": "3",
-    "preco": "393,12"
+    "preco": "471,45"
   },
   {
     "codigo": "39537",
@@ -92413,7 +92413,7 @@
     "marca": "GP TECH",
     "nome": "JAQUETA GP TECH ESSENCE PRETO/VERMELHO 6G",
     "estoque": "1",
-    "preco": "393,12"
+    "preco": "471,45"
   },
   {
     "codigo": "39538",
@@ -92421,7 +92421,7 @@
     "marca": "GP TECH",
     "nome": "JAQUETA GP TECH ESSENCE PRETO/VERMELHO 7G",
     "estoque": "0",
-    "preco": "393,12"
+    "preco": "471,45"
   },
   {
     "codigo": "39539",
@@ -92429,7 +92429,7 @@
     "marca": "GP TECH",
     "nome": "JAQUETA GP TECH ESSENCE PRETO/VERMELHO 8G",
     "estoque": "0",
-    "preco": "393,12"
+    "preco": "471,45"
   },
   {
     "codigo": "39540",
@@ -92437,7 +92437,7 @@
     "marca": "GP TECH",
     "nome": "JAQUETA GP TECH ESSENCE PRETO/VERMELHO 9G",
     "estoque": "0",
-    "preco": "393,12"
+    "preco": "471,45"
   },
   {
     "codigo": "39532",
@@ -92445,7 +92445,7 @@
     "marca": "GP TECH",
     "nome": "JAQUETA GP TECH ESSENCE PRETO/VERMELHO G",
     "estoque": "2",
-    "preco": "393,12"
+    "preco": "471,45"
   },
   {
     "codigo": "39533",
@@ -92453,7 +92453,7 @@
     "marca": "GP TECH",
     "nome": "JAQUETA GP TECH ESSENCE PRETO/VERMELHO GG",
     "estoque": "0",
-    "preco": "393,12"
+    "preco": "471,45"
   },
   {
     "codigo": "39531",
@@ -92461,7 +92461,7 @@
     "marca": "GP TECH",
     "nome": "JAQUETA GP TECH ESSENCE PRETO/VERMELHO M",
     "estoque": "0",
-    "preco": "393,12"
+    "preco": "471,45"
   },
   {
     "codigo": "51099",
@@ -92469,7 +92469,7 @@
     "marca": "NASA",
     "nome": "JAQUETA NASA BOMBER PRETO 3G",
     "estoque": "2",
-    "preco": "388,5"
+    "preco": "418,95"
   },
   {
     "codigo": "51100",
@@ -92477,7 +92477,7 @@
     "marca": "NASA",
     "nome": "JAQUETA NASA BOMBER PRETO 4G",
     "estoque": "1",
-    "preco": "388,47"
+    "preco": "418,95"
   },
   {
     "codigo": "51097",
@@ -92485,7 +92485,7 @@
     "marca": "NASA",
     "nome": "JAQUETA NASA BOMBER PRETO G",
     "estoque": "0",
-    "preco": "388,5"
+    "preco": "418,95"
   },
   {
     "codigo": "51098",
@@ -92493,7 +92493,7 @@
     "marca": "NASA",
     "nome": "JAQUETA NASA BOMBER PRETO GG",
     "estoque": "1",
-    "preco": "388,5"
+    "preco": "418,95"
   },
   {
     "codigo": "51096",
@@ -92501,7 +92501,7 @@
     "marca": "NASA",
     "nome": "JAQUETA NASA BOMBER PRETO M",
     "estoque": "1",
-    "preco": "388,5"
+    "preco": "418,95"
   },
   {
     "codigo": "43164",
@@ -92509,7 +92509,7 @@
     "marca": "NORISK",
     "nome": "JAQUETA NORISK NR-01 LADY PRETO/BRANCO L",
     "estoque": "2",
-    "preco": "457,01"
+    "preco": "546"
   },
   {
     "codigo": "43163",
@@ -92517,7 +92517,7 @@
     "marca": "NORISK",
     "nome": "JAQUETA NORISK NR-01 LADY PRETO/BRANCO M",
     "estoque": "2",
-    "preco": "457,01"
+    "preco": "546"
   },
   {
     "codigo": "43162",
@@ -92525,7 +92525,7 @@
     "marca": "NORISK",
     "nome": "JAQUETA NORISK NR-01 LADY PRETO/BRANCO S",
     "estoque": "1",
-    "preco": "457,01"
+    "preco": "546"
   },
   {
     "codigo": "43165",
@@ -92533,7 +92533,7 @@
     "marca": "NORISK",
     "nome": "JAQUETA NORISK NR-01 LADY PRETO/BRANCO XL",
     "estoque": "0",
-    "preco": "457,01"
+    "preco": "546"
   },
   {
     "codigo": "45467",
@@ -92541,7 +92541,7 @@
     "marca": "NORISK",
     "nome": "JAQUETA NORISK NR-01 PRETO/AZUL/VERMELHO/BRANCO S",
     "estoque": "0",
-    "preco": "543,01"
+    "preco": "546"
   },
   {
     "codigo": "43149",
@@ -92549,7 +92549,7 @@
     "marca": "NORISK",
     "nome": "JAQUETA NORISK NR-01 PRETO/BRANCO 2XL",
     "estoque": "0",
-    "preco": "457,01"
+    "preco": "546"
   },
   {
     "codigo": "43150",
@@ -92557,7 +92557,7 @@
     "marca": "NORISK",
     "nome": "JAQUETA NORISK NR-01 PRETO/BRANCO 3XL",
     "estoque": "0",
-    "preco": "457,01"
+    "preco": "546"
   },
   {
     "codigo": "43152",
@@ -92565,7 +92565,7 @@
     "marca": "NORISK",
     "nome": "JAQUETA NORISK NR-01 PRETO/BRANCO 5XL",
     "estoque": "0",
-    "preco": "457,01"
+    "preco": "546"
   },
   {
     "codigo": "43147",
@@ -92573,7 +92573,7 @@
     "marca": "NORISK",
     "nome": "JAQUETA NORISK NR-01 PRETO/BRANCO L",
     "estoque": "1",
-    "preco": "457,01"
+    "preco": "546"
   },
   {
     "codigo": "43146",
@@ -92581,7 +92581,7 @@
     "marca": "NORISK",
     "nome": "JAQUETA NORISK NR-01 PRETO/BRANCO M",
     "estoque": "3",
-    "preco": "457,01"
+    "preco": "546"
   },
   {
     "codigo": "43145",
@@ -92589,7 +92589,7 @@
     "marca": "NORISK",
     "nome": "JAQUETA NORISK NR-01 PRETO/BRANCO S",
     "estoque": "1",
-    "preco": "543,01"
+    "preco": "546"
   },
   {
     "codigo": "43148",
@@ -92597,7 +92597,7 @@
     "marca": "NORISK",
     "nome": "JAQUETA NORISK NR-01 PRETO/BRANCO XL",
     "estoque": "0",
-    "preco": "457,01"
+    "preco": "546"
   },
   {
     "codigo": "43158",
@@ -92605,7 +92605,7 @@
     "marca": "NORISK",
     "nome": "JAQUETA NORISK NR-01 PRETO/VERMELHO 3XL",
     "estoque": "0",
-    "preco": "457,01"
+    "preco": "546"
   },
   {
     "codigo": "43155",
@@ -92613,7 +92613,7 @@
     "marca": "NORISK",
     "nome": "JAQUETA NORISK NR-01 PRETO/VERMELHO L",
     "estoque": "1",
-    "preco": "543,01"
+    "preco": "546"
   },
   {
     "codigo": "43154",
@@ -92621,7 +92621,7 @@
     "marca": "NORISK",
     "nome": "JAQUETA NORISK NR-01 PRETO/VERMELHO M",
     "estoque": "1",
-    "preco": "543,01"
+    "preco": "546"
   },
   {
     "codigo": "45469",
@@ -92629,7 +92629,7 @@
     "marca": "NORISK",
     "nome": "JAQUETA NORISK NR-02 PRETO/AZUL/AMARELO L",
     "estoque": "1",
-    "preco": "452,49"
+    "preco": "546"
   },
   {
     "codigo": "31849",
@@ -92645,7 +92645,7 @@
     "marca": "TEXX",
     "nome": "JAQUETA TEXX DEFENDER CINZA 2XL",
     "estoque": "0",
-    "preco": "551,44"
+    "preco": "606,59"
   },
   {
     "codigo": "35486",
@@ -92653,7 +92653,7 @@
     "marca": "TEXX",
     "nome": "JAQUETA TEXX DEFENDER CINZA 3XL",
     "estoque": "0",
-    "preco": "608,5"
+    "preco": "669,34"
   },
   {
     "codigo": "35487",
@@ -92661,7 +92661,7 @@
     "marca": "TEXX",
     "nome": "JAQUETA TEXX DEFENDER CINZA 4XL",
     "estoque": "0",
-    "preco": "608,5"
+    "preco": "669,34"
   },
   {
     "codigo": "35488",
@@ -92669,7 +92669,7 @@
     "marca": "TEXX",
     "nome": "JAQUETA TEXX DEFENDER CINZA 5XL",
     "estoque": "0",
-    "preco": "608,5"
+    "preco": "669,34"
   },
   {
     "codigo": "35489",
@@ -92677,7 +92677,7 @@
     "marca": "TEXX",
     "nome": "JAQUETA TEXX DEFENDER CINZA 6XL",
     "estoque": "0",
-    "preco": "608,5"
+    "preco": "669,34"
   },
   {
     "codigo": "35482",
@@ -92685,7 +92685,7 @@
     "marca": "TEXX",
     "nome": "JAQUETA TEXX DEFENDER CINZA L",
     "estoque": "1",
-    "preco": "608,5"
+    "preco": "669,34"
   },
   {
     "codigo": "35483",
@@ -92693,7 +92693,7 @@
     "marca": "TEXX",
     "nome": "JAQUETA TEXX DEFENDER CINZA M",
     "estoque": "0",
-    "preco": "608,5"
+    "preco": "669,34"
   },
   {
     "codigo": "35484",
@@ -92701,7 +92701,7 @@
     "marca": "TEXX",
     "nome": "JAQUETA TEXX DEFENDER CINZA XL",
     "estoque": "1",
-    "preco": "551,44"
+    "preco": "606,59"
   },
   {
     "codigo": "31853",
@@ -92717,7 +92717,7 @@
     "marca": "TEXX",
     "nome": "JAQUETA TEXX FALCON V2 MASCULINA PRETO/VERMELHO 2XL",
     "estoque": "0",
-    "preco": "912,03"
+    "preco": "1003,23"
   },
   {
     "codigo": "38862",
@@ -92725,7 +92725,7 @@
     "marca": "TEXX",
     "nome": "JAQUETA TEXX FALCON V2 MASCULINA PRETO/VERMELHO L",
     "estoque": "0",
-    "preco": "912,03"
+    "preco": "1003,23"
   },
   {
     "codigo": "38861",
@@ -92733,7 +92733,7 @@
     "marca": "TEXX",
     "nome": "JAQUETA TEXX FALCON V2 MASCULINA PRETO/VERMELHO M",
     "estoque": "2",
-    "preco": "912,03"
+    "preco": "1003,23"
   },
   {
     "codigo": "38863",
@@ -92741,7 +92741,7 @@
     "marca": "TEXX",
     "nome": "JAQUETA TEXX FALCON V2 MASCULINA PRETO/VERMELHO XL",
     "estoque": "0",
-    "preco": "912,03"
+    "preco": "1003,23"
   },
   {
     "codigo": "35492",
@@ -92749,7 +92749,7 @@
     "marca": "TEXX",
     "nome": "JAQUETA TEXX NEW STRIKE MASCULINA PRETO 2XL",
     "estoque": "0",
-    "preco": "506,92"
+    "preco": "557,61"
   },
   {
     "codigo": "35493",
@@ -92757,7 +92757,7 @@
     "marca": "TEXX",
     "nome": "JAQUETA TEXX NEW STRIKE MASCULINA PRETO 3XL",
     "estoque": "0",
-    "preco": "506,92"
+    "preco": "557,61"
   },
   {
     "codigo": "35494",
@@ -92765,7 +92765,7 @@
     "marca": "TEXX",
     "nome": "JAQUETA TEXX NEW STRIKE MASCULINA PRETO 4XL",
     "estoque": "0",
-    "preco": "506,92"
+    "preco": "557,61"
   },
   {
     "codigo": "35495",
@@ -92773,7 +92773,7 @@
     "marca": "TEXX",
     "nome": "JAQUETA TEXX NEW STRIKE MASCULINA PRETO L",
     "estoque": "0",
-    "preco": "506,92"
+    "preco": "557,61"
   },
   {
     "codigo": "35496",
@@ -92781,7 +92781,7 @@
     "marca": "TEXX",
     "nome": "JAQUETA TEXX NEW STRIKE MASCULINA PRETO M",
     "estoque": "0",
-    "preco": "506,92"
+    "preco": "557,61"
   },
   {
     "codigo": "35497",
@@ -92789,7 +92789,7 @@
     "marca": "TEXX",
     "nome": "JAQUETA TEXX NEW STRIKE MASCULINA PRETO S",
     "estoque": "1",
-    "preco": "506,92"
+    "preco": "557,61"
   },
   {
     "codigo": "35498",
@@ -92797,7 +92797,7 @@
     "marca": "TEXX",
     "nome": "JAQUETA TEXX NEW STRIKE MASCULINA PRETO XL",
     "estoque": "0",
-    "preco": "506,92"
+    "preco": "557,61"
   },
   {
     "codigo": "35501",
@@ -92805,7 +92805,7 @@
     "marca": "TEXX",
     "nome": "JAQUETA TEXX NEW STRIKE V2 FEMININA PRETO/VERMELHO 2XL",
     "estoque": "0",
-    "preco": "506,92"
+    "preco": "557,61"
   },
   {
     "codigo": "35502",
@@ -92813,7 +92813,7 @@
     "marca": "TEXX",
     "nome": "JAQUETA TEXX NEW STRIKE V2 FEMININA PRETO/VERMELHO 3XL",
     "estoque": "0",
-    "preco": "529,19"
+    "preco": "582,11"
   },
   {
     "codigo": "35503",
@@ -92821,7 +92821,7 @@
     "marca": "TEXX",
     "nome": "JAQUETA TEXX NEW STRIKE V2 FEMININA PRETO/VERMELHO 4XL",
     "estoque": "0",
-    "preco": "506,92"
+    "preco": "557,61"
   },
   {
     "codigo": "35504",
@@ -92829,7 +92829,7 @@
     "marca": "TEXX",
     "nome": "JAQUETA TEXX NEW STRIKE V2 FEMININA PRETO/VERMELHO 5XL",
     "estoque": "0",
-    "preco": "529,19"
+    "preco": "582,11"
   },
   {
     "codigo": "35505",
@@ -92837,7 +92837,7 @@
     "marca": "TEXX",
     "nome": "JAQUETA TEXX NEW STRIKE V2 FEMININA PRETO/VERMELHO 6XL",
     "estoque": "0",
-    "preco": "506,92"
+    "preco": "557,61"
   },
   {
     "codigo": "35506",
@@ -92845,7 +92845,7 @@
     "marca": "TEXX",
     "nome": "JAQUETA TEXX NEW STRIKE V2 FEMININA PRETO/VERMELHO L",
     "estoque": "1",
-    "preco": "548,45"
+    "preco": "603,29"
   },
   {
     "codigo": "35507",
@@ -92853,7 +92853,7 @@
     "marca": "TEXX",
     "nome": "JAQUETA TEXX NEW STRIKE V2 FEMININA PRETO/VERMELHO M",
     "estoque": "1",
-    "preco": "506,92"
+    "preco": "557,61"
   },
   {
     "codigo": "35508",
@@ -92861,7 +92861,7 @@
     "marca": "TEXX",
     "nome": "JAQUETA TEXX NEW STRIKE V2 FEMININA PRETO/VERMELHO S",
     "estoque": "1",
-    "preco": "506,92"
+    "preco": "557,61"
   },
   {
     "codigo": "35509",
@@ -92869,7 +92869,7 @@
     "marca": "TEXX",
     "nome": "JAQUETA TEXX NEW STRIKE V2 FEMININA PRETO/VERMELHO XL",
     "estoque": "0",
-    "preco": "506,92"
+    "preco": "557,61"
   },
   {
     "codigo": "39491",
@@ -92877,7 +92877,7 @@
     "marca": "TEXX",
     "nome": "JAQUETA TEXX NEW STRIKE V2 MASCULINA PRETO/VERMELHO 2XL",
     "estoque": "0",
-    "preco": "620,39"
+    "preco": "682,44"
   },
   {
     "codigo": "39492",
@@ -92885,7 +92885,7 @@
     "marca": "TEXX",
     "nome": "JAQUETA TEXX NEW STRIKE V2 MASCULINA PRETO/VERMELHO 3XL",
     "estoque": "0",
-    "preco": "620,39"
+    "preco": "682,44"
   },
   {
     "codigo": "39489",
@@ -92893,7 +92893,7 @@
     "marca": "TEXX",
     "nome": "JAQUETA TEXX NEW STRIKE V2 MASCULINA PRETO/VERMELHO L",
     "estoque": "0",
-    "preco": "620,39"
+    "preco": "682,44"
   },
   {
     "codigo": "39488",
@@ -92901,7 +92901,7 @@
     "marca": "TEXX",
     "nome": "JAQUETA TEXX NEW STRIKE V2 MASCULINA PRETO/VERMELHO M",
     "estoque": "0",
-    "preco": "620,39"
+    "preco": "682,44"
   },
   {
     "codigo": "39490",
@@ -92909,7 +92909,7 @@
     "marca": "TEXX",
     "nome": "JAQUETA TEXX NEW STRIKE V2 MASCULINA PRETO/VERMELHO XL",
     "estoque": "0",
-    "preco": "620,39"
+    "preco": "682,44"
   },
   {
     "codigo": "35478",
@@ -92917,7 +92917,7 @@
     "marca": "TEXX",
     "nome": "JAQUETA TEXX RONIN PRETO 2XL",
     "estoque": "0",
-    "preco": "441,54"
+    "preco": "485,69"
   },
   {
     "codigo": "31855",
@@ -92925,7 +92925,7 @@
     "marca": "TEXX",
     "nome": "JAQUETA TEXX RONIN PRETO 3XL",
     "estoque": "0",
-    "preco": "441,54"
+    "preco": "485,69"
   },
   {
     "codigo": "35479",
@@ -92933,7 +92933,7 @@
     "marca": "TEXX",
     "nome": "JAQUETA TEXX RONIN PRETO 4XL",
     "estoque": "0",
-    "preco": "441,54"
+    "preco": "485,69"
   },
   {
     "codigo": "35473",
@@ -92941,7 +92941,7 @@
     "marca": "TEXX",
     "nome": "JAQUETA TEXX RONIN PRETO L",
     "estoque": "1",
-    "preco": "441,54"
+    "preco": "485,69"
   },
   {
     "codigo": "31854",
@@ -92949,7 +92949,7 @@
     "marca": "TEXX",
     "nome": "JAQUETA TEXX RONIN PRETO M",
     "estoque": "2",
-    "preco": "408,29"
+    "preco": "449,13"
   },
   {
     "codigo": "35474",
@@ -92957,7 +92957,7 @@
     "marca": "TEXX",
     "nome": "JAQUETA TEXX RONIN PRETO S",
     "estoque": "1",
-    "preco": "408,29"
+    "preco": "449,13"
   },
   {
     "codigo": "35477",
@@ -92965,7 +92965,7 @@
     "marca": "TEXX",
     "nome": "JAQUETA TEXX RONIN PRETO XL",
     "estoque": "0",
-    "preco": "441,54"
+    "preco": "485,69"
   },
   {
     "codigo": "35566",
@@ -92973,7 +92973,7 @@
     "marca": "TEXX",
     "nome": "JAQUETA TEXX SAGA FOUR SEASON V2 PRETO/CINZA 2XL",
     "estoque": "0",
-    "preco": "636,2"
+    "preco": "699,81"
   },
   {
     "codigo": "35512",
@@ -92981,7 +92981,7 @@
     "marca": "TEXX",
     "nome": "JAQUETA TEXX SAGA FOUR SEASON V2 PRETO/CINZA 3XL",
     "estoque": "0",
-    "preco": "651,09"
+    "preco": "716,21"
   },
   {
     "codigo": "35513",
@@ -92989,7 +92989,7 @@
     "marca": "TEXX",
     "nome": "JAQUETA TEXX SAGA FOUR SEASON V2 PRETO/CINZA 4XL",
     "estoque": "0",
-    "preco": "636,2"
+    "preco": "699,81"
   },
   {
     "codigo": "35514",
@@ -92997,7 +92997,7 @@
     "marca": "TEXX",
     "nome": "JAQUETA TEXX SAGA FOUR SEASON V2 PRETO/CINZA 5XL",
     "estoque": "0",
-    "preco": "636,2"
+    "preco": "699,81"
   },
   {
     "codigo": "35515",
@@ -93005,7 +93005,7 @@
     "marca": "TEXX",
     "nome": "JAQUETA TEXX SAGA FOUR SEASON V2 PRETO/CINZA 6XL",
     "estoque": "0",
-    "preco": "636,2"
+    "preco": "699,81"
   },
   {
     "codigo": "35516",
@@ -93013,7 +93013,7 @@
     "marca": "TEXX",
     "nome": "JAQUETA TEXX SAGA FOUR SEASON V2 PRETO/CINZA L",
     "estoque": "1",
-    "preco": "651,09"
+    "preco": "716,21"
   },
   {
     "codigo": "35517",
@@ -93021,7 +93021,7 @@
     "marca": "TEXX",
     "nome": "JAQUETA TEXX SAGA FOUR SEASON V2 PRETO/CINZA M",
     "estoque": "0",
-    "preco": "636,2"
+    "preco": "699,81"
   },
   {
     "codigo": "35518",
@@ -93029,7 +93029,7 @@
     "marca": "TEXX",
     "nome": "JAQUETA TEXX SAGA FOUR SEASON V2 PRETO/CINZA S",
     "estoque": "0",
-    "preco": "636,2"
+    "preco": "699,81"
   },
   {
     "codigo": "35519",
@@ -93037,7 +93037,7 @@
     "marca": "TEXX",
     "nome": "JAQUETA TEXX SAGA FOUR SEASON V2 PRETO/CINZA XL",
     "estoque": "0",
-    "preco": "636,2"
+    "preco": "699,81"
   },
   {
     "codigo": "32063",
@@ -93045,7 +93045,7 @@
     "marca": "TEXX",
     "nome": "JAQUETA TEXX STRIKE FEMININA PRETO 3XL",
     "estoque": "0",
-    "preco": "380,51"
+    "preco": "418,56"
   },
   {
     "codigo": "32064",
@@ -93053,7 +93053,7 @@
     "marca": "TEXX",
     "nome": "JAQUETA TEXX STRIKE FEMININA PRETO 4XL",
     "estoque": "0",
-    "preco": "380,51"
+    "preco": "418,56"
   },
   {
     "codigo": "31856",
@@ -93061,7 +93061,7 @@
     "marca": "TEXX",
     "nome": "JAQUETA TEXX STRIKE FEMININA PRETO L",
     "estoque": "0",
-    "preco": "380,51"
+    "preco": "418,56"
   },
   {
     "codigo": "31857",
@@ -93069,7 +93069,7 @@
     "marca": "TEXX",
     "nome": "JAQUETA TEXX STRIKE FEMININA PRETO XL",
     "estoque": "1",
-    "preco": "380,51"
+    "preco": "418,56"
   },
   {
     "codigo": "35522",
@@ -93077,7 +93077,7 @@
     "marca": "TEXX",
     "nome": "JAQUETA TEXX STRIKE SUMMER II VERMELHO 2XL",
     "estoque": "0",
-    "preco": "414,58"
+    "preco": "456,04"
   },
   {
     "codigo": "35523",
@@ -93085,7 +93085,7 @@
     "marca": "TEXX",
     "nome": "JAQUETA TEXX STRIKE SUMMER II VERMELHO 3XL",
     "estoque": "0",
-    "preco": "414,58"
+    "preco": "456,04"
   },
   {
     "codigo": "35524",
@@ -93093,7 +93093,7 @@
     "marca": "TEXX",
     "nome": "JAQUETA TEXX STRIKE SUMMER II VERMELHO 4XL",
     "estoque": "0",
-    "preco": "414,58"
+    "preco": "456,04"
   },
   {
     "codigo": "35525",
@@ -93101,7 +93101,7 @@
     "marca": "TEXX",
     "nome": "JAQUETA TEXX STRIKE SUMMER II VERMELHO L",
     "estoque": "0",
-    "preco": "414,58"
+    "preco": "456,04"
   },
   {
     "codigo": "35526",
@@ -93109,7 +93109,7 @@
     "marca": "TEXX",
     "nome": "JAQUETA TEXX STRIKE SUMMER II VERMELHO M",
     "estoque": "0",
-    "preco": "414,58"
+    "preco": "456,04"
   },
   {
     "codigo": "35527",
@@ -93117,7 +93117,7 @@
     "marca": "TEXX",
     "nome": "JAQUETA TEXX STRIKE SUMMER II VERMELHO S",
     "estoque": "0",
-    "preco": "414,58"
+    "preco": "456,04"
   },
   {
     "codigo": "35528",
@@ -93125,7 +93125,7 @@
     "marca": "TEXX",
     "nome": "JAQUETA TEXX STRIKE SUMMER II VERMELHO XL",
     "estoque": "0",
-    "preco": "414,58"
+    "preco": "456,04"
   },
   {
     "codigo": "31860",
@@ -93133,7 +93133,7 @@
     "marca": "TUTTO",
     "nome": "JAQUETA TUTTO BELLA PRETO S",
     "estoque": "1",
-    "preco": "649,05"
+    "preco": "778,86"
   },
   {
     "codigo": "31862",
@@ -93141,7 +93141,7 @@
     "marca": "TUTTO",
     "nome": "JAQUETA TUTTO BELLA PRETO XL",
     "estoque": "1",
-    "preco": "649,05"
+    "preco": "778,86"
   },
   {
     "codigo": "31864",
@@ -93181,7 +93181,7 @@
     "marca": "TUTTO",
     "nome": "JAQUETA TUTTO NEW SECCA PRETO S",
     "estoque": "1",
-    "preco": "759,94"
+    "preco": "911,93"
   },
   {
     "codigo": "31872",
@@ -93660,7 +93660,7 @@
     "fabric": "11150172",
     "marca": "X11",
     "nome": "JAQUETA X11 NEOCITY 2 PRETO 4G",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "367,5"
   },
   {
@@ -93701,7 +93701,7 @@
     "marca": "X11",
     "nome": "JAQUETA X11 NEXT GEN",
     "estoque": "0",
-    "preco": "1004,72"
+    "preco": "1155,43"
   },
   {
     "codigo": "33875",
@@ -93709,7 +93709,7 @@
     "marca": "X11",
     "nome": "JAQUETA X11 NEXT GEN PRETO 2G",
     "estoque": "2",
-    "preco": "1004,72"
+    "preco": "1155,43"
   },
   {
     "codigo": "33876",
@@ -93717,7 +93717,7 @@
     "marca": "X11",
     "nome": "JAQUETA X11 NEXT GEN PRETO 3G",
     "estoque": "2",
-    "preco": "1004,72"
+    "preco": "1155,43"
   },
   {
     "codigo": "33877",
@@ -93725,7 +93725,7 @@
     "marca": "X11",
     "nome": "JAQUETA X11 NEXT GEN PRETO 4G",
     "estoque": "2",
-    "preco": "1004,72"
+    "preco": "1155,43"
   },
   {
     "codigo": "33874",
@@ -93733,7 +93733,7 @@
     "marca": "X11",
     "nome": "JAQUETA X11 NEXT GEN PRETO G",
     "estoque": "0",
-    "preco": "1004,72"
+    "preco": "1155,43"
   },
   {
     "codigo": "33873",
@@ -93741,7 +93741,7 @@
     "marca": "X11",
     "nome": "JAQUETA X11 NEXT GEN PRETO M",
     "estoque": "3",
-    "preco": "1004,78"
+    "preco": "1155,49"
   },
   {
     "codigo": "33872",
@@ -93749,7 +93749,7 @@
     "marca": "X11",
     "nome": "JAQUETA X11 NEXT GEN PRETO P",
     "estoque": "1",
-    "preco": "1004,72"
+    "preco": "1155,43"
   },
   {
     "codigo": "31428",
@@ -93757,7 +93757,7 @@
     "marca": "X11",
     "nome": "JAQUETA X11 NEXT PRETO 3G",
     "estoque": "0",
-    "preco": "865,39"
+    "preco": "995,2"
   },
   {
     "codigo": "31429",
@@ -93765,7 +93765,7 @@
     "marca": "X11",
     "nome": "JAQUETA X11 NEXT PRETO 4G",
     "estoque": "0",
-    "preco": "865,39"
+    "preco": "995,2"
   },
   {
     "codigo": "31427",
@@ -93773,7 +93773,7 @@
     "marca": "X11",
     "nome": "JAQUETA X11 NEXT PRETO GG",
     "estoque": "0",
-    "preco": "865,39"
+    "preco": "995,2"
   },
   {
     "codigo": "31424",
@@ -93781,7 +93781,7 @@
     "marca": "X11",
     "nome": "JAQUETA X11 NEXT PRETO P",
     "estoque": "1",
-    "preco": "865,39"
+    "preco": "995,2"
   },
   {
     "codigo": "19951",
@@ -93797,7 +93797,7 @@
     "marca": "X11",
     "nome": "JAQUETA X11 ONE 2",
     "estoque": "0",
-    "preco": "547,62"
+    "preco": "577,5"
   },
   {
     "codigo": "33886",
@@ -93805,7 +93805,7 @@
     "marca": "X11",
     "nome": "JAQUETA X11 ONE 2 FEMININA",
     "estoque": "0",
-    "preco": "547,62"
+    "preco": "577,5"
   },
   {
     "codigo": "33892",
@@ -93813,7 +93813,7 @@
     "marca": "X11",
     "nome": "JAQUETA X11 ONE 2 FEMININA PRETO 3G",
     "estoque": "1",
-    "preco": "547,62"
+    "preco": "577,5"
   },
   {
     "codigo": "33893",
@@ -93821,7 +93821,7 @@
     "marca": "X11",
     "nome": "JAQUETA X11 ONE 2 FEMININA PRETO 4G",
     "estoque": "0",
-    "preco": "547,62"
+    "preco": "577,5"
   },
   {
     "codigo": "45613",
@@ -93829,7 +93829,7 @@
     "marca": "X11",
     "nome": "JAQUETA X11 ONE 2 FEMININA PRETO/CINZA/VERMELHO G",
     "estoque": "0",
-    "preco": "498,75"
+    "preco": "577,5"
   },
   {
     "codigo": "45567",
@@ -93837,7 +93837,7 @@
     "marca": "X11",
     "nome": "JAQUETA X11 ONE 2 FEMININA PRETO/CINZA/VERMELHO GG",
     "estoque": "1",
-    "preco": "498,75"
+    "preco": "577,5"
   },
   {
     "codigo": "45566",
@@ -93845,7 +93845,7 @@
     "marca": "X11",
     "nome": "JAQUETA X11 ONE 2 FEMININA PRETO/CINZA/VERMELHO M",
     "estoque": "2",
-    "preco": "498,75"
+    "preco": "577,5"
   },
   {
     "codigo": "45565",
@@ -93853,7 +93853,7 @@
     "marca": "X11",
     "nome": "JAQUETA X11 ONE 2 FEMININA PRETO/CINZA/VERMELHO P",
     "estoque": "2",
-    "preco": "498,75"
+    "preco": "577,5"
   },
   {
     "codigo": "33891",
@@ -93861,7 +93861,7 @@
     "marca": "X11",
     "nome": "JAQUETA X11 ONE 2 FEMININA PRETO/ROSA GG",
     "estoque": "0",
-    "preco": "547,62"
+    "preco": "577,5"
   },
   {
     "codigo": "33889",
@@ -93869,7 +93869,7 @@
     "marca": "X11",
     "nome": "JAQUETA X11 ONE 2 FEMININA PRETO/ROSA M",
     "estoque": "1",
-    "preco": "547,62"
+    "preco": "577,5"
   },
   {
     "codigo": "33888",
@@ -93877,7 +93877,7 @@
     "marca": "X11",
     "nome": "JAQUETA X11 ONE 2 FEMININA PRETO/ROSA P",
     "estoque": "0",
-    "preco": "547,62"
+    "preco": "577,5"
   },
   {
     "codigo": "53692",
@@ -93885,7 +93885,7 @@
     "marca": "X11",
     "nome": "JAQUETA X11 ONE 2 MASCULINA PRETO/VERMELHO G",
     "estoque": "0",
-    "preco": "0"
+    "preco": "577,5"
   },
   {
     "codigo": "33149",
@@ -93893,7 +93893,7 @@
     "marca": "X11",
     "nome": "JAQUETA X11 ONE 2 PRETO 3G",
     "estoque": "0",
-    "preco": "547,62"
+    "preco": "577,5"
   },
   {
     "codigo": "33150",
@@ -93901,7 +93901,7 @@
     "marca": "X11",
     "nome": "JAQUETA X11 ONE 2 PRETO 4G",
     "estoque": "0",
-    "preco": "547,62"
+    "preco": "577,5"
   },
   {
     "codigo": "33147",
@@ -93909,7 +93909,7 @@
     "marca": "X11",
     "nome": "JAQUETA X11 ONE 2 PRETO G",
     "estoque": "0",
-    "preco": "547,62"
+    "preco": "577,5"
   },
   {
     "codigo": "33146",
@@ -93917,7 +93917,7 @@
     "marca": "X11",
     "nome": "JAQUETA X11 ONE 2 PRETO M",
     "estoque": "2",
-    "preco": "547,62"
+    "preco": "577,5"
   },
   {
     "codigo": "33145",
@@ -93925,7 +93925,7 @@
     "marca": "X11",
     "nome": "JAQUETA X11 ONE 2 PRETO P",
     "estoque": "1",
-    "preco": "547,62"
+    "preco": "577,5"
   },
   {
     "codigo": "39486",
@@ -93933,7 +93933,7 @@
     "marca": "X11",
     "nome": "JAQUETA X11 ONE 2 PRETO/CINZA/VERMELHO M",
     "estoque": "1",
-    "preco": "547,62"
+    "preco": "577,5"
   },
   {
     "codigo": "19943",
@@ -94125,7 +94125,7 @@
     "marca": "X11",
     "nome": "JAQUETA X11 SUMMER PRO VENTILADA CINZA/PRETO G",
     "estoque": "2",
-    "preco": "805,64"
+    "preco": "838,95"
   },
   {
     "codigo": "37362",
@@ -94197,7 +94197,7 @@
     "marca": "X11",
     "nome": "JAQUETA X11 TRAVEL 2 LONGA PRETO P",
     "estoque": "1",
-    "preco": "1096,16"
+    "preco": "1153,95"
   },
   {
     "codigo": "44776",
@@ -94237,7 +94237,7 @@
     "marca": "X11",
     "nome": "JAQUETA X11 URBAN PRO",
     "estoque": "0",
-    "preco": "593,32"
+    "preco": "628,95"
   },
   {
     "codigo": "53690",
@@ -94245,7 +94245,7 @@
     "marca": "X11",
     "nome": "JAQUETA X11 URBAN PRO PRETO 2G",
     "estoque": "0",
-    "preco": "0"
+    "preco": "628,95"
   },
   {
     "codigo": "33883",
@@ -94253,7 +94253,7 @@
     "marca": "X11",
     "nome": "JAQUETA X11 URBAN PRO PRETO 3G",
     "estoque": "1",
-    "preco": "593,32"
+    "preco": "628,95"
   },
   {
     "codigo": "33884",
@@ -94261,7 +94261,7 @@
     "marca": "X11",
     "nome": "JAQUETA X11 URBAN PRO PRETO 4G",
     "estoque": "1",
-    "preco": "593,32"
+    "preco": "628,95"
   },
   {
     "codigo": "33881",
@@ -94269,7 +94269,7 @@
     "marca": "X11",
     "nome": "JAQUETA X11 URBAN PRO PRETO G",
     "estoque": "2",
-    "preco": "593,32"
+    "preco": "628,95"
   },
   {
     "codigo": "33882",
@@ -94277,7 +94277,7 @@
     "marca": "X11",
     "nome": "JAQUETA X11 URBAN PRO PRETO GG",
     "estoque": "3",
-    "preco": "593,32"
+    "preco": "628,95"
   },
   {
     "codigo": "33880",
@@ -94285,7 +94285,7 @@
     "marca": "X11",
     "nome": "JAQUETA X11 URBAN PRO PRETO M",
     "estoque": "5",
-    "preco": "593,32"
+    "preco": "628,95"
   },
   {
     "codigo": "33879",
@@ -94293,7 +94293,7 @@
     "marca": "X11",
     "nome": "JAQUETA X11 URBAN PRO PRETO P",
     "estoque": "2",
-    "preco": "593,3"
+    "preco": "628,95"
   },
   {
     "codigo": "43988",
@@ -95724,7 +95724,7 @@
     "fabric": "KC-CG T4/KSD4",
     "marca": "DDL",
     "nome": "JOGO RAIO DIANT/TRAS TITAN 00/FAN KS 00/TITAN 150/TITAN 160 DDL 4MM",
-    "estoque": "410",
+    "estoque": "408",
     "preco": "57,74"
   },
   {
@@ -99956,7 +99956,7 @@
     "fabric": "1096",
     "marca": "POLIVISOR",
     "nome": "KIT MECANISMO SAN MARINO POLIVISOR",
-    "estoque": "14",
+    "estoque": "13",
     "preco": "9,44"
   },
   {
@@ -101628,7 +101628,7 @@
     "fabric": "001-KOI-028H0",
     "marca": "MOTOKOI",
     "nome": "KIT TRANSMISSAO TITAN 99 MOTOKOI (43/14/428HX116)",
-    "estoque": "113",
+    "estoque": "112",
     "preco": "57,74"
   },
   {
@@ -101756,7 +101756,7 @@
     "fabric": "001-KOI-013H0",
     "marca": "MOTOKOI",
     "nome": "KIT TRANSMISSAO XRE 300 MOTOKOI (39/13/520HX104)",
-    "estoque": "21",
+    "estoque": "20",
     "preco": "94,49"
   },
   {
@@ -102164,7 +102164,7 @@
     "fabric": "VE05084000001",
     "marca": "VEDAMOTORS",
     "nome": "KIT VEDACAO TAMPA VALVULA TITAN 150 VEDAMOTORS - GUARNICAO + 2 RETENTORES",
-    "estoque": "312",
+    "estoque": "311",
     "preco": "11,03"
   },
   {
@@ -102428,7 +102428,7 @@
     "fabric": "12499",
     "marca": "PHILIPS",
     "nome": "LAMPADA LANTERNA TRAS. 2 POLOS CG 125 FREIO PHILLIPS",
-    "estoque": "339",
+    "estoque": "337",
     "preco": "4,73"
   },
   {
@@ -102876,7 +102876,7 @@
     "fabric": "TL003",
     "marca": "TMAC",
     "nome": "LAMPADA PISCA CG 125 12X10W TMAC",
-    "estoque": "2963",
+    "estoque": "2960",
     "preco": "0,83"
   },
   {
@@ -104060,7 +104060,7 @@
     "fabric": "11006",
     "marca": "PLASMOTO",
     "nome": "LENTE LANTERNA BIZ 125 05/10 TRASEIRA VERMELHA PLASMOTO",
-    "estoque": "8",
+    "estoque": "7",
     "preco": "44,63"
   },
   {
@@ -105444,7 +105444,7 @@
     "fabric": "01026931",
     "marca": "LUBRAX",
     "nome": "LUBRIFICANTES MOTO 4T LUBRAX 10W30 SL PROFISSIONAL",
-    "estoque": "2209",
+    "estoque": "2208",
     "preco": "30,44"
   },
   {
@@ -105460,7 +105460,7 @@
     "fabric": "123075",
     "marca": "MOBIL",
     "nome": "LUBRIFICANTES MOTO 4T MOBIL 10W30 SEMI-SINTETICO",
-    "estoque": "2337",
+    "estoque": "2331",
     "preco": "36,74"
   },
   {
@@ -105492,7 +105492,7 @@
     "fabric": "121708",
     "marca": "MOBIL",
     "nome": "LUBRIFICANTES MOTO 4T MOBIL 20W50",
-    "estoque": "7978",
+    "estoque": "7977",
     "preco": "31,49"
   },
   {
@@ -105500,7 +105500,7 @@
     "fabric": "110551",
     "marca": "MOTUL",
     "nome": "LUBRIFICANTES MOTO 4T MOTUL 3000+ 20W50",
-    "estoque": "1012",
+    "estoque": "1007",
     "preco": "45,14"
   },
   {
@@ -105596,7 +105596,7 @@
     "fabric": "",
     "marca": "OXFORD",
     "nome": "LUBRIFICANTES MOTO 4T OXFORD 10W30",
-    "estoque": "10785",
+    "estoque": "10760",
     "preco": "20,99"
   },
   {
@@ -105604,7 +105604,7 @@
     "fabric": "2010000001042",
     "marca": "OXFORD",
     "nome": "LUBRIFICANTES MOTO 4T OXFORD 20W50",
-    "estoque": "1363",
+    "estoque": "1361",
     "preco": "16,79"
   },
   {
@@ -107980,7 +107980,7 @@
     "fabric": "11041785",
     "marca": "X11",
     "nome": "LUVA X11 NITRO4 TECIDO PRETO 3G",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "113,05"
   },
   {
@@ -108372,7 +108372,7 @@
     "fabric": "1086",
     "marca": "PROTEC",
     "nome": "MANETE EMBREAGEM TITAN 160 PROTEC",
-    "estoque": "10",
+    "estoque": "9",
     "preco": "8,64"
   },
   {
@@ -114116,7 +114116,7 @@
     "fabric": "TM7312",
     "marca": "TMAC",
     "nome": "MOLA DESCANCO LATERAL NXR BROS TMAC",
-    "estoque": "43",
+    "estoque": "38",
     "preco": "2,7"
   },
   {
@@ -115068,7 +115068,7 @@
     "fabric": "TM7270",
     "marca": "TMAC",
     "nome": "MOLA STOP DE FREIO BIZ 100 TMAC",
-    "estoque": "86",
+    "estoque": "85",
     "preco": "1,05"
   },
   {
@@ -124236,7 +124236,7 @@
     "fabric": "173800",
     "marca": "MELC",
     "nome": "PARALAMA TRASEIRO BROS INJ 09/11/ BROS 125 13 MELC (173800)",
-    "estoque": "2",
+    "estoque": "1",
     "preco": "28,88"
   },
   {
@@ -124708,7 +124708,7 @@
     "fabric": "KOI0366",
     "marca": "MOTOKOI",
     "nome": "PASTILHA FREIO BROS 160/BIZ 125/PCX 19 CBS DIANT MOTOKOI",
-    "estoque": "220",
+    "estoque": "215",
     "preco": "12,59"
   },
   {
@@ -126732,7 +126732,7 @@
     "fabric": "LBJ805",
     "marca": "LBJ",
     "nome": "PATIM FREIO BIZ/BROS/XL 125 0,75 TRAS LBJ",
-    "estoque": "11",
+    "estoque": "10",
     "preco": "14,61"
   },
   {
@@ -131060,7 +131060,7 @@
     "fabric": "HB03.116",
     "marca": "VAZ",
     "nome": "PINHAO TITAN 150/BROS 16D VAZ - HB03.116",
-    "estoque": "144",
+    "estoque": "143",
     "preco": "13,13"
   },
   {
@@ -139228,7 +139228,7 @@
     "fabric": "6050",
     "marca": "TECHNIC",
     "nome": "PNEU DIANT 2.75-18 TECHNIC SPORT TL 42P",
-    "estoque": "43",
+    "estoque": "41",
     "preco": "139,65"
   },
   {
@@ -139284,7 +139284,7 @@
     "fabric": "",
     "marca": "MAGGION",
     "nome": "PNEU DIANT 60/100-17 MAGGION  BIZ 100 /DREAM STREETFIGHTER MF7 TT",
-    "estoque": "121",
+    "estoque": "120",
     "preco": "100,79"
   },
   {
@@ -139348,7 +139348,7 @@
     "fabric": "18822",
     "marca": "LEVORIN",
     "nome": "PNEU DIANT 80/100-18 LEVORIN MATRIX TT 47P",
-    "estoque": "1356",
+    "estoque": "1355",
     "preco": "220,4"
   },
   {
@@ -139358,6 +139358,14 @@
     "nome": "PNEU DIANT 80/100-18 LEVORIN STREET RUNNER TL 47P (SEM CAMARA)",
     "estoque": "0",
     "preco": "247,28"
+  },
+  {
+    "codigo": "39524",
+    "fabric": "",
+    "marca": "MAGGION",
+    "nome": "PNEU DIANT 80/100-18 MAGGION WINNER (C/ CAMARA)",
+    "estoque": "0",
+    "preco": "0"
   },
   {
     "codigo": "40400",
@@ -140260,7 +140268,7 @@
     "fabric": "16083",
     "marca": "LEVORIN",
     "nome": "PNEU TRAS 80/100-14 LEVORIN MATRIX BIZ",
-    "estoque": "17",
+    "estoque": "16",
     "preco": "219,46"
   },
   {
@@ -140316,7 +140324,7 @@
     "fabric": "101924",
     "marca": "CEAT",
     "nome": "PNEU TRAS 90/90-17 CEAT SECURA ZOOM F TL 49P",
-    "estoque": "10",
+    "estoque": "9",
     "preco": "220,49"
   },
   {
@@ -140332,7 +140340,7 @@
     "fabric": "15353",
     "marca": "LEVORIN",
     "nome": "PNEU TRAS 90/90-18 LEVORIN MATRIX",
-    "estoque": "2893",
+    "estoque": "2892",
     "preco": "230,99"
   },
   {
@@ -140396,7 +140404,7 @@
     "fabric": "6119",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 90/90-18 TECHNIC SPORT R TL 57P",
-    "estoque": "16",
+    "estoque": "15",
     "preco": "168"
   },
   {
@@ -140404,7 +140412,7 @@
     "fabric": "6113",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 90/90-18 TECHNIC SPORT R TT 57P",
-    "estoque": "1043",
+    "estoque": "1041",
     "preco": "136,49"
   },
   {
@@ -141356,7 +141364,7 @@
     "fabric": "184700",
     "marca": "MELC",
     "nome": "PORTA CORRENTE TITAN 150 14/15/TITAN 160 MELC (184700)",
-    "estoque": "23",
+    "estoque": "22",
     "preco": "13,13"
   },
   {
@@ -142204,7 +142212,7 @@
     "fabric": "16070K",
     "marca": "MOTOKOI BR",
     "nome": "PROTETOR CAMARA AR ARO 18 CG MOTOKOI",
-    "estoque": "288",
+    "estoque": "287",
     "preco": "2,63"
   },
   {
@@ -153796,7 +153804,7 @@
     "fabric": "TR300",
     "marca": "TMAC",
     "nome": "RETROVISOR BMW TMAC (PAR HONDA) FIXO",
-    "estoque": "394",
+    "estoque": "393",
     "preco": "41,99"
   },
   {
@@ -155124,7 +155132,7 @@
     "fabric": "KOI0241",
     "marca": "MOTOKOI BR",
     "nome": "RETROVISOR TITAN 150 PAR MOTOKOI BR",
-    "estoque": "989",
+    "estoque": "988",
     "preco": "19,94"
   },
   {
@@ -155132,7 +155140,7 @@
     "fabric": "1458",
     "marca": "NEXTPART",
     "nome": "RETROVISOR TITAN 150 PAR NEXPART",
-    "estoque": "3672",
+    "estoque": "3671",
     "preco": "16,79"
   },
   {
@@ -155852,7 +155860,7 @@
     "fabric": "104980",
     "marca": "NACHI",
     "nome": "ROLAMENTO 6202 ZZE RODA TRAS CG/TITAN C/ 2 BLIND NACHI",
-    "estoque": "52",
+    "estoque": "48",
     "preco": "24,14"
   },
   {
@@ -159044,7 +159052,7 @@
     "fabric": "SU-71H",
     "marca": "TORK",
     "nome": "SUPORTE BAU REMOVIVEL UNIVERSAL TORK",
-    "estoque": "4",
+    "estoque": "5",
     "preco": "183,75"
   },
   {
@@ -159968,14 +159976,6 @@
     "preco": "19,13"
   },
   {
-    "codigo": "53380",
-    "fabric": "PDM1452",
-    "marca": "PANDAO",
-    "nome": "SUPORTE PARALAMA DIANT FAN 125 09/13 PANDAO",
-    "estoque": "50",
-    "preco": "17,33"
-  },
-  {
     "codigo": "21670",
     "fabric": "31453",
     "marca": "TRILHA",
@@ -159998,6 +159998,14 @@
     "nome": "SUPORTE PARALAMA DIANT FAN 125 2009 MBR",
     "estoque": "0",
     "preco": "0"
+  },
+  {
+    "codigo": "53380",
+    "fabric": "PDM1452",
+    "marca": "PANDAO",
+    "nome": "SUPORTE PARALAMA DIANT FAN 125 2009 PANDAO",
+    "estoque": "50",
+    "preco": "17,33"
   },
   {
     "codigo": "21930",
@@ -160072,14 +160080,6 @@
     "preco": "41,1"
   },
   {
-    "codigo": "53378",
-    "fabric": "PDM1456",
-    "marca": "PANDAO",
-    "nome": "SUPORTE PARALAMA DIANT TITAN 150 14/15/TITAN 160 14/24/START 160 15/24 PANDAO",
-    "estoque": "50",
-    "preco": "13,13"
-  },
-  {
     "codigo": "53479",
     "fabric": "MMB0008",
     "marca": "MEGA MOTO",
@@ -160126,6 +160126,14 @@
     "nome": "SUPORTE PARALAMA DIANT TITAN 150 TORK",
     "estoque": "0",
     "preco": "0"
+  },
+  {
+    "codigo": "53378",
+    "fabric": "PDM1456",
+    "marca": "PANDAO",
+    "nome": "SUPORTE PARALAMA DIANT TITAN 150/TITAN 160 14/24/START 160 PANDAO",
+    "estoque": "50",
+    "preco": "13,13"
   },
   {
     "codigo": "53480",
@@ -161876,7 +161884,7 @@
     "fabric": "533804",
     "marca": "MELC",
     "nome": "TAMPA LATERAL BROS 150 11/12 - BROS 125 2013 VERMELHO MELC (533804)",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "50,93"
   },
   {
@@ -163788,7 +163796,7 @@
     "fabric": "TM849",
     "marca": "TMAC",
     "nome": "TAMPA TANQUE TITAN 160 TMAC",
-    "estoque": "79",
+    "estoque": "78",
     "preco": "68,25"
   },
   {
@@ -165228,7 +165236,7 @@
     "fabric": "1101954",
     "marca": "GP7/GP",
     "nome": "TRAVA PINHAO BIZ 100 GP",
-    "estoque": "20",
+    "estoque": "19",
     "preco": "2,22"
   },
   {
@@ -167240,14 +167248,6 @@
     "preco": "15,41"
   },
   {
-    "codigo": "53398",
-    "fabric": "PDM2716",
-    "marca": "PANDAO",
-    "nome": "VARAO FREIO YES 125 PANDAO",
-    "estoque": "10",
-    "preco": "7,88"
-  },
-  {
     "codigo": "36098",
     "fabric": "23009",
     "marca": "MOTOBOR",
@@ -167262,6 +167262,14 @@
     "nome": "VARAO FREIO YES MOTOKOI",
     "estoque": "0",
     "preco": "13,13"
+  },
+  {
+    "codigo": "53398",
+    "fabric": "PDM2716",
+    "marca": "PANDAO",
+    "nome": "VARAO FREIO YES PANDAO",
+    "estoque": "10",
+    "preco": "7,88"
   },
   {
     "codigo": "45224",
@@ -170988,7 +170996,7 @@
     "fabric": "526",
     "marca": "ULTRAVISAO",
     "nome": "VISEIRA TAURUS SAN MARINO 0,80 MM CRISTAL ULTRAVISAO *PEQUENO DEFEITO*",
-    "estoque": "97",
+    "estoque": "95",
     "preco": "3,18"
   },
   {
