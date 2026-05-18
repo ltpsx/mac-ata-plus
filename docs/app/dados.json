@@ -1,13 +1,5 @@
 [
   {
-    "codigo": "26838",
-    "fabric": "04057",
-    "marca": "PLASMOTO",
-    "nome": "",
-    "estoque": "27",
-    "preco": "72,45"
-  },
-  {
     "codigo": "48521",
     "fabric": "563806",
     "marca": "MELC",
@@ -4628,7 +4620,7 @@
     "fabric": "ATR010-3",
     "marca": "ATROX",
     "nome": "ANTENA CORTA PIPA RETROVISOR 7 ESTAGIOS ATROX PRETO",
-    "estoque": "94",
+    "estoque": "93",
     "preco": "19,43"
   },
   {
@@ -5012,7 +5004,7 @@
     "fabric": "KOI0309",
     "marca": "MOTOKOI",
     "nome": "ARO RODA 1.40 X 17 BIZ DIANT MOTOKOI",
-    "estoque": "206",
+    "estoque": "205",
     "preco": "63,51"
   },
   {
@@ -8356,7 +8348,7 @@
     "fabric": "00810B",
     "marca": "RAIOM",
     "nome": "BATERIA CBX/NX/XR200/SAHA RTX8-BS RAIOM",
-    "estoque": "2",
+    "estoque": "1",
     "preco": "203,33"
   },
   {
@@ -8404,7 +8396,7 @@
     "fabric": "ETX 7BS",
     "marca": "ERBS",
     "nome": "BATERIA TWISTER/BROS 150/HUNTER/FALCON/INTRUDER/TITAN150 ES/ESD ETX 7BS ERBS",
-    "estoque": "4",
+    "estoque": "3",
     "preco": "146,99"
   },
   {
@@ -8412,7 +8404,7 @@
     "fabric": "MTX7L-BS",
     "marca": "MOTOKOI BR",
     "nome": "BATERIA TWISTER/BROS 150/HUNTER/FALCON/INTRUDER/TITAN150 ES/ESD MTX7L-BS MOTOKOI",
-    "estoque": "35",
+    "estoque": "32",
     "preco": "148,53"
   },
   {
@@ -10596,7 +10588,7 @@
     "fabric": "803800",
     "marca": "MELC",
     "nome": "BLOCO OPTICO BROS 150 09/12/BROS 125 13/14 MELC (803800)",
-    "estoque": "19",
+    "estoque": "18",
     "preco": "24,68"
   },
   {
@@ -11052,7 +11044,7 @@
     "fabric": "802700",
     "marca": "MELC",
     "nome": "BLOCO OPTICO TITAN 150 05-08/FAN 150 09-13 MELC (802700)",
-    "estoque": "150",
+    "estoque": "149",
     "preco": "16,79"
   },
   {
@@ -11086,6 +11078,14 @@
     "nome": "BLOCO OPTICO TITAN 150 2014/FAN/TITAN 160 MELC",
     "estoque": "13",
     "preco": "49,88"
+  },
+  {
+    "codigo": "26838",
+    "fabric": "04057",
+    "marca": "PLASMOTO",
+    "nome": "BLOCO OPTICO TITAN 150 2014/FAN/TITAN 160 PLASMOTO",
+    "estoque": "27",
+    "preco": "72,45"
   },
   {
     "codigo": "51586",
@@ -15076,7 +15076,7 @@
     "fabric": "2493",
     "marca": "GVS",
     "nome": "BORRACHA PEDALEIRA BIZ 125 2011/BIZ 100 13 GVS",
-    "estoque": "18",
+    "estoque": "68",
     "preco": "15,51"
   },
   {
@@ -18236,7 +18236,7 @@
     "fabric": "10110261",
     "marca": "WGK",
     "nome": "BUJAO OLEO 150 WGK C/ANEL",
-    "estoque": "32",
+    "estoque": "31",
     "preco": "4,36"
   },
   {
@@ -22644,7 +22644,7 @@
     "fabric": "90.20830340",
     "marca": "CONTROLFLEX",
     "nome": "CABO ACELERADOR XRE 300 \"A\" 16 E/D CONTROLFLEX +",
-    "estoque": "11",
+    "estoque": "10",
     "preco": "14,03"
   },
   {
@@ -22756,7 +22756,7 @@
     "fabric": "TM5088",
     "marca": "TMAC",
     "nome": "CABO ACELERADOR XRE 300 \"B\" 16 E/D TMAC",
-    "estoque": "4",
+    "estoque": "3",
     "preco": "10,49"
   },
   {
@@ -26452,7 +26452,7 @@
     "fabric": "KOI0304",
     "marca": "MOTOKOI",
     "nome": "CABO EMBREAGEM XRE 300/XRE 300 10 ED MOTOKOI",
-    "estoque": "31",
+    "estoque": "30",
     "preco": "9,44"
   },
   {
@@ -32252,7 +32252,7 @@
     "fabric": "KOI0169",
     "marca": "MOTOKOI",
     "nome": "CAMARA DE AR TRAS BIZ MOTOKOI R14",
-    "estoque": "568",
+    "estoque": "567",
     "preco": "16,79"
   },
   {
@@ -34724,7 +34724,7 @@
     "fabric": "KOI0226",
     "marca": "MOTOKOI BR",
     "nome": "CAPA BANCO TITAN 150 04/08/JOB/SPORT MOTOKOI",
-    "estoque": "401",
+    "estoque": "400",
     "preco": "17,61"
   },
   {
@@ -35860,7 +35860,7 @@
     "fabric": "1005001144",
     "marca": "PROTERCAPAS",
     "nome": "CAPA CHUVA PROTERCAPAS NYLON UNISEX EG",
-    "estoque": "7",
+    "estoque": "6",
     "preco": "173,25"
   },
   {
@@ -35924,7 +35924,7 @@
     "fabric": "1004001133",
     "marca": "PROTERCAPAS",
     "nome": "CAPA CHUVA PROTERCAPAS PVC LIDER GG",
-    "estoque": "64",
+    "estoque": "63",
     "preco": "89,24"
   },
   {
@@ -46628,7 +46628,7 @@
     "fabric": "10013432",
     "marca": "TAURUS",
     "nome": "CAPACETE TAURUS SAN MARINO PRETO 56",
-    "estoque": "156",
+    "estoque": "155",
     "preco": "178,49"
   },
   {
@@ -48860,7 +48860,7 @@
     "fabric": "09005",
     "marca": "PLASMOTO",
     "nome": "CARCACA FAROL TITAN150/FAN150 ATE 2013 PLASMOTO 9005",
-    "estoque": "43",
+    "estoque": "42",
     "preco": "10,49"
   },
   {
@@ -67588,7 +67588,7 @@
     "fabric": "66",
     "marca": "PROTEC",
     "nome": "COXIM COROA BIZ 100/BIZ 125 PROTEC",
-    "estoque": "131",
+    "estoque": "115",
     "preco": "3,23"
   },
   {
@@ -67836,7 +67836,7 @@
     "fabric": "VE05062000103",
     "marca": "VEDAMOTORS",
     "nome": "COXIM COROA TITAN 150 VEDAMOTORS (4 PCS)",
-    "estoque": "93",
+    "estoque": "92",
     "preco": "15,51"
   },
   {
@@ -68204,7 +68204,7 @@
     "fabric": "1722",
     "marca": "GVS",
     "nome": "COXIM PISCA BROS 13/14 C/ PARAFUSO E PORCA GVS",
-    "estoque": "2",
+    "estoque": "22",
     "preco": "10,49"
   },
   {
@@ -68220,8 +68220,8 @@
     "fabric": "1721",
     "marca": "GVS",
     "nome": "COXIM PISCA TITAN 125/TITAN 150 13/14 C/ PARAFUSO E PORCA GVS",
-    "estoque": "4",
-    "preco": "7,04"
+    "estoque": "14",
+    "preco": "8,16"
   },
   {
     "codigo": "5081",
@@ -79716,7 +79716,7 @@
     "fabric": "23525K",
     "marca": "MOTOKOI BR",
     "nome": "ESTICADOR CORRENTE TWISTER/TORNADO/FALCON MOTOKOI",
-    "estoque": "139",
+    "estoque": "137",
     "preco": "19,51"
   },
   {
@@ -82660,7 +82660,7 @@
     "fabric": "ARM443/1",
     "marca": "TECFIL",
     "nome": "FILTRO AR TITAN 00/08 TECFIL",
-    "estoque": "49",
+    "estoque": "48",
     "preco": "21,84"
   },
   {
@@ -84444,7 +84444,7 @@
     "fabric": "106226",
     "marca": "MOTUL",
     "nome": "FLUIDO FREIO DOT 3/4 MOTUL 500ML",
-    "estoque": "8",
+    "estoque": "7",
     "preco": "57,74"
   },
   {
@@ -84476,7 +84476,7 @@
     "fabric": "106225",
     "marca": "MOTUL",
     "nome": "FLUIDO FREIO DOT 5.1 MOTUL 500ML",
-    "estoque": "315",
+    "estoque": "314",
     "preco": "78,74"
   },
   {
@@ -88972,7 +88972,7 @@
     "fabric": "100410901",
     "marca": "POLIMET",
     "nome": "GUIDAO TITAN 160/FAN 160 CROMADO POLIMET C/PESO",
-    "estoque": "31",
+    "estoque": "30",
     "preco": "66,68"
   },
   {
@@ -89316,7 +89316,7 @@
     "fabric": "90213040",
     "marca": "MAGNETRON",
     "nome": "INTERRUPTOR EMBREAGEM BROS 150/MIX MAGNETRON",
-    "estoque": "9",
+    "estoque": "8",
     "preco": "8,39"
   },
   {
@@ -90508,7 +90508,7 @@
     "fabric": "TM0211",
     "marca": "TMAC",
     "nome": "INTERRUPTOR PARTIDA TITAN 150/TITAN 160 MODELO CB 500 F 14/CB 500X 13 (COM CHICOTE P/150/160 PARTIDA/EMERGENCIA/START/STOP + ALERTA) TMAC",
-    "estoque": "57",
+    "estoque": "56",
     "preco": "68,25"
   },
   {
@@ -92844,7 +92844,7 @@
     "fabric": "1443713",
     "marca": "TEXX",
     "nome": "JAQUETA TEXX DEFENDER CINZA XL",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "606,59"
   },
   {
@@ -102308,7 +102308,7 @@
     "fabric": "VE05084000001",
     "marca": "VEDAMOTORS",
     "nome": "KIT VEDACAO TAMPA VALVULA TITAN 150 VEDAMOTORS - GUARNICAO + 2 RETENTORES",
-    "estoque": "301",
+    "estoque": "300",
     "preco": "11,03"
   },
   {
@@ -102332,7 +102332,7 @@
     "fabric": "12153M512V",
     "marca": "PHILIPS",
     "nome": "LAMPADA FAROL BIZ 100/125/DREAM/BROS 150 09/12 PHILLIPS M5",
-    "estoque": "100",
+    "estoque": "99",
     "preco": "23,63"
   },
   {
@@ -102532,7 +102532,7 @@
     "fabric": "TL001",
     "marca": "TMAC",
     "nome": "LAMPADA FAROL TITAN H4 12V 35X35 TMAC",
-    "estoque": "864",
+    "estoque": "863",
     "preco": "4,19"
   },
   {
@@ -102572,7 +102572,7 @@
     "fabric": "12499",
     "marca": "PHILIPS",
     "nome": "LAMPADA LANTERNA TRAS. 2 POLOS CG 125 FREIO PHILLIPS",
-    "estoque": "319",
+    "estoque": "318",
     "preco": "4,73"
   },
   {
@@ -102780,7 +102780,7 @@
     "fabric": "LED006",
     "marca": "TMAC",
     "nome": "LAMPADA LED FAROL UNIVERSAL 3/LEDS TMAC C/REATOR",
-    "estoque": "8",
+    "estoque": "7",
     "preco": "108,14"
   },
   {
@@ -102916,7 +102916,7 @@
     "fabric": "12256",
     "marca": "PHILIPS",
     "nome": "LAMPADA PAINEL ESMAGADA CRISTAL PHILIPS",
-    "estoque": "39",
+    "estoque": "36",
     "preco": "2,63"
   },
   {
@@ -102924,7 +102924,7 @@
     "fabric": "TL005",
     "marca": "TMAC",
     "nome": "LAMPADA PAINEL ESMAGADA CRISTAL TMAC T10",
-    "estoque": "24370",
+    "estoque": "24366",
     "preco": "1,04"
   },
   {
@@ -103692,8 +103692,8 @@
     "fabric": "371700",
     "marca": "GVS",
     "nome": "LANTERNA TRASEIRA TITAN 125 00/04/FAN 125 05/08 VERMELHA COMPLETA S/LAMPADA GVS",
-    "estoque": "0",
-    "preco": "55,41"
+    "estoque": "10",
+    "preco": "57,75"
   },
   {
     "codigo": "51769",
@@ -104284,7 +104284,7 @@
     "fabric": "362700",
     "marca": "GVS",
     "nome": "LENTE LANTERNA FAN 125 09/13/TITAN/JOB/SPORT 150 05/08 TRASEIRA VERMELHA GVS",
-    "estoque": "5",
+    "estoque": "35",
     "preco": "14,18"
   },
   {
@@ -104348,8 +104348,8 @@
     "fabric": "361700",
     "marca": "GVS",
     "nome": "LENTE LANTERNA TITAN 125 00/04/FAN 125 05/08 TRASEIRA VERMELHA GVS",
-    "estoque": "5",
-    "preco": "13,13"
+    "estoque": "25",
+    "preco": "14,18"
   },
   {
     "codigo": "40678",
@@ -104980,7 +104980,7 @@
     "fabric": "1231",
     "marca": "GVS",
     "nome": "LENTE PISCA BROS/TORNADO/XR 200/XRL 125/POP 100 LARANJA GVS",
-    "estoque": "0",
+    "estoque": "100",
     "preco": "3,62"
   },
   {
@@ -105036,7 +105036,7 @@
     "fabric": "1280",
     "marca": "GVS",
     "nome": "LENTE PISCA CG 83/99 LARANJA GVS",
-    "estoque": "0",
+    "estoque": "50",
     "preco": "3,62"
   },
   {
@@ -105052,7 +105052,7 @@
     "fabric": "1254",
     "marca": "GVS",
     "nome": "LENTE PISCA FALCON AMBAR GVS",
-    "estoque": "2",
+    "estoque": "12",
     "preco": "7,11"
   },
   {
@@ -105156,7 +105156,7 @@
     "fabric": "1715",
     "marca": "GVS",
     "nome": "LENTE PISCA TITAN 125/TITAN 150/BROS 150 14 DD/TE CRISTAL GVS",
-    "estoque": "8",
+    "estoque": "208",
     "preco": "8,39"
   },
   {
@@ -105164,7 +105164,7 @@
     "fabric": "1716",
     "marca": "GVS",
     "nome": "LENTE PISCA TITAN 125/TITAN 150/BROS 150 14 DE/TD CRISTAL GVS",
-    "estoque": "0",
+    "estoque": "200",
     "preco": "8,39"
   },
   {
@@ -105268,15 +105268,15 @@
     "fabric": "9496/4496",
     "marca": "GVS",
     "nome": "LENTE PISCA TITAN 2000/TWISTER/CB 300 CRISTAL GVS",
-    "estoque": "0",
-    "preco": "7,11"
+    "estoque": "100",
+    "preco": "7,51"
   },
   {
     "codigo": "1572",
     "fabric": "3398",
     "marca": "GVS",
     "nome": "LENTE PISCA TITAN 2000/TWISTER/CB 300 FUME GVS",
-    "estoque": "1",
+    "estoque": "101",
     "preco": "5,24"
   },
   {
@@ -105284,7 +105284,7 @@
     "fabric": "4498",
     "marca": "GVS",
     "nome": "LENTE PISCA TITAN 2000/TWISTER/CB 300 VERMELHA GVS",
-    "estoque": "8",
+    "estoque": "18",
     "preco": "7,51"
   },
   {
@@ -105292,7 +105292,7 @@
     "fabric": "3397",
     "marca": "GVS",
     "nome": "LENTE PISCA TITAN 2000/TWSITER/CB 300 LARANJA GVS",
-    "estoque": "3",
+    "estoque": "503",
     "preco": "4,73"
   },
   {
@@ -105332,7 +105332,7 @@
     "fabric": "1358",
     "marca": "GVS",
     "nome": "LENTE PISCA XT 660 R CRISTAL GVS",
-    "estoque": "0",
+    "estoque": "10",
     "preco": "5,4"
   },
   {
@@ -105372,7 +105372,7 @@
     "fabric": "1237",
     "marca": "GVS",
     "nome": "LENTE PISCA YBR FACTOR 09/11/FAZER 250 11/XTZ 250 09/11 LARANJA GVS",
-    "estoque": "15",
+    "estoque": "25",
     "preco": "3,94"
   },
   {
@@ -105396,7 +105396,7 @@
     "fabric": "1206",
     "marca": "GVS",
     "nome": "LENTE PISCA YES 125 CRISTAL GVS",
-    "estoque": "2",
+    "estoque": "22",
     "preco": "6,83"
   },
   {
@@ -105588,7 +105588,7 @@
     "fabric": "01026931",
     "marca": "LUBRAX",
     "nome": "LUBRIFICANTES MOTO 4T LUBRAX 10W30 SL PROFISSIONAL",
-    "estoque": "2172",
+    "estoque": "2171",
     "preco": "30,44"
   },
   {
@@ -105636,7 +105636,7 @@
     "fabric": "121708",
     "marca": "MOBIL",
     "nome": "LUBRIFICANTES MOTO 4T MOBIL 20W50",
-    "estoque": "7782",
+    "estoque": "7779",
     "preco": "31,49"
   },
   {
@@ -105644,7 +105644,7 @@
     "fabric": "110551",
     "marca": "MOTUL",
     "nome": "LUBRIFICANTES MOTO 4T MOTUL 3000+ 20W50",
-    "estoque": "953",
+    "estoque": "952",
     "preco": "45,14"
   },
   {
@@ -105660,7 +105660,7 @@
     "fabric": "111548",
     "marca": "MOTUL",
     "nome": "LUBRIFICANTES MOTO 4T MOTUL 5000+ 10W30",
-    "estoque": "102",
+    "estoque": "101",
     "preco": "49,34"
   },
   {
@@ -105748,7 +105748,7 @@
     "fabric": "2010000001042",
     "marca": "OXFORD",
     "nome": "LUBRIFICANTES MOTO 4T OXFORD 20W50",
-    "estoque": "1058",
+    "estoque": "1057",
     "preco": "16,79"
   },
   {
@@ -105796,7 +105796,7 @@
     "fabric": "",
     "marca": "ALPINESTARS",
     "nome": "LUVA ALPINESTARS MASAI PRETO S",
-    "estoque": "0",
+    "estoque": "1",
     "preco": "0"
   },
   {
@@ -105812,7 +105812,7 @@
     "fabric": "",
     "marca": "ALPINESTARS",
     "nome": "LUVA ALPINESTARS SMX-2 AIR CARBON PRETO 2XL",
-    "estoque": "0",
+    "estoque": "1",
     "preco": "0"
   },
   {
@@ -105828,7 +105828,7 @@
     "fabric": "",
     "marca": "ALPINESTARS",
     "nome": "LUVA ALPINESTARS SR-3 DRYSTAR PRETO S",
-    "estoque": "0",
+    "estoque": "1",
     "preco": "0"
   },
   {
@@ -105836,7 +105836,7 @@
     "fabric": "",
     "marca": "ALPINESTARS",
     "nome": "LUVA ALPINESTARS STELLA SPARTAN PRETO M",
-    "estoque": "0",
+    "estoque": "1",
     "preco": "0"
   },
   {
@@ -105844,7 +105844,7 @@
     "fabric": "",
     "marca": "ALPINESTARS",
     "nome": "LUVA ALPINESTARS STELLA SPARTAN PRETO S",
-    "estoque": "0",
+    "estoque": "1",
     "preco": "0"
   },
   {
@@ -105852,7 +105852,7 @@
     "fabric": "",
     "marca": "ALPINESTARS",
     "nome": "LUVA ALPINESTARS STELLA SR-3 DRYSTAR PRETO L",
-    "estoque": "0",
+    "estoque": "1",
     "preco": "0"
   },
   {
@@ -105860,7 +105860,7 @@
     "fabric": "",
     "marca": "ALPINESTARS",
     "nome": "LUVA ALPINESTARS STELLA SR-3 DRYSTAR PRETO S",
-    "estoque": "0",
+    "estoque": "1",
     "preco": "0"
   },
   {
@@ -105868,7 +105868,7 @@
     "fabric": "",
     "marca": "ALPINESTARS",
     "nome": "LUVA ALPINESTARS STELLA SR-3 DRYSTAR PRETO XL",
-    "estoque": "0",
+    "estoque": "1",
     "preco": "0"
   },
   {
@@ -105876,7 +105876,7 @@
     "fabric": "",
     "marca": "ALPINESTARS",
     "nome": "LUVA ALPINESTARS STELLA TRANSITION DRYST PRETO/CINZA L",
-    "estoque": "0",
+    "estoque": "1",
     "preco": "0"
   },
   {
@@ -105884,7 +105884,7 @@
     "fabric": "",
     "marca": "ALPINESTARS",
     "nome": "LUVA ALPINESTARS STELLA TRANSITION DRYST PRETO/CINZA M",
-    "estoque": "0",
+    "estoque": "1",
     "preco": "0"
   },
   {
@@ -105892,7 +105892,7 @@
     "fabric": "",
     "marca": "ALPINESTARS",
     "nome": "LUVA ALPINESTARS STELLA TRANSITION DRYST PRETO/CINZA S",
-    "estoque": "0",
+    "estoque": "1",
     "preco": "0"
   },
   {
@@ -105908,7 +105908,7 @@
     "fabric": "",
     "marca": "ALPINESTARS",
     "nome": "LUVA ALPINESTARS TRANSITION DRYSTAR PRETO L",
-    "estoque": "0",
+    "estoque": "1",
     "preco": "0"
   },
   {
@@ -105916,7 +105916,7 @@
     "fabric": "",
     "marca": "ALPINESTARS",
     "nome": "LUVA ALPINESTARS TRANSITION DRYSTAR PRETO S",
-    "estoque": "0",
+    "estoque": "1",
     "preco": "0"
   },
   {
@@ -105924,7 +105924,7 @@
     "fabric": "ATRT0047",
     "marca": "ATROX",
     "nome": "LUVA ATROX EXTREME GO G",
-    "estoque": "5",
+    "estoque": "7",
     "preco": "46,73"
   },
   {
@@ -105932,7 +105932,7 @@
     "fabric": "ATRT0048",
     "marca": "ATROX",
     "nome": "LUVA ATROX EXTREME GO GG",
-    "estoque": "0",
+    "estoque": "13",
     "preco": "46,73"
   },
   {
@@ -105940,7 +105940,7 @@
     "fabric": "ATRT0046",
     "marca": "ATROX",
     "nome": "LUVA ATROX EXTREME GO M",
-    "estoque": "1",
+    "estoque": "8",
     "preco": "46,73"
   },
   {
@@ -105948,7 +105948,7 @@
     "fabric": "ATRT0067",
     "marca": "ATROX",
     "nome": "LUVA ATROX SIMPLE PRETO G",
-    "estoque": "3",
+    "estoque": "8",
     "preco": "41,99"
   },
   {
@@ -105956,7 +105956,7 @@
     "fabric": "ATRT0068",
     "marca": "ATROX",
     "nome": "LUVA ATROX SIMPLE PRETO GG",
-    "estoque": "1",
+    "estoque": "2",
     "preco": "41,99"
   },
   {
@@ -105964,7 +105964,7 @@
     "fabric": "ATRT0066",
     "marca": "ATROX",
     "nome": "LUVA ATROX SIMPLE PRETO M",
-    "estoque": "3",
+    "estoque": "5",
     "preco": "41,99"
   },
   {
@@ -105996,8 +105996,8 @@
     "fabric": "",
     "marca": "NACIONAL",
     "nome": "LUVA FURIOUS PIGMENTO PAR",
-    "estoque": "0",
-    "preco": "4,66"
+    "estoque": "99",
+    "preco": "7,35"
   },
   {
     "codigo": "33809",
@@ -106012,7 +106012,7 @@
     "fabric": "1304009934",
     "marca": "PROTERCAPAS",
     "nome": "LUVA GUIDAO PROTERCAPAS",
-    "estoque": "47",
+    "estoque": "52",
     "preco": "40,26"
   },
   {
@@ -106284,7 +106284,7 @@
     "fabric": "1442483",
     "marca": "SKY",
     "nome": "LUVA SKY IMPERMEAVEL PRETO/LARANJA M",
-    "estoque": "0",
+    "estoque": "1",
     "preco": "71,41"
   },
   {
@@ -106292,7 +106292,7 @@
     "fabric": "1442482",
     "marca": "SKY",
     "nome": "LUVA SKY IMPERMEAVEL PRETO/LARANJA P",
-    "estoque": "0",
+    "estoque": "10",
     "preco": "71,41"
   },
   {
@@ -107156,7 +107156,7 @@
     "fabric": "",
     "marca": "TMAC",
     "nome": "LUVA TMAC ENDURO G",
-    "estoque": "25",
+    "estoque": "27",
     "preco": "53,54"
   },
   {
@@ -107164,7 +107164,7 @@
     "fabric": "",
     "marca": "TMAC",
     "nome": "LUVA TMAC ENDURO GG",
-    "estoque": "0",
+    "estoque": "1",
     "preco": "53,54"
   },
   {
@@ -107188,7 +107188,7 @@
     "fabric": "03.01.01.23.0",
     "marca": "TUTTO",
     "nome": "LUVA TUTTO MASTER PRETO M",
-    "estoque": "1",
+    "estoque": "2",
     "preco": "467,48"
   },
   {
@@ -107228,7 +107228,7 @@
     "fabric": "",
     "marca": "TUTTO",
     "nome": "LUVA TUTTO VITA S",
-    "estoque": "0",
+    "estoque": "1",
     "preco": "151,13"
   },
   {
@@ -107236,7 +107236,7 @@
     "fabric": "",
     "marca": "TUTTO",
     "nome": "LUVA TUTTO VITA XL",
-    "estoque": "0",
+    "estoque": "2",
     "preco": "151,13"
   },
   {
@@ -107388,7 +107388,7 @@
     "fabric": "11150261",
     "marca": "X11",
     "nome": "LUVA X11 BLACKOUT 2 1/2 DEDO FEMININA PRETO M",
-    "estoque": "2",
+    "estoque": "4",
     "preco": "82,19"
   },
   {
@@ -107396,7 +107396,7 @@
     "fabric": "11150262",
     "marca": "X11",
     "nome": "LUVA X11 BLACKOUT 2 1/2 DEDO FEMININA PRETO P",
-    "estoque": "2",
+    "estoque": "3",
     "preco": "82,19"
   },
   {
@@ -107468,7 +107468,7 @@
     "fabric": "11150252",
     "marca": "X11",
     "nome": "LUVA X11 BLACKOUT 2 FEMININA PRETO M",
-    "estoque": "1",
+    "estoque": "7",
     "preco": "91,32"
   },
   {
@@ -107508,7 +107508,7 @@
     "fabric": "11150248",
     "marca": "X11",
     "nome": "LUVA X11 BLACKOUT 2 PRETO M",
-    "estoque": "0",
+    "estoque": "8",
     "preco": "91,33"
   },
   {
@@ -107516,7 +107516,7 @@
     "fabric": "11150249",
     "marca": "X11",
     "nome": "LUVA X11 BLACKOUT 2 PRETO P",
-    "estoque": "0",
+    "estoque": "1",
     "preco": "91,33"
   },
   {
@@ -107636,7 +107636,7 @@
     "fabric": "11041786",
     "marca": "X11",
     "nome": "LUVA X11 BLACKPROOF PRETO G IMPERMEAVEL",
-    "estoque": "2",
+    "estoque": "4",
     "preco": "180,94"
   },
   {
@@ -107644,7 +107644,7 @@
     "fabric": "11041787",
     "marca": "X11",
     "nome": "LUVA X11 BLACKPROOF PRETO GG IMPERMEAVEL",
-    "estoque": "0",
+    "estoque": "2",
     "preco": "180,94"
   },
   {
@@ -107652,7 +107652,7 @@
     "fabric": "11041788",
     "marca": "X11",
     "nome": "LUVA X11 BLACKPROOF PRETO GGG IMPERMEAVEL",
-    "estoque": "0",
+    "estoque": "2",
     "preco": "180,94"
   },
   {
@@ -107660,7 +107660,7 @@
     "fabric": "11041789",
     "marca": "X11",
     "nome": "LUVA X11 BLACKPROOF PRETO M IMPERMEAVEL",
-    "estoque": "1",
+    "estoque": "4",
     "preco": "180,94"
   },
   {
@@ -107772,7 +107772,7 @@
     "fabric": "11041794",
     "marca": "X11",
     "nome": "LUVA X11 DRY TECH IMPERMEAVEL PRETO M",
-    "estoque": "0",
+    "estoque": "1",
     "preco": "162,83"
   },
   {
@@ -107828,7 +107828,7 @@
     "fabric": "",
     "marca": "X11",
     "nome": "LUVA X11 FIT X 1/2 DEDO PRETO P",
-    "estoque": "1",
+    "estoque": "2",
     "preco": "67,79"
   },
   {
@@ -107844,7 +107844,7 @@
     "fabric": "11041618",
     "marca": "X11",
     "nome": "LUVA X11 FIT X FEMININO PRETO G",
-    "estoque": "0",
+    "estoque": "2",
     "preco": "72,31"
   },
   {
@@ -107884,7 +107884,7 @@
     "fabric": "11041615",
     "marca": "X11",
     "nome": "LUVA X11 FIT X MASCULINA PRETO 3G",
-    "estoque": "3",
+    "estoque": "10",
     "preco": "72,31"
   },
   {
@@ -107892,7 +107892,7 @@
     "fabric": "11041613",
     "marca": "X11",
     "nome": "LUVA X11 FIT X MASCULINA PRETO G",
-    "estoque": "0",
+    "estoque": "2",
     "preco": "72,31"
   },
   {
@@ -107900,7 +107900,7 @@
     "fabric": "11041614",
     "marca": "X11",
     "nome": "LUVA X11 FIT X MASCULINA PRETO GG",
-    "estoque": "0",
+    "estoque": "6",
     "preco": "72,31"
   },
   {
@@ -107908,7 +107908,7 @@
     "fabric": "11041612",
     "marca": "X11",
     "nome": "LUVA X11 FIT X MASCULINA PRETO M",
-    "estoque": "0",
+    "estoque": "11",
     "preco": "72,31"
   },
   {
@@ -107940,7 +107940,7 @@
     "fabric": "11041464",
     "marca": "X11",
     "nome": "LUVA X11 NITRO WIN PRETO 3G",
-    "estoque": "0",
+    "estoque": "2",
     "preco": "81,38"
   },
   {
@@ -107948,7 +107948,7 @@
     "fabric": "11041821",
     "marca": "X11",
     "nome": "LUVA X11 NITRO WIN PRETO G",
-    "estoque": "1",
+    "estoque": "2",
     "preco": "81,38"
   },
   {
@@ -107956,7 +107956,7 @@
     "fabric": "11041822",
     "marca": "X11",
     "nome": "LUVA X11 NITRO WIN PRETO GG",
-    "estoque": "0",
+    "estoque": "1",
     "preco": "81,38"
   },
   {
@@ -107980,7 +107980,7 @@
     "fabric": "11150278",
     "marca": "X11",
     "nome": "LUVA X11 NITRO WIN ROSA G",
-    "estoque": "0",
+    "estoque": "2",
     "preco": "81,38"
   },
   {
@@ -107996,7 +107996,7 @@
     "fabric": "11150280",
     "marca": "X11",
     "nome": "LUVA X11 NITRO WIN ROSA M",
-    "estoque": "0",
+    "estoque": "2",
     "preco": "81,38"
   },
   {
@@ -108004,7 +108004,7 @@
     "fabric": "11150281",
     "marca": "X11",
     "nome": "LUVA X11 NITRO WIN ROSA P",
-    "estoque": "2",
+    "estoque": "3",
     "preco": "81,38"
   },
   {
@@ -108020,7 +108020,7 @@
     "fabric": "11150242",
     "marca": "X11",
     "nome": "LUVA X11 NITRO WIN ROSA/AZUL M",
-    "estoque": "0",
+    "estoque": "2",
     "preco": "82,19"
   },
   {
@@ -108028,7 +108028,7 @@
     "fabric": "11150243",
     "marca": "X11",
     "nome": "LUVA X11 NITRO WIN ROSA/AZUL P",
-    "estoque": "0",
+    "estoque": "6",
     "preco": "82,19"
   },
   {
@@ -108044,7 +108044,7 @@
     "fabric": "11150400",
     "marca": "X11",
     "nome": "LUVA X11 NITRO WIN TRONIX FEMININA ROSA G",
-    "estoque": "1",
+    "estoque": "5",
     "preco": "80,8"
   },
   {
@@ -108052,7 +108052,7 @@
     "fabric": "11150401",
     "marca": "X11",
     "nome": "LUVA X11 NITRO WIN TRONIX FEMININA ROSA GG",
-    "estoque": "1",
+    "estoque": "2",
     "preco": "80,8"
   },
   {
@@ -108060,7 +108060,7 @@
     "fabric": "11150402",
     "marca": "X11",
     "nome": "LUVA X11 NITRO WIN TRONIX FEMININA ROSA M",
-    "estoque": "1",
+    "estoque": "6",
     "preco": "80,8"
   },
   {
@@ -108164,7 +108164,7 @@
     "fabric": "",
     "marca": "X11",
     "nome": "LUVA X11 NITRO3 TECIDO PRETO/NEON M",
-    "estoque": "0",
+    "estoque": "1",
     "preco": "64,53"
   },
   {
@@ -108212,7 +108212,7 @@
     "fabric": "",
     "marca": "X11",
     "nome": "LUVA X11 NITRO3 TECIDO PRETO/VERMELHO P",
-    "estoque": "0",
+    "estoque": "2",
     "preco": "64,53"
   },
   {
@@ -108228,7 +108228,7 @@
     "fabric": "11041785",
     "marca": "X11",
     "nome": "LUVA X11 NITRO4 TECIDO PRETO 3G",
-    "estoque": "0",
+    "estoque": "2",
     "preco": "113,05"
   },
   {
@@ -108252,7 +108252,7 @@
     "fabric": "11041782",
     "marca": "X11",
     "nome": "LUVA X11 NITRO4 TECIDO PRETO M",
-    "estoque": "0",
+    "estoque": "3",
     "preco": "113,05"
   },
   {
@@ -108260,7 +108260,7 @@
     "fabric": "11041781",
     "marca": "X11",
     "nome": "LUVA X11 NITRO4 TECIDO PRETO P",
-    "estoque": "0",
+    "estoque": "1",
     "preco": "109,61"
   },
   {
@@ -108276,7 +108276,7 @@
     "fabric": "",
     "marca": "X11",
     "nome": "LUVA X11 NITRO4 TECIDO VERDE MILITAR G",
-    "estoque": "0",
+    "estoque": "4",
     "preco": "113,05"
   },
   {
@@ -108284,7 +108284,7 @@
     "fabric": "",
     "marca": "X11",
     "nome": "LUVA X11 NITRO4 TECIDO VERDE MILITAR GG",
-    "estoque": "1",
+    "estoque": "2",
     "preco": "113,05"
   },
   {
@@ -108332,7 +108332,7 @@
     "fabric": "11041651",
     "marca": "X11",
     "nome": "LUVA X11 THERMIC PRETO M",
-    "estoque": "0",
+    "estoque": "2",
     "preco": "47,88"
   },
   {
@@ -110596,7 +110596,7 @@
     "fabric": "2458",
     "marca": "GVS",
     "nome": "MANOPLA BIZ 125 GVS",
-    "estoque": "10",
+    "estoque": "40",
     "preco": "11,54"
   },
   {
@@ -110636,7 +110636,7 @@
     "fabric": "2455",
     "marca": "GVS",
     "nome": "MANOPLA BROS/XRE 300/TORNADO/FALCON GVS (SAQUINHO)",
-    "estoque": "2",
+    "estoque": "42",
     "preco": "11,39"
   },
   {
@@ -111476,7 +111476,7 @@
     "fabric": "7454/2454",
     "marca": "GVS",
     "nome": "MANOPLA TITAN 2000 C. ROLDANA GVS PLUS",
-    "estoque": "1",
+    "estoque": "101",
     "preco": "15,74"
   },
   {
@@ -116628,7 +116628,7 @@
     "fabric": "382200",
     "marca": "GVS",
     "nome": "OLHO GATO XTZ 125 03/15/XT 600 93/05 VERMELHO GVS",
-    "estoque": "9",
+    "estoque": "19",
     "preco": "5,78"
   },
   {
@@ -116764,7 +116764,7 @@
     "fabric": "1103120",
     "marca": "CONDOR",
     "nome": "PAINEL BIZ 125 05/08 KS CONDOR",
-    "estoque": "10",
+    "estoque": "9",
     "preco": "131,25"
   },
   {
@@ -124788,7 +124788,7 @@
     "fabric": "174701",
     "marca": "MELC",
     "nome": "PARALAMA TRASEIRO TITAN 150/FAN ESD 14/18 /CARGO/START 16/20 (A) PRETO MELC (174701)",
-    "estoque": "65",
+    "estoque": "64",
     "preco": "34,65"
   },
   {
@@ -127636,7 +127636,7 @@
     "fabric": "KOI-00100 A",
     "marca": "MOTOKOI BR",
     "nome": "PATIM FREIO TITAN 00/TITAN 150 0,25 DIANT/TRAS MOTOKOI BR",
-    "estoque": "-16",
+    "estoque": "504",
     "preco": "15,74"
   },
   {
@@ -129988,7 +129988,7 @@
     "fabric": "KOI0393",
     "marca": "MOTOKOI",
     "nome": "PEDAL PARTIDA TITAN150 04-08/BROS 06-12/FAN125 09-13 MOTOKOI",
-    "estoque": "102",
+    "estoque": "101",
     "preco": "20,99"
   },
   {
@@ -132044,7 +132044,7 @@
     "fabric": "1567",
     "marca": "GVS",
     "nome": "PISCA BROS 04/12/XR 200 94/03/XLR 125 96/03/XR 250 GVS S/LAMPADA",
-    "estoque": "0",
+    "estoque": "20",
     "preco": "14,69"
   },
   {
@@ -132148,7 +132148,7 @@
     "fabric": "8013/3013",
     "marca": "GVS",
     "nome": "PISCA BROS 150 13/14 DD/TE CRISTAL S/LAMPADA C/SOQUETE GVS",
-    "estoque": "0",
+    "estoque": "30",
     "preco": "23,63"
   },
   {
@@ -132156,7 +132156,7 @@
     "fabric": "2644",
     "marca": "GVS",
     "nome": "PISCA BROS 150 13/14 DD/TE CRISTAL S/LAMPADA GVS",
-    "estoque": "0",
+    "estoque": "20",
     "preco": "23,63"
   },
   {
@@ -132164,32 +132164,32 @@
     "fabric": "8011/3011",
     "marca": "GVS",
     "nome": "PISCA BROS 150 13/14 DD/TE LARANJA S/LAMPADA C/SOQUETE GVS",
-    "estoque": "0",
-    "preco": "17,84"
+    "estoque": "20",
+    "preco": "18,89"
   },
   {
     "codigo": "53657",
     "fabric": "7642/2642",
     "marca": "GVS",
     "nome": "PISCA BROS 150 13/14 DD/TE LARANJA S/LAMPADA GVS",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "20",
+    "preco": "19,94"
   },
   {
     "codigo": "53669",
     "fabric": "8014/3014",
     "marca": "GVS",
     "nome": "PISCA BROS 150 13/14 DE/TD CRISTAL S/LAMPADA C/SOQUETE GVS",
-    "estoque": "0",
-    "preco": "17,84"
+    "estoque": "30",
+    "preco": "18,89"
   },
   {
     "codigo": "53659",
     "fabric": "2645",
     "marca": "GVS",
     "nome": "PISCA BROS 150 13/14 DE/TD CRISTAL S/LAMPADA GVS",
-    "estoque": "0",
-    "preco": "18,38"
+    "estoque": "50",
+    "preco": "18,89"
   },
   {
     "codigo": "6423",
@@ -132220,7 +132220,7 @@
     "fabric": "1331",
     "marca": "GVS",
     "nome": "PISCA CB 250 16 ED MOD ESPORTIVO GVS BASE UNIVERSAL (UN) CRISTAL",
-    "estoque": "2",
+    "estoque": "22",
     "preco": "32,55"
   },
   {
@@ -132500,7 +132500,7 @@
     "fabric": "6598/1598",
     "marca": "GVS",
     "nome": "PISCA CG-83/TITAN 99 D/D D/E LARANJA S/ COXIM S/LAMPADA GVS",
-    "estoque": "14",
+    "estoque": "34",
     "preco": "16,79"
   },
   {
@@ -132508,8 +132508,8 @@
     "fabric": "1597",
     "marca": "GVS",
     "nome": "PISCA CG-83/TITAN 99 T/D T/E LARANJA C/ COXIM S/LAMPADA GVS",
-    "estoque": "4",
-    "preco": "17,84"
+    "estoque": "104",
+    "preco": "17,33"
   },
   {
     "codigo": "48015",
@@ -132604,8 +132604,8 @@
     "fabric": "6563/1563",
     "marca": "GVS",
     "nome": "PISCA FALCON D/D T/E AMBAR GVS S/LAMPADA",
-    "estoque": "13",
-    "preco": "26,78"
+    "estoque": "43",
+    "preco": "28,88"
   },
   {
     "codigo": "8797",
@@ -132620,8 +132620,8 @@
     "fabric": "6564/1564",
     "marca": "GVS",
     "nome": "PISCA FALCON D/E T/D AMBAR GVS S/LAMPADA",
-    "estoque": "12",
-    "preco": "26,76"
+    "estoque": "22",
+    "preco": "28,88"
   },
   {
     "codigo": "25925",
@@ -132740,7 +132740,7 @@
     "fabric": "1342",
     "marca": "GVS",
     "nome": "PISCA HORNET 08/14 DD/TE GVS FUME",
-    "estoque": "0",
+    "estoque": "10",
     "preco": "30,45"
   },
   {
@@ -132748,7 +132748,7 @@
     "fabric": "6341/1341",
     "marca": "GVS",
     "nome": "PISCA HORNET 08/14 DE/TD GVS FUME",
-    "estoque": "1",
+    "estoque": "11",
     "preco": "30,45"
   },
   {
@@ -132820,7 +132820,7 @@
     "fabric": "1819",
     "marca": "GVS",
     "nome": "PISCA INTRUDER 125 DD/DE LARANJA GVS CROMADO PLUS",
-    "estoque": "5",
+    "estoque": "8",
     "preco": "51,89"
   },
   {
@@ -132844,8 +132844,8 @@
     "fabric": "1820",
     "marca": "GVS",
     "nome": "PISCA INTRUDER 125 TD/TE LARANJA GVS CROMADO PLUS",
-    "estoque": "2",
-    "preco": "47,25"
+    "estoque": "12",
+    "preco": "51,89"
   },
   {
     "codigo": "12527",
@@ -133444,8 +133444,8 @@
     "fabric": "3392",
     "marca": "GVS",
     "nome": "PISCA MINI TITAN UNIVERSAL C/ LAMPADA FUME GVS",
-    "estoque": "1",
-    "preco": "14,75"
+    "estoque": "11",
+    "preco": "17,61"
   },
   {
     "codigo": "19501",
@@ -133476,7 +133476,7 @@
     "fabric": "2609",
     "marca": "GVS",
     "nome": "PISCA MINI TITAN UNIVERSAL S/ LAMPADA FUME GVS S/METALIZAR",
-    "estoque": "0",
+    "estoque": "10",
     "preco": "10,49"
   },
   {
@@ -133532,8 +133532,8 @@
     "fabric": "3047",
     "marca": "GVS",
     "nome": "PISCA POP 110I DD/TE AMBAR GVS S/LAMPADA",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "4",
+    "preco": "28,11"
   },
   {
     "codigo": "38359",
@@ -133548,8 +133548,8 @@
     "fabric": "3049",
     "marca": "GVS",
     "nome": "PISCA POP 110I DD/TE CRISTAL GVS S/LAMPADA",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "4",
+    "preco": "28,11"
   },
   {
     "codigo": "38357",
@@ -133564,8 +133564,8 @@
     "fabric": "3048",
     "marca": "GVS",
     "nome": "PISCA POP 110I DE/TD AMBAR GVS S/LAMPADA",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "4",
+    "preco": "28,11"
   },
   {
     "codigo": "38360",
@@ -133588,7 +133588,7 @@
     "fabric": "7652/2652",
     "marca": "GVS",
     "nome": "PISCA TITAN 150 13/14/TITAN 125 DD/TE CRISTAL GVS S/LAMPADA",
-    "estoque": "0",
+    "estoque": "10",
     "preco": "23,1"
   },
   {
@@ -133596,23 +133596,23 @@
     "fabric": "3033",
     "marca": "GVS",
     "nome": "PISCA TITAN 150 13/14/TITAN 125 DD/TE CRISTAL GVS S/LAMPADA C/SOQUETE",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "100",
+    "preco": "20,99"
   },
   {
     "codigo": "53661",
     "fabric": "7650/2650",
     "marca": "GVS",
     "nome": "PISCA TITAN 150 13/14/TITAN 125 DD/TE LARANJA GVS S/LAMPADA S/METALIZAR",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "10",
+    "preco": "23,1"
   },
   {
     "codigo": "53664",
     "fabric": "2653",
     "marca": "GVS",
     "nome": "PISCA TITAN 150 13/14/TITAN 125 DE/TD CRISTAL GVS S/LAMPADA",
-    "estoque": "0",
+    "estoque": "30",
     "preco": "23,1"
   },
   {
@@ -133620,7 +133620,7 @@
     "fabric": "3034",
     "marca": "GVS",
     "nome": "PISCA TITAN 150 13/14/TITAN 125 DE/TD CRISTAL GVS S/LAMPADA C/SOQUETE",
-    "estoque": "0",
+    "estoque": "100",
     "preco": "20,99"
   },
   {
@@ -133844,7 +133844,7 @@
     "fabric": "1657",
     "marca": "GVS",
     "nome": "PISCA TITAN 2000/XRE 300/CB 300R D/D T/E COMPLETO C/ COXIM LARANJA GVS S/LAMPADA COMBATE",
-    "estoque": "0",
+    "estoque": "1999",
     "preco": "13,13"
   },
   {
@@ -133852,8 +133852,8 @@
     "fabric": "3361",
     "marca": "GVS",
     "nome": "PISCA TITAN 2000/XRE 300/CB 300R DD/TE COMPLETO C/ COXIM LARANJA GVS",
-    "estoque": "0",
-    "preco": "22,04"
+    "estoque": "5",
+    "preco": "24,68"
   },
   {
     "codigo": "28062",
@@ -133868,8 +133868,8 @@
     "fabric": "1658",
     "marca": "GVS",
     "nome": "PISCA TITAN 2000/XRE 300/CB 300R DE/TD COMPLETO C/ COXIM LARANJA GVS S/LAMPADA COMBATE",
-    "estoque": "0",
-    "preco": "13,13"
+    "estoque": "1998",
+    "preco": "12,59"
   },
   {
     "codigo": "24649",
@@ -134076,7 +134076,7 @@
     "fabric": "6843/1843",
     "marca": "GVS",
     "nome": "PISCA XRE 300 10/18 DD/TE GVS FUME CRISTAL PLUS",
-    "estoque": "1",
+    "estoque": "11",
     "preco": "25,42"
   },
   {
@@ -134084,7 +134084,7 @@
     "fabric": "6757/1757",
     "marca": "GVS",
     "nome": "PISCA XRE 300 10/18 DD/TE GVS FUME CRISTAL S/METALIZAR",
-    "estoque": "0",
+    "estoque": "20",
     "preco": "15,23"
   },
   {
@@ -134092,7 +134092,7 @@
     "fabric": "6758/1758",
     "marca": "GVS",
     "nome": "PISCA XRE 300 10/18 DE/TD GVS FUME CRISTAL S/METALIZAR",
-    "estoque": "0",
+    "estoque": "10",
     "preco": "14,18"
   },
   {
@@ -134116,8 +134116,8 @@
     "fabric": "310055",
     "marca": "GVS",
     "nome": "PISCA XRE 300 19 ED/ADV 150 LED GVS CRISTAL SEQUENCIAL",
-    "estoque": "5",
-    "preco": "36,75"
+    "estoque": "15",
+    "preco": "38,85"
   },
   {
     "codigo": "38882",
@@ -134156,7 +134156,7 @@
     "fabric": "1352",
     "marca": "GVS",
     "nome": "PISCA XT 660R DD/TE GVS CRISTAL",
-    "estoque": "4",
+    "estoque": "14",
     "preco": "30,45"
   },
   {
@@ -134164,7 +134164,7 @@
     "fabric": "1351",
     "marca": "GVS",
     "nome": "PISCA XT 660R DE/TD GVS CRISTAL",
-    "estoque": "5",
+    "estoque": "15",
     "preco": "30,45"
   },
   {
@@ -134244,7 +134244,7 @@
     "fabric": "1555",
     "marca": "GVS",
     "nome": "PISCA YBR 04/08/XTZ 125 DD/DE AMBAR S/LAMPADA GVS",
-    "estoque": "18",
+    "estoque": "28",
     "preco": "14,18"
   },
   {
@@ -134268,8 +134268,8 @@
     "fabric": "6550/1550",
     "marca": "GVS",
     "nome": "PISCA YBR FACTOR/FAZER 250/XTZ 250 D/E T/D CRISTAL S/LAMPADA GVS",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "10",
+    "preco": "18,38"
   },
   {
     "codigo": "6428",
@@ -134292,7 +134292,7 @@
     "fabric": "1552",
     "marca": "GVS",
     "nome": "PISCA YBR/FACTOR/FAZER 250/XTZ 250 D/E T/D FUME GVS",
-    "estoque": "0",
+    "estoque": "10",
     "preco": "17,33"
   },
   {
@@ -134300,7 +134300,7 @@
     "fabric": "6547/1547",
     "marca": "GVS",
     "nome": "PISCA YBR/FACTOR/FAZER 250/XTZ 250 D/E T/D LARANJA GVS PLUS",
-    "estoque": "0",
+    "estoque": "50",
     "preco": "17,33"
   },
   {
@@ -134308,7 +134308,7 @@
     "fabric": "6548/1548",
     "marca": "GVS",
     "nome": "PISCA YBR/FACTOR/FAZER 250/XTZ 250 D/E T/D LARANJA GVS PLUS",
-    "estoque": "0",
+    "estoque": "30",
     "preco": "17,33"
   },
   {
@@ -134324,7 +134324,7 @@
     "fabric": "6558/1558",
     "marca": "GVS",
     "nome": "PISCA YBR/XTZ 04/08/XTZ 125 D/D D/E GVS",
-    "estoque": "13",
+    "estoque": "63",
     "preco": "13,64"
   },
   {
@@ -134348,7 +134348,7 @@
     "fabric": "1511",
     "marca": "GVS",
     "nome": "PISCA YES 125  LARANJA GVS PLUS",
-    "estoque": "1",
+    "estoque": "51",
     "preco": "23,1"
   },
   {
@@ -134356,7 +134356,7 @@
     "fabric": "6512/1512",
     "marca": "GVS",
     "nome": "PISCA YES 125 CRISTAL GVS PLUS",
-    "estoque": "0",
+    "estoque": "30",
     "preco": "25,73"
   },
   {
@@ -136860,7 +136860,7 @@
     "fabric": "C107-4",
     "marca": "CORAMI",
     "nome": "PISTAO TITAN 150/BROS 150 1,00 CORAMI",
-    "estoque": "13",
+    "estoque": "12",
     "preco": "54,12"
   },
   {
@@ -139260,7 +139260,7 @@
     "fabric": "554101",
     "marca": "LEVORIN",
     "nome": "PNEU DIANT 110/70-17 LEVORIN MATRIX II 59S CB 300 TL",
-    "estoque": "10",
+    "estoque": "9",
     "preco": "356,99"
   },
   {
@@ -139596,7 +139596,7 @@
     "fabric": "18822",
     "marca": "LEVORIN",
     "nome": "PNEU DIANT 80/100-18 LEVORIN MATRIX TT 47P",
-    "estoque": "1333",
+    "estoque": "1332",
     "preco": "220,4"
   },
   {
@@ -140276,7 +140276,7 @@
     "fabric": "",
     "marca": "LEVORIN",
     "nome": "PNEU TRAS 140/70-17 LEVORIN MATRIX SPORT II CB 300",
-    "estoque": "25",
+    "estoque": "24",
     "preco": "509,24"
   },
   {
@@ -140508,7 +140508,7 @@
     "fabric": "",
     "marca": "LEVORIN",
     "nome": "PNEU TRAS 80/100-14 LEVORIN DAKAR II BIZ",
-    "estoque": "69",
+    "estoque": "68",
     "preco": "236,25"
   },
   {
@@ -145364,7 +145364,7 @@
     "fabric": "TM0153",
     "marca": "TMAC",
     "nome": "PUNHO LUZ XRE 300 16/18 TMAC",
-    "estoque": "6",
+    "estoque": "5",
     "preco": "54,56"
   },
   {
@@ -146828,7 +146828,7 @@
     "fabric": "332708",
     "marca": "MELC",
     "nome": "RABETA TITAN 150 06/08 VERMELHO MELC (332708)",
-    "estoque": "8",
+    "estoque": "7",
     "preco": "68,25"
   },
   {
@@ -147020,7 +147020,7 @@
     "fabric": "334700",
     "marca": "MELC",
     "nome": "RABETA TITAN 150 14 ESD/EX E 15 ESD PRETO MELC (334700)",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "78,75"
   },
   {
@@ -148396,7 +148396,7 @@
     "fabric": "TC910",
     "marca": "TMAC",
     "nome": "REFIL BOMBA COMBUSTIVEL TITAN 150 14/15/TITAN 160/FAN 160 16/ED/BROS 160 ESD15/17/TWISTER16/22/XRE 190 16/ED TMAC C/FILTRO",
-    "estoque": "43",
+    "estoque": "42",
     "preco": "103,95"
   },
   {
@@ -149612,7 +149612,7 @@
     "fabric": "90280051",
     "marca": "MAGNETRON",
     "nome": "RELE PARTIDA TITAN ES/CG 150 04-08/XLR 125/BROS 125 ES 03-04/BROS 150 08 MAGNETRON",
-    "estoque": "83",
+    "estoque": "82",
     "preco": "41,99"
   },
   {
@@ -151852,7 +151852,7 @@
     "fabric": "1101743",
     "marca": "MOTOPORT",
     "nome": "RETENTOR BENGALA TITAN 150/CBX 150/BROS MOTOPORT (+GUARDA PO)",
-    "estoque": "1640",
+    "estoque": "1639",
     "preco": "6,83"
   },
   {
@@ -153836,7 +153836,7 @@
     "fabric": "110497",
     "marca": "GVS",
     "nome": "RETROVISOR ADV 150 21/24 PAR (HONDA) GVS",
-    "estoque": "0",
+    "estoque": "2",
     "preco": "89,25"
   },
   {
@@ -153892,15 +153892,15 @@
     "fabric": "0063",
     "marca": "GVS",
     "nome": "RETROVISOR BIZ 100 98/05 GVS L/UNIVERSAL (COMBATE)",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "20",
+    "preco": "17,33"
   },
   {
     "codigo": "35825",
     "fabric": "4823/1122",
     "marca": "GVS",
     "nome": "RETROVISOR BIZ 100 98/05 GVS PAR (COMBATE)",
-    "estoque": "1",
+    "estoque": "51",
     "preco": "31,21"
   },
   {
@@ -153924,7 +153924,7 @@
     "fabric": "4145",
     "marca": "GVS",
     "nome": "RETROVISOR BIZ 125 06/17/POP 100/BROS 09/07 PAR GVS COMBATE",
-    "estoque": "9",
+    "estoque": "109",
     "preco": "23,63"
   },
   {
@@ -153932,7 +153932,7 @@
     "fabric": "5328/4144",
     "marca": "GVS",
     "nome": "RETROVISOR BIZ 125 06/17/POP 100/BROS 09/17 DIR GVS (COMBATE)",
-    "estoque": "22",
+    "estoque": "42",
     "preco": "15,74"
   },
   {
@@ -153940,7 +153940,7 @@
     "fabric": "4338",
     "marca": "GVS",
     "nome": "RETROVISOR BIZ 125 18/21 GVS (PAR) ROSCA INVERSA 9MM",
-    "estoque": "0",
+    "estoque": "50",
     "preco": "38,84"
   },
   {
@@ -153948,7 +153948,7 @@
     "fabric": "4337",
     "marca": "GVS",
     "nome": "RETROVISOR BIZ 125 18/21 GVS L/D ROSCA INVERSA 9MM",
-    "estoque": "0",
+    "estoque": "50",
     "preco": "23,1"
   },
   {
@@ -153956,8 +153956,8 @@
     "fabric": "4336",
     "marca": "GVS",
     "nome": "RETROVISOR BIZ 125 18/21 GVS L/E ROSCA INVERSA 9MM",
-    "estoque": "5",
-    "preco": "21,84"
+    "estoque": "55",
+    "preco": "23,63"
   },
   {
     "codigo": "53898",
@@ -154068,7 +154068,7 @@
     "fabric": "4069",
     "marca": "GVS",
     "nome": "RETROVISOR BMW GS GVS (PAR HONDA) CONVEXO",
-    "estoque": "1",
+    "estoque": "6",
     "preco": "115,49"
   },
   {
@@ -154076,7 +154076,7 @@
     "fabric": "4202",
     "marca": "GVS",
     "nome": "RETROVISOR BMW GS GVS (PAR HONDA) CONVEXO GIRO 360 FUME",
-    "estoque": "3",
+    "estoque": "8",
     "preco": "135,19"
   },
   {
@@ -154092,7 +154092,7 @@
     "fabric": "8222/3222",
     "marca": "GVS",
     "nome": "RETROVISOR BMW GS GVS (PAR HONDA) HASTE FIXA MINI",
-    "estoque": "6",
+    "estoque": "56",
     "preco": "33,6"
   },
   {
@@ -154116,7 +154116,7 @@
     "fabric": "8223/3223",
     "marca": "GVS",
     "nome": "RETROVISOR BMW GS GVS (PAR YAMAHA) HASTE FIXA MINI",
-    "estoque": "8",
+    "estoque": "12",
     "preco": "33,6"
   },
   {
@@ -154268,7 +154268,7 @@
     "fabric": "4842/2704",
     "marca": "GVS",
     "nome": "RETROVISOR BURGMAN 125 06/10 PAR GVS",
-    "estoque": "3",
+    "estoque": "8",
     "preco": "57,75"
   },
   {
@@ -154308,15 +154308,15 @@
     "fabric": "5759/2973",
     "marca": "GVS",
     "nome": "RETROVISOR CB 300 11/15 PRETO DIR GVS",
-    "estoque": "5",
-    "preco": "46,2"
+    "estoque": "15",
+    "preco": "50,4"
   },
   {
     "codigo": "9828",
     "fabric": "5758/2972",
     "marca": "GVS",
     "nome": "RETROVISOR CB 300 11/15 PRETO ESQ GVS",
-    "estoque": "0",
+    "estoque": "20",
     "preco": "50,4"
   },
   {
@@ -154324,7 +154324,7 @@
     "fabric": "110365/610365",
     "marca": "GVS",
     "nome": "RETROVISOR CB 300 F 23/BROS 160 25 PAR YAMAHA GVS",
-    "estoque": "2",
+    "estoque": "12",
     "preco": "78,75"
   },
   {
@@ -154372,8 +154372,8 @@
     "fabric": "4836/2998",
     "marca": "GVS",
     "nome": "RETROVISOR CG/ML 83/85 (PAR) GVS",
-    "estoque": "14",
-    "preco": "34,65"
+    "estoque": "24",
+    "preco": "37,8"
   },
   {
     "codigo": "5671",
@@ -154404,7 +154404,7 @@
     "fabric": "110491",
     "marca": "GVS",
     "nome": "RETROVISOR ELITE 125 09/23 PRATA ROSCA M10 (PAR HONDA) GVS",
-    "estoque": "0",
+    "estoque": "2",
     "preco": "89,25"
   },
   {
@@ -154628,7 +154628,7 @@
     "fabric": "4155",
     "marca": "GVS",
     "nome": "RETROVISOR FAZER 150 16/19 L/D GVS ROSCA INVERTIDA",
-    "estoque": "0",
+    "estoque": "5",
     "preco": "25,73"
   },
   {
@@ -154644,7 +154644,7 @@
     "fabric": "5357/4154",
     "marca": "GVS",
     "nome": "RETROVISOR FAZER 150 16/19 L/E GVS",
-    "estoque": "0",
+    "estoque": "10",
     "preco": "25,73"
   },
   {
@@ -154652,8 +154652,8 @@
     "fabric": "4156",
     "marca": "GVS",
     "nome": "RETROVISOR FAZER 150 16/19 PAR GVS",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "5",
+    "preco": "47,25"
   },
   {
     "codigo": "24759",
@@ -154708,7 +154708,7 @@
     "fabric": "4839/2399",
     "marca": "GVS",
     "nome": "RETROVISOR FAZER/LANDER 250 06/17 (PAR) GVS",
-    "estoque": "1",
+    "estoque": "11",
     "preco": "60,9"
   },
   {
@@ -154732,7 +154732,7 @@
     "fabric": "8296/3296",
     "marca": "GVS",
     "nome": "RETROVISOR HORNET 08/14 PRETO PAR GVS",
-    "estoque": "1",
+    "estoque": "3",
     "preco": "92,85"
   },
   {
@@ -154748,7 +154748,7 @@
     "fabric": "2363",
     "marca": "GVS",
     "nome": "RETROVISOR INTRUDER 125 CROMADO L/D GVS",
-    "estoque": "1",
+    "estoque": "3",
     "preco": "61,95"
   },
   {
@@ -154772,15 +154772,15 @@
     "fabric": "8274/3274",
     "marca": "GVS",
     "nome": "RETROVISOR KAWASAKI Z400 GVS (PAR HONDA)",
-    "estoque": "0",
-    "preco": "103,94"
+    "estoque": "6",
+    "preco": "104,98"
   },
   {
     "codigo": "43334",
     "fabric": "8275/3275",
     "marca": "GVS",
     "nome": "RETROVISOR KAWASAKI Z400 GVS (PAR YAMAHA)",
-    "estoque": "0",
+    "estoque": "2",
     "preco": "104,98"
   },
   {
@@ -154804,7 +154804,7 @@
     "fabric": "110425",
     "marca": "GVS",
     "nome": "RETROVISOR LEAD 110 PRATA PAR HONDA ROSCA M8 INVERSA GVS",
-    "estoque": "0",
+    "estoque": "2",
     "preco": "50,93"
   },
   {
@@ -154836,7 +154836,7 @@
     "fabric": "5974",
     "marca": "GVS",
     "nome": "RETROVISOR LEAD 110 PRETO PAR ROSCA M8 GVS LENTE CONVEXA",
-    "estoque": "12",
+    "estoque": "17",
     "preco": "89,25"
   },
   {
@@ -154844,7 +154844,7 @@
     "fabric": "2501",
     "marca": "GVS",
     "nome": "RETROVISOR MEDIO REDONDO ARTICULADO UNIVERSAL GVS",
-    "estoque": "2",
+    "estoque": "22",
     "preco": "18,89"
   },
   {
@@ -155076,8 +155076,8 @@
     "fabric": "4012",
     "marca": "GVS",
     "nome": "RETROVISOR MINI TITAN 150/TITAN 125/FAN 2014 PAR GVS",
-    "estoque": "1",
-    "preco": "23,1"
+    "estoque": "201",
+    "preco": "22,05"
   },
   {
     "codigo": "7470",
@@ -155108,7 +155108,7 @@
     "fabric": "1107",
     "marca": "GVS",
     "nome": "RETROVISOR MINI TITAN 2000 PAR GVS",
-    "estoque": "0",
+    "estoque": "200",
     "preco": "19,43"
   },
   {
@@ -155156,7 +155156,7 @@
     "fabric": "610340/110340",
     "marca": "GVS",
     "nome": "RETROVISOR MINI XRE 300 19/23 GVS (PAR HONDA) CONVEXO AZUL",
-    "estoque": "1",
+    "estoque": "5",
     "preco": "114,45"
   },
   {
@@ -155196,23 +155196,23 @@
     "fabric": "5497/0093",
     "marca": "GVS",
     "nome": "RETROVISOR MINI YBR P/HONDA HASTE PRETA L/D GVS",
-    "estoque": "5",
-    "preco": "14,18"
+    "estoque": "10",
+    "preco": "15,65"
   },
   {
     "codigo": "19006",
     "fabric": "5496/0092",
     "marca": "GVS",
     "nome": "RETROVISOR MINI YBR P/HONDA HASTE PRETA L/E GVS",
-    "estoque": "1",
-    "preco": "14,18"
+    "estoque": "6",
+    "preco": "15,65"
   },
   {
     "codigo": "46249",
     "fabric": "610112/110112",
     "marca": "GVS",
     "nome": "RETROVISOR MINI Z400 GVS (PAR)",
-    "estoque": "1",
+    "estoque": "11",
     "preco": "51,45"
   },
   {
@@ -155220,16 +155220,16 @@
     "fabric": "3019",
     "marca": "GVS",
     "nome": "RETROVISOR MT 03/07/09 GVS PAR HONDA CONVEXO RUBY",
-    "estoque": "1",
-    "preco": "173,25"
+    "estoque": "3",
+    "preco": "177,45"
   },
   {
     "codigo": "43767",
     "fabric": "3020",
     "marca": "GVS",
     "nome": "RETROVISOR MT 03/07/09 GVS PAR YAMAHA CONVEXO RUBY",
-    "estoque": "0",
-    "preco": "158,38"
+    "estoque": "2",
+    "preco": "183,75"
   },
   {
     "codigo": "51072",
@@ -155284,7 +155284,7 @@
     "fabric": "110375",
     "marca": "GVS",
     "nome": "RETROVISOR PCX 150 13/18/XRE 190 16/24 ROSCA M10 INVERSA GVS (PAR HONDA)",
-    "estoque": "0",
+    "estoque": "2",
     "preco": "78,75"
   },
   {
@@ -155292,7 +155292,7 @@
     "fabric": "3106",
     "marca": "GVS",
     "nome": "RETROVISOR PCX 150 13/18/XRE 190 16/24 ROSCA M10 INVERSA PRETO L/D GVS LENTE CONVEXA",
-    "estoque": "2",
+    "estoque": "4",
     "preco": "57,75"
   },
   {
@@ -155300,7 +155300,7 @@
     "fabric": "3105",
     "marca": "GVS",
     "nome": "RETROVISOR PCX 150 13/18/XRE 190 16/24 ROSCA M10 INVERSA PRETO L/E GVS LENTE CONVEXA",
-    "estoque": "4",
+    "estoque": "6",
     "preco": "57,75"
   },
   {
@@ -155308,7 +155308,7 @@
     "fabric": "5981",
     "marca": "GVS",
     "nome": "RETROVISOR PCX 150 13/18/XRE 190 16/24 ROSCA M10 INVERSA PRETO PAR GVS LENTE CONVEXA",
-    "estoque": "6",
+    "estoque": "8",
     "preco": "110,25"
   },
   {
@@ -155380,7 +155380,7 @@
     "fabric": "110378",
     "marca": "GVS",
     "nome": "RETROVISOR SH 150 INVERSA GVS (PAR HONDA)",
-    "estoque": "1",
+    "estoque": "3",
     "preco": "86,63"
   },
   {
@@ -155388,7 +155388,7 @@
     "fabric": "1130",
     "marca": "GVS",
     "nome": "RETROVISOR TITAN 150 05/08 PAR GVS",
-    "estoque": "3",
+    "estoque": "103",
     "preco": "23,09"
   },
   {
@@ -155396,7 +155396,7 @@
     "fabric": "1176",
     "marca": "GVS",
     "nome": "RETROVISOR TITAN 150 DIR 05/08 GVS",
-    "estoque": "2",
+    "estoque": "102",
     "preco": "14,18"
   },
   {
@@ -155420,7 +155420,7 @@
     "fabric": "1175",
     "marca": "GVS",
     "nome": "RETROVISOR TITAN 150 ESQ 05/08 GVS",
-    "estoque": "0",
+    "estoque": "100",
     "preco": "14,18"
   },
   {
@@ -155508,7 +155508,7 @@
     "fabric": "1458",
     "marca": "NEXTPART",
     "nome": "RETROVISOR TITAN 150 PAR NEXPART",
-    "estoque": "3620",
+    "estoque": "3618",
     "preco": "16,79"
   },
   {
@@ -155540,7 +155540,7 @@
     "fabric": "5326/4026",
     "marca": "GVS",
     "nome": "RETROVISOR TITAN 150/TITAN 125 NOVA L.D GVS COMBATE",
-    "estoque": "13",
+    "estoque": "43",
     "preco": "16,37"
   },
   {
@@ -155548,7 +155548,7 @@
     "fabric": "5325/4025",
     "marca": "GVS",
     "nome": "RETROVISOR TITAN 150/TITAN 125 NOVA L.E GVS COMBATE",
-    "estoque": "12",
+    "estoque": "42",
     "preco": "16,37"
   },
   {
@@ -155556,7 +155556,7 @@
     "fabric": "4027",
     "marca": "GVS",
     "nome": "RETROVISOR TITAN 150/TITAN 125 NOVA PAR GVS COMBATE",
-    "estoque": "0",
+    "estoque": "10",
     "preco": "25,73"
   },
   {
@@ -155604,7 +155604,7 @@
     "fabric": "4835/1192",
     "marca": "GVS",
     "nome": "RETROVISOR TORNADO M8 R. INVERSA 01/08 PAR GVS",
-    "estoque": "1",
+    "estoque": "3",
     "preco": "26,25"
   },
   {
@@ -155628,7 +155628,7 @@
     "fabric": "610175/110175",
     "marca": "RVG",
     "nome": "RETROVISOR TRIUMPH TIGER 1200 RVG (PAR HONDA) HASTE ORIGINAL LENTE CONVEXA",
-    "estoque": "0",
+    "estoque": "2",
     "preco": "103,95"
   },
   {
@@ -155684,7 +155684,7 @@
     "fabric": "5351/4147",
     "marca": "GVS",
     "nome": "RETROVISOR TWISTER 15/17 L/D GVS",
-    "estoque": "0",
+    "estoque": "10",
     "preco": "33,6"
   },
   {
@@ -155692,7 +155692,7 @@
     "fabric": "4146",
     "marca": "GVS",
     "nome": "RETROVISOR TWISTER 15/17 L/E GVS",
-    "estoque": "0",
+    "estoque": "11",
     "preco": "33,6"
   },
   {
@@ -155700,7 +155700,7 @@
     "fabric": "4406/5340",
     "marca": "GVS",
     "nome": "RETROVISOR TWISTER/STRADA/FALCON DIR GVS",
-    "estoque": "0",
+    "estoque": "10",
     "preco": "40,97"
   },
   {
@@ -155708,7 +155708,7 @@
     "fabric": "4405/5339",
     "marca": "GVS",
     "nome": "RETROVISOR TWISTER/STRADA/FALCON ESQ GVS",
-    "estoque": "0",
+    "estoque": "10",
     "preco": "40,97"
   },
   {
@@ -155724,7 +155724,7 @@
     "fabric": "4847/0187",
     "marca": "GVS",
     "nome": "RETROVISOR TWISTER/STRADA/FALCON PAR GVS",
-    "estoque": "1",
+    "estoque": "11",
     "preco": "103,95"
   },
   {
@@ -155860,7 +155860,7 @@
     "fabric": "110480",
     "marca": "GVS",
     "nome": "RETROVISOR XRE 300 24 PAR GVS PRATA PAR INVERSO",
-    "estoque": "1",
+    "estoque": "3",
     "preco": "62,99"
   },
   {
@@ -155868,8 +155868,8 @@
     "fabric": "4083",
     "marca": "GVS",
     "nome": "RETROVISOR XRE 300 M8 R. INVERSA 11/18 PAR GVS",
-    "estoque": "0",
-    "preco": "47,25"
+    "estoque": "2",
+    "preco": "55,13"
   },
   {
     "codigo": "23990",
@@ -155884,7 +155884,7 @@
     "fabric": "4180",
     "marca": "GVS",
     "nome": "RETROVISOR XT 660 DIR M10 GVS PAR HONDA",
-    "estoque": "3",
+    "estoque": "5",
     "preco": "131,25"
   },
   {
@@ -155892,39 +155892,39 @@
     "fabric": "4179",
     "marca": "GVS",
     "nome": "RETROVISOR XT 660 DIR M10 ROSCA INVERTIDA GVS 360",
-    "estoque": "4",
-    "preco": "72,45"
+    "estoque": "6",
+    "preco": "93,45"
   },
   {
     "codigo": "23881",
     "fabric": "4177",
     "marca": "GVS",
     "nome": "RETROVISOR XT 660 ESQ M10 GVS",
-    "estoque": "1",
-    "preco": "78,75"
+    "estoque": "3",
+    "preco": "93,45"
   },
   {
     "codigo": "51232",
     "fabric": "110372",
     "marca": "GVS",
     "nome": "RETROVISOR XT 660 GVS (PAR YAMAHA) GIRO 360",
-    "estoque": "0",
-    "preco": "99,75"
+    "estoque": "2",
+    "preco": "103,95"
   },
   {
     "codigo": "51230",
     "fabric": "110370",
     "marca": "GVS",
     "nome": "RETROVISOR XT 660 GVS M10 PAR YAMAHA",
-    "estoque": "0",
-    "preco": "78,75"
+    "estoque": "5",
+    "preco": "82,95"
   },
   {
     "codigo": "5455",
     "fabric": "1124",
     "marca": "GVS",
     "nome": "RETROVISOR YBR 125 00/08/YBR 125 FACTOR 09/16 PAR GVS",
-    "estoque": "4",
+    "estoque": "14",
     "preco": "30,44"
   },
   {
@@ -155940,7 +155940,7 @@
     "fabric": "1194",
     "marca": "GVS",
     "nome": "RETROVISOR YES 125 05/12 (PAR) GVS",
-    "estoque": "1",
+    "estoque": "6",
     "preco": "40,95"
   },
   {
@@ -155948,7 +155948,7 @@
     "fabric": "5378/3320",
     "marca": "GVS",
     "nome": "RETROVISOR YES 125 05/12 L/D GVS",
-    "estoque": "0",
+    "estoque": "10",
     "preco": "20,48"
   },
   {
@@ -156260,7 +156260,7 @@
     "fabric": "KOI0399",
     "marca": "MOTOKOI",
     "nome": "ROLAMENTO 6203 RODA TRAS NX/XR/ XLR/ DREAN S/BLIND MOTOKOI",
-    "estoque": "92",
+    "estoque": "91",
     "preco": "4,73"
   },
   {
@@ -157004,7 +157004,7 @@
     "fabric": "4483",
     "marca": "GVS",
     "nome": "ROLDANA ACELERADOR TITAN 150/TITAN 125 00/13 GVS",
-    "estoque": "0",
+    "estoque": "100",
     "preco": "5,24"
   },
   {
@@ -161068,7 +161068,7 @@
     "fabric": "2426",
     "marca": "GVS",
     "nome": "SUPORTE PLACA (PLASTICO) GRANDE NOVO 200MM X 170MM TITAN GVS",
-    "estoque": "1",
+    "estoque": "201",
     "preco": "13,13"
   },
   {
