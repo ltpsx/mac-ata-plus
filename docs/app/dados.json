@@ -1820,7 +1820,7 @@
     "fabric": "109590",
     "marca": "MOTUL",
     "nome": "ADITIVO P/ RADIADOR MOTUL MOTOCOOL EXPERT -37ºC",
-    "estoque": "108",
+    "estoque": "106",
     "preco": "41,99"
   },
   {
@@ -2756,7 +2756,7 @@
     "fabric": "100302002",
     "marca": "POLIMET",
     "nome": "ALCA MODELO ORIGINAL TITAN 160/START 160 PRETO POLIMET (MODELO 150)",
-    "estoque": "9",
+    "estoque": "8",
     "preco": "51,45"
   },
   {
@@ -2876,7 +2876,7 @@
     "fabric": "3103",
     "marca": "PROJETIL",
     "nome": "ALCA MODELO ORIGINAL YBR 125 2009 FACTOR PRETO PROJETIL",
-    "estoque": "1",
+    "estoque": "3",
     "preco": "68,25"
   },
   {
@@ -4804,7 +4804,7 @@
     "fabric": "3068",
     "marca": "PROJETIL",
     "nome": "ARO FAROL TITAN 2000/150 PRETO PROJETIL",
-    "estoque": "20",
+    "estoque": "50",
     "preco": "22,58"
   },
   {
@@ -4908,7 +4908,7 @@
     "fabric": "3449",
     "marca": "PROJETIL",
     "nome": "ARO FAROL YBR FACTOR/FAZER 09/10 PRETO PROJETIL",
-    "estoque": "1",
+    "estoque": "3",
     "preco": "31,49"
   },
   {
@@ -7772,7 +7772,7 @@
     "fabric": "1104399",
     "marca": "WW3",
     "nome": "BALANCIN ADM/ESC ML/XLS/CBX/XR WW3 PAR (C/ROLAMENTO)",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "92,86"
   },
   {
@@ -8268,7 +8268,7 @@
     "fabric": "MTX6L-BS",
     "marca": "MOTOKOI BR",
     "nome": "BATERIA BIZ / FAN 125 ES 09/TITAN150 MIX 09 ED MTX6L-BS MOTOKOI",
-    "estoque": "768",
+    "estoque": "766",
     "preco": "124,07"
   },
   {
@@ -10733,7 +10733,7 @@
     "marca": "PLASMOTO",
     "nome": "BLOCO OPTICO CRYPTON PLASMOTO",
     "estoque": "0",
-    "preco": "36,49"
+    "preco": "39,89"
   },
   {
     "codigo": "13030",
@@ -10965,7 +10965,7 @@
     "marca": "PLASMOTO",
     "nome": "BLOCO OPTICO STRADA PLASMOTO",
     "estoque": "3",
-    "preco": "31,49"
+    "preco": "34,65"
   },
   {
     "codigo": "16303",
@@ -11052,8 +11052,8 @@
     "fabric": "04005",
     "marca": "PLASMOTO",
     "nome": "BLOCO OPTICO TITAN 150 05-08/FAN 150 09-13 PLASMOTO",
-    "estoque": "36",
-    "preco": "22,04"
+    "estoque": "37",
+    "preco": "23,1"
   },
   {
     "codigo": "13037",
@@ -11100,7 +11100,7 @@
     "fabric": "803700",
     "marca": "MELC",
     "nome": "BLOCO OPTICO TITAN 150 MIX 2009-10 MELC (803700)",
-    "estoque": "28",
+    "estoque": "27",
     "preco": "44,63"
   },
   {
@@ -11141,7 +11141,7 @@
     "marca": "PLASMOTO",
     "nome": "BLOCO OPTICO TITAN 150 MIX 2011-13 PLASMOTO",
     "estoque": "6",
-    "preco": "68,25"
+    "preco": "72,45"
   },
   {
     "codigo": "20062",
@@ -11429,7 +11429,7 @@
     "marca": "PLASMOTO",
     "nome": "BLOCO OPTICO YES PLASMOTO",
     "estoque": "28",
-    "preco": "33,6"
+    "preco": "38,85"
   },
   {
     "codigo": "27110",
@@ -15268,7 +15268,7 @@
     "fabric": "44084K",
     "marca": "MOTOKOI BR",
     "nome": "BORRACHA PEDALEIRA TITAN 160 DIANT MOTOKOI (PAR)",
-    "estoque": "753",
+    "estoque": "749",
     "preco": "9,44"
   },
   {
@@ -21708,7 +21708,7 @@
     "fabric": "KOI0004",
     "marca": "MOTOKOI",
     "nome": "CABO ACELERADOR TITAN 150 04/08 MOTOKOI",
-    "estoque": "114",
+    "estoque": "113",
     "preco": "7,34"
   },
   {
@@ -25892,7 +25892,7 @@
     "fabric": "TM4005",
     "marca": "TMAC",
     "nome": "CABO EMBREAGEM TITAN 150 04/08 TMAC",
-    "estoque": "159",
+    "estoque": "157",
     "preco": "9,44"
   },
   {
@@ -26084,7 +26084,7 @@
     "fabric": "KOI0092",
     "marca": "MOTOKOI",
     "nome": "CABO EMBREAGEM TITAN 160/FAN 160 MOTOKOI",
-    "estoque": "40",
+    "estoque": "38",
     "preco": "9,92"
   },
   {
@@ -26732,7 +26732,7 @@
     "fabric": "TM4001",
     "marca": "TMAC",
     "nome": "CABO EMBREAGEM YBR 125 02/08 TMAC",
-    "estoque": "12",
+    "estoque": "10",
     "preco": "13,13"
   },
   {
@@ -32132,7 +32132,7 @@
     "fabric": "KOI0168",
     "marca": "MOTOKOI",
     "nome": "CAMARA DE AR DIANT/TRAS CG MOTOKOI 18",
-    "estoque": "1378",
+    "estoque": "1373",
     "preco": "17,33"
   },
   {
@@ -32924,7 +32924,7 @@
     "fabric": "100102",
     "marca": "ORIGINAL CAPAS",
     "nome": "CAPA BANCO BIZ 125 05/08 ORIGINAL CAPAS",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "26,76"
   },
   {
@@ -36461,7 +36461,7 @@
     "marca": "PLASMOTO",
     "nome": "CAPA PISCA BIZ 125 11/17/BIZ 100 13/17 TRAS/DIR PLASMOTO",
     "estoque": "1",
-    "preco": "5,45"
+    "preco": "6,08"
   },
   {
     "codigo": "39161",
@@ -38228,7 +38228,7 @@
     "fabric": "1258056P05",
     "marca": "EBF",
     "nome": "CAPACETE EBF AUTOMATICO BOLT PRETO/VERMELHO 56",
-    "estoque": "3",
+    "estoque": "2",
     "preco": "141,74"
   },
   {
@@ -40772,7 +40772,7 @@
     "fabric": "1274061PTO",
     "marca": "EBF",
     "nome": "CAPACETE EBF NEW SPARK SOLID PRETO 61/62",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "241,4"
   },
   {
@@ -47132,7 +47132,7 @@
     "fabric": "10013433",
     "marca": "TAURUS",
     "nome": "CAPACETE TAURUS SAN MARINO PRETO 58",
-    "estoque": "109",
+    "estoque": "108",
     "preco": "178,49"
   },
   {
@@ -47500,7 +47500,7 @@
     "fabric": "CAP-36PT",
     "marca": "TORK",
     "nome": "CAPACETE TORK LIBERTY FOUR PRETO 60",
-    "estoque": "372",
+    "estoque": "371",
     "preco": "94,49"
   },
   {
@@ -49364,7 +49364,7 @@
     "fabric": "09005",
     "marca": "PLASMOTO",
     "nome": "CARCACA FAROL TITAN150/FAN150 ATE 2013 PLASMOTO 9005",
-    "estoque": "39",
+    "estoque": "40",
     "preco": "10,49"
   },
   {
@@ -50085,7 +50085,7 @@
     "marca": "PLASMOTO",
     "nome": "CARCACA PAINEL INTERNA BRANCA FAZER 250 05/10 PLASMOTO",
     "estoque": "0",
-    "preco": "38,37"
+    "preco": "40,95"
   },
   {
     "codigo": "14732",
@@ -50277,7 +50277,7 @@
     "marca": "PLASMOTO",
     "nome": "CARCACA PAINEL INTERNA BRANCA YBR 00/05 PLASMOTO",
     "estoque": "2",
-    "preco": "18,99"
+    "preco": "24,14"
   },
   {
     "codigo": "16167",
@@ -50301,7 +50301,7 @@
     "marca": "PLASMOTO",
     "nome": "CARCACA PAINEL INTERNA BRANCA YBR 06/08 PLASMOTO",
     "estoque": "2",
-    "preco": "17,21"
+    "preco": "20,99"
   },
   {
     "codigo": "16170",
@@ -50813,7 +50813,7 @@
     "marca": "PLASMOTO",
     "nome": "CARCACA PAINEL SUPERIOR TITAN 150 PRATA PLASMOTO",
     "estoque": "1",
-    "preco": "22,05"
+    "preco": "24,68"
   },
   {
     "codigo": "16174",
@@ -50909,7 +50909,7 @@
     "marca": "PLASMOTO",
     "nome": "CARCACA PAINEL SUPERIOR TODAY/TITAN 99 PLASMOTO",
     "estoque": "6",
-    "preco": "16,79"
+    "preco": "18,89"
   },
   {
     "codigo": "16021",
@@ -52773,7 +52773,7 @@
     "marca": "PLASMOTO",
     "nome": "CARENAGEM FAROL CENTRAL TITAN 150 14-15/FAN 150 14-15/FAN 125 14-17/FAN 160 16-21/START 150/160 14-24 INJETADA PLASMOTO",
     "estoque": "0",
-    "preco": "57,75"
+    "preco": "61,95"
   },
   {
     "codigo": "37190",
@@ -52781,7 +52781,7 @@
     "marca": "PLASMOTO",
     "nome": "CARENAGEM FAROL CENTRAL TITAN 150/MIX 11 ED INJETADA PRETA PLASMOTO",
     "estoque": "0",
-    "preco": "61,95"
+    "preco": "68,25"
   },
   {
     "codigo": "22279",
@@ -54637,7 +54637,7 @@
     "marca": "PLASMOTO",
     "nome": "CARENAGEM FAROL LATERAL TITAN 160 EX 20 AZUL PLASMOTO",
     "estoque": "2",
-    "preco": "62,66"
+    "preco": "78,75"
   },
   {
     "codigo": "35800",
@@ -54844,7 +54844,7 @@
     "fabric": "373702",
     "marca": "MELC",
     "nome": "CARENAGEM FAROL TITAN 150/MIX 09 AZUL MELC (373702)",
-    "estoque": "2",
+    "estoque": "1",
     "preco": "76,13"
   },
   {
@@ -57372,7 +57372,7 @@
     "fabric": "2856",
     "marca": "PROJETIL",
     "nome": "CAVALETE CENTRAL TITAN 00/08/FAN 125 PROJETIL COMPLETO",
-    "estoque": "0",
+    "estoque": "5",
     "preco": "120,75"
   },
   {
@@ -57412,7 +57412,7 @@
     "fabric": "3654",
     "marca": "PROJETIL",
     "nome": "CAVALETE CENTRAL TITAN 150 2014 PROJETIL",
-    "estoque": "0",
+    "estoque": "4",
     "preco": "73,49"
   },
   {
@@ -57420,7 +57420,7 @@
     "fabric": "3743",
     "marca": "PROJETIL",
     "nome": "CAVALETE CENTRAL TITAN 150 2014 PROJETIL COMPLETO",
-    "estoque": "2",
+    "estoque": "4",
     "preco": "124,95"
   },
   {
@@ -57460,7 +57460,7 @@
     "fabric": "2605",
     "marca": "PROJETIL",
     "nome": "CAVALETE CENTRAL TITAN 150/FAN 150 04/13 PROJETIL",
-    "estoque": "1",
+    "estoque": "31",
     "preco": "72,45"
   },
   {
@@ -57492,7 +57492,7 @@
     "fabric": "3947",
     "marca": "PROJETIL",
     "nome": "CAVALETE CENTRAL TITAN 160 PROJETIL COMPLETO",
-    "estoque": "0",
+    "estoque": "5",
     "preco": "120,75"
   },
   {
@@ -57532,7 +57532,7 @@
     "fabric": "2385",
     "marca": "PROJETIL",
     "nome": "CAVALETE CENTRAL TITAN 2000 PROJETIL",
-    "estoque": "0",
+    "estoque": "4",
     "preco": "73,26"
   },
   {
@@ -57564,7 +57564,7 @@
     "fabric": "93",
     "marca": "PROJETIL",
     "nome": "CAVALETE CENTRAL TODAY/TITAN PRETO PROJETIL",
-    "estoque": "0",
+    "estoque": "5",
     "preco": "73,49"
   },
   {
@@ -57572,7 +57572,7 @@
     "fabric": "94",
     "marca": "PROJETIL",
     "nome": "CAVALETE CENTRAL TODAY/TITAN PRETO PROJETIL COMPLETO",
-    "estoque": "1",
+    "estoque": "6",
     "preco": "120,75"
   },
   {
@@ -57676,7 +57676,7 @@
     "fabric": "3161",
     "marca": "PROJETIL",
     "nome": "CAVALETE LATERAL BIZ 125  PROJETIL",
-    "estoque": "4",
+    "estoque": "54",
     "preco": "25,19"
   },
   {
@@ -57764,7 +57764,7 @@
     "fabric": "4167",
     "marca": "PROJETIL",
     "nome": "CAVALETE LATERAL CB 300 PROJETIL",
-    "estoque": "0",
+    "estoque": "2",
     "preco": "38,84"
   },
   {
@@ -57852,7 +57852,7 @@
     "fabric": "00100",
     "marca": "PROJETIL",
     "nome": "CAVALETE LATERAL CG/TODAY/TITAN PROJETIL",
-    "estoque": "16",
+    "estoque": "26",
     "preco": "24,14"
   },
   {
@@ -58012,7 +58012,7 @@
     "fabric": "630",
     "marca": "PROJETIL",
     "nome": "CAVALETE LATERAL TITAN 00/08/FAN 125 C/ BORRACHA PROJETIL",
-    "estoque": "0",
+    "estoque": "100",
     "preco": "23,1"
   },
   {
@@ -58028,7 +58028,7 @@
     "fabric": "2606",
     "marca": "PROJETIL",
     "nome": "CAVALETE LATERAL TITAN 150 03/10 C/ BORRACHA PROJETIL",
-    "estoque": "88",
+    "estoque": "388",
     "preco": "20,99"
   },
   {
@@ -58052,7 +58052,7 @@
     "fabric": "3520",
     "marca": "PROJETIL",
     "nome": "CAVALETE LATERAL TITAN 150 11/12 C/ BORRACHA PROJETIL",
-    "estoque": "4",
+    "estoque": "24",
     "preco": "23,1"
   },
   {
@@ -58060,7 +58060,7 @@
     "fabric": "3655",
     "marca": "PROJETIL",
     "nome": "CAVALETE LATERAL TITAN 150 13/14 C/ BORRACHA PROJETIL",
-    "estoque": "13",
+    "estoque": "28",
     "preco": "23,1"
   },
   {
@@ -58092,7 +58092,7 @@
     "fabric": "3967",
     "marca": "PROJETIL",
     "nome": "CAVALETE LATERAL TITAN 160 C/ BORRACHA PROJETIL",
-    "estoque": "340",
+    "estoque": "339",
     "preco": "20,99"
   },
   {
@@ -58196,7 +58196,7 @@
     "fabric": "3952",
     "marca": "PROJETIL",
     "nome": "CAVALETE LATERAL XRE 300 PROJETIL",
-    "estoque": "0",
+    "estoque": "5",
     "preco": "66,29"
   },
   {
@@ -58212,7 +58212,7 @@
     "fabric": "2870",
     "marca": "PROJETIL",
     "nome": "CAVALETE LATERAL XT 225 PROJETIL",
-    "estoque": "0",
+    "estoque": "2",
     "preco": "69,3"
   },
   {
@@ -60660,7 +60660,7 @@
     "fabric": "",
     "marca": "TOTAL PRINT",
     "nome": "CHAVEIRO UNIVERSAL AVULSO",
-    "estoque": "874",
+    "estoque": "872",
     "preco": "4,19"
   },
   {
@@ -61684,7 +61684,7 @@
     "fabric": "90285670",
     "marca": "MAGNETRON",
     "nome": "CHICOTE PRINCIPAL TITAN 150 MIX ES 09/10/EX 10 MAGNETRON",
-    "estoque": "2",
+    "estoque": "1",
     "preco": "362,24"
   },
   {
@@ -61796,7 +61796,7 @@
     "fabric": "90285450",
     "marca": "MAGNETRON",
     "nome": "CHICOTE PRINCIPAL TITAN FAN 125 MAGNETRON",
-    "estoque": "4",
+    "estoque": "3",
     "preco": "164,39"
   },
   {
@@ -64948,7 +64948,7 @@
     "fabric": "172702",
     "marca": "MELC",
     "nome": "COMPLEMENTO TAMPA LATERAL TITAN 150 04/08 PRETO MELC (172702)",
-    "estoque": "26",
+    "estoque": "25",
     "preco": "47,09"
   },
   {
@@ -66948,7 +66948,7 @@
     "fabric": "1101011",
     "marca": "WW3",
     "nome": "CORRENTE COMANDO CBX200/NX200/XR200 102 L WW3",
-    "estoque": "18",
+    "estoque": "17",
     "preco": "29,99"
   },
   {
@@ -69516,7 +69516,7 @@
     "fabric": "KOI-00301",
     "marca": "MOTOKOI BR",
     "nome": "CUBO RODA FAN 125 09 TRASEIRA MOTOKOI BR",
-    "estoque": "82",
+    "estoque": "81",
     "preco": "148,97"
   },
   {
@@ -77741,7 +77741,7 @@
     "marca": "POLIMET",
     "nome": "ESCAPAMENTO TITAN 150 KS/ES CROMADO POLIMET ESTRALADO MOD LATINHA C/SUPORTE P/PROTETOR",
     "estoque": "1",
-    "preco": "224,86"
+    "preco": "236,25"
   },
   {
     "codigo": "28930",
@@ -79340,7 +79340,7 @@
     "fabric": "TM705",
     "marca": "TMAC",
     "nome": "ESTATOR TITAN 03/04/FAN 125 05/08 TMAC",
-    "estoque": "2",
+    "estoque": "1",
     "preco": "82,95"
   },
   {
@@ -80412,7 +80412,7 @@
     "fabric": "2726",
     "marca": "PROJETIL",
     "nome": "ESTRIBO PEDAL APOIO BIZ 100 ES PROJETIL",
-    "estoque": "6",
+    "estoque": "11",
     "preco": "65,63"
   },
   {
@@ -80436,7 +80436,7 @@
     "fabric": "3650",
     "marca": "PROJETIL",
     "nome": "ESTRIBO PEDAL APOIO BIZ 125 11 PROJETIL",
-    "estoque": "0",
+    "estoque": "3",
     "preco": "72,45"
   },
   {
@@ -80444,7 +80444,7 @@
     "fabric": "3955",
     "marca": "PROJETIL",
     "nome": "ESTRIBO PEDAL APOIO BIZ 125 13 PROJETIL",
-    "estoque": "0",
+    "estoque": "5",
     "preco": "76,41"
   },
   {
@@ -80524,7 +80524,7 @@
     "fabric": "368",
     "marca": "PROJETIL",
     "nome": "ESTRIBO PEDAL APOIO CG/ML/TUR 77-91 PRETO PROJETIL",
-    "estoque": "2",
+    "estoque": "4",
     "preco": "52,26"
   },
   {
@@ -80676,7 +80676,7 @@
     "fabric": "4174",
     "marca": "PROJETIL",
     "nome": "ESTRIBO PEDAL APOIO TITAN 150 03/10 PRETO PROJETIL",
-    "estoque": "68",
+    "estoque": "168",
     "preco": "36,74"
   },
   {
@@ -80844,7 +80844,7 @@
     "fabric": "04211",
     "marca": "PROJETIL",
     "nome": "ESTRIBO PEDAL APOIO TITAN 160/FAN 160 PRETO PROJETIL",
-    "estoque": "12",
+    "estoque": "59",
     "preco": "36,74"
   },
   {
@@ -80932,7 +80932,7 @@
     "fabric": "138",
     "marca": "PROJETIL",
     "nome": "ESTRIBO PEDAL APOIO TODAY/TITAN C. SUPORTE PRETO PROJETIL",
-    "estoque": "10",
+    "estoque": "20",
     "preco": "73,26"
   },
   {
@@ -81028,7 +81028,7 @@
     "fabric": "2681",
     "marca": "PROJETIL",
     "nome": "ESTRIBO PEDAL APOIO YBR 03/05 PRETO PROJETIL",
-    "estoque": "0",
+    "estoque": "10",
     "preco": "97,41"
   },
   {
@@ -81669,7 +81669,7 @@
     "marca": "PLASMOTO",
     "nome": "FAROL COMPLETO TITAN 150/FAN 150 ATE 13 PLASMOTO",
     "estoque": "0",
-    "preco": "48,2"
+    "preco": "51,45"
   },
   {
     "codigo": "51589",
@@ -81837,7 +81837,7 @@
     "marca": "PLASMOTO",
     "nome": "FAROL COMPLETO TWISTER  ATE 05 ARO PRETO PLASMOTO",
     "estoque": "0",
-    "preco": "76,64"
+    "preco": "80,85"
   },
   {
     "codigo": "10898",
@@ -82613,7 +82613,7 @@
     "marca": "PLASMOTO",
     "nome": "FILTRO AR ESPORTIVO TITAN 150 09 ED/BROS 150 09 ED AZUL PLASMOTO",
     "estoque": "2",
-    "preco": "49,15"
+    "preco": "57,75"
   },
   {
     "codigo": "42877",
@@ -83964,7 +83964,7 @@
     "fabric": "OC1019",
     "marca": "MAHLE",
     "nome": "FILTRO OLEO CB 500/HORNET/NINJA 300 MAHLE",
-    "estoque": "29",
+    "estoque": "28",
     "preco": "20,99"
   },
   {
@@ -86452,7 +86452,7 @@
     "fabric": "2006 GBP-80 VM",
     "marca": "JEROD",
     "nome": "GRAXA BRANCA P/ CORRENTE 80G",
-    "estoque": "4548",
+    "estoque": "4547",
     "preco": "2,77"
   },
   {
@@ -87860,7 +87860,7 @@
     "fabric": "TC4000",
     "marca": "TMAC",
     "nome": "GUIA DESLIZADOR CORRENTE TRANSMISSAO BIZ 100 TMAC",
-    "estoque": "2",
+    "estoque": "1",
     "preco": "9,82"
   },
   {
@@ -88965,7 +88965,7 @@
     "marca": "POLIMET",
     "nome": "GUIDAO BROS 160/XRE 190 GRAFITE POLIMET",
     "estoque": "12",
-    "preco": "36,75"
+    "preco": "41,99"
   },
   {
     "codigo": "36824",
@@ -95228,7 +95228,7 @@
     "fabric": "VS05700000170",
     "marca": "VEDAMOTORS",
     "nome": "JOGO JUNTAS CG/TODAY/TITAN 99 CDI VEDAMOTORS",
-    "estoque": "55",
+    "estoque": "54",
     "preco": "30,45"
   },
   {
@@ -96388,7 +96388,7 @@
     "fabric": "TM013",
     "marca": "TMAC",
     "nome": "JOGO RAIO DIANT/TRAS TITAN/FAN KS 2000/150 TMAC 4MM",
-    "estoque": "2494",
+    "estoque": "2493",
     "preco": "24,14"
   },
   {
@@ -97220,7 +97220,7 @@
     "fabric": "VE05001000261",
     "marca": "VEDAMOTORS",
     "nome": "JUNTA CABECOTE TITAN 160/BROS 160 VEDAMOTORS",
-    "estoque": "4",
+    "estoque": "0",
     "preco": "20,13"
   },
   {
@@ -98436,7 +98436,7 @@
     "fabric": "VS05610000325",
     "marca": "VEDAMOTORS",
     "nome": "KIT A CBX 200/NX 200/XR 200 VEDAMOTORS",
-    "estoque": "12",
+    "estoque": "11",
     "preco": "16,35"
   },
   {
@@ -102116,7 +102116,7 @@
     "fabric": "H03673XS",
     "marca": "VAZ",
     "nome": "KIT TRANSMISSAO TITAN 150 VAZ (43/16/428HX118L) H03673XS",
-    "estoque": "3676",
+    "estoque": "3674",
     "preco": "62,99"
   },
   {
@@ -102188,7 +102188,7 @@
     "fabric": "H04007XS",
     "marca": "VAZ",
     "nome": "KIT TRANSMISSAO TITAN 160 VAZ (44/15/428HX118L) H04007XS",
-    "estoque": "2366",
+    "estoque": "2364",
     "preco": "62,99"
   },
   {
@@ -102244,7 +102244,7 @@
     "fabric": "H01190XS",
     "marca": "VAZ",
     "nome": "KIT TRANSMISSAO TITAN 2000 VAZ (44/14/428HX116) H01190XS",
-    "estoque": "492",
+    "estoque": "491",
     "preco": "62,99"
   },
   {
@@ -102796,7 +102796,7 @@
     "fabric": "VE05084000001",
     "marca": "VEDAMOTORS",
     "nome": "KIT VEDACAO TAMPA VALVULA TITAN 150 VEDAMOTORS - GUARNICAO + 2 RETENTORES",
-    "estoque": "294",
+    "estoque": "289",
     "preco": "11,03"
   },
   {
@@ -102996,7 +102996,7 @@
     "fabric": "KOI0359",
     "marca": "MOTOKOI",
     "nome": "LAMPADA FAROL TITAN H4 12V 35X35 MOTOKOI",
-    "estoque": "83",
+    "estoque": "80",
     "preco": "4,73"
   },
   {
@@ -103060,7 +103060,7 @@
     "fabric": "12499",
     "marca": "PHILIPS",
     "nome": "LAMPADA LANTERNA TRAS. 2 POLOS CG 125 FREIO PHILLIPS",
-    "estoque": "302",
+    "estoque": "301",
     "preco": "4,73"
   },
   {
@@ -103068,7 +103068,7 @@
     "fabric": "TL004",
     "marca": "TMAC",
     "nome": "LAMPADA LANTERNA TRAS. 2 POLOS CG 125 FREIO TMAC",
-    "estoque": "7199",
+    "estoque": "7189",
     "preco": "1,4"
   },
   {
@@ -103188,7 +103188,7 @@
     "fabric": "LF-01 SB",
     "marca": "STALLION",
     "nome": "LAMPADA LED FAROL TITAN H4 LED STALLION",
-    "estoque": "1665",
+    "estoque": "1662",
     "preco": "18,38"
   },
   {
@@ -104756,7 +104756,7 @@
     "fabric": "362700",
     "marca": "GVS",
     "nome": "LENTE LANTERNA FAN 125 09/13/TITAN/JOB/SPORT 150 05/08 TRASEIRA VERMELHA GVS",
-    "estoque": "34",
+    "estoque": "33",
     "preco": "14,18"
   },
   {
@@ -104805,7 +104805,7 @@
     "marca": "PLASMOTO",
     "nome": "LENTE LANTERNA SHINERAY JET PLASMOTO",
     "estoque": "1",
-    "preco": "36,97"
+    "preco": "47,25"
   },
   {
     "codigo": "48815",
@@ -105628,7 +105628,7 @@
     "fabric": "1715",
     "marca": "GVS",
     "nome": "LENTE PISCA TITAN 125/TITAN 150/BROS 150 14 DD/TE CRISTAL GVS",
-    "estoque": "206",
+    "estoque": "205",
     "preco": "8,39"
   },
   {
@@ -106036,7 +106036,7 @@
     "fabric": "4455",
     "marca": "IPIRANGA",
     "nome": "LUBRIFICANTES MOTO 4T IPIRANGA 10W30 SL SEMI-SINTETICO",
-    "estoque": "74",
+    "estoque": "70",
     "preco": "34,64"
   },
   {
@@ -106076,7 +106076,7 @@
     "fabric": "123075",
     "marca": "MOBIL",
     "nome": "LUBRIFICANTES MOTO 4T MOBIL 10W30 SEMI-SINTETICO",
-    "estoque": "4345",
+    "estoque": "4327",
     "preco": "36,74"
   },
   {
@@ -106108,7 +106108,7 @@
     "fabric": "121708",
     "marca": "MOBIL",
     "nome": "LUBRIFICANTES MOTO 4T MOBIL 20W50",
-    "estoque": "11643",
+    "estoque": "11630",
     "preco": "31,49"
   },
   {
@@ -106212,7 +106212,7 @@
     "fabric": "",
     "marca": "OXFORD",
     "nome": "LUBRIFICANTES MOTO 4T OXFORD 10W30",
-    "estoque": "10666",
+    "estoque": "10665",
     "preco": "20,99"
   },
   {
@@ -106244,7 +106244,7 @@
     "fabric": "",
     "marca": "YAMAHA",
     "nome": "LUBRIFICANTES MOTO 4T YAMALUBE 10W40 SEMI SINTETICO",
-    "estoque": "359",
+    "estoque": "356",
     "preco": "49,88"
   },
   {
@@ -106500,7 +106500,7 @@
     "fabric": "1202",
     "marca": "IMPORTADA",
     "nome": "LUVA MOTOQUEIRO IMPORTADA TAMANHO UNICO",
-    "estoque": "490",
+    "estoque": "489",
     "preco": "37,11"
   },
   {
@@ -109116,7 +109116,7 @@
     "fabric": "P-1026",
     "marca": "PROTEC",
     "nome": "MANETE EMBREAGEM TITAN ES PROTEC",
-    "estoque": "50",
+    "estoque": "45",
     "preco": "6,83"
   },
   {
@@ -110892,7 +110892,7 @@
     "fabric": "292",
     "marca": "PROTEC",
     "nome": "MANICOTO TITAN ES / TITAN 150 ESQUERDO  PROTEC",
-    "estoque": "88",
+    "estoque": "83",
     "preco": "12,34"
   },
   {
@@ -111164,7 +111164,7 @@
     "fabric": "MA037-001",
     "marca": "CIRCUIT",
     "nome": "MANOPLA CIRCUIT INTERLAGOS PT PLUS",
-    "estoque": "677",
+    "estoque": "674",
     "preco": "23,09"
   },
   {
@@ -111996,7 +111996,7 @@
     "fabric": "44082K",
     "marca": "MOTOKOI BR",
     "nome": "MANOPLA TITAN 2000 MOTOKOI",
-    "estoque": "75",
+    "estoque": "74",
     "preco": "5,75"
   },
   {
@@ -112188,7 +112188,7 @@
     "fabric": "03508",
     "marca": "PROJETIL",
     "nome": "MATA CACHORRO BARRA DUPLA BROS 150 09/BROS 160/XRE 190 CROMADO PROJETIL",
-    "estoque": "0",
+    "estoque": "10",
     "preco": "62,76"
   },
   {
@@ -112300,7 +112300,7 @@
     "fabric": "04223",
     "marca": "PROJETIL",
     "nome": "MATA CACHORRO BARRA DUPLA FAN 160 PRETO PROJETIL",
-    "estoque": "0",
+    "estoque": "5",
     "preco": "62,76"
   },
   {
@@ -112332,7 +112332,7 @@
     "fabric": "03149",
     "marca": "PROJETIL",
     "nome": "MATA CACHORRO BARRA DUPLA TITAN 150 09/FAN 09 PRETO PROJETIL",
-    "estoque": "0",
+    "estoque": "5",
     "preco": "62,99"
   },
   {
@@ -112340,7 +112340,7 @@
     "fabric": "3779",
     "marca": "PROJETIL",
     "nome": "MATA CACHORRO BARRA DUPLA TITAN 150 CROMADO PROJETIL",
-    "estoque": "0",
+    "estoque": "5",
     "preco": "111,06"
   },
   {
@@ -113324,7 +113324,7 @@
     "fabric": "90205140",
     "marca": "MAGNETRON",
     "nome": "MESA PORTA ESCOVA BIZ 125/BIZ 125 INJECAO ELETRÔNICA MAGNETRON",
-    "estoque": "36",
+    "estoque": "35",
     "preco": "18,82"
   },
   {
@@ -119452,7 +119452,7 @@
     "fabric": "21540K",
     "marca": "MOTOKOI BR",
     "nome": "PARAFUSO ESTRIBO 8X20 MOTOKOI",
-    "estoque": "280",
+    "estoque": "278",
     "preco": "1,04"
   },
   {
@@ -129516,7 +129516,7 @@
     "fabric": "3892",
     "marca": "PROJETIL",
     "nome": "PEDAL FREIO BIZ 125 2011 PROJETIL",
-    "estoque": "0",
+    "estoque": "2",
     "preco": "68,25"
   },
   {
@@ -129844,7 +129844,7 @@
     "fabric": "3156",
     "marca": "PROJETIL",
     "nome": "PEDAL FREIO TITAN 150 2009/FAN 125 09/FAN 150 09 PROJETIL",
-    "estoque": "0",
+    "estoque": "2",
     "preco": "57,75"
   },
   {
@@ -129884,7 +129884,7 @@
     "fabric": "2400",
     "marca": "PROJETIL",
     "nome": "PEDAL FREIO TITAN 150 PROJETIL",
-    "estoque": "0",
+    "estoque": "5",
     "preco": "55,43"
   },
   {
@@ -130652,7 +130652,7 @@
     "fabric": "3139",
     "marca": "PROJETIL",
     "nome": "PEDALEIRA CG/TODAY/TITAN 99 TRAS PROJETIL",
-    "estoque": "84",
+    "estoque": "134",
     "preco": "12,36"
   },
   {
@@ -130972,7 +130972,7 @@
     "fabric": "220",
     "marca": "PROTEC",
     "nome": "PEDALEIRA TITAN TRASEIRO PROTEC",
-    "estoque": "101",
+    "estoque": "99",
     "preco": "10,49"
   },
   {
@@ -131156,7 +131156,7 @@
     "fabric": "3158",
     "marca": "PROJETIL",
     "nome": "PEDALEIRA YES TRASEIRA PROJETIL",
-    "estoque": "0",
+    "estoque": "10",
     "preco": "16,56"
   },
   {
@@ -132564,7 +132564,7 @@
     "fabric": "8001",
     "marca": "GVS",
     "nome": "PISCA BROS 13 DD/TE/BROS 160 LARANJA GVS C/SOQUETE",
-    "estoque": "7",
+    "estoque": "6",
     "preco": "21,84"
   },
   {
@@ -139812,7 +139812,7 @@
     "fabric": "6139",
     "marca": "TECHNIC",
     "nome": "PNEU DIANT 120/70-17 TECHNIC SPORT R TL 58V",
-    "estoque": "3",
+    "estoque": "5",
     "preco": "355,95"
   },
   {
@@ -139924,7 +139924,7 @@
     "fabric": "6103",
     "marca": "TECHNIC",
     "nome": "PNEU DIANT 2.75-18 TECHNIC SPORT R TT 42P",
-    "estoque": "838",
+    "estoque": "942",
     "preco": "115,49"
   },
   {
@@ -139932,7 +139932,7 @@
     "fabric": "6050",
     "marca": "TECHNIC",
     "nome": "PNEU DIANT 2.75-18 TECHNIC SPORT TL 42P",
-    "estoque": "38",
+    "estoque": "68",
     "preco": "139,65"
   },
   {
@@ -139988,7 +139988,7 @@
     "fabric": "",
     "marca": "MAGGION",
     "nome": "PNEU DIANT 60/100-17 MAGGION  BIZ 100 /DREAM STREETFIGHTER MF7 TT",
-    "estoque": "71",
+    "estoque": "70",
     "preco": "100,79"
   },
   {
@@ -140020,7 +140020,7 @@
     "fabric": "6153",
     "marca": "TECHNIC",
     "nome": "PNEU DIANT 60/100-17 TECHNIC SPORT R BIZ TT 33L",
-    "estoque": "14",
+    "estoque": "30",
     "preco": "99,23"
   },
   {
@@ -140028,7 +140028,7 @@
     "fabric": "3100",
     "marca": "TECHNIC",
     "nome": "PNEU DIANT 60/100-17 TECHNIC TIGER BIZ TT 33L",
-    "estoque": "271",
+    "estoque": "383",
     "preco": "97,13"
   },
   {
@@ -140108,7 +140108,7 @@
     "fabric": "3201",
     "marca": "TECHNIC",
     "nome": "PNEU DIANT 80/100-21 TECHNIC TXC TT 51R",
-    "estoque": "4",
+    "estoque": "6",
     "preco": "250,43"
   },
   {
@@ -140156,7 +140156,7 @@
     "fabric": "6084",
     "marca": "TECHNIC",
     "nome": "PNEU DIANT 90/90-14 TECHNIC SPORT R TL 46P",
-    "estoque": "7",
+    "estoque": "10",
     "preco": "160,65"
   },
   {
@@ -140196,7 +140196,7 @@
     "fabric": "3003",
     "marca": "TECHNIC",
     "nome": "PNEU DIANT 90/90-19 TECHNIC TEC BROS TT 52T",
-    "estoque": "67",
+    "estoque": "107",
     "preco": "162,75"
   },
   {
@@ -140252,7 +140252,7 @@
     "fabric": "3017",
     "marca": "TECHNIC",
     "nome": "PNEU DIANT 90/90-21 TECHNIC TEC TT 54S",
-    "estoque": "9",
+    "estoque": "23",
     "preco": "216,62"
   },
   {
@@ -140292,7 +140292,7 @@
     "fabric": "006120",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 100/80-18 TECHNIC SPORT R TL 53P",
-    "estoque": "3",
+    "estoque": "5",
     "preco": "194,25"
   },
   {
@@ -140420,7 +140420,7 @@
     "fabric": "6123",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 100/90-18 TECHNIC SPORT R TT 62P",
-    "estoque": "11",
+    "estoque": "13",
     "preco": "193,18"
   },
   {
@@ -140540,7 +140540,7 @@
     "fabric": "6191",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 120/70-14 TECHNIC SPORT R TL 69",
-    "estoque": "2",
+    "estoque": "5",
     "preco": "199,49"
   },
   {
@@ -140580,7 +140580,7 @@
     "fabric": "3019",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 120/80-18 TECHNIC TEC TORNADO/LANDER TT 62S",
-    "estoque": "7",
+    "estoque": "21",
     "preco": "241,52"
   },
   {
@@ -140604,7 +140604,7 @@
     "fabric": "3018",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 120/90-17 TECHNIC TEC FALCON/XT 600 TT 64S",
-    "estoque": "1",
+    "estoque": "5",
     "preco": "278,25"
   },
   {
@@ -140700,7 +140700,7 @@
     "fabric": "3068",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 130/80-17 TECHNIC TEC PLUS FALCON/XT 600 TT 65S",
-    "estoque": "1",
+    "estoque": "3",
     "preco": "414,76"
   },
   {
@@ -140756,7 +140756,7 @@
     "fabric": "6092",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 140/70-17 TECHNIC SPORT CB 300 TL 66S",
-    "estoque": "10",
+    "estoque": "20",
     "preco": "304,54"
   },
   {
@@ -140764,7 +140764,7 @@
     "fabric": "6199",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 140/70-17 TECHNIC SPORT R CB 300 TL 66S",
-    "estoque": "18",
+    "estoque": "29",
     "preco": "304,5"
   },
   {
@@ -140980,7 +140980,7 @@
     "fabric": "100266",
     "marca": "MAGGION",
     "nome": "PNEU TRAS 80/100-14 MAGGION STREET BIZ 100 TT",
-    "estoque": "299",
+    "estoque": "298",
     "preco": "117,59"
   },
   {
@@ -141004,7 +141004,7 @@
     "fabric": "6213",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 80/100-14 TECHNIC SPORT R BIZ TT 49L",
-    "estoque": "0",
+    "estoque": "16",
     "preco": "110,24"
   },
   {
@@ -141012,7 +141012,7 @@
     "fabric": "3101",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 80/100-14 TECHNIC TIGER BIZ TT 49L",
-    "estoque": "392",
+    "estoque": "552",
     "preco": "110,24"
   },
   {
@@ -141044,7 +141044,7 @@
     "fabric": "15353",
     "marca": "LEVORIN",
     "nome": "PNEU TRAS 90/90-18 LEVORIN MATRIX",
-    "estoque": "2793",
+    "estoque": "2792",
     "preco": "230,99"
   },
   {
@@ -141068,8 +141068,8 @@
     "fabric": "100649",
     "marca": "MAGGION",
     "nome": "PNEU TRAS 90/90-18 MAGGION WINNER TT",
-    "estoque": "530",
-    "preco": "141,75"
+    "estoque": "529",
+    "preco": "141,74"
   },
   {
     "codigo": "40399",
@@ -141108,7 +141108,7 @@
     "fabric": "6119",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 90/90-18 TECHNIC SPORT R TL 57P",
-    "estoque": "8",
+    "estoque": "38",
     "preco": "168"
   },
   {
@@ -141116,7 +141116,7 @@
     "fabric": "6113",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 90/90-18 TECHNIC SPORT R TT 57P",
-    "estoque": "969",
+    "estoque": "1384",
     "preco": "136,49"
   },
   {
@@ -141396,7 +141396,7 @@
     "fabric": "TM7235",
     "marca": "TMAC",
     "nome": "PORCA COROA CG/TODAY/TITAN 99/00 TMAC",
-    "estoque": "1942",
+    "estoque": "1932",
     "preco": "0,5"
   },
   {
@@ -142620,7 +142620,7 @@
     "fabric": "241",
     "marca": "PROTEC",
     "nome": "PRISIONEIRO COROA CG/TITAN 125 PROTEC",
-    "estoque": "370",
+    "estoque": "360",
     "preco": "1,65"
   },
   {
@@ -143493,7 +143493,7 @@
     "marca": "PLASMOTO",
     "nome": "PROTETOR ESCAPAMENTO YBR 125 09-11 PLASMOTO PRETO",
     "estoque": "2",
-    "preco": "57,75"
+    "preco": "61,95"
   },
   {
     "codigo": "49921",
@@ -146317,7 +146317,7 @@
     "marca": "PLASMOTO",
     "nome": "RABETA CENTRAL BIZ 125 11/17/BIZ 100 12/13 PLASMOTO",
     "estoque": "1",
-    "preco": "32,54"
+    "preco": "34,65"
   },
   {
     "codigo": "33063",
@@ -148412,7 +148412,7 @@
     "fabric": "1099",
     "marca": "MS EXTENSOR",
     "nome": "REDE ELASTICA PRETO 35 X 35 MS EXTENSOR",
-    "estoque": "74",
+    "estoque": "73",
     "preco": "10,49"
   },
   {
@@ -150060,7 +150060,7 @@
     "fabric": "90280051",
     "marca": "MAGNETRON",
     "nome": "RELE PARTIDA TITAN ES/CG 150 04-08/XLR 125/BROS 125 ES 03-04/BROS 150 08 MAGNETRON",
-    "estoque": "82",
+    "estoque": "83",
     "preco": "41,99"
   },
   {
@@ -153108,7 +153108,7 @@
     "fabric": "1104693",
     "marca": "MOTOPORT",
     "nome": "RETENTOR HASTE VALVULA CG/TOD/TITAN ATE 2001 MOTOPORT VERDE ***PAR***",
-    "estoque": "30",
+    "estoque": "29",
     "preco": "7,73"
   },
   {
@@ -154620,7 +154620,7 @@
     "fabric": "TR300",
     "marca": "TMAC",
     "nome": "RETROVISOR BMW TMAC (PAR HONDA) FIXO",
-    "estoque": "385",
+    "estoque": "384",
     "preco": "41,99"
   },
   {
@@ -155940,7 +155940,7 @@
     "fabric": "KOI0242",
     "marca": "MOTOKOI BR",
     "nome": "RETROVISOR TITAN 150 NOVA PAR MOTOKOI BR",
-    "estoque": "136",
+    "estoque": "135",
     "preco": "22,04"
   },
   {
@@ -155948,7 +155948,7 @@
     "fabric": "KOI0241",
     "marca": "MOTOKOI BR",
     "nome": "RETROVISOR TITAN 150 PAR MOTOKOI BR",
-    "estoque": "954",
+    "estoque": "953",
     "preco": "19,94"
   },
   {
@@ -155956,7 +155956,7 @@
     "fabric": "1458",
     "marca": "NEXTPART",
     "nome": "RETROVISOR TITAN 150 PAR NEXPART",
-    "estoque": "3346",
+    "estoque": "3344",
     "preco": "16,79"
   },
   {
@@ -156388,7 +156388,7 @@
     "fabric": "1194",
     "marca": "GVS",
     "nome": "RETROVISOR YES 125 05/12 (PAR) GVS",
-    "estoque": "6",
+    "estoque": "5",
     "preco": "40,95"
   },
   {
@@ -156836,7 +156836,7 @@
     "fabric": "KOI0401",
     "marca": "MOTOKOI",
     "nome": "ROLAMENTO 6301-RS CROMO RODA DIANT. CG MOTOKOI",
-    "estoque": "221",
+    "estoque": "216",
     "preco": "4,19"
   },
   {
@@ -159948,7 +159948,7 @@
     "fabric": "160",
     "marca": "PROJETIL",
     "nome": "SUPORTE ESCAPAMENTO CG TODAS PRETO PROJETIL",
-    "estoque": "0",
+    "estoque": "10",
     "preco": "23,63"
   },
   {
@@ -160020,7 +160020,7 @@
     "fabric": "2851",
     "marca": "PROJETIL",
     "nome": "SUPORTE ESCAPAMENTO TITAN 2000 PRETO PROJETIL",
-    "estoque": "17",
+    "estoque": "27",
     "preco": "46,2"
   },
   {
@@ -160828,7 +160828,7 @@
     "fabric": "3790",
     "marca": "PROJETIL",
     "nome": "SUPORTE PARALAMA DIANT FAN 125 2009 PROJETIL",
-    "estoque": "14",
+    "estoque": "24",
     "preco": "34,65"
   },
   {
@@ -161412,7 +161412,7 @@
     "fabric": "3064",
     "marca": "PROJETIL",
     "nome": "SUPORTE PISCA TRAS TITAN 00/08 PROJETIL",
-    "estoque": "0",
+    "estoque": "20",
     "preco": "10,49"
   },
   {
@@ -161524,7 +161524,7 @@
     "fabric": "4153",
     "marca": "PROJETIL",
     "nome": "SUPORTE PLACA UNIVERSAL PLACA NOVA (GRANDE) PROJETIL MOLDURA PRATA PINTADA",
-    "estoque": "0",
+    "estoque": "40",
     "preco": "14,69"
   },
   {
@@ -165093,7 +165093,7 @@
     "marca": "PLASMOTO",
     "nome": "TENSION /ACION. CORRENTE YBR / XTZ 125 C/ CAT. PLASMOTO",
     "estoque": "2",
-    "preco": "61,17"
+    "preco": "79,28"
   },
   {
     "codigo": "15400",
@@ -165860,7 +165860,7 @@
     "fabric": "1101950",
     "marca": "GP7/GP",
     "nome": "TRAVA COROA CG/TITAN/TITAN 00 GP7 (ANEL ELASTICO)",
-    "estoque": "109",
+    "estoque": "107",
     "preco": "3,14"
   },
   {
@@ -168508,7 +168508,7 @@
     "fabric": "CPR8EA9",
     "marca": "NGK",
     "nome": "VELA TITAN 150/FAN 150 CPR8EA-9 NGK",
-    "estoque": "983",
+    "estoque": "981",
     "preco": "31,49"
   },
   {
@@ -171876,7 +171876,7 @@
     "fabric": "1010F",
     "marca": "POLIVISOR",
     "nome": "VISEIRA TAURUS SAN MARINO 0,80 MM FUME POLIVISOR",
-    "estoque": "86",
+    "estoque": "85",
     "preco": "6,62"
   },
   {
