@@ -2364,7 +2364,7 @@
     "fabric": "100302801",
     "marca": "POLIMET",
     "nome": "ALCA ALONGADA TITAN 160 CROMADO POLIMET",
-    "estoque": "12",
+    "estoque": "6",
     "preco": "80,85"
   },
   {
@@ -2452,7 +2452,7 @@
     "fabric": "100300801",
     "marca": "POLIMET",
     "nome": "ALCA ALONGADA TITAN 99 CROMADO POLIMET",
-    "estoque": "7",
+    "estoque": "1",
     "preco": "68,25"
   },
   {
@@ -2628,7 +2628,7 @@
     "fabric": "100300402",
     "marca": "POLIMET",
     "nome": "ALCA MODELO ORIGINAL TITAN 00/04 FAN125 05/08 PRETO POLIMET",
-    "estoque": "18",
+    "estoque": "12",
     "preco": "52,49"
   },
   {
@@ -2660,7 +2660,7 @@
     "fabric": "100300502",
     "marca": "POLIMET",
     "nome": "ALCA MODELO ORIGINAL TITAN 150 04/08 PRETO POLIMET",
-    "estoque": "50",
+    "estoque": "26",
     "preco": "53,81"
   },
   {
@@ -2684,7 +2684,7 @@
     "fabric": "100301302",
     "marca": "POLIMET",
     "nome": "ALCA MODELO ORIGINAL TITAN 150/FAN 125/FAN 150 09/12 PRETO POLIMET",
-    "estoque": "34",
+    "estoque": "16",
     "preco": "57,75"
   },
   {
@@ -2716,7 +2716,7 @@
     "fabric": "100301902",
     "marca": "POLIMET",
     "nome": "ALCA MODELO ORIGINAL TITAN 150/FAN 125/FAN 150 2014 PRETO POLIMET",
-    "estoque": "15",
+    "estoque": "9",
     "preco": "57,75"
   },
   {
@@ -2756,7 +2756,7 @@
     "fabric": "100302002",
     "marca": "POLIMET",
     "nome": "ALCA MODELO ORIGINAL TITAN 160/START 160 PRETO POLIMET (MODELO 150)",
-    "estoque": "8",
+    "estoque": "2",
     "preco": "51,45"
   },
   {
@@ -4060,7 +4060,7 @@
     "fabric": "11014",
     "marca": "MOTOBOR",
     "nome": "ANEL FILTRO OLEO CG/ML/TU 35 X 3 MOTOBOR",
-    "estoque": "26",
+    "estoque": "22",
     "preco": "0,81"
   },
   {
@@ -6500,7 +6500,7 @@
     "fabric": "100202402",
     "marca": "POLIMET",
     "nome": "BAGAGEIRO BROS 125/150 03/09 PRETO REFORCADO POLIMET",
-    "estoque": "4",
+    "estoque": "1",
     "preco": "112,47"
   },
   {
@@ -6556,7 +6556,7 @@
     "fabric": "100200301",
     "marca": "POLIMET",
     "nome": "BAGAGEIRO CG 95/99 CROMADO POLIMET",
-    "estoque": "8",
+    "estoque": "2",
     "preco": "103,71"
   },
   {
@@ -6604,7 +6604,7 @@
     "fabric": "100206701",
     "marca": "POLIMET",
     "nome": "BAGAGEIRO FAN 160/START 160 CROMADO POLIMET",
-    "estoque": "14",
+    "estoque": "8",
     "preco": "104,98"
   },
   {
@@ -6620,7 +6620,7 @@
     "fabric": "100206702",
     "marca": "POLIMET",
     "nome": "BAGAGEIRO FAN 160/START 160 PRETO POLIMET",
-    "estoque": "10",
+    "estoque": "4",
     "preco": "95,42"
   },
   {
@@ -6852,7 +6852,7 @@
     "fabric": "100201201",
     "marca": "POLIMET",
     "nome": "BAGAGEIRO TITAN 150 04/08 CROMADO REFORCADO POLIMET",
-    "estoque": "9",
+    "estoque": "3",
     "preco": "103,95"
   },
   {
@@ -6876,7 +6876,7 @@
     "fabric": "100201202",
     "marca": "POLIMET",
     "nome": "BAGAGEIRO TITAN 150 04/08 PRETO REFORCADO POLIMET",
-    "estoque": "15",
+    "estoque": "3",
     "preco": "95,46"
   },
   {
@@ -6916,7 +6916,7 @@
     "fabric": "100202802",
     "marca": "POLIMET",
     "nome": "BAGAGEIRO TITAN 150 09/12/FAN 125/150 09/12 PRETO REFORCADO POLIMET",
-    "estoque": "12",
+    "estoque": "0",
     "preco": "103,95"
   },
   {
@@ -6940,7 +6940,7 @@
     "fabric": "100205801",
     "marca": "POLIMET",
     "nome": "BAGAGEIRO TITAN 150 14/FAN 125/150 14 CROMADO REFORCADO POLIMET",
-    "estoque": "19",
+    "estoque": "13",
     "preco": "111,34"
   },
   {
@@ -7036,7 +7036,7 @@
     "fabric": "100206802",
     "marca": "POLIMET",
     "nome": "BAGAGEIRO TITAN 160 EX PRETO POLIMET",
-    "estoque": "9",
+    "estoque": "3",
     "preco": "124,95"
   },
   {
@@ -7108,7 +7108,7 @@
     "fabric": "100201002",
     "marca": "POLIMET",
     "nome": "BAGAGEIRO TWISTER 01/08 PRETO POLIMET",
-    "estoque": "14",
+    "estoque": "2",
     "preco": "103,95"
   },
   {
@@ -21724,7 +21724,7 @@
     "fabric": "KOI0004",
     "marca": "MOTOKOI",
     "nome": "CABO ACELERADOR TITAN 150 04/08 MOTOKOI",
-    "estoque": "110",
+    "estoque": "109",
     "preco": "7,34"
   },
   {
@@ -21756,7 +21756,7 @@
     "fabric": "TM5004",
     "marca": "TMAC",
     "nome": "CABO ACELERADOR TITAN 150 04/08 TMAC",
-    "estoque": "572",
+    "estoque": "571",
     "preco": "8,39"
   },
   {
@@ -32148,7 +32148,7 @@
     "fabric": "KOI0168",
     "marca": "MOTOKOI",
     "nome": "CAMARA DE AR DIANT/TRAS CG MOTOKOI 18",
-    "estoque": "1251",
+    "estoque": "1249",
     "preco": "17,33"
   },
   {
@@ -57396,7 +57396,7 @@
     "fabric": "101100202",
     "marca": "POLIMET",
     "nome": "CAVALETE CENTRAL TITAN 150 04/14/FAN 150 2014/FAN 125 09 ED POLIMET",
-    "estoque": "10",
+    "estoque": "-2",
     "preco": "75,08"
   },
   {
@@ -57492,7 +57492,7 @@
     "fabric": "101200702",
     "marca": "POLIMET",
     "nome": "CAVALETE CENTRAL TITAN 160 POLIMET COMPLETO",
-    "estoque": "13",
+    "estoque": "1",
     "preco": "83,99"
   },
   {
@@ -57668,7 +57668,7 @@
     "fabric": "101000102",
     "marca": "POLIMET",
     "nome": "CAVALETE LATERAL BIZ 100 / DREAM / POP POLIMET",
-    "estoque": "13",
+    "estoque": "1",
     "preco": "22,05"
   },
   {
@@ -57700,7 +57700,7 @@
     "fabric": "101002002",
     "marca": "POLIMET",
     "nome": "CAVALETE LATERAL BIZ 125 06/19 POLIMET",
-    "estoque": "35",
+    "estoque": "11",
     "preco": "23,1"
   },
   {
@@ -57716,7 +57716,7 @@
     "fabric": "101001202",
     "marca": "POLIMET",
     "nome": "CAVALETE LATERAL BROS 125/150 POLIMET",
-    "estoque": "54",
+    "estoque": "18",
     "preco": "34,65"
   },
   {
@@ -58060,7 +58060,7 @@
     "fabric": "101000202",
     "marca": "POLIMET",
     "nome": "CAVALETE LATERAL TITAN 150 04/15/TITAN 00/04/TITAN 95/99/FAN 125 09 ED POLIMET",
-    "estoque": "58",
+    "estoque": "34",
     "preco": "31,49"
   },
   {
@@ -58260,7 +58260,7 @@
     "fabric": "101000302",
     "marca": "POLIMET",
     "nome": "CAVALETE LATERAL YBR 125 00/08  PRETO POLIMET",
-    "estoque": "23",
+    "estoque": "11",
     "preco": "25,19"
   },
   {
@@ -69612,7 +69612,7 @@
     "fabric": "0011-CB",
     "marca": "COBREQ",
     "nome": "CUBO RODA TITAN 150 ESD A DISCO DIANTEIRO COBREQ",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "148,59"
   },
   {
@@ -77324,7 +77324,7 @@
     "fabric": "100101102",
     "marca": "POLIMET",
     "nome": "ESCAPAMENTO BIZ 125 06/15 PRETO POLIMET",
-    "estoque": "12",
+    "estoque": "6",
     "preco": "162,75"
   },
   {
@@ -77484,7 +77484,7 @@
     "fabric": "100114902",
     "marca": "POLIMET",
     "nome": "ESCAPAMENTO MOTTU SPORT 110I POLIMET",
-    "estoque": "10",
+    "estoque": "0",
     "preco": "292,95"
   },
   {
@@ -77700,7 +77700,7 @@
     "fabric": "100100801",
     "marca": "POLIMET",
     "nome": "ESCAPAMENTO TITAN 150 ESD CROMADO POLIMET",
-    "estoque": "17",
+    "estoque": "12",
     "preco": "200,55"
   },
   {
@@ -77748,7 +77748,7 @@
     "fabric": "100100701",
     "marca": "POLIMET",
     "nome": "ESCAPAMENTO TITAN 150 KS/ES CROMADO POLIMET",
-    "estoque": "39",
+    "estoque": "29",
     "preco": "198,46"
   },
   {
@@ -77804,7 +77804,7 @@
     "fabric": "100100601",
     "marca": "POLIMET",
     "nome": "ESCAPAMENTO TITAN 2000 ES POLIMET",
-    "estoque": "12",
+    "estoque": "7",
     "preco": "198,45"
   },
   {
@@ -77812,7 +77812,7 @@
     "fabric": "100100501",
     "marca": "POLIMET",
     "nome": "ESCAPAMENTO TITAN 2000 KS CROMADO POLIMET",
-    "estoque": "17",
+    "estoque": "12",
     "preco": "198,45"
   },
   {
@@ -77820,7 +77820,7 @@
     "fabric": "100101501",
     "marca": "POLIMET",
     "nome": "ESCAPAMENTO TITAN 2000 KS CROMADO POLIMET ESTRALADO",
-    "estoque": "13",
+    "estoque": "8",
     "preco": "229,95"
   },
   {
@@ -77836,7 +77836,7 @@
     "fabric": "100100101",
     "marca": "POLIMET",
     "nome": "ESCAPAMENTO TITAN 96/99 CROMADO POLIMET",
-    "estoque": "19",
+    "estoque": "9",
     "preco": "187,95"
   },
   {
@@ -77892,7 +77892,7 @@
     "fabric": "100100401",
     "marca": "POLIMET",
     "nome": "ESCAPAMENTO YBR CROMADO POLIMET",
-    "estoque": "7",
+    "estoque": "3",
     "preco": "330,75"
   },
   {
@@ -80468,7 +80468,7 @@
     "fabric": "100502202",
     "marca": "POLIMET",
     "nome": "ESTRIBO PEDAL APOIO BIZ 125 POLIMET MACICO",
-    "estoque": "40",
+    "estoque": "28",
     "preco": "60,38"
   },
   {
@@ -80508,7 +80508,7 @@
     "fabric": "100500402",
     "marca": "POLIMET",
     "nome": "ESTRIBO PEDAL APOIO BIZ/POP 100 POLIMET MACICO",
-    "estoque": "53",
+    "estoque": "29",
     "preco": "49,34"
   },
   {
@@ -80572,7 +80572,7 @@
     "fabric": "100502802",
     "marca": "POLIMET",
     "nome": "ESTRIBO PEDAL APOIO MOTTU SPORT 110I POLIMET",
-    "estoque": "12",
+    "estoque": "0",
     "preco": "103,95"
   },
   {
@@ -80612,7 +80612,7 @@
     "fabric": "100500902",
     "marca": "POLIMET",
     "nome": "ESTRIBO PEDAL APOIO TITAN 00/08 PRETO C/ADAPTADOR POLIMET",
-    "estoque": "16",
+    "estoque": "4",
     "preco": "60,81"
   },
   {
@@ -80628,7 +80628,7 @@
     "fabric": "100500602",
     "marca": "POLIMET",
     "nome": "ESTRIBO PEDAL APOIO TITAN 00/08 PRETO POLIMET",
-    "estoque": "44",
+    "estoque": "32",
     "preco": "37,28"
   },
   {
@@ -80708,7 +80708,7 @@
     "fabric": "100500302",
     "marca": "POLIMET",
     "nome": "ESTRIBO PEDAL APOIO TITAN 150 04/15/FAN 125 09 ED POLIMET MACICO",
-    "estoque": "58",
+    "estoque": "22",
     "preco": "47,25"
   },
   {
@@ -80716,7 +80716,7 @@
     "fabric": "100500702",
     "marca": "POLIMET",
     "nome": "ESTRIBO PEDAL APOIO TITAN 150 04/15/FAN 125 09 ED POLIMET TUBULAR",
-    "estoque": "118",
+    "estoque": "46",
     "preco": "40,95"
   },
   {
@@ -80740,7 +80740,7 @@
     "fabric": "100502002",
     "marca": "POLIMET",
     "nome": "ESTRIBO PEDAL APOIO TITAN 150 08/16 C/PROTETOR POLIMET MACICO",
-    "estoque": "20",
+    "estoque": "8",
     "preco": "45,08"
   },
   {
@@ -80796,7 +80796,7 @@
     "fabric": "100501002",
     "marca": "POLIMET",
     "nome": "ESTRIBO PEDAL APOIO TITAN 150 PRETO 05/15/FAN 150 09 ED/FAN 125 09/TITAN 160 C/ADAPTADOR POLIMET",
-    "estoque": "20",
+    "estoque": "8",
     "preco": "62,99"
   },
   {
@@ -80844,7 +80844,7 @@
     "fabric": "100502402",
     "marca": "POLIMET",
     "nome": "ESTRIBO PEDAL APOIO TITAN 160 PRETO C/PROTETOR PE POLIMET MACICO",
-    "estoque": "45",
+    "estoque": "21",
     "preco": "47,25"
   },
   {
@@ -84140,7 +84140,7 @@
     "fabric": "PL241",
     "marca": "TECFIL",
     "nome": "FILTRO OLEO FAZER 250/LANDER TECFIL",
-    "estoque": "67",
+    "estoque": "66",
     "preco": "14,18"
   },
   {
@@ -84364,7 +84364,7 @@
     "fabric": "PL153",
     "marca": "TECFIL",
     "nome": "FILTRO OLEO TWISTER/FALCON/CB300/XRE300/TORNADO/XLX TECFIL",
-    "estoque": "124",
+    "estoque": "123",
     "preco": "10,49"
   },
   {
@@ -88900,7 +88900,7 @@
     "fabric": "100408802",
     "marca": "POLIMET",
     "nome": "GUIDAO BIZ 125 09/BIZ 100 12 ED PRETO ORIGINAL POLIMET",
-    "estoque": "17",
+    "estoque": "11",
     "preco": "115,5"
   },
   {
@@ -88916,7 +88916,7 @@
     "fabric": "100410002",
     "marca": "POLIMET",
     "nome": "GUIDAO BIZ 125 EX 11-17 PRETO ORIGINAL POLIMET",
-    "estoque": "7",
+    "estoque": "1",
     "preco": "103,95"
   },
   {
@@ -88956,7 +88956,7 @@
     "fabric": "100404002",
     "marca": "POLIMET",
     "nome": "GUIDAO BROS 125 03/15/BROS 150 03/15 PRETO POLIMET 1,9 MM",
-    "estoque": "27",
+    "estoque": "15",
     "preco": "36,75"
   },
   {
@@ -88980,7 +88980,7 @@
     "fabric": "100409122",
     "marca": "POLIMET",
     "nome": "GUIDAO BROS 160/XRE 190 GRAFITE POLIMET",
-    "estoque": "12",
+    "estoque": "0",
     "preco": "41,99"
   },
   {
@@ -88996,7 +88996,7 @@
     "fabric": "100409102",
     "marca": "POLIMET",
     "nome": "GUIDAO BROS 160/XRE 190 PRETO POLIMET",
-    "estoque": "19",
+    "estoque": "7",
     "preco": "36,23"
   },
   {
@@ -89012,7 +89012,7 @@
     "fabric": "100409901",
     "marca": "POLIMET",
     "nome": "GUIDAO CARGO 160 POLIMET C/PESO",
-    "estoque": "62",
+    "estoque": "14",
     "preco": "57,75"
   },
   {
@@ -89036,7 +89036,7 @@
     "fabric": "100410202",
     "marca": "POLIMET",
     "nome": "GUIDAO CB 250 16/17 PRETO POLIMET C/PESO",
-    "estoque": "31",
+    "estoque": "7",
     "preco": "52,49"
   },
   {
@@ -89052,7 +89052,7 @@
     "fabric": "100406101",
     "marca": "POLIMET",
     "nome": "GUIDAO CB 300 R POLIMET",
-    "estoque": "21",
+    "estoque": "9",
     "preco": "44,63"
   },
   {
@@ -89124,7 +89124,7 @@
     "fabric": "100400201",
     "marca": "POLIMET",
     "nome": "GUIDAO CG/ML 83/89 CROMADO POLIMET",
-    "estoque": "31",
+    "estoque": "19",
     "preco": "49,88"
   },
   {
@@ -89260,7 +89260,7 @@
     "fabric": "100411502",
     "marca": "POLIMET",
     "nome": "GUIDAO MOTTU SPORT 110I  PRETO POLIMET",
-    "estoque": "12",
+    "estoque": "0",
     "preco": "41,99"
   },
   {
@@ -89420,7 +89420,7 @@
     "fabric": "100400801",
     "marca": "POLIMET",
     "nome": "GUIDAO TITAN 02/04/FAN 125 09 CROMADO POLIMET",
-    "estoque": "29",
+    "estoque": "5",
     "preco": "47,25"
   },
   {
@@ -89452,7 +89452,7 @@
     "fabric": "100401201",
     "marca": "POLIMET",
     "nome": "GUIDAO TITAN 150 04/08 CROMADO POLIMET",
-    "estoque": "284",
+    "estoque": "152",
     "preco": "41,99"
   },
   {
@@ -89460,7 +89460,7 @@
     "fabric": "100401501",
     "marca": "POLIMET",
     "nome": "GUIDAO TITAN 150 04/08 CROMADO POLIMET C/PESO",
-    "estoque": "53",
+    "estoque": "17",
     "preco": "57,75"
   },
   {
@@ -89500,7 +89500,7 @@
     "fabric": "100410901",
     "marca": "POLIMET",
     "nome": "GUIDAO TITAN 160/FAN 160 CROMADO POLIMET C/PESO",
-    "estoque": "65",
+    "estoque": "29",
     "preco": "61,95"
   },
   {
@@ -89508,7 +89508,7 @@
     "fabric": "100408901",
     "marca": "POLIMET",
     "nome": "GUIDAO TITAN 160/FAN 160 POLIMET",
-    "estoque": "66",
+    "estoque": "18",
     "preco": "44,63"
   },
   {
@@ -89516,7 +89516,7 @@
     "fabric": "100400501",
     "marca": "POLIMET",
     "nome": "GUIDAO TITAN 95/99 CROMADO POLIMET",
-    "estoque": "14",
+    "estoque": "2",
     "preco": "45,08"
   },
   {
@@ -89564,7 +89564,7 @@
     "fabric": "100402301",
     "marca": "POLIMET",
     "nome": "GUIDAO TWISTER/STRADA CROMADO C/ PESO POLIMET",
-    "estoque": "25",
+    "estoque": "1",
     "preco": "57,75"
   },
   {
@@ -89572,7 +89572,7 @@
     "fabric": "100402201",
     "marca": "POLIMET",
     "nome": "GUIDAO TWISTER/STRADA CROMADO POLIMET",
-    "estoque": "21",
+    "estoque": "9",
     "preco": "40,95"
   },
   {
@@ -89620,7 +89620,7 @@
     "fabric": "100406822",
     "marca": "POLIMET",
     "nome": "GUIDAO XRE 300 GRAFITE POLIMET",
-    "estoque": "31",
+    "estoque": "19",
     "preco": "56,95"
   },
   {
@@ -102132,7 +102132,7 @@
     "fabric": "H03673XS",
     "marca": "VAZ",
     "nome": "KIT TRANSMISSAO TITAN 150 VAZ (43/16/428HX118L) H03673XS",
-    "estoque": "3653",
+    "estoque": "3652",
     "preco": "62,99"
   },
   {
@@ -103028,7 +103028,7 @@
     "fabric": "H4FIT",
     "marca": "PHILIPS",
     "nome": "LAMPADA FAROL TITAN H4 12V 35X35 PHILLIPS FIT",
-    "estoque": "349",
+    "estoque": "347",
     "preco": "28,51"
   },
   {
@@ -106068,7 +106068,7 @@
     "fabric": "4407",
     "marca": "IPIRANGA",
     "nome": "LUBRIFICANTES MOTO 4T IPIRANGA 20W50 SL",
-    "estoque": "139",
+    "estoque": "137",
     "preco": "29,39"
   },
   {
@@ -106076,7 +106076,7 @@
     "fabric": "01026931",
     "marca": "LUBRAX",
     "nome": "LUBRIFICANTES MOTO 4T LUBRAX 10W30 SL PROFISSIONAL",
-    "estoque": "2095",
+    "estoque": "2094",
     "preco": "30,44"
   },
   {
@@ -106092,7 +106092,7 @@
     "fabric": "123075",
     "marca": "MOBIL",
     "nome": "LUBRIFICANTES MOTO 4T MOBIL 10W30 SEMI-SINTETICO",
-    "estoque": "4290",
+    "estoque": "4289",
     "preco": "36,74"
   },
   {
@@ -106260,7 +106260,7 @@
     "fabric": "",
     "marca": "YAMAHA",
     "nome": "LUBRIFICANTES MOTO 4T YAMALUBE 10W40 SEMI SINTETICO",
-    "estoque": "356",
+    "estoque": "353",
     "preco": "49,88"
   },
   {
@@ -110908,7 +110908,7 @@
     "fabric": "292",
     "marca": "PROTEC",
     "nome": "MANICOTO TITAN ES / TITAN 150 ESQUERDO  PROTEC",
-    "estoque": "78",
+    "estoque": "77",
     "preco": "12,34"
   },
   {
@@ -111180,7 +111180,7 @@
     "fabric": "MA037-001",
     "marca": "CIRCUIT",
     "nome": "MANOPLA CIRCUIT INTERLAGOS PT PLUS",
-    "estoque": "661",
+    "estoque": "660",
     "preco": "23,09"
   },
   {
@@ -119660,7 +119660,7 @@
     "fabric": "21548",
     "marca": "MOTOBOR",
     "nome": "PARAFUSO MANETE YAMAHA MOTOBOR",
-    "estoque": "4",
+    "estoque": "3",
     "preco": "6,88"
   },
   {
@@ -126764,7 +126764,7 @@
     "fabric": "FA375",
     "marca": "TMAC",
     "nome": "PASTILHA FREIO TITAN 150 PARTIR DE 2009 DIANT TMAC",
-    "estoque": "556",
+    "estoque": "555",
     "preco": "10,49"
   },
   {
@@ -127196,7 +127196,7 @@
     "fabric": "N940",
     "marca": "COBREQ",
     "nome": "PASTILHA FREIO YBR/TWISTER/CB 300/NINJA 250 DIANTEIRO COBREQ N-940",
-    "estoque": "75",
+    "estoque": "74",
     "preco": "27,75"
   },
   {
@@ -129220,7 +129220,7 @@
     "fabric": "LBJ09",
     "marca": "TMAC",
     "nome": "PEDAL CAMBIO TWISTER / CB300 / CBX 200 COMPLETO TMAC",
-    "estoque": "82",
+    "estoque": "81",
     "preco": "31,49"
   },
   {
@@ -129516,7 +129516,7 @@
     "fabric": "100601601",
     "marca": "POLIMET",
     "nome": "PEDAL FREIO BIZ 125 2011 POLIMET",
-    "estoque": "18",
+    "estoque": "6",
     "preco": "57,11"
   },
   {
@@ -141124,7 +141124,7 @@
     "fabric": "6113",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 90/90-18 TECHNIC SPORT R TT 57P",
-    "estoque": "1366",
+    "estoque": "1365",
     "preco": "136,49"
   },
   {
@@ -147588,7 +147588,7 @@
     "fabric": "333700",
     "marca": "MELC",
     "nome": "RABETA TITAN 150 MIX 09 PRATA MELC (333700)",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "97,62"
   },
   {
@@ -153404,7 +153404,7 @@
     "fabric": "VE990571187AN",
     "marca": "VEDAMOTORS",
     "nome": "RETENTOR MESA MAGNETO C/ANEIS BIZ 100 KS VEDAMOTORS",
-    "estoque": "31",
+    "estoque": "30",
     "preco": "13,41"
   },
   {
@@ -160172,7 +160172,7 @@
     "fabric": "101301022",
     "marca": "POLIMET",
     "nome": "SUPORTE FAROL FACTOR 09 ARANHA POLIMET CINZA",
-    "estoque": "15",
+    "estoque": "3",
     "preco": "63,62"
   },
   {
@@ -160372,7 +160372,7 @@
     "fabric": "101300102",
     "marca": "POLIMET",
     "nome": "SUPORTE FAROL TITAN 2000/08 ARANHA PRETO POLIMET",
-    "estoque": "29",
+    "estoque": "5",
     "preco": "41,99"
   },
   {
@@ -160876,7 +160876,7 @@
     "fabric": "101800327",
     "marca": "POLIMET",
     "nome": "SUPORTE PARALAMA DIANT TITAN 150 04/08 POLIMET",
-    "estoque": "22",
+    "estoque": "10",
     "preco": "39,66"
   },
   {
@@ -160924,7 +160924,7 @@
     "fabric": "101800227",
     "marca": "POLIMET",
     "nome": "SUPORTE PARALAMA DIANT TITAN 150 2009 POLIMET",
-    "estoque": "34",
+    "estoque": "10",
     "preco": "23,91"
   },
   {
@@ -160980,7 +160980,7 @@
     "fabric": "101800127",
     "marca": "POLIMET",
     "nome": "SUPORTE PARALAMA DIANT TITAN 150/TITAN 160/FAN 150 14 POLIMET",
-    "estoque": "36",
+    "estoque": "12",
     "preco": "25,2"
   },
   {
@@ -171812,7 +171812,7 @@
     "fabric": "1010C",
     "marca": "POLIVISOR",
     "nome": "VISEIRA TAURUS SAN MARINO 0,80 MM CRISTAL POLIVISOR",
-    "estoque": "945",
+    "estoque": "944",
     "preco": "6,29"
   },
   {
@@ -171892,7 +171892,7 @@
     "fabric": "1010F",
     "marca": "POLIVISOR",
     "nome": "VISEIRA TAURUS SAN MARINO 0,80 MM FUME POLIVISOR",
-    "estoque": "71",
+    "estoque": "70",
     "preco": "6,62"
   },
   {
