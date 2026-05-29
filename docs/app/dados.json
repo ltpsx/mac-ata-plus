@@ -2996,7 +2996,7 @@
     "fabric": "TM971 / TM 97",
     "marca": "TMAC",
     "nome": "AMORTECEDOR BIZ 100/BIZ 125 TMAC (PAR)",
-    "estoque": "143",
+    "estoque": "142",
     "preco": "141,75"
   },
   {
@@ -3396,7 +3396,7 @@
     "fabric": "KOI0180",
     "marca": "MOTOKOI",
     "nome": "AMORTECEDOR TITAN 150 MOTOKOI (PAR)",
-    "estoque": "65",
+    "estoque": "64",
     "preco": "115,49"
   },
   {
@@ -4612,7 +4612,7 @@
     "fabric": "ATR010-4",
     "marca": "ATROX",
     "nome": "ANTENA CORTA PIPA RETROVISOR 7 ESTAGIOS ATROX CROMADA",
-    "estoque": "9",
+    "estoque": "8",
     "preco": "20,99"
   },
   {
@@ -8268,7 +8268,7 @@
     "fabric": "MTX6L-BS",
     "marca": "MOTOKOI BR",
     "nome": "BATERIA BIZ / FAN 125 ES 09/TITAN150 MIX 09 ED MTX6L-BS MOTOKOI",
-    "estoque": "715",
+    "estoque": "714",
     "preco": "124,07"
   },
   {
@@ -8516,7 +8516,7 @@
     "fabric": "2083",
     "marca": "MN3",
     "nome": "BAU PLASTICO INJETADO PRETO MN3 162 LITROS",
-    "estoque": "20",
+    "estoque": "12",
     "preco": "372,75"
   },
   {
@@ -8660,7 +8660,7 @@
     "fabric": "PDM0569",
     "marca": "PANDAO",
     "nome": "BICO INJETOR BIZ 110I/BIZ 110I 16/18  PANDAO",
-    "estoque": "10",
+    "estoque": "8",
     "preco": "73,49"
   },
   {
@@ -8900,7 +8900,7 @@
     "fabric": "PDM1250",
     "marca": "PANDAO",
     "nome": "BICO INJETOR TITAN 150 09/10 PANDAO",
-    "estoque": "50",
+    "estoque": "47",
     "preco": "70,88"
   },
   {
@@ -11676,7 +11676,7 @@
     "fabric": "PDM0293",
     "marca": "PANDAO",
     "nome": "BOBINA FORCA BIZ 100/DREAM PANDAO",
-    "estoque": "19",
+    "estoque": "17",
     "preco": "20,99"
   },
   {
@@ -11732,7 +11732,7 @@
     "fabric": "90210620",
     "marca": "MAGNETRON",
     "nome": "BOBINA FORCA TODAY / TITAN 92/99 MAGNETRON",
-    "estoque": "6",
+    "estoque": "5",
     "preco": "20,9"
   },
   {
@@ -11740,7 +11740,7 @@
     "fabric": "PDM0295",
     "marca": "PANDAO",
     "nome": "BOBINA FORCA TODAY / TITAN 92/99 PANDAO",
-    "estoque": "20",
+    "estoque": "18",
     "preco": "16,96"
   },
   {
@@ -11892,7 +11892,7 @@
     "fabric": "PDM0095",
     "marca": "PANDAO",
     "nome": "BOBINA IGNICAO BIZ 125 ATE 2008 PANDAO",
-    "estoque": "10",
+    "estoque": "8",
     "preco": "19,94"
   },
   {
@@ -12692,7 +12692,7 @@
     "fabric": "PDM0158",
     "marca": "PANDAO",
     "nome": "BOBINA IGNICAO TWISTER PANDAO",
-    "estoque": "10",
+    "estoque": "8",
     "preco": "16,79"
   },
   {
@@ -13052,7 +13052,7 @@
     "fabric": "90219130",
     "marca": "MAGNETRON",
     "nome": "BOBINA PULSO TWISTER/CB300/XRE 300/TORNADO/XLR 125 96/99 MAGNETRON",
-    "estoque": "4",
+    "estoque": "2",
     "preco": "39,38"
   },
   {
@@ -13116,7 +13116,7 @@
     "fabric": "90219110",
     "marca": "MAGNETRON",
     "nome": "BOBINA PULSO YES 125/ INTRUDER 125  MAGNETRON",
-    "estoque": "4",
+    "estoque": "2",
     "preco": "41,99"
   },
   {
@@ -14076,7 +14076,7 @@
     "fabric": "PDM3022",
     "marca": "PANDAO",
     "nome": "BOMBA COMBUSTIVEL BIZ 125 09/11 GAS PANDAO",
-    "estoque": "43",
+    "estoque": "38",
     "preco": "236,25"
   },
   {
@@ -14404,7 +14404,7 @@
     "fabric": "PDM3024",
     "marca": "PANDAO",
     "nome": "BOMBA COMBUSTIVEL TITAN 150 09 GAS PANDAO",
-    "estoque": "28",
+    "estoque": "25",
     "preco": "236,25"
   },
   {
@@ -14452,7 +14452,7 @@
     "fabric": "PDM3021",
     "marca": "PANDAO",
     "nome": "BOMBA COMBUSTIVEL TITAN 150/FAN 150 MIX 12/13 PANDAO",
-    "estoque": "9",
+    "estoque": "7",
     "preco": "236,25"
   },
   {
@@ -14468,7 +14468,7 @@
     "fabric": "PDM3029",
     "marca": "PANDAO",
     "nome": "BOMBA COMBUSTIVEL TITAN 160/FAN 160 PANDAO",
-    "estoque": "10",
+    "estoque": "8",
     "preco": "251,99"
   },
   {
@@ -16052,7 +16052,7 @@
     "fabric": "01",
     "marca": "EX RACING",
     "nome": "BOTAO VISEIRA CAPACETE TORK NEW ATOMIC/NEW LIBERTY 3/JOY 23 EX RACING PAR",
-    "estoque": "318",
+    "estoque": "317",
     "preco": "7,34"
   },
   {
@@ -18620,7 +18620,7 @@
     "fabric": "PDM0001",
     "marca": "PANDAO",
     "nome": "BUZINA TWISTER PANDAO",
-    "estoque": "50",
+    "estoque": "47",
     "preco": "10,49"
   },
   {
@@ -19044,7 +19044,7 @@
     "fabric": "PDM0198",
     "marca": "PANDAO",
     "nome": "CABO ACELERADOR BIZ 125 05/08 PANDAO",
-    "estoque": "98",
+    "estoque": "88",
     "preco": "5,24"
   },
   {
@@ -19100,7 +19100,7 @@
     "fabric": "PDM0199",
     "marca": "PANDAO",
     "nome": "CABO ACELERADOR BIZ 125 09/10 PANDAO",
-    "estoque": "47",
+    "estoque": "42",
     "preco": "4,46"
   },
   {
@@ -19132,7 +19132,7 @@
     "fabric": "PDM0200",
     "marca": "PANDAO",
     "nome": "CABO ACELERADOR BIZ 125 11/12 PANDAO",
-    "estoque": "48",
+    "estoque": "45",
     "preco": "5,24"
   },
   {
@@ -19612,7 +19612,7 @@
     "fabric": "PDM1473",
     "marca": "PANDAO",
     "nome": "CABO ACELERADOR CB 250 F   \"A\" PANDAO",
-    "estoque": "10",
+    "estoque": "8",
     "preco": "5,24"
   },
   {
@@ -19620,7 +19620,7 @@
     "fabric": "PDM01474",
     "marca": "PANDAO",
     "nome": "CABO ACELERADOR CB 250 F \"B\" PANDAO",
-    "estoque": "10",
+    "estoque": "8",
     "preco": "5,78"
   },
   {
@@ -19668,7 +19668,7 @@
     "fabric": "PDM0176",
     "marca": "PANDAO",
     "nome": "CABO ACELERADOR CB 300 R \"A\" 09/15 S/ABS PANDAO",
-    "estoque": "10",
+    "estoque": "8",
     "preco": "5,24"
   },
   {
@@ -19764,7 +19764,7 @@
     "fabric": "PDM0186",
     "marca": "PANDAO",
     "nome": "CABO ACELERADOR CB 300 R \"B\" 09/15 S/ABS PANDAO",
-    "estoque": "10",
+    "estoque": "8",
     "preco": "6,29"
   },
   {
@@ -21796,7 +21796,7 @@
     "fabric": "PDM0210",
     "marca": "PANDAO",
     "nome": "CABO ACELERADOR TITAN 150 09/11 PANDAO",
-    "estoque": "47",
+    "estoque": "42",
     "preco": "5,24"
   },
   {
@@ -21916,7 +21916,7 @@
     "fabric": "PDM0193",
     "marca": "PANDAO",
     "nome": "CABO ACELERADOR TITAN 150 14/FAN 150 2014 \"B\" PANDAO",
-    "estoque": "48",
+    "estoque": "45",
     "preco": "6,04"
   },
   {
@@ -22300,7 +22300,7 @@
     "fabric": "PDM1770",
     "marca": "PANDAO",
     "nome": "CABO ACELERADOR TWISTER \"A\"  PANDAO",
-    "estoque": "10",
+    "estoque": "8",
     "preco": "5,78"
   },
   {
@@ -22356,7 +22356,7 @@
     "fabric": "PDM0187",
     "marca": "PANDAO",
     "nome": "CABO ACELERADOR TWISTER \"B\"  PANDAO",
-    "estoque": "10",
+    "estoque": "8",
     "preco": "6,04"
   },
   {
@@ -24708,7 +24708,7 @@
     "fabric": "PDM0214",
     "marca": "PANDAO",
     "nome": "CABO EMBREAGEM CB 250 F PANDAO",
-    "estoque": "20",
+    "estoque": "18",
     "preco": "7,34"
   },
   {
@@ -24796,7 +24796,7 @@
     "fabric": "PDM0218",
     "marca": "PANDAO",
     "nome": "CABO EMBREAGEM CB 300 R PANDAO",
-    "estoque": "10",
+    "estoque": "8",
     "preco": "6,04"
   },
   {
@@ -25060,7 +25060,7 @@
     "fabric": "PDM0221",
     "marca": "PANDAO",
     "nome": "CABO EMBREAGEM FAN 125 05/08 PANDAO",
-    "estoque": "17",
+    "estoque": "15",
     "preco": "5,24"
   },
   {
@@ -25092,7 +25092,7 @@
     "fabric": "PDM0222",
     "marca": "PANDAO",
     "nome": "CABO EMBREAGEM FAN 125 09/11 PANDAO",
-    "estoque": "16",
+    "estoque": "14",
     "preco": "5,24"
   },
   {
@@ -25284,7 +25284,7 @@
     "fabric": "TM4018",
     "marca": "TMAC",
     "nome": "CABO EMBREAGEM FAZER 250 ATE 10/ E 11 E/D TMAC",
-    "estoque": "107",
+    "estoque": "106",
     "preco": "15,38"
   },
   {
@@ -25900,7 +25900,7 @@
     "fabric": "PDM0229",
     "marca": "PANDAO",
     "nome": "CABO EMBREAGEM TITAN 150 04/08 PANDAO",
-    "estoque": "98",
+    "estoque": "78",
     "preco": "5,24"
   },
   {
@@ -25964,7 +25964,7 @@
     "fabric": "PDM0230",
     "marca": "PANDAO",
     "nome": "CABO EMBREAGEM TITAN 150 09/10 PANDAO",
-    "estoque": "46",
+    "estoque": "41",
     "preco": "6,04"
   },
   {
@@ -26284,7 +26284,7 @@
     "fabric": "PDM00219",
     "marca": "PANDAO",
     "nome": "CABO EMBREAGEM TWISTER PANDAO",
-    "estoque": "20",
+    "estoque": "18",
     "preco": "6,04"
   },
   {
@@ -27956,7 +27956,7 @@
     "fabric": "PDM0241",
     "marca": "PANDAO",
     "nome": "CABO FREIO TITAN 150 04/08 PANDAO",
-    "estoque": "67",
+    "estoque": "57",
     "preco": "5,51"
   },
   {
@@ -28012,7 +28012,7 @@
     "fabric": "PDM0240",
     "marca": "PANDAO",
     "nome": "CABO FREIO TITAN 150 2009 PANDAO",
-    "estoque": "48",
+    "estoque": "45",
     "preco": "5,51"
   },
   {
@@ -28964,7 +28964,7 @@
     "fabric": "PDM0245",
     "marca": "PANDAO",
     "nome": "CABO VELOCIMETRO BIZ 125 09 PANDAO",
-    "estoque": "42",
+    "estoque": "37",
     "preco": "5,51"
   },
   {
@@ -29372,7 +29372,7 @@
     "fabric": "PDM0243",
     "marca": "PANDAO",
     "nome": "CABO VELOCIMETRO FAN 125 2009 PANDAO",
-    "estoque": "20",
+    "estoque": "18",
     "preco": "5,51"
   },
   {
@@ -29868,7 +29868,7 @@
     "fabric": "PDM0252",
     "marca": "PANDAO",
     "nome": "CABO VELOCIMETRO TITAN 150 12/13 PANDAO",
-    "estoque": "20",
+    "estoque": "18",
     "preco": "5,51"
   },
   {
@@ -29892,7 +29892,7 @@
     "fabric": "PDM0254",
     "marca": "PANDAO",
     "nome": "CABO VELOCIMETRO TITAN 150 2009 PANDAO",
-    "estoque": "38",
+    "estoque": "34",
     "preco": "5,51"
   },
   {
@@ -29996,7 +29996,7 @@
     "fabric": "PDM0249",
     "marca": "PANDAO",
     "nome": "CABO VELOCIMETRO TITAN 2000 KS/BROS 125/BROS 150 KS/TORNADO/FALCON/XLR 125/NX 200 PANDAO",
-    "estoque": "20",
+    "estoque": "15",
     "preco": "5,51"
   },
   {
@@ -30132,7 +30132,7 @@
     "fabric": "PDM247",
     "marca": "PANDAO",
     "nome": "CABO VELOCIMETRO TWISTER PANDAO",
-    "estoque": "10",
+    "estoque": "8",
     "preco": "5,24"
   },
   {
@@ -31196,7 +31196,7 @@
     "fabric": "PDM801",
     "marca": "PANDAO",
     "nome": "CAIXA DIRECAO COLAR CG/TITAN PANDAO",
-    "estoque": "49",
+    "estoque": "39",
     "preco": "11,54"
   },
   {
@@ -32372,7 +32372,7 @@
     "fabric": "KOI0289",
     "marca": "MOTOKOI",
     "nome": "CAMARA DE AR TRAS TWISTER/BROS/FALCON MOTOKOI (4.00-R17)",
-    "estoque": "141",
+    "estoque": "139",
     "preco": "20,99"
   },
   {
@@ -34732,7 +34732,7 @@
     "fabric": "KOI0226",
     "marca": "MOTOKOI BR",
     "nome": "CAPA BANCO TITAN 150 04/08/JOB/SPORT MOTOKOI",
-    "estoque": "368",
+    "estoque": "367",
     "preco": "17,61"
   },
   {
@@ -38980,7 +38980,7 @@
     "fabric": "1234060PFO",
     "marca": "EBF",
     "nome": "CAPACETE EBF E08 NEW SOLID PRETO FOSCO 60",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "330,75"
   },
   {
@@ -39004,7 +39004,7 @@
     "fabric": "1234058VEM",
     "marca": "EBF",
     "nome": "CAPACETE EBF E08 NEW SOLID VERMELHO 58",
-    "estoque": "2",
+    "estoque": "1",
     "preco": "293,73"
   },
   {
@@ -45788,7 +45788,7 @@
     "fabric": "MC-838CZ",
     "marca": "MIXS",
     "nome": "CAPACETE MIXS FOKKER RACE PRETO/CINZA 61/62",
-    "estoque": "2",
+    "estoque": "1",
     "preco": "257,25"
   },
   {
@@ -57092,7 +57092,7 @@
     "fabric": "SR-15C",
     "marca": "STALLION",
     "nome": "CARREGADOR CELULAR C. SUPORTE STALLION C/CARREGADOR ALUMINIO FIXO RETROVISOR",
-    "estoque": "16",
+    "estoque": "15",
     "preco": "31,49"
   },
   {
@@ -57124,7 +57124,7 @@
     "fabric": "SR-16-H1",
     "marca": "STALLION",
     "nome": "CARREGADOR CELULAR C. SUPORTE STALLION S/CARREGADOR ALUMINIO",
-    "estoque": "239",
+    "estoque": "173",
     "preco": "18,38"
   },
   {
@@ -58316,7 +58316,7 @@
     "fabric": "90271190",
     "marca": "MAGNETRON",
     "nome": "CDI BIZ 100 / DREAM MAGNETRON",
-    "estoque": "4",
+    "estoque": "3",
     "preco": "47,25"
   },
   {
@@ -58716,7 +58716,7 @@
     "fabric": "90272032",
     "marca": "MAGNETRON",
     "nome": "CDI TITAN 150 ES MAGNETRON",
-    "estoque": "4",
+    "estoque": "2",
     "preco": "141,55"
   },
   {
@@ -58812,7 +58812,7 @@
     "fabric": "90270920",
     "marca": "MAGNETRON",
     "nome": "CDI TODAY/TITAN 92/02 MAGNETRON",
-    "estoque": "17",
+    "estoque": "16",
     "preco": "57,74"
   },
   {
@@ -59228,7 +59228,7 @@
     "fabric": "90260100",
     "marca": "MAGNETRON",
     "nome": "CHAVE CONTATO BIZ 125 ATE 2008 MAGNETRON",
-    "estoque": "6",
+    "estoque": "4",
     "preco": "63,62"
   },
   {
@@ -59516,7 +59516,7 @@
     "fabric": "90260070",
     "marca": "MAGNETRON",
     "nome": "CHAVE CONTATO CBX 150/200 STRADA MAGNETRON",
-    "estoque": "3",
+    "estoque": "2",
     "preco": "82,94"
   },
   {
@@ -59652,7 +59652,7 @@
     "fabric": "90260270",
     "marca": "MAGNETRON",
     "nome": "CHAVE CONTATO FAN 125 09/13 MAGNETRON",
-    "estoque": "10",
+    "estoque": "8",
     "preco": "36,1"
   },
   {
@@ -59732,7 +59732,7 @@
     "fabric": "90260210",
     "marca": "MAGNETRON",
     "nome": "CHAVE CONTATO FAN 150 ESI IE MAGNETRON",
-    "estoque": "3",
+    "estoque": "2",
     "preco": "74,58"
   },
   {
@@ -60156,7 +60156,7 @@
     "fabric": "90260110",
     "marca": "MAGNETRON",
     "nome": "CHAVE CONTATO TITAN 150 MAGNETRON",
-    "estoque": "13",
+    "estoque": "11",
     "preco": "73,49"
   },
   {
@@ -60284,7 +60284,7 @@
     "fabric": "90260020",
     "marca": "MAGNETRON",
     "nome": "CHAVE CONTATO TODAY/TITAN 99 MAGNETRON",
-    "estoque": "18",
+    "estoque": "17",
     "preco": "26,25"
   },
   {
@@ -60492,7 +60492,7 @@
     "fabric": "90261010",
     "marca": "MAGNETRON",
     "nome": "CHAVE CONTATO YBR 08 ED/XTZ 125 09 ED/FAZER 150 14/FACTOR 150 16 E ED MAGNETRON",
-    "estoque": "4",
+    "estoque": "2",
     "preco": "84,24"
   },
   {
@@ -60676,7 +60676,7 @@
     "fabric": "",
     "marca": "TOTAL PRINT",
     "nome": "CHAVEIRO UNIVERSAL AVULSO",
-    "estoque": "868",
+    "estoque": "863",
     "preco": "4,19"
   },
   {
@@ -61596,7 +61596,7 @@
     "fabric": "90285030",
     "marca": "MAGNETRON",
     "nome": "CHICOTE PRINCIPAL TITAN 02/04 KS MAGNETRON",
-    "estoque": "9",
+    "estoque": "7",
     "preco": "120,76"
   },
   {
@@ -61676,7 +61676,7 @@
     "fabric": "90285120",
     "marca": "MAGNETRON",
     "nome": "CHICOTE PRINCIPAL TITAN 150 KS  2004/08 MAGNETRON",
-    "estoque": "5",
+    "estoque": "3",
     "preco": "185,57"
   },
   {
@@ -63628,7 +63628,7 @@
     "fabric": "1307000039",
     "marca": "PROTERCAPAS",
     "nome": "COLETE INFANTIL PROTERCAPAS PRETO",
-    "estoque": "93",
+    "estoque": "92",
     "preco": "29,39"
   },
   {
@@ -65660,7 +65660,7 @@
     "fabric": "90264200",
     "marca": "MAGNETRON",
     "nome": "CONJ. DE TRAVAS BIZ 100 98/05 MAGNETRON",
-    "estoque": "4",
+    "estoque": "3",
     "preco": "84"
   },
   {
@@ -66076,7 +66076,7 @@
     "fabric": "90264091",
     "marca": "MAGNETRON",
     "nome": "CONJ. DE TRAVAS TITAN 125 2000/01 KS/ES MAGNETRON (5 PECAS)",
-    "estoque": "3",
+    "estoque": "2",
     "preco": "132,58"
   },
   {
@@ -66180,7 +66180,7 @@
     "fabric": "90264010",
     "marca": "MAGNETRON",
     "nome": "CONJ. DE TRAVAS TITAN 150 04/08 MAGNETRON 4 PECAS",
-    "estoque": "10",
+    "estoque": "8",
     "preco": "163,85"
   },
   {
@@ -66348,7 +66348,7 @@
     "fabric": "90271110",
     "marca": "MAGNETRON",
     "nome": "CONVERSOR UNIVERSAL CG/ML  MAGNETRON",
-    "estoque": "6",
+    "estoque": "4",
     "preco": "162,75"
   },
   {
@@ -66668,7 +66668,7 @@
     "fabric": "HA04.256T",
     "marca": "VAZ",
     "nome": "COROA XLS 56 C. PROTETOR VAZ HA04.256T",
-    "estoque": "61",
+    "estoque": "60",
     "preco": "93,45"
   },
   {
@@ -67476,7 +67476,7 @@
     "fabric": "002-KOI-01300",
     "marca": "MOTOKOI",
     "nome": "CORRENTE TRANSMISSAO 428H X 128L MOTOKOI",
-    "estoque": "90",
+    "estoque": "89",
     "preco": "44,09"
   },
   {
@@ -69404,8 +69404,8 @@
     "fabric": "350",
     "marca": "FABRECK",
     "nome": "CUBO RODA BIZ 125 25 ED TRASEIRA FABRECK",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "8",
+    "preco": "313,95"
   },
   {
     "codigo": "21347",
@@ -71500,7 +71500,7 @@
     "fabric": "PDM1741",
     "marca": "PANDAO",
     "nome": "DISCO FREIO TITAN 150 DIANTEIRO PANDAO",
-    "estoque": "98",
+    "estoque": "88",
     "preco": "47,25"
   },
   {
@@ -72132,7 +72132,7 @@
     "fabric": "PDM0619",
     "marca": "PANDAO",
     "nome": "EIXO ABRE PATIM TRAS TITAN 150 PANDAO",
-    "estoque": "19",
+    "estoque": "17",
     "preco": "5,78"
   },
   {
@@ -72676,7 +72676,7 @@
     "fabric": "9020",
     "marca": "REGGIO",
     "nome": "EIXO CAVALETE CENTRAL BIZ 125 REGGIO",
-    "estoque": "13",
+    "estoque": "12",
     "preco": "20,21"
   },
   {
@@ -72724,7 +72724,7 @@
     "fabric": "07006",
     "marca": "DANIDREA",
     "nome": "EIXO CAVALETE CENTRAL CG/TO/TITAN/TITAN 150 TODAS DANIDREA",
-    "estoque": "29",
+    "estoque": "28",
     "preco": "24,3"
   },
   {
@@ -83724,7 +83724,7 @@
     "fabric": "KL741",
     "marca": "MAHLE",
     "nome": "FILTRO COMBUSTIVEL TITAN 150 09 MIX/FLEX MAHLE",
-    "estoque": "157",
+    "estoque": "97",
     "preco": "12,59"
   },
   {
@@ -83980,7 +83980,7 @@
     "fabric": "OC1019",
     "marca": "MAHLE",
     "nome": "FILTRO OLEO CB 500/HORNET/NINJA 300 MAHLE",
-    "estoque": "27",
+    "estoque": "26",
     "preco": "20,99"
   },
   {
@@ -84716,7 +84716,7 @@
     "fabric": "TC3300",
     "marca": "TMAC",
     "nome": "FLEXIVEL FREIO BIZ+ 125 DIANTEIRO TMAC",
-    "estoque": "2",
+    "estoque": "1",
     "preco": "73,5"
   },
   {
@@ -89780,7 +89780,7 @@
     "fabric": "90235110",
     "marca": "MAGNETRON",
     "nome": "INTERRUPTOR BUZINA BIZ 125  06/09 - BIZ 100 MAGNETRON",
-    "estoque": "7",
+    "estoque": "6",
     "preco": "10,8"
   },
   {
@@ -90308,7 +90308,7 @@
     "fabric": "90235100",
     "marca": "MAGNETRON",
     "nome": "INTERRUPTOR PARTIDA BIZ 125 ES ATE 09 MAGNETRON",
-    "estoque": "21",
+    "estoque": "20",
     "preco": "12,08"
   },
   {
@@ -90548,7 +90548,7 @@
     "fabric": "90235470",
     "marca": "MAGNETRON",
     "nome": "INTERRUPTOR PARTIDA CB 300 MAGNETRON",
-    "estoque": "4",
+    "estoque": "2",
     "preco": "72,57"
   },
   {
@@ -90956,7 +90956,7 @@
     "fabric": "PDM2301",
     "marca": "PANDAO",
     "nome": "INTERRUPTOR PARTIDA TITAN 150 ES 04/08/FAN PANDAO",
-    "estoque": "20",
+    "estoque": "18",
     "preco": "15,74"
   },
   {
@@ -91092,7 +91092,7 @@
     "fabric": "90235300",
     "marca": "MAGNETRON",
     "nome": "INTERRUPTOR PARTIDA TWISTER ATE 05 MAGNETRON",
-    "estoque": "4",
+    "estoque": "3",
     "preco": "79,46"
   },
   {
@@ -91428,7 +91428,7 @@
     "fabric": "90235190",
     "marca": "MAGNETRON",
     "nome": "INTERRUPTOR PISCA BIZ 100 / 125 ATE 08 MAGNETRON",
-    "estoque": "26",
+    "estoque": "22",
     "preco": "14,18"
   },
   {
@@ -91468,7 +91468,7 @@
     "fabric": "90235290",
     "marca": "MAGNETRON",
     "nome": "INTERRUPTOR PISCA BIZ 125 09 ED/BIZ 110 12/BIZ 110 I/LEAD 110 MAGNETRON",
-    "estoque": "44",
+    "estoque": "42",
     "preco": "16,87"
   },
   {
@@ -91660,7 +91660,7 @@
     "fabric": "90212110",
     "marca": "MAGNETRON",
     "nome": "INTERRUPTOR STOP FREIO BIZ 125 C/ MOLA TRAS MAGNETRON",
-    "estoque": "5",
+    "estoque": "4",
     "preco": "23,76"
   },
   {
@@ -91764,7 +91764,7 @@
     "fabric": "90214040",
     "marca": "MAGNETRON",
     "nome": "INTERRUPTOR STOP FREIO BROS 150 KS/ES- XLR125  DIANT MAGNETRON",
-    "estoque": "4",
+    "estoque": "2",
     "preco": "8,67"
   },
   {
@@ -91852,7 +91852,7 @@
     "fabric": "90214030",
     "marca": "MAGNETRON",
     "nome": "INTERRUPTOR STOP FREIO CG 125 FAN 04/09 / TITAN 150 KS/ JOB DIANT MAGNETRON",
-    "estoque": "32",
+    "estoque": "28",
     "preco": "6,83"
   },
   {
@@ -92308,7 +92308,7 @@
     "fabric": "90212050",
     "marca": "MAGNETRON",
     "nome": "INTERRUPTOR STOP FREIO TITAN 125 03/08 FAN S/ MOLA TRAS MAGNETRON",
-    "estoque": "14",
+    "estoque": "13",
     "preco": "10,16"
   },
   {
@@ -95980,7 +95980,7 @@
     "fabric": "PDM1252",
     "marca": "PANDAO",
     "nome": "JOGO RAIO DIANT FALCON PANDAO 4MM",
-    "estoque": "50",
+    "estoque": "47",
     "preco": "20,99"
   },
   {
@@ -99468,7 +99468,7 @@
     "fabric": "C800",
     "marca": "CORAMI",
     "nome": "KIT CILINDRO TITAN 150 CORAMI",
-    "estoque": "16",
+    "estoque": "15",
     "preco": "194,25"
   },
   {
@@ -102132,7 +102132,7 @@
     "fabric": "H03673XS",
     "marca": "VAZ",
     "nome": "KIT TRANSMISSAO TITAN 150 VAZ (43/16/428HX118L) H03673XS",
-    "estoque": "3648",
+    "estoque": "3647",
     "preco": "62,99"
   },
   {
@@ -102828,7 +102828,7 @@
     "fabric": "KOI0357",
     "marca": "MOTOKOI",
     "nome": "LAMPADA FAROL BIZ 100/125/DREAM/BROS 150 09/12 MOTOKOI 12V35",
-    "estoque": "86",
+    "estoque": "84",
     "preco": "3,66"
   },
   {
@@ -103012,7 +103012,7 @@
     "fabric": "KOI0359",
     "marca": "MOTOKOI",
     "nome": "LAMPADA FAROL TITAN H4 12V 35X35 MOTOKOI",
-    "estoque": "38",
+    "estoque": "36",
     "preco": "4,73"
   },
   {
@@ -103028,7 +103028,7 @@
     "fabric": "H4FIT",
     "marca": "PHILIPS",
     "nome": "LAMPADA FAROL TITAN H4 12V 35X35 PHILLIPS FIT",
-    "estoque": "347",
+    "estoque": "346",
     "preco": "28,51"
   },
   {
@@ -103036,7 +103036,7 @@
     "fabric": "TL001",
     "marca": "TMAC",
     "nome": "LAMPADA FAROL TITAN H4 12V 35X35 TMAC",
-    "estoque": "852",
+    "estoque": "851",
     "preco": "4,19"
   },
   {
@@ -103076,7 +103076,7 @@
     "fabric": "12499",
     "marca": "PHILIPS",
     "nome": "LAMPADA LANTERNA TRAS. 2 POLOS CG 125 FREIO PHILLIPS",
-    "estoque": "283",
+    "estoque": "282",
     "preco": "4,73"
   },
   {
@@ -103204,7 +103204,7 @@
     "fabric": "LF-01 SB",
     "marca": "STALLION",
     "nome": "LAMPADA LED FAROL TITAN H4 LED STALLION",
-    "estoque": "1547",
+    "estoque": "1247",
     "preco": "18,38"
   },
   {
@@ -103508,7 +103508,7 @@
     "fabric": "TL003",
     "marca": "TMAC",
     "nome": "LAMPADA PISCA CG 125 12X10W TMAC",
-    "estoque": "2897",
+    "estoque": "2893",
     "preco": "0,83"
   },
   {
@@ -105132,7 +105132,7 @@
     "fabric": "07077",
     "marca": "PLASMOTO",
     "nome": "LENTE PAINEL BIZ 125 06/08 PLASMOTO",
-    "estoque": "7",
+    "estoque": "6",
     "preco": "26,78"
   },
   {
@@ -106100,7 +106100,7 @@
     "fabric": "123079",
     "marca": "MOBIL",
     "nome": "LUBRIFICANTES MOTO 4T MOBIL 10W40 MX",
-    "estoque": "84",
+    "estoque": "83",
     "preco": "36,74"
   },
   {
@@ -106172,7 +106172,7 @@
     "fabric": "104071",
     "marca": "MOTUL",
     "nome": "LUBRIFICANTES MOTO 4T MOTUL 5100 10W30",
-    "estoque": "77",
+    "estoque": "74",
     "preco": "68,24"
   },
   {
@@ -106228,7 +106228,7 @@
     "fabric": "",
     "marca": "OXFORD",
     "nome": "LUBRIFICANTES MOTO 4T OXFORD 10W30",
-    "estoque": "10635",
+    "estoque": "10634",
     "preco": "20,99"
   },
   {
@@ -106244,7 +106244,7 @@
     "fabric": "23544",
     "marca": "REVOLUXX",
     "nome": "LUBRIFICANTES MOTO 4T REVOLUXX 20W50 MIXXON",
-    "estoque": "4738",
+    "estoque": "4736",
     "preco": "18,89"
   },
   {
@@ -106268,7 +106268,7 @@
     "fabric": "YP018",
     "marca": "YAMAHA",
     "nome": "LUBRIFICANTES MOTO 4T YAMALUBE 20W50",
-    "estoque": "523",
+    "estoque": "522",
     "preco": "44,63"
   },
   {
@@ -109996,7 +109996,7 @@
     "fabric": "P-1025",
     "marca": "PROTEC",
     "nome": "MANETE FREIO TITAN 125/150 FREIO A DISCO ES PROTEC",
-    "estoque": "148",
+    "estoque": "147",
     "preco": "6,83"
   },
   {
@@ -113348,7 +113348,7 @@
     "fabric": "TC3012",
     "marca": "TMAC",
     "nome": "MESA PORTA ESCOVA BIZ 125/BIZ 125 INJECAO ELETRÔNICA TMAC",
-    "estoque": "8",
+    "estoque": "7",
     "preco": "8,17"
   },
   {
@@ -113364,7 +113364,7 @@
     "fabric": "90203200",
     "marca": "MAGNETRON",
     "nome": "MESA PORTA ESCOVA CB 300/XRE 300/CRF 230F 2008 ED/CB 250 MAGNETRON",
-    "estoque": "59",
+    "estoque": "56",
     "preco": "55,98"
   },
   {
@@ -113476,7 +113476,7 @@
     "fabric": "90205020",
     "marca": "MAGNETRON",
     "nome": "MESA PORTA ESCOVA TITAN 150 / FAN 09 MAGNETRON",
-    "estoque": "2823",
+    "estoque": "2821",
     "preco": "10,49"
   },
   {
@@ -113524,7 +113524,7 @@
     "fabric": "90205001",
     "marca": "MAGNETRON",
     "nome": "MESA PORTA ESCOVA TITAN125ES/CBX/NX/XR200-150/TWISTER/FAZER 250 (KIT C/ANEIS) MAGNETRON",
-    "estoque": "47",
+    "estoque": "44",
     "preco": "19,46"
   },
   {
@@ -116700,7 +116700,7 @@
     "fabric": "KOI0363",
     "marca": "MOTOKOI",
     "nome": "MOTOR PARTIDA TITAN 160/ BROS 160/FAN 160 MOTOKOI",
-    "estoque": "21",
+    "estoque": "20",
     "preco": "115,49"
   },
   {
@@ -122580,7 +122580,7 @@
     "fabric": "304707",
     "marca": "MELC",
     "nome": "PARALAMA DIANT FAN 160 17/18 VERMELHO MELC (304707)",
-    "estoque": "8",
+    "estoque": "7",
     "preco": "57,31"
   },
   {
@@ -125436,7 +125436,7 @@
     "fabric": "PDM1362",
     "marca": "PANDAO",
     "nome": "PASTILHA FREIO BROS 160/BIZ 125/PCX 19 CBS DIANT PANDAO",
-    "estoque": "99",
+    "estoque": "89",
     "preco": "6,29"
   },
   {
@@ -125452,7 +125452,7 @@
     "fabric": "N1840",
     "marca": "COBREQ",
     "nome": "PASTILHA FREIO BROS 160/CB 250 TWISTER/CRF 250 2015/XRE 300 22 C/ABS TRASEIRA COBREQ N-1840",
-    "estoque": "1067",
+    "estoque": "1066",
     "preco": "28,88"
   },
   {
@@ -125524,7 +125524,7 @@
     "fabric": "PDM1364",
     "marca": "PANDAO",
     "nome": "PASTILHA FREIO CB 300 C/ABS 10/15/XRE300 C/ABS PANDAO",
-    "estoque": "29",
+    "estoque": "26",
     "preco": "8,39"
   },
   {
@@ -125564,7 +125564,7 @@
     "fabric": "PDM1365",
     "marca": "PANDAO",
     "nome": "PASTILHA FREIO CB 300 S.ABS/CB 500 F-X/XJ 6 09/12 TRAS PANDAO",
-    "estoque": "18",
+    "estoque": "16",
     "preco": "7,34"
   },
   {
@@ -125580,7 +125580,7 @@
     "fabric": "PDM1366",
     "marca": "PANDAO",
     "nome": "PASTILHA FREIO CB 300/XRE 300 C.ABS /CB 600 HORNET 2008 C. ABS DIANTEIRO PANDAO",
-    "estoque": "19",
+    "estoque": "17",
     "preco": "8,39"
   },
   {
@@ -126484,7 +126484,7 @@
     "fabric": "N946",
     "marca": "COBREQ",
     "nome": "PASTILHA FREIO LANDER XTZ / FAZER 250/TENERE 250 TRASEIRO COBREQ N-946",
-    "estoque": "154",
+    "estoque": "153",
     "preco": "25,96"
   },
   {
@@ -126668,7 +126668,7 @@
     "fabric": "PDM1372",
     "marca": "PANDAO",
     "nome": "PASTILHA FREIO TITAN 150 14/15 CBS/ TITAN 160 EX PANDAO",
-    "estoque": "92",
+    "estoque": "72",
     "preco": "6,29"
   },
   {
@@ -126764,7 +126764,7 @@
     "fabric": "FA375",
     "marca": "TMAC",
     "nome": "PASTILHA FREIO TITAN 150 PARTIR DE 2009 DIANT TMAC",
-    "estoque": "555",
+    "estoque": "405",
     "preco": "10,49"
   },
   {
@@ -126836,7 +126836,7 @@
     "fabric": "PDM1785",
     "marca": "PANDAO",
     "nome": "PASTILHA FREIO TITAN 160 TRAS PANDAO",
-    "estoque": "67",
+    "estoque": "62",
     "preco": "6,29"
   },
   {
@@ -126940,7 +126940,7 @@
     "fabric": "PDM1363",
     "marca": "PANDAO",
     "nome": "PASTILHA FREIO TWISTER 16/22/CB 600 08 PANDAO",
-    "estoque": "19",
+    "estoque": "17",
     "preco": "8,39"
   },
   {
@@ -127012,7 +127012,7 @@
     "fabric": "PDM1380",
     "marca": "PANDAO",
     "nome": "PASTILHA FREIO XR 250 91/97/XR250 90/95 PANDAO",
-    "estoque": "29",
+    "estoque": "26",
     "preco": "6,29"
   },
   {
@@ -127164,7 +127164,7 @@
     "fabric": "PDM1393",
     "marca": "PANDAO",
     "nome": "PASTILHA FREIO YBR FACTOR 150 16/FAZER 150 DIANTEIRO PANDAO",
-    "estoque": "88",
+    "estoque": "83",
     "preco": "6,29"
   },
   {
@@ -127228,7 +127228,7 @@
     "fabric": "PDM1370",
     "marca": "PANDAO",
     "nome": "PASTILHA FREIO YBR/TWISTER/CB 300/NINJA 250 DIANTEIRO PANDAO",
-    "estoque": "197",
+    "estoque": "187",
     "preco": "6,29"
   },
   {
@@ -128132,7 +128132,7 @@
     "fabric": "KOI-00100 B",
     "marca": "MOTOKOI BR",
     "nome": "PATIM FREIO TITAN 00/TITAN 150 0,50 DIANT/TRAS MOTOKOI BR",
-    "estoque": "675",
+    "estoque": "674",
     "preco": "15,74"
   },
   {
@@ -129876,7 +129876,7 @@
     "fabric": "PDM2885",
     "marca": "PANDAO",
     "nome": "PEDAL FREIO TITAN 150 PANDAO",
-    "estoque": "99",
+    "estoque": "89",
     "preco": "18,89"
   },
   {
@@ -131756,7 +131756,7 @@
     "fabric": "HB03.114",
     "marca": "VAZ",
     "nome": "PINHAO TITAN 150 / FAN 125 2009 14D VAZ - HB03114",
-    "estoque": "46",
+    "estoque": "45",
     "preco": "12,08"
   },
   {
@@ -132964,7 +132964,7 @@
     "fabric": "6598/1598",
     "marca": "GVS",
     "nome": "PISCA CG-83/TITAN 99 D/D D/E LARANJA S/ COXIM S/LAMPADA GVS",
-    "estoque": "30",
+    "estoque": "28",
     "preco": "16,79"
   },
   {
@@ -132972,7 +132972,7 @@
     "fabric": "1597",
     "marca": "GVS",
     "nome": "PISCA CG-83/TITAN 99 T/D T/E LARANJA C/ COXIM S/LAMPADA GVS",
-    "estoque": "99",
+    "estoque": "97",
     "preco": "17,33"
   },
   {
@@ -139076,7 +139076,7 @@
     "fabric": "90241010",
     "marca": "MAGNETRON",
     "nome": "PLACA PARTIDA TITAN [00-02] /TWISTER/ XR200/CRF230/STRADA/TORNADO MAGNETRON",
-    "estoque": "4",
+    "estoque": "2",
     "preco": "162,29"
   },
   {
@@ -141076,7 +141076,7 @@
     "fabric": "100649",
     "marca": "MAGGION",
     "nome": "PNEU TRAS 90/90-18 MAGGION WINNER TT",
-    "estoque": "515",
+    "estoque": "514",
     "preco": "141,74"
   },
   {
@@ -145436,7 +145436,7 @@
     "fabric": "90235020",
     "marca": "MAGNETRON",
     "nome": "PUNHO LUZ TITAN 150 ES/ESD- FAN 125 ES 09 / FAN 150 ESI MAGNETRON",
-    "estoque": "29",
+    "estoque": "27",
     "preco": "71,55"
   },
   {
@@ -145492,7 +145492,7 @@
     "fabric": "PDM2371",
     "marca": "PANDAO",
     "nome": "PUNHO LUZ TITAN 150 KS 04/08/FAN 125 KS 09/13 PANDAO",
-    "estoque": "49",
+    "estoque": "44",
     "preco": "19,94"
   },
   {
@@ -148452,7 +148452,7 @@
     "fabric": "1103",
     "marca": "MS EXTENSOR",
     "nome": "REDE ELASTICA PRETO 42 X 42 MS EXTENSOR",
-    "estoque": "69",
+    "estoque": "68",
     "preco": "12,59"
   },
   {
@@ -149444,7 +149444,7 @@
     "fabric": "90271370",
     "marca": "MAGNETRON",
     "nome": "REGULADOR /RETIFICADOR TITAN 150 / NXR 150 BROS 06 / FAN 09  MAGNETRON",
-    "estoque": "12",
+    "estoque": "10",
     "preco": "81,18"
   },
   {
@@ -149844,7 +149844,7 @@
     "fabric": "90280500",
     "marca": "MAGNETRON",
     "nome": "RELE PARTIDA CB 300R/CB 250F TWISTER MAGNETRON",
-    "estoque": "8",
+    "estoque": "6",
     "preco": "46,85"
   },
   {
@@ -150076,7 +150076,7 @@
     "fabric": "90280051",
     "marca": "MAGNETRON",
     "nome": "RELE PARTIDA TITAN ES/CG 150 04-08/XLR 125/BROS 125 ES 03-04/BROS 150 08 MAGNETRON",
-    "estoque": "83",
+    "estoque": "79",
     "preco": "41,99"
   },
   {
@@ -150084,7 +150084,7 @@
     "fabric": "PDM0313",
     "marca": "PANDAO",
     "nome": "RELE PARTIDA TITAN ES/CG 150 04-08/XLR 125/BROS 125 ES 03-04/BROS 150 08 PANDAO",
-    "estoque": "100",
+    "estoque": "90",
     "preco": "16,79"
   },
   {
@@ -150108,7 +150108,7 @@
     "fabric": "90280490",
     "marca": "MAGNETRON",
     "nome": "RELE PARTIDA TITAN/FAN/BROS/150-BIZ/FAN/BROS-13 125-CG 160 INJECAO ELETRÔNICA MAGNETRON",
-    "estoque": "41",
+    "estoque": "38",
     "preco": "45,86"
   },
   {
@@ -150220,7 +150220,7 @@
     "fabric": "90280480",
     "marca": "MAGNETRON",
     "nome": "RELE PARTIDA XTZ 250 LANDER/FAZER 250/ XTZ 250Z TENERE MAGNETRON",
-    "estoque": "10",
+    "estoque": "9",
     "preco": "68,25"
   },
   {
@@ -150244,7 +150244,7 @@
     "fabric": "90280340",
     "marca": "MAGNETRON",
     "nome": "RELE PARTIDA YBR E-ED/ FACTOR/ XTZ 125E / XTZ 125X MAGNETRON",
-    "estoque": "5",
+    "estoque": "4",
     "preco": "68,25"
   },
   {
@@ -150260,7 +150260,7 @@
     "fabric": "90280470",
     "marca": "MAGNETRON",
     "nome": "RELE PARTIDA YES 125 MAGNETRON",
-    "estoque": "8",
+    "estoque": "6",
     "preco": "44,24"
   },
   {
@@ -150436,7 +150436,7 @@
     "fabric": "PDM0346",
     "marca": "PANDAO",
     "nome": "RELE PISCA ELETRONICO 125 92/04 - 3 PINOS PANDAO",
-    "estoque": "50",
+    "estoque": "40",
     "preco": "7,34"
   },
   {
@@ -150644,7 +150644,7 @@
     "fabric": "90226170",
     "marca": "MAGNETRON",
     "nome": "RELE PISCA YBR 125 FACTOR/ FAZER 250 / XTZ 250 LANDER/ XTZ 250Z TENERE MAGNETRON",
-    "estoque": "5",
+    "estoque": "4",
     "preco": "30,32"
   },
   {
@@ -151996,7 +151996,7 @@
     "fabric": "1101875",
     "marca": "MOTOPORT",
     "nome": "RETENTOR BENGALA CB300R/FAZER 25 MOTOPORT (+GUARDA PO)",
-    "estoque": "110",
+    "estoque": "108",
     "preco": "10,49"
   },
   {
@@ -153300,7 +153300,7 @@
     "fabric": "M739000GB4683",
     "marca": "VEDAMOTORS",
     "nome": "RETENTOR HASTE VALVULA TWISTER/TITAN 150/TITAN 2002/BIZ VEDAMOTORS (PAR)",
-    "estoque": "125",
+    "estoque": "124",
     "preco": "10,49"
   },
   {
@@ -154844,7 +154844,7 @@
     "fabric": "4836/2998",
     "marca": "GVS",
     "nome": "RETROVISOR CG/ML 83/85 (PAR) GVS",
-    "estoque": "22",
+    "estoque": "21",
     "preco": "37,8"
   },
   {
@@ -155980,7 +155980,7 @@
     "fabric": "1458",
     "marca": "NEXTPART",
     "nome": "RETROVISOR TITAN 150 PAR NEXPART",
-    "estoque": "3321",
+    "estoque": "3320",
     "preco": "16,79"
   },
   {
@@ -156732,7 +156732,7 @@
     "fabric": "KOI0399",
     "marca": "MOTOKOI",
     "nome": "ROLAMENTO 6203 RODA TRAS NX/XR/ XLR/ DREAN S/BLIND MOTOKOI",
-    "estoque": "85",
+    "estoque": "83",
     "preco": "4,73"
   },
   {
@@ -158140,7 +158140,7 @@
     "fabric": "PDM2405",
     "marca": "PANDAO",
     "nome": "SENSOR HÍBRIDO BIZ 110I/POP 110I/START 160 16 ED PANDAO",
-    "estoque": "21",
+    "estoque": "19",
     "preco": "25,19"
   },
   {
@@ -158508,7 +158508,7 @@
     "fabric": "PDM1100",
     "marca": "PANDAO",
     "nome": "SENSOR OXIGENIO BROS 150 11/14/XRE 300 10/15 PANDAO",
-    "estoque": "20",
+    "estoque": "18",
     "preco": "88,2"
   },
   {
@@ -158844,7 +158844,7 @@
     "fabric": "90224020",
     "marca": "MAGNETRON",
     "nome": "SENSOR TEMPERATURA TITAN 150 09 ED/TITAN 160/BROS 160/BIZ 125 09 ED/BIZ 110/CB 300/CB 250/FAZER 150/CROSSER 150... MAGNETRON",
-    "estoque": "6",
+    "estoque": "4",
     "preco": "66,01"
   },
   {
@@ -159444,7 +159444,7 @@
     "fabric": "TC1203",
     "marca": "TMAC",
     "nome": "SOQUETE FAROL BIZ 125 05/08 TMAC (TERMINAL MACHO)",
-    "estoque": "183",
+    "estoque": "182",
     "preco": "6,48"
   },
   {
@@ -160844,7 +160844,7 @@
     "fabric": "PDM1452",
     "marca": "PANDAO",
     "nome": "SUPORTE PARALAMA DIANT FAN 125 2009 PANDAO",
-    "estoque": "50",
+    "estoque": "45",
     "preco": "17,33"
   },
   {
@@ -160972,7 +160972,7 @@
     "fabric": "PDM1456",
     "marca": "PANDAO",
     "nome": "SUPORTE PARALAMA DIANT TITAN 150/TITAN 160 14/24/START 160 PANDAO",
-    "estoque": "48",
+    "estoque": "43",
     "preco": "13,13"
   },
   {
@@ -164628,7 +164628,7 @@
     "fabric": "90260801",
     "marca": "MAGNETRON",
     "nome": "TAMPA TANQUE TITAN 125/150 / STRADA / TWISTER  INOX MAGNETRON",
-    "estoque": "23",
+    "estoque": "18",
     "preco": "52,16"
   },
   {
@@ -164692,7 +164692,7 @@
     "fabric": "90261060",
     "marca": "MAGNETRON",
     "nome": "TAMPA TANQUE YBR 125 05 ED/XTZ 06/FAZER/LANDER MAGNETRON",
-    "estoque": "9",
+    "estoque": "5",
     "preco": "36,04"
   },
   {
@@ -165316,7 +165316,7 @@
     "fabric": "TC4510",
     "marca": "TMAC",
     "nome": "TENSOR CORRENTE COMANDO TITAN 150 TMAC",
-    "estoque": "43",
+    "estoque": "42",
     "preco": "11,73"
   },
   {
@@ -167964,7 +167964,7 @@
     "fabric": "23010",
     "marca": "MOTOBOR",
     "nome": "VARAO FREIO TITAN 160 16/20 MOTOBOR",
-    "estoque": "34",
+    "estoque": "33",
     "preco": "13,15"
   },
   {
@@ -168292,7 +168292,7 @@
     "fabric": "90222610",
     "marca": "MAGNETRON",
     "nome": "VELA DAFRA APACHE 150  B8RD MAGNETRON",
-    "estoque": "9",
+    "estoque": "8",
     "preco": "20,79"
   },
   {
@@ -168604,7 +168604,7 @@
     "fabric": "90222100",
     "marca": "MAGNETRON",
     "nome": "VELA TWISTER/TORNADO/CB 500/HORNET B8RH-9 MAGNETRON",
-    "estoque": "4",
+    "estoque": "2",
     "preco": "15,9"
   },
   {
@@ -168652,7 +168652,7 @@
     "fabric": "90222040",
     "marca": "MAGNETRON",
     "nome": "VELA YBR/DREAM/CRYPTON  A7C MAGNETRON",
-    "estoque": "8",
+    "estoque": "7",
     "preco": "13,66"
   },
   {
@@ -168660,7 +168660,7 @@
     "fabric": "90222080",
     "marca": "MAGNETRON",
     "nome": "VELA YBR/XTZ 125  A7RC MAGNETRON",
-    "estoque": "5",
+    "estoque": "3",
     "preco": "10,49"
   },
   {
@@ -168676,7 +168676,7 @@
     "fabric": "90222480",
     "marca": "MAGNETRON",
     "nome": "VELA YES 07 ED/INTRUDER 125 07 ED B8RC MAGNETRON",
-    "estoque": "6",
+    "estoque": "4",
     "preco": "6,29"
   },
   {
@@ -168684,7 +168684,7 @@
     "fabric": "90222481",
     "marca": "MAGNETRON",
     "nome": "VELA YES 07 ED/INTRUDER 125 07 ED B8RIP MAGNETRON IRIDIUM",
-    "estoque": "7",
+    "estoque": "5",
     "preco": "46,96"
   },
   {
@@ -170652,7 +170652,7 @@
     "fabric": "1703C",
     "marca": "POLIVISOR",
     "nome": "VISEIRA MT /THUNDER /BLADE CRISTAL POLIVISOR",
-    "estoque": "6",
+    "estoque": "4",
     "preco": "36,75"
   },
   {
