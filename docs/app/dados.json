@@ -1820,7 +1820,7 @@
     "fabric": "109590",
     "marca": "MOTUL",
     "nome": "ADITIVO P/ RADIADOR MOTUL MOTOCOOL EXPERT -37ºC",
-    "estoque": "97",
+    "estoque": "94",
     "preco": "41,99"
   },
   {
@@ -1940,7 +1940,7 @@
     "fabric": "TC802",
     "marca": "TMAC",
     "nome": "AGULHA BOIA C/ SEDE CG/ML/TU ECCO TMAC",
-    "estoque": "17",
+    "estoque": "2",
     "preco": "4,73"
   },
   {
@@ -3956,7 +3956,7 @@
     "fabric": "TM1050",
     "marca": "TMAC",
     "nome": "ANEL ESCAPAMENTO CG/ML/TUR/XL TMAC",
-    "estoque": "744",
+    "estoque": "694",
     "preco": "0,58"
   },
   {
@@ -5044,7 +5044,7 @@
     "fabric": "TC061",
     "marca": "TMAC",
     "nome": "ARO RODA 1.60 X 14 BIZ TRAS TMAC",
-    "estoque": "10",
+    "estoque": "7",
     "preco": "76,13"
   },
   {
@@ -8268,7 +8268,7 @@
     "fabric": "MTX6L-BS",
     "marca": "MOTOKOI BR",
     "nome": "BATERIA BIZ / FAN 125 ES 09/TITAN150 MIX 09 ED MTX6L-BS MOTOKOI",
-    "estoque": "707",
+    "estoque": "706",
     "preco": "124,07"
   },
   {
@@ -12580,7 +12580,7 @@
     "fabric": "TM571",
     "marca": "TMAC",
     "nome": "BOBINA IGNICAO TITAN 95/99 TMAC",
-    "estoque": "6",
+    "estoque": "4",
     "preco": "23,63"
   },
   {
@@ -32156,7 +32156,7 @@
     "fabric": "KOI0168",
     "marca": "MOTOKOI",
     "nome": "CAMARA DE AR DIANT/TRAS CG MOTOKOI 18",
-    "estoque": "1082",
+    "estoque": "1081",
     "preco": "17,33"
   },
   {
@@ -63100,7 +63100,7 @@
     "fabric": "TM0508",
     "marca": "TMAC",
     "nome": "CILINDRO MESTRE FREIO CB 300 TRAS ( BURRINHO ) TMAC",
-    "estoque": "2",
+    "estoque": "1",
     "preco": "87,38"
   },
   {
@@ -66668,7 +66668,7 @@
     "fabric": "HA17.448T",
     "marca": "VAZ",
     "nome": "COROA TORNADO P/ TRILHA 48D VAZ - HA17.448T",
-    "estoque": "44",
+    "estoque": "43",
     "preco": "68,25"
   },
   {
@@ -72140,7 +72140,7 @@
     "fabric": "PDM0619",
     "marca": "PANDAO",
     "nome": "EIXO ABRE PATIM TRAS TITAN 150 PANDAO",
-    "estoque": "17",
+    "estoque": "14",
     "preco": "5,78"
   },
   {
@@ -80188,7 +80188,7 @@
     "fabric": "TM0975",
     "marca": "TMAC",
     "nome": "ESTICADOR CORRENTE TITAN TMAC",
-    "estoque": "377",
+    "estoque": "367",
     "preco": "2,09"
   },
   {
@@ -85148,7 +85148,7 @@
     "fabric": "TM0577",
     "marca": "TMAC",
     "nome": "FUSIVEL 10A LAMINA MINI TMAC",
-    "estoque": "9555",
+    "estoque": "9535",
     "preco": "0,68"
   },
   {
@@ -85220,7 +85220,7 @@
     "fabric": "TM0578",
     "marca": "TMAC",
     "nome": "FUSIVEL 15A LAMINA MINI TMAC",
-    "estoque": "9571",
+    "estoque": "9551",
     "preco": "0,68"
   },
   {
@@ -96084,7 +96084,7 @@
     "fabric": "TM014",
     "marca": "TMAC",
     "nome": "JOGO RAIO DIANT TITAN 2000/150 ES 4MM DISCO TMAC",
-    "estoque": "116",
+    "estoque": "111",
     "preco": "31,49"
   },
   {
@@ -100836,7 +100836,7 @@
     "fabric": "H00010XS",
     "marca": "VAZ",
     "nome": "KIT TRANSMISSAO BIZ 100 VAZ (35/15/428HX108L)",
-    "estoque": "91",
+    "estoque": "90",
     "preco": "62,99"
   },
   {
@@ -101524,7 +101524,7 @@
     "fabric": "H03868XS",
     "marca": "VAZ",
     "nome": "KIT TRANSMISSAO FAN 125 09 VAZ (43/14/428HX116L) H03868XS",
-    "estoque": "615",
+    "estoque": "613",
     "preco": "62,99"
   },
   {
@@ -101580,7 +101580,7 @@
     "fabric": "Y04576XS",
     "marca": "VAZ",
     "nome": "KIT TRANSMISSAO FAZER 150 VAZ (41/14/428HX126L) Y04576XS (6 FUROS)",
-    "estoque": "97",
+    "estoque": "95",
     "preco": "93,45"
   },
   {
@@ -102140,7 +102140,7 @@
     "fabric": "H03673XS",
     "marca": "VAZ",
     "nome": "KIT TRANSMISSAO TITAN 150 VAZ (43/16/428HX118L) H03673XS",
-    "estoque": "3643",
+    "estoque": "3640",
     "preco": "62,99"
   },
   {
@@ -102172,7 +102172,7 @@
     "fabric": "001-KOI-037H0",
     "marca": "MOTOKOI",
     "nome": "KIT TRANSMISSAO TITAN 160 MOTOKOI (44/15/428HX118L)",
-    "estoque": "67",
+    "estoque": "66",
     "preco": "57,74"
   },
   {
@@ -102268,7 +102268,7 @@
     "fabric": "H01190XS",
     "marca": "VAZ",
     "nome": "KIT TRANSMISSAO TITAN 2000 VAZ (44/14/428HX116) H01190XS",
-    "estoque": "482",
+    "estoque": "480",
     "preco": "62,99"
   },
   {
@@ -102316,7 +102316,7 @@
     "fabric": "H01104XS",
     "marca": "VAZ",
     "nome": "KIT TRANSMISSAO TITAN 99 VAZ (43/14/428HX116) H01104XS",
-    "estoque": "431",
+    "estoque": "430",
     "preco": "62,99"
   },
   {
@@ -102684,7 +102684,7 @@
     "fabric": "Y04260XS",
     "marca": "VAZ",
     "nome": "KIT TRANSMISSAO YBR 125 03/08/FACTOR 125 03/16 VAZ (45/14/428HX118L) Y04260XS",
-    "estoque": "201",
+    "estoque": "199",
     "preco": "62,99"
   },
   {
@@ -106132,7 +106132,7 @@
     "fabric": "121708",
     "marca": "MOBIL",
     "nome": "LUBRIFICANTES MOTO 4T MOBIL 20W50",
-    "estoque": "8069",
+    "estoque": "7949",
     "preco": "31,49"
   },
   {
@@ -127172,7 +127172,7 @@
     "fabric": "PDM1393",
     "marca": "PANDAO",
     "nome": "PASTILHA FREIO YBR FACTOR 150 16/FAZER 150 DIANTEIRO PANDAO",
-    "estoque": "83",
+    "estoque": "68",
     "preco": "6,29"
   },
   {
@@ -130460,7 +130460,7 @@
     "fabric": "KOI0393",
     "marca": "MOTOKOI",
     "nome": "PEDAL PARTIDA TITAN150 04-08/BROS 06-12/FAN125 09-13 MOTOKOI",
-    "estoque": "54",
+    "estoque": "50",
     "preco": "20,99"
   },
   {
@@ -131844,7 +131844,7 @@
     "fabric": "HB17.112",
     "marca": "VAZ",
     "nome": "PINHAO TORNADO/TWISTER 12D VAZ HB17.112",
-    "estoque": "19",
+    "estoque": "18",
     "preco": "20,99"
   },
   {
@@ -131868,7 +131868,7 @@
     "fabric": "HB17.113",
     "marca": "VAZ",
     "nome": "PINHAO TORNADO/TWISTER 13D VAZ - HB17.113",
-    "estoque": "8",
+    "estoque": "7",
     "preco": "26,5"
   },
   {
@@ -139916,7 +139916,7 @@
     "fabric": "100648",
     "marca": "MAGGION",
     "nome": "PNEU DIANT 2.75-18 MAGGION WINNER TT",
-    "estoque": "24",
+    "estoque": "23",
     "preco": "125,98"
   },
   {
@@ -141060,7 +141060,7 @@
     "fabric": "15353",
     "marca": "LEVORIN",
     "nome": "PNEU TRAS 90/90-18 LEVORIN MATRIX",
-    "estoque": "2757",
+    "estoque": "2756",
     "preco": "230,99"
   },
   {
@@ -154420,7 +154420,7 @@
     "fabric": "4338",
     "marca": "GVS",
     "nome": "RETROVISOR BIZ 125 18/21 GVS (PAR) ROSCA INVERSA 9MM",
-    "estoque": "47",
+    "estoque": "46",
     "preco": "38,84"
   },
   {
@@ -167860,7 +167860,7 @@
     "fabric": "PDM2721",
     "marca": "PANDAO",
     "nome": "VARAO FREIO FAZER 150 /FACTOR 125I ED/FACTOR 150 PANDAO",
-    "estoque": "10",
+    "estoque": "7",
     "preco": "7,88"
   },
   {
@@ -169596,7 +169596,7 @@
     "fabric": "4000183",
     "marca": "EBF",
     "nome": "VISEIRA EBF E0X/NEW SPARK INJ 2,00 MM EBF",
-    "estoque": "16",
+    "estoque": "15",
     "preco": "39,38"
   },
   {
