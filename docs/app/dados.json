@@ -8404,7 +8404,7 @@
     "fabric": "MTX7L-BS",
     "marca": "MOTOKOI BR",
     "nome": "BATERIA TWISTER/BROS 150/HUNTER/FALCON/INTRUDER/TITAN150 ES/ESD MTX7L-BS MOTOKOI",
-    "estoque": "190",
+    "estoque": "189",
     "preco": "145,92"
   },
   {
@@ -130764,7 +130764,7 @@
     "fabric": "MMB0022",
     "marca": "MEGA MOTO",
     "nome": "PEDALEIRA FAZER DIANT/DIR POLIDA MEGAMOTO",
-    "estoque": "0",
+    "estoque": "5",
     "preco": "41,48"
   },
   {
@@ -130780,7 +130780,7 @@
     "fabric": "MMB0021",
     "marca": "MEGA MOTO",
     "nome": "PEDALEIRA FAZER DIANT/ESQU MEGAMOTO",
-    "estoque": "0",
+    "estoque": "5",
     "preco": "41,48"
   },
   {
@@ -130868,7 +130868,7 @@
     "fabric": "MMB0035",
     "marca": "MEGA MOTO",
     "nome": "PEDALEIRA TITAN 160/FAN 160 16/24/CB 250F 16/22 DIR MEGAMOTO",
-    "estoque": "0",
+    "estoque": "5",
     "preco": "24,96"
   },
   {
@@ -130876,7 +130876,7 @@
     "fabric": "MMB0034",
     "marca": "MEGA MOTO",
     "nome": "PEDALEIRA TITAN 160/FAN 160 16/24/CB 250F 16/22 ESQ MEGAMOTO",
-    "estoque": "0",
+    "estoque": "5",
     "preco": "24,96"
   },
   {
@@ -131020,7 +131020,7 @@
     "fabric": "MMB0061",
     "marca": "MEGA MOTO",
     "nome": "PEDALEIRA TRAS FAZER 250 05/08 (PAR)",
-    "estoque": "0",
+    "estoque": "8",
     "preco": "43,58"
   },
   {
@@ -131028,7 +131028,7 @@
     "fabric": "MMB0062",
     "marca": "MEGA MOTO",
     "nome": "PEDALEIRA TRAS FAZER 250 09/20 (PAR)",
-    "estoque": "0",
+    "estoque": "8",
     "preco": "43,58"
   },
   {
@@ -131036,7 +131036,7 @@
     "fabric": "MMB0024",
     "marca": "MEGA MOTO",
     "nome": "PEDALEIRA TWISTER TRAS  DIANT/DIR MEGAMOTO",
-    "estoque": "0",
+    "estoque": "30",
     "preco": "20,48"
   },
   {
@@ -131044,7 +131044,7 @@
     "fabric": "MMB0023",
     "marca": "MEGA MOTO",
     "nome": "PEDALEIRA TWISTER TRAS  DIANT/ESQ MEGAMOTO",
-    "estoque": "0",
+    "estoque": "40",
     "preco": "20,48"
   },
   {
@@ -131124,7 +131124,7 @@
     "fabric": "MMB0109",
     "marca": "MEGA MOTO",
     "nome": "PEDALEIRA YBR 125 00/08 -FACTOR 125 09/18 L/D MEGA MOTO",
-    "estoque": "0",
+    "estoque": "20",
     "preco": "19,43"
   },
   {
@@ -131132,7 +131132,7 @@
     "fabric": "MMB0108",
     "marca": "MEGA MOTO",
     "nome": "PEDALEIRA YBR 125 00/08 -FACTOR 125 09/18 L/E  MEGA MOTO",
-    "estoque": "0",
+    "estoque": "20",
     "preco": "19,43"
   },
   {
@@ -131172,7 +131172,7 @@
     "fabric": "MMB0104",
     "marca": "MEGA MOTO",
     "nome": "PEDALEIRA YES TRASEIRA MEGA MOTO",
-    "estoque": "0",
+    "estoque": "10",
     "preco": "17,84"
   },
   {
@@ -136509,7 +136509,7 @@
     "marca": "METAL LEVE",
     "nome": "PISTAO FAN 125 09 ED STD METAL LEVE",
     "estoque": "3",
-    "preco": "124,65"
+    "preco": "152,25"
   },
   {
     "codigo": "40311",
@@ -143172,7 +143172,7 @@
     "fabric": "MMB0322",
     "marca": "MEGA MOTO",
     "nome": "PROTETOR ESCAPAMENTO CB 250F 16/22 PRETO MEGA MOTO",
-    "estoque": "0",
+    "estoque": "2",
     "preco": "68,25"
   },
   {
@@ -143452,7 +143452,7 @@
     "fabric": "MMB0213",
     "marca": "MEGA MOTO",
     "nome": "PROTETOR ESCAPAMENTO TITAN 160 CROMADO  MEGA MOTO",
-    "estoque": "0",
+    "estoque": "5",
     "preco": "93,45"
   },
   {
@@ -143460,7 +143460,7 @@
     "fabric": "MMB0214",
     "marca": "MEGA MOTO",
     "nome": "PROTETOR ESCAPAMENTO TITAN 160 PRETO MEGA MOTO",
-    "estoque": "0",
+    "estoque": "5",
     "preco": "61,94"
   },
   {
@@ -159804,7 +159804,7 @@
     "fabric": "MMB0084",
     "marca": "MEGA MOTO",
     "nome": "SUPORTE ADAPTADOR PARALAMA INF XRE 300/BROS 125/150/160 FREIO A DISCO MEGA MOTO",
-    "estoque": "0",
+    "estoque": "5",
     "preco": "27,29"
   },
   {
@@ -159812,7 +159812,7 @@
     "fabric": "MMB0085",
     "marca": "MEGA MOTO",
     "nome": "SUPORTE ADAPTADOR PARALAMA INF XRE 300/BROS 125/150/160 FREIO A TAMBOR MEGA MOTO",
-    "estoque": "0",
+    "estoque": "5",
     "preco": "27,29"
   },
   {
@@ -160940,7 +160940,7 @@
     "fabric": "MMB0008",
     "marca": "MEGA MOTO",
     "nome": "SUPORTE PARALAMA DIANT TITAN 150 2009 MEGA MOTO",
-    "estoque": "0",
+    "estoque": "50",
     "preco": "17,84"
   },
   {
@@ -160996,7 +160996,7 @@
     "fabric": "MMB0009",
     "marca": "MEGA MOTO",
     "nome": "SUPORTE PARALAMA DIANT TITAN 150/TITAN 160/FAN 150 14 MEGA MOTO",
-    "estoque": "0",
+    "estoque": "50",
     "preco": "17,84"
   },
   {
@@ -161044,7 +161044,7 @@
     "fabric": "MMB0053",
     "marca": "MEGA MOTO",
     "nome": "SUPORTE PARALAMA DIANT TITAN 2000 MEGA MOTO",
-    "estoque": "0",
+    "estoque": "50",
     "preco": "14,69"
   },
   {
@@ -161092,7 +161092,7 @@
     "fabric": "MMB0083",
     "marca": "MEGA MOTO",
     "nome": "SUPORTE PARALAMA DIANT YBR 09/20/FACTOR 150 16 ED MEGA MOTO",
-    "estoque": "0",
+    "estoque": "5",
     "preco": "24,15"
   },
   {
@@ -161508,7 +161508,7 @@
     "fabric": "MMB2507/RR",
     "marca": "MEGA MOTO",
     "nome": "SUPORTE PLACA (PADRAO ANTIGO) FERRO MEGA MOTO",
-    "estoque": "0",
+    "estoque": "100",
     "preco": "10,49"
   },
   {
@@ -161532,7 +161532,7 @@
     "fabric": "MMB3005/RR",
     "marca": "MEGA MOTO",
     "nome": "SUPORTE PLACA (PADRAO NOVO) FERRO 167MMX196MM MEGA MOTO",
-    "estoque": "0",
+    "estoque": "100",
     "preco": "10,49"
   },
   {
