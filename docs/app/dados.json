@@ -2996,7 +2996,7 @@
     "fabric": "TM971 / TM 97",
     "marca": "TMAC",
     "nome": "AMORTECEDOR BIZ 100/BIZ 125 TMAC (PAR)",
-    "estoque": "131",
+    "estoque": "130",
     "preco": "141,75"
   },
   {
@@ -8348,7 +8348,7 @@
     "fabric": "00810B",
     "marca": "RAIOM",
     "nome": "BATERIA CBX/NX/XR200/SAHA RTX8-BS RAIOM",
-    "estoque": "3",
+    "estoque": "2",
     "preco": "203,33"
   },
   {
@@ -8404,7 +8404,7 @@
     "fabric": "MTX7L-BS",
     "marca": "MOTOKOI BR",
     "nome": "BATERIA TWISTER/BROS 150/HUNTER/FALCON/INTRUDER/TITAN150 ES/ESD MTX7L-BS MOTOKOI",
-    "estoque": "189",
+    "estoque": "188",
     "preco": "145,92"
   },
   {
@@ -32036,7 +32036,7 @@
     "fabric": "KOI0167",
     "marca": "MOTOKOI",
     "nome": "CAMARA DE AR DIANT BIZ MOTOKOI (250-17)",
-    "estoque": "353",
+    "estoque": "352",
     "preco": "14,16"
   },
   {
@@ -32164,7 +32164,7 @@
     "fabric": "KOI0168",
     "marca": "MOTOKOI",
     "nome": "CAMARA DE AR DIANT/TRAS CG MOTOKOI 18",
-    "estoque": "925",
+    "estoque": "924",
     "preco": "14,69"
   },
   {
@@ -32276,7 +32276,7 @@
     "fabric": "KOI0169",
     "marca": "MOTOKOI",
     "nome": "CAMARA DE AR TRAS BIZ MOTOKOI R14",
-    "estoque": "928",
+    "estoque": "923",
     "preco": "14,16"
   },
   {
@@ -32348,7 +32348,7 @@
     "fabric": "KOI0290",
     "marca": "MOTOKOI",
     "nome": "CAMARA DE AR TRAS TORNADO/XT/CB MOTOKOI 4.10-18 120/80-18",
-    "estoque": "122",
+    "estoque": "121",
     "preco": "18,89"
   },
   {
@@ -32388,7 +32388,7 @@
     "fabric": "KOI0289",
     "marca": "MOTOKOI",
     "nome": "CAMARA DE AR TRAS TWISTER/BROS/FALCON MOTOKOI (4.00-R17)",
-    "estoque": "123",
+    "estoque": "122",
     "preco": "20,99"
   },
   {
@@ -42148,7 +42148,7 @@
     "fabric": "1250056BCO",
     "marca": "EBF",
     "nome": "CAPACETE EBF SPARK JET SOLID BRANCO 56",
-    "estoque": "8",
+    "estoque": "7",
     "preco": "131,25"
   },
   {
@@ -45956,7 +45956,7 @@
     "fabric": "MCAP-456GR",
     "marca": "MIXS",
     "nome": "CAPACETE MIXS MX2 STORM PRETO FOSCO/CINZA 58",
-    "estoque": "2",
+    "estoque": "1",
     "preco": "180,6"
   },
   {
@@ -47172,7 +47172,7 @@
     "fabric": "10013434",
     "marca": "TAURUS",
     "nome": "CAPACETE TAURUS SAN MARINO PRETO 60",
-    "estoque": "103",
+    "estoque": "102",
     "preco": "178,49"
   },
   {
@@ -70004,7 +70004,7 @@
     "fabric": "TM374",
     "marca": "TMAC",
     "nome": "DIAFRAGMA PISTONETE FACTOR 125 09/XTZ 125 09/14 COMPLETO TMAC",
-    "estoque": "32",
+    "estoque": "31",
     "preco": "29,48"
   },
   {
@@ -86892,7 +86892,7 @@
     "fabric": "VE990081115AT",
     "marca": "VEDAMOTORS",
     "nome": "GUARNICAO CUBA CARBURADOR FACTOR 125 VEDAMOTORS",
-    "estoque": "21",
+    "estoque": "20",
     "preco": "4,19"
   },
   {
@@ -89468,7 +89468,7 @@
     "fabric": "100401501",
     "marca": "POLIMET",
     "nome": "GUIDAO TITAN 150 04/08 CROMADO POLIMET C/PESO",
-    "estoque": "17",
+    "estoque": "16",
     "preco": "57,75"
   },
   {
@@ -92436,7 +92436,7 @@
     "fabric": "TC2035",
     "marca": "TMAC",
     "nome": "INTERRUPTOR STOP FREIO TITAN 2000 ES/KS/TITAN/FAN 150/160/CG 125 2009/. TRAS TMAC",
-    "estoque": "35",
+    "estoque": "34",
     "preco": "5,78"
   },
   {
@@ -101540,7 +101540,7 @@
     "fabric": "001-KOI-070H0",
     "marca": "MOTOKOI",
     "nome": "KIT TRANSMISSAO FAN 125 14/16 MOTOKOI (43/14/428HX118L)",
-    "estoque": "216",
+    "estoque": "215",
     "preco": "57,74"
   },
   {
@@ -102148,7 +102148,7 @@
     "fabric": "H03673XS",
     "marca": "VAZ",
     "nome": "KIT TRANSMISSAO TITAN 150 VAZ (43/16/428HX118L) H03673XS",
-    "estoque": "3590",
+    "estoque": "3589",
     "preco": "62,99"
   },
   {
@@ -106140,7 +106140,7 @@
     "fabric": "121708",
     "marca": "MOBIL",
     "nome": "LUBRIFICANTES MOTO 4T MOBIL 20W50",
-    "estoque": "7662",
+    "estoque": "7656",
     "preco": "27,29"
   },
   {
@@ -106164,7 +106164,7 @@
     "fabric": "111548",
     "marca": "MOTUL",
     "nome": "LUBRIFICANTES MOTO 4T MOTUL 5000+ 10W30",
-    "estoque": "62",
+    "estoque": "61",
     "preco": "49,34"
   },
   {
@@ -106260,7 +106260,7 @@
     "fabric": "23544",
     "marca": "REVOLUXX",
     "nome": "LUBRIFICANTES MOTO 4T REVOLUXX 20W50 MIXXON",
-    "estoque": "4663",
+    "estoque": "4661",
     "preco": "18,89"
   },
   {
@@ -108540,7 +108540,7 @@
     "fabric": "11150400",
     "marca": "X11",
     "nome": "LUVA X11 NITRO WIN TRONIX FEMININA ROSA G",
-    "estoque": "3",
+    "estoque": "2",
     "preco": "80,8"
   },
   {
@@ -111196,7 +111196,7 @@
     "fabric": "MA037-001",
     "marca": "CIRCUIT",
     "nome": "MANOPLA CIRCUIT INTERLAGOS PT PLUS",
-    "estoque": "642",
+    "estoque": "641",
     "preco": "23,09"
   },
   {
@@ -113356,7 +113356,7 @@
     "fabric": "90205140",
     "marca": "MAGNETRON",
     "nome": "MESA PORTA ESCOVA BIZ 125/BIZ 125 INJECAO ELETRÔNICA MAGNETRON",
-    "estoque": "35",
+    "estoque": "34",
     "preco": "18,82"
   },
   {
@@ -114124,7 +114124,7 @@
     "fabric": "MNP0218",
     "marca": "PIRACAPAS",
     "nome": "MOCHILA PIZZA PIRACAPAS 45 LTS NYLON VERMELHA",
-    "estoque": "4",
+    "estoque": "3",
     "preco": "137,76"
   },
   {
@@ -115844,7 +115844,7 @@
     "fabric": "TM7265",
     "marca": "TMAC",
     "nome": "MOLA STOP DE FREIO CG 125/TODAY 125/TITAN 125 TRAS TMAC",
-    "estoque": "998",
+    "estoque": "997",
     "preco": "1,02"
   },
   {
@@ -131284,7 +131284,7 @@
     "fabric": "68396",
     "marca": "EX RACING",
     "nome": "PESO GUIDAO PCX 150 19 ED CROMADO EX RACING COM BUCHA (PAR)",
-    "estoque": "115",
+    "estoque": "114",
     "preco": "36,31"
   },
   {
@@ -131780,7 +131780,7 @@
     "fabric": "HB03.115",
     "marca": "VAZ",
     "nome": "PINHAO TITAN 150 SPORT 15D VAZ HB03.115",
-    "estoque": "264",
+    "estoque": "263",
     "preco": "10,49"
   },
   {
@@ -139924,7 +139924,7 @@
     "fabric": "100648",
     "marca": "MAGGION",
     "nome": "PNEU DIANT 2.75-18 MAGGION WINNER TT",
-    "estoque": "19",
+    "estoque": "18",
     "preco": "125,98"
   },
   {
@@ -140628,7 +140628,7 @@
     "fabric": "3018",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 120/90-17 TECHNIC TEC FALCON/XT 600 TT 64S",
-    "estoque": "4",
+    "estoque": "3",
     "preco": "278,25"
   },
   {
@@ -148468,7 +148468,7 @@
     "fabric": "1103",
     "marca": "MS EXTENSOR",
     "nome": "REDE ELASTICA PRETO 42 X 42 MS EXTENSOR",
-    "estoque": "67",
+    "estoque": "66",
     "preco": "12,59"
   },
   {
@@ -155884,7 +155884,7 @@
     "fabric": "5324/1176",
     "marca": "GVS",
     "nome": "RETROVISOR TITAN 150 DIR 05/08 GVS",
-    "estoque": "98",
+    "estoque": "97",
     "preco": "14,18"
   },
   {
@@ -156116,7 +156116,7 @@
     "fabric": "610175/110175",
     "marca": "RVG",
     "nome": "RETROVISOR TRIUMPH TIGER 1200 RVG (PAR HONDA) HASTE ORIGINAL LENTE CONVEXA",
-    "estoque": "2",
+    "estoque": "1",
     "preco": "103,95"
   },
   {
@@ -172068,7 +172068,7 @@
     "fabric": "1759F",
     "marca": "POLIVISOR",
     "nome": "VISEIRA TAURUS SAN MARINO 2,20 MM FUME POLIVISOR",
-    "estoque": "45",
+    "estoque": "44",
     "preco": "17"
   },
   {
