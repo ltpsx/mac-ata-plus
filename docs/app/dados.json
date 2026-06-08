@@ -3396,7 +3396,7 @@
     "fabric": "KOI0180",
     "marca": "MOTOKOI",
     "nome": "AMORTECEDOR TITAN 150 MOTOKOI (PAR)",
-    "estoque": "57",
+    "estoque": "56",
     "preco": "115,49"
   },
   {
@@ -8276,7 +8276,7 @@
     "fabric": "MTX6L-BS",
     "marca": "MOTOKOI BR",
     "nome": "BATERIA BIZ / FAN 125 ES 09/TITAN150 MIX 09 ED MTX6L-BS MOTOKOI",
-    "estoque": "602",
+    "estoque": "600",
     "preco": "124,07"
   },
   {
@@ -8412,7 +8412,7 @@
     "fabric": "MTX7L-BS",
     "marca": "MOTOKOI BR",
     "nome": "BATERIA TWISTER/BROS 150/HUNTER/FALCON/INTRUDER/TITAN150 ES/ESD MTX7L-BS MOTOKOI",
-    "estoque": "189",
+    "estoque": "188",
     "preco": "145,92"
   },
   {
@@ -16140,7 +16140,7 @@
     "fabric": "1231",
     "marca": "POLIVISOR",
     "nome": "BOTAO VISEIRA CAPACETE TORK NEW FOUR/EVOLUTION G4 (FINO) POLIVISOR",
-    "estoque": "41",
+    "estoque": "40",
     "preco": "8,93"
   },
   {
@@ -26780,7 +26780,7 @@
     "fabric": "KOI0075",
     "marca": "MOTOKOI",
     "nome": "CABO EMBREAGEM YBR 125 02/08 MOTOKOI",
-    "estoque": "3",
+    "estoque": "2",
     "preco": "12,38"
   },
   {
@@ -32196,7 +32196,7 @@
     "fabric": "KOI0168",
     "marca": "MOTOKOI",
     "nome": "CAMARA DE AR DIANT/TRAS CG MOTOKOI 18",
-    "estoque": "473",
+    "estoque": "471",
     "preco": "14,69"
   },
   {
@@ -32308,7 +32308,7 @@
     "fabric": "KOI0169",
     "marca": "MOTOKOI",
     "nome": "CAMARA DE AR TRAS BIZ MOTOKOI R14",
-    "estoque": "805",
+    "estoque": "804",
     "preco": "14,16"
   },
   {
@@ -47188,7 +47188,7 @@
     "fabric": "10013432",
     "marca": "TAURUS",
     "nome": "CAPACETE TAURUS SAN MARINO PRETO 56",
-    "estoque": "156",
+    "estoque": "155",
     "preco": "178,49"
   },
   {
@@ -47564,7 +47564,7 @@
     "fabric": "CAP-36PT",
     "marca": "TORK",
     "nome": "CAPACETE TORK LIBERTY FOUR PRETO 60",
-    "estoque": "341",
+    "estoque": "340",
     "preco": "94,49"
   },
   {
@@ -57156,7 +57156,7 @@
     "fabric": "SR-16-H1",
     "marca": "STALLION",
     "nome": "CARREGADOR CELULAR C. SUPORTE STALLION S/CARREGADOR ALUMINIO",
-    "estoque": "168",
+    "estoque": "167",
     "preco": "18,38"
   },
   {
@@ -57732,7 +57732,7 @@
     "fabric": "101002002",
     "marca": "POLIMET",
     "nome": "CAVALETE LATERAL BIZ 125 06/19 POLIMET",
-    "estoque": "8",
+    "estoque": "7",
     "preco": "23,1"
   },
   {
@@ -60196,7 +60196,7 @@
     "fabric": "KOI0326",
     "marca": "MOTOKOI",
     "nome": "CHAVE CONTATO TITAN 150 MOTOKOI",
-    "estoque": "36",
+    "estoque": "35",
     "preco": "25,73"
   },
   {
@@ -64140,7 +64140,7 @@
     "fabric": "KOI0336",
     "marca": "MOTOKOI",
     "nome": "COLETOR ADMISSAO CG/TODAY/TITAN 125 MOTOKOI",
-    "estoque": "23",
+    "estoque": "22",
     "preco": "15,61"
   },
   {
@@ -73604,7 +73604,7 @@
     "fabric": "04501",
     "marca": "REGGIO",
     "nome": "EIXO RODA CG/ML/TUR/TIT TRASEIRO REGGIO",
-    "estoque": "389",
+    "estoque": "388",
     "preco": "20,99"
   },
   {
@@ -84036,7 +84036,7 @@
     "fabric": "FFP004",
     "marca": "VEDAMOTORS",
     "nome": "FILTRO OLEO CB 500/HORNET/NINJA 300 VEDAMOTORS",
-    "estoque": "18",
+    "estoque": "17",
     "preco": "47,25"
   },
   {
@@ -94216,14 +94216,6 @@
     "preco": "645,44"
   },
   {
-    "codigo": "31396",
-    "fabric": "",
-    "marca": "X11",
-    "nome": "JAQUETA X11 IRON 2 FEMININA PRETO/ROSA M",
-    "estoque": "0",
-    "preco": "645,44"
-  },
-  {
     "codigo": "31410",
     "fabric": "",
     "marca": "X11",
@@ -94238,6 +94230,14 @@
     "nome": "JAQUETA X11 IRON 3 FEMININA PRETO/ROSA 3G",
     "estoque": "0",
     "preco": "768,48"
+  },
+  {
+    "codigo": "54122",
+    "fabric": "",
+    "marca": "X11",
+    "nome": "JAQUETA X11 IRON 3 FEMININA PRETO/ROSA 4G",
+    "estoque": "0",
+    "preco": "0"
   },
   {
     "codigo": "39568",
@@ -94318,6 +94318,38 @@
     "nome": "JAQUETA X11 IRON 3 PRETO P",
     "estoque": "2",
     "preco": "821,94"
+  },
+  {
+    "codigo": "54123",
+    "fabric": "",
+    "marca": "X11",
+    "nome": "JAQUETA X11 IRON 3 PRETO/VERMELHO 3G",
+    "estoque": "0",
+    "preco": "0"
+  },
+  {
+    "codigo": "54124",
+    "fabric": "",
+    "marca": "X11",
+    "nome": "JAQUETA X11 IRON 3 PRETO/VERMELHO 4G",
+    "estoque": "0",
+    "preco": "0"
+  },
+  {
+    "codigo": "54125",
+    "fabric": "",
+    "marca": "X11",
+    "nome": "JAQUETA X11 IRON 3 PRETO/VERMELHO 5G",
+    "estoque": "0",
+    "preco": "0"
+  },
+  {
+    "codigo": "54126",
+    "fabric": "",
+    "marca": "X11",
+    "nome": "JAQUETA X11 IRON 3 PRETO/VERMELHO 6G",
+    "estoque": "0",
+    "preco": "0"
   },
   {
     "codigo": "39571",
@@ -94654,6 +94686,30 @@
     "nome": "JAQUETA X11 ONE FEMININA PRETO P",
     "estoque": "0",
     "preco": "506,92"
+  },
+  {
+    "codigo": "54120",
+    "fabric": "",
+    "marca": "X11",
+    "nome": "JAQUETA X11 ONE SPORT FEMININA PRETO/CINZA 3G",
+    "estoque": "0",
+    "preco": "0"
+  },
+  {
+    "codigo": "54121",
+    "fabric": "",
+    "marca": "X11",
+    "nome": "JAQUETA X11 ONE SPORT FEMININA PRETO/CINZA 4G",
+    "estoque": "0",
+    "preco": "0"
+  },
+  {
+    "codigo": "54117",
+    "fabric": "",
+    "marca": "X11",
+    "nome": "JAQUETA X11 ONE SPORT FEMININA PRETO/ROSA G",
+    "estoque": "0",
+    "preco": "0"
   },
   {
     "codigo": "43894",
@@ -100876,7 +100932,7 @@
     "fabric": "H00010XS",
     "marca": "VAZ",
     "nome": "KIT TRANSMISSAO BIZ 100 VAZ (35/15/428HX108L)",
-    "estoque": "77",
+    "estoque": "76",
     "preco": "62,99"
   },
   {
@@ -102148,7 +102204,7 @@
     "fabric": "001-KOI-034H0",
     "marca": "MOTOKOI",
     "nome": "KIT TRANSMISSAO TITAN 150 MOTOKOI (43/16/428HX118)",
-    "estoque": "1053",
+    "estoque": "1051",
     "preco": "57,74"
   },
   {
@@ -102180,7 +102236,7 @@
     "fabric": "H03673XS",
     "marca": "VAZ",
     "nome": "KIT TRANSMISSAO TITAN 150 VAZ (43/16/428HX118L) H03673XS",
-    "estoque": "3577",
+    "estoque": "3576",
     "preco": "62,99"
   },
   {
@@ -102884,7 +102940,7 @@
     "fabric": "12153M512V",
     "marca": "PHILIPS",
     "nome": "LAMPADA FAROL BIZ 100/125/DREAM/BROS 150 09/12 PHILLIPS M5",
-    "estoque": "73",
+    "estoque": "71",
     "preco": "23,63"
   },
   {
@@ -102932,7 +102988,7 @@
     "fabric": "PH12342",
     "marca": "PHILIPS",
     "nome": "LAMPADA FAROL CB 300/FALCON  H4 12V PHILLIPS",
-    "estoque": "46",
+    "estoque": "45",
     "preco": "26,25"
   },
   {
@@ -103084,7 +103140,7 @@
     "fabric": "H4FIT",
     "marca": "PHILIPS",
     "nome": "LAMPADA FAROL TITAN H4 12V 35X35 PHILLIPS FIT",
-    "estoque": "296",
+    "estoque": "294",
     "preco": "29,16"
   },
   {
@@ -103260,7 +103316,7 @@
     "fabric": "LF-01 SB",
     "marca": "STALLION",
     "nome": "LAMPADA LED FAROL TITAN H4 LED STALLION",
-    "estoque": "1207",
+    "estoque": "1206",
     "preco": "18,38"
   },
   {
@@ -105820,7 +105876,7 @@
     "fabric": "3398",
     "marca": "GVS",
     "nome": "LENTE PISCA TITAN 2000/TWISTER/CB 300 FUME GVS",
-    "estoque": "97",
+    "estoque": "96",
     "preco": "5,24"
   },
   {
@@ -106108,7 +106164,7 @@
     "fabric": "4455",
     "marca": "IPIRANGA",
     "nome": "LUBRIFICANTES MOTO 4T IPIRANGA 10W30 SL SEMI-SINTETICO",
-    "estoque": "2",
+    "estoque": "1",
     "preco": "34,64"
   },
   {
@@ -106132,7 +106188,7 @@
     "fabric": "01026931",
     "marca": "LUBRAX",
     "nome": "LUBRIFICANTES MOTO 4T LUBRAX 10W30 SL PROFISSIONAL",
-    "estoque": "2040",
+    "estoque": "2038",
     "preco": "30,44"
   },
   {
@@ -106148,7 +106204,7 @@
     "fabric": "123075",
     "marca": "MOBIL",
     "nome": "LUBRIFICANTES MOTO 4T MOBIL 10W30 SEMI-SINTETICO",
-    "estoque": "4110",
+    "estoque": "4106",
     "preco": "36,74"
   },
   {
@@ -106212,7 +106268,7 @@
     "fabric": "104062",
     "marca": "MOTUL",
     "nome": "LUBRIFICANTES MOTO 4T MOTUL 5000+ 10W40",
-    "estoque": "131",
+    "estoque": "128",
     "preco": "49,34"
   },
   {
@@ -106300,7 +106356,7 @@
     "fabric": "23544",
     "marca": "REVOLUXX",
     "nome": "LUBRIFICANTES MOTO 4T REVOLUXX 20W50 MIXXON",
-    "estoque": "4516",
+    "estoque": "4514",
     "preco": "18,89"
   },
   {
@@ -106572,7 +106628,7 @@
     "fabric": "1202",
     "marca": "IMPORTADA",
     "nome": "LUVA MOTOQUEIRO IMPORTADA TAMANHO UNICO",
-    "estoque": "467",
+    "estoque": "465",
     "preco": "37,11"
   },
   {
@@ -107824,14 +107880,6 @@
     "preco": "83,01"
   },
   {
-    "codigo": "31451",
-    "fabric": "",
-    "marca": "X11",
-    "nome": "LUVA X11 BLACKOUT 1/2 DEDO FEMININA PRETO GG",
-    "estoque": "0",
-    "preco": "83,01"
-  },
-  {
     "codigo": "31449",
     "fabric": "",
     "marca": "X11",
@@ -107845,30 +107893,6 @@
     "marca": "X11",
     "nome": "LUVA X11 BLACKOUT 1/2 DEDO FEMININA PRETO P",
     "estoque": "2",
-    "preco": "83,01"
-  },
-  {
-    "codigo": "31466",
-    "fabric": "",
-    "marca": "X11",
-    "nome": "LUVA X11 BLACKOUT 1/2 DEDO PRETO G",
-    "estoque": "0",
-    "preco": "83,01"
-  },
-  {
-    "codigo": "31467",
-    "fabric": "11041303",
-    "marca": "X11",
-    "nome": "LUVA X11 BLACKOUT 1/2 DEDO PRETO GG",
-    "estoque": "0",
-    "preco": "82,19"
-  },
-  {
-    "codigo": "31465",
-    "fabric": "",
-    "marca": "X11",
-    "nome": "LUVA X11 BLACKOUT 1/2 DEDO PRETO M",
-    "estoque": "0",
     "preco": "83,01"
   },
   {
@@ -108096,30 +108120,6 @@
     "preco": "92,24"
   },
   {
-    "codigo": "31458",
-    "fabric": "",
-    "marca": "X11",
-    "nome": "LUVA X11 BLACKOUT PRETO G",
-    "estoque": "0",
-    "preco": "92,24"
-  },
-  {
-    "codigo": "31459",
-    "fabric": "",
-    "marca": "X11",
-    "nome": "LUVA X11 BLACKOUT PRETO GG",
-    "estoque": "0",
-    "preco": "92,24"
-  },
-  {
-    "codigo": "31457",
-    "fabric": "",
-    "marca": "X11",
-    "nome": "LUVA X11 BLACKOUT PRETO M",
-    "estoque": "0",
-    "preco": "92,24"
-  },
-  {
     "codigo": "31456",
     "fabric": "",
     "marca": "X11",
@@ -108132,30 +108132,6 @@
     "fabric": "",
     "marca": "X11",
     "nome": "LUVA X11 BLACKOUT PRETO/NEON GG",
-    "estoque": "0",
-    "preco": "92,24"
-  },
-  {
-    "codigo": "34271",
-    "fabric": "",
-    "marca": "X11",
-    "nome": "LUVA X11 BLACKOUT PRETO/NEON GGG",
-    "estoque": "0",
-    "preco": "92,24"
-  },
-  {
-    "codigo": "31461",
-    "fabric": "",
-    "marca": "X11",
-    "nome": "LUVA X11 BLACKOUT PRETO/NEON M",
-    "estoque": "0",
-    "preco": "92,24"
-  },
-  {
-    "codigo": "31460",
-    "fabric": "",
-    "marca": "X11",
-    "nome": "LUVA X11 BLACKOUT PRETO/NEON P",
     "estoque": "0",
     "preco": "92,24"
   },
@@ -113532,7 +113508,7 @@
     "fabric": "90205022",
     "marca": "MAGNETRON",
     "nome": "MESA PORTA ESCOVA TITAN 150 (KIT C/ANEIS) MAGNETRON",
-    "estoque": "51",
+    "estoque": "50",
     "preco": "17,33"
   },
   {
@@ -113596,7 +113572,7 @@
     "fabric": "90205001",
     "marca": "MAGNETRON",
     "nome": "MESA PORTA ESCOVA TITAN125ES/CBX/NX/XR200-150/TWISTER/FAZER 250 (KIT C/ANEIS) MAGNETRON",
-    "estoque": "34",
+    "estoque": "33",
     "preco": "19,46"
   },
   {
@@ -114188,7 +114164,7 @@
     "fabric": "MNP0227",
     "marca": "PIRACAPAS",
     "nome": "MOCHILA PIZZA PIRACAPAS 45 LTS NYLON VERMELHA ALUMINIZADA",
-    "estoque": "6",
+    "estoque": "4",
     "preco": "157,79"
   },
   {
@@ -119796,7 +119772,7 @@
     "fabric": "31874",
     "marca": "TRILHA",
     "nome": "PARAFUSO MOTOR PARTIDA TITAN 150 TRILHA",
-    "estoque": "68",
+    "estoque": "66",
     "preco": "1,22"
   },
   {
@@ -124084,7 +124060,7 @@
     "fabric": "300407",
     "marca": "MELC",
     "nome": "PARALAMA DIANT TITAN 98/99 AZUL METALICO MELC (300407)",
-    "estoque": "18",
+    "estoque": "17",
     "preco": "42,96"
   },
   {
@@ -125892,7 +125868,7 @@
     "fabric": "FA140",
     "marca": "TMAC",
     "nome": "PASTILHA FREIO CB 600 HORNET ATE 2007/XRE 300 C/ABS TRASEIRO TMAC",
-    "estoque": "4",
+    "estoque": "3",
     "preco": "13,34"
   },
   {
@@ -129276,7 +129252,7 @@
     "fabric": "LBJ01",
     "marca": "TMAC",
     "nome": "PEDAL CAMBIO TITAN 2000 ES/KS TMAC",
-    "estoque": "69",
+    "estoque": "68",
     "preco": "17,85"
   },
   {
@@ -130980,7 +130956,7 @@
     "fabric": "45000K",
     "marca": "MOTOKOI BR",
     "nome": "PEDALEIRA TITAN 160/FAN 160 MOTOKOI PAR",
-    "estoque": "15",
+    "estoque": "14",
     "preco": "28,28"
   },
   {
@@ -131004,7 +130980,7 @@
     "fabric": "248",
     "marca": "PROTEC",
     "nome": "PEDALEIRA TITAN 2000 ES DIREITO PROTEC",
-    "estoque": "46",
+    "estoque": "45",
     "preco": "16,05"
   },
   {
@@ -131020,7 +130996,7 @@
     "fabric": "249",
     "marca": "PROTEC",
     "nome": "PEDALEIRA TITAN 2000 ES ESQUERDO PROTEC",
-    "estoque": "62",
+    "estoque": "61",
     "preco": "16,05"
   },
   {
@@ -134620,7 +134596,7 @@
     "fabric": "6757/1757",
     "marca": "GVS",
     "nome": "PISCA XRE 300 10/18 DD/TE GVS FUME CRISTAL S/METALIZAR",
-    "estoque": "20",
+    "estoque": "19",
     "preco": "15,23"
   },
   {
@@ -134628,7 +134604,7 @@
     "fabric": "6758/1758",
     "marca": "GVS",
     "nome": "PISCA XRE 300 10/18 DE/TD GVS FUME CRISTAL S/METALIZAR",
-    "estoque": "8",
+    "estoque": "9",
     "preco": "14,18"
   },
   {
@@ -148028,7 +148004,7 @@
     "fabric": "330411",
     "marca": "MELC",
     "nome": "RABETA TITAN 99/00 VERMELHO MELC (330411)",
-    "estoque": "4",
+    "estoque": "3",
     "preco": "58,03"
   },
   {
@@ -152396,7 +152372,7 @@
     "fabric": "1101743",
     "marca": "MOTOPORT",
     "nome": "RETENTOR BENGALA TITAN 150/CBX 150/BROS MOTOPORT (+GUARDA PO)",
-    "estoque": "1584",
+    "estoque": "1583",
     "preco": "6,83"
   },
   {
@@ -152532,7 +152508,7 @@
     "fabric": "TM084",
     "marca": "TMAC",
     "nome": "RETENTOR BENGALA XRE 300/FALCON/TORNADO/LANDER TMAC",
-    "estoque": "302",
+    "estoque": "300",
     "preco": "5,45"
   },
   {
@@ -153028,7 +153004,7 @@
     "fabric": "12012",
     "marca": "MOTOBOR",
     "nome": "RETENTOR HASTE EMBREAGEM TITAN 150 MOTOBOR",
-    "estoque": "29",
+    "estoque": "28",
     "preco": "2,07"
   },
   {
@@ -156940,7 +156916,7 @@
     "fabric": "KOI0401",
     "marca": "MOTOKOI",
     "nome": "ROLAMENTO 6301-RS CROMO RODA DIANT. CG MOTOKOI",
-    "estoque": "47",
+    "estoque": "45",
     "preco": "4,19"
   },
   {
@@ -169916,7 +169892,7 @@
     "fabric": "4000509",
     "marca": "EBF",
     "nome": "VISEIRA EBF X TROY 2,00 MM E14 FUME",
-    "estoque": "2",
+    "estoque": "1",
     "preco": "63,62"
   },
   {
@@ -171988,7 +171964,7 @@
     "fabric": "1010F",
     "marca": "POLIVISOR",
     "nome": "VISEIRA TAURUS SAN MARINO 0,80 MM FUME POLIVISOR",
-    "estoque": "20",
+    "estoque": "19",
     "preco": "6,62"
   },
   {
@@ -172108,7 +172084,7 @@
     "fabric": "1759C",
     "marca": "POLIVISOR",
     "nome": "VISEIRA TAURUS SAN MARINO 2,20 MM CRISTAL POLIVISOR",
-    "estoque": "13",
+    "estoque": "12",
     "preco": "16,28"
   },
   {
