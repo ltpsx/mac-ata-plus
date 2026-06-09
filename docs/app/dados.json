@@ -2044,7 +2044,7 @@
     "fabric": "TC803",
     "marca": "TMAC",
     "nome": "AGULHA BOIA C/ SEDE YBR 125/XTZ 125 TMAC",
-    "estoque": "9",
+    "estoque": "8",
     "preco": "6,83"
   },
   {
@@ -5068,7 +5068,7 @@
     "fabric": "KOI0311",
     "marca": "MOTOKOI",
     "nome": "ARO RODA 1.60 X 18 CG/TOD/TIT DIANT MOTOKOI",
-    "estoque": "664",
+    "estoque": "663",
     "preco": "69,29"
   },
   {
@@ -5140,7 +5140,7 @@
     "fabric": "KOI0313",
     "marca": "MOTOKOI",
     "nome": "ARO RODA 1.85 X 18 CG/TOD/TIT TRAS MOTOKOI",
-    "estoque": "800",
+    "estoque": "798",
     "preco": "80,84"
   },
   {
@@ -8588,7 +8588,7 @@
     "fabric": "BP-09FM",
     "marca": "TORK",
     "nome": "BAULETO TORK SMART BOX 2 PRETO 45 LITROS (LENTE FUME)",
-    "estoque": "26",
+    "estoque": "25",
     "preco": "155,4"
   },
   {
@@ -15876,7 +15876,7 @@
     "fabric": "4000503",
     "marca": "EBF",
     "nome": "BOTAO EBF NEW 7",
-    "estoque": "43",
+    "estoque": "41",
     "preco": "10,59"
   },
   {
@@ -15948,7 +15948,7 @@
     "fabric": "1233",
     "marca": "POLIVISOR",
     "nome": "BOTAO LS2 FF358/FF396/FF386/FF394 (PAR) POLIVISOR",
-    "estoque": "41",
+    "estoque": "40",
     "preco": "20,99"
   },
   {
@@ -17148,7 +17148,7 @@
     "fabric": "020132",
     "marca": "REGGIO",
     "nome": "BUCHA ESPACADORA CUBO TITAN 150/TITAN 160 TRASEIRO REGGIO",
-    "estoque": "178",
+    "estoque": "177",
     "preco": "9,29"
   },
   {
@@ -17156,7 +17156,7 @@
     "fabric": "02030",
     "marca": "REGGIO",
     "nome": "BUCHA ESPACADORA CUBO TITAN 150/TITAN 160/TITAN 125/CBX 200 DIANTEIRO REGGIO",
-    "estoque": "265",
+    "estoque": "264",
     "preco": "4,73"
   },
   {
@@ -21924,7 +21924,7 @@
     "fabric": "KOI0038",
     "marca": "MOTOKOI",
     "nome": "CABO ACELERADOR TITAN 150 14/FAN 150 2014 \"A\" MOTOKOI",
-    "estoque": "355",
+    "estoque": "354",
     "preco": "7,59"
   },
   {
@@ -32196,7 +32196,7 @@
     "fabric": "KOI0168",
     "marca": "MOTOKOI",
     "nome": "CAMARA DE AR DIANT/TRAS CG MOTOKOI 18",
-    "estoque": "323",
+    "estoque": "322",
     "preco": "14,69"
   },
   {
@@ -33204,7 +33204,7 @@
     "fabric": "KOI0218",
     "marca": "MOTOKOI BR",
     "nome": "CAPA BANCO BROS 160 15/21 PRETO MOTOKOI",
-    "estoque": "30",
+    "estoque": "29",
     "preco": "20,99"
   },
   {
@@ -47196,7 +47196,7 @@
     "fabric": "10013433",
     "marca": "TAURUS",
     "nome": "CAPACETE TAURUS SAN MARINO PRETO 58",
-    "estoque": "196",
+    "estoque": "195",
     "preco": "178,49"
   },
   {
@@ -79908,7 +79908,7 @@
     "fabric": "TM721",
     "marca": "TMAC",
     "nome": "ESTATOR YES 125/INTRUDER 125/STX 200 MOTARD TMAC",
-    "estoque": "8",
+    "estoque": "7",
     "preco": "110,25"
   },
   {
@@ -87372,7 +87372,7 @@
     "fabric": "12391-KRM-840",
     "marca": "HONDA",
     "nome": "GUARNICAO TAMPA VALVULA TITAN 150/FAN 125 09 ORIGINAL HONDA",
-    "estoque": "30",
+    "estoque": "29",
     "preco": "25,2"
   },
   {
@@ -96524,7 +96524,7 @@
     "fabric": "TM013",
     "marca": "TMAC",
     "nome": "JOGO RAIO DIANT/TRAS TITAN/FAN KS 2000/150 TMAC 4MM",
-    "estoque": "2369",
+    "estoque": "2368",
     "preco": "24,14"
   },
   {
@@ -98292,7 +98292,7 @@
     "fabric": "VS15004008094",
     "marca": "VEDAMOTORS",
     "nome": "JUNTA TAMPA LATERAL ESQUERDO YES 125 VEDAMOTORS",
-    "estoque": "2",
+    "estoque": "1",
     "preco": "11,07"
   },
   {
@@ -102236,7 +102236,7 @@
     "fabric": "H03673XS",
     "marca": "VAZ",
     "nome": "KIT TRANSMISSAO TITAN 150 VAZ (43/16/428HX118L) H03673XS",
-    "estoque": "3571",
+    "estoque": "3570",
     "preco": "57,74"
   },
   {
@@ -102308,7 +102308,7 @@
     "fabric": "H04007XS",
     "marca": "VAZ",
     "nome": "KIT TRANSMISSAO TITAN 160 VAZ (44/15/428HX118L) H04007XS",
-    "estoque": "2324",
+    "estoque": "2323",
     "preco": "57,74"
   },
   {
@@ -102780,7 +102780,7 @@
     "fabric": "Y04260XS",
     "marca": "VAZ",
     "nome": "KIT TRANSMISSAO YBR 125 03/08/FACTOR 125 03/16 VAZ (45/14/428HX118L) Y04260XS",
-    "estoque": "196",
+    "estoque": "195",
     "preco": "62,99"
   },
   {
@@ -102932,7 +102932,7 @@
     "fabric": "KOI0357",
     "marca": "MOTOKOI",
     "nome": "LAMPADA FAROL BIZ 100/125/DREAM/BROS 150 09/12 MOTOKOI 12V35",
-    "estoque": "65",
+    "estoque": "64",
     "preco": "3,66"
   },
   {
@@ -106244,7 +106244,7 @@
     "fabric": "110551",
     "marca": "MOTUL",
     "nome": "LUBRIFICANTES MOTO 4T MOTUL 3000+ 20W50",
-    "estoque": "895",
+    "estoque": "894",
     "preco": "45,14"
   },
   {
@@ -106356,7 +106356,7 @@
     "fabric": "23544",
     "marca": "REVOLUXX",
     "nome": "LUBRIFICANTES MOTO 4T REVOLUXX 20W50 MIXXON",
-    "estoque": "4308",
+    "estoque": "4307",
     "preco": "18,89"
   },
   {
@@ -108404,7 +108404,7 @@
     "fabric": "11041613",
     "marca": "X11",
     "nome": "LUVA X11 FIT X MASCULINA PRETO G",
-    "estoque": "8",
+    "estoque": "7",
     "preco": "72,31"
   },
   {
@@ -115476,7 +115476,7 @@
     "fabric": "25134K",
     "marca": "MOTOKOI BR",
     "nome": "MOLA PEDAL FREIO CG/TO/TITAN MOTOKOI",
-    "estoque": "168",
+    "estoque": "167",
     "preco": "1,55"
   },
   {
@@ -132204,7 +132204,7 @@
     "fabric": "23004",
     "marca": "PLASMOTO",
     "nome": "PISCA BIZ 100 2013 DIANT/ESQ PLASMOTO",
-    "estoque": "2",
+    "estoque": "1",
     "preco": "86,63"
   },
   {
@@ -137244,7 +137244,7 @@
     "fabric": "C107-1",
     "marca": "CORAMI",
     "nome": "PISTAO TITAN 150/BROS 150 0,25 CORAMI",
-    "estoque": "18",
+    "estoque": "17",
     "preco": "43,68"
   },
   {
@@ -140812,7 +140812,7 @@
     "fabric": "6092",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 140/70-17 TECHNIC SPORT CB 300 TL 66S",
-    "estoque": "15",
+    "estoque": "14",
     "preco": "304,54"
   },
   {
@@ -141100,7 +141100,7 @@
     "fabric": "15353",
     "marca": "LEVORIN",
     "nome": "PNEU TRAS 90/90-18 LEVORIN MATRIX",
-    "estoque": "2691",
+    "estoque": "2690",
     "preco": "230,99"
   },
   {
@@ -149724,7 +149724,7 @@
     "fabric": "TM146",
     "marca": "TMAC",
     "nome": "REGULADOR /RETIFICADOR YES 125 09/14/INTRUDER 125 09/14 TMAC",
-    "estoque": "2",
+    "estoque": "1",
     "preco": "71"
   },
   {
@@ -154156,7 +154156,7 @@
     "fabric": "M730903186500",
     "marca": "VEDAMOTORS",
     "nome": "RETENTOR RODA DIANTEIRA ESQUERDA ML/TITAN 125 ES/TITAN 150 ESD/TWISTER/TORNADO VEDAMOTORS",
-    "estoque": "6",
+    "estoque": "5",
     "preco": "8,23"
   },
   {
@@ -156580,7 +156580,7 @@
     "fabric": "6004 ZE",
     "marca": "NACHI",
     "nome": "ROLAMENTO 6004 COROA TITAN 150 C/ BLIND NACHI",
-    "estoque": "103",
+    "estoque": "102",
     "preco": "27,29"
   },
   {
@@ -156756,7 +156756,7 @@
     "fabric": "104980",
     "marca": "NACHI",
     "nome": "ROLAMENTO 6202 ZZE RODA TRAS CG/TITAN C/ 2 BLIND NACHI",
-    "estoque": "38",
+    "estoque": "37",
     "preco": "24,14"
   },
   {
@@ -156892,7 +156892,7 @@
     "fabric": "105001",
     "marca": "NACHI",
     "nome": "ROLAMENTO 6301 RODA DIANT CG/XLS/STR S/BLINDAGEM NACHI",
-    "estoque": "62",
+    "estoque": "60",
     "preco": "26,76"
   },
   {
@@ -156980,7 +156980,7 @@
     "fabric": "6302 ZE",
     "marca": "NACHI",
     "nome": "ROLAMENTO 6302-ZE CROMO RODA TRAS. CG C/ BLIND NACHI",
-    "estoque": "46",
+    "estoque": "45",
     "preco": "29,88"
   },
   {
@@ -159492,7 +159492,7 @@
     "fabric": "TC1203",
     "marca": "TMAC",
     "nome": "SOQUETE FAROL BIZ 125 05/08 TMAC (TERMINAL MACHO)",
-    "estoque": "179",
+    "estoque": "178",
     "preco": "6,48"
   },
   {
@@ -165004,7 +165004,7 @@
     "fabric": "1010341",
     "marca": "WGK",
     "nome": "TENSION /ACION. CORRENTE CBX/NX/XR 200/CBX-XR250 WGK",
-    "estoque": "42",
+    "estoque": "41",
     "preco": "73,74"
   },
   {
@@ -170516,7 +170516,7 @@
     "fabric": "205.500.005",
     "marca": "ASX",
     "nome": "VISEIRA LS2 FF358 CAMALEAO ASX",
-    "estoque": "6",
+    "estoque": "5",
     "preco": "51,69"
   },
   {
@@ -171956,7 +171956,7 @@
     "fabric": "1010F",
     "marca": "POLIVISOR",
     "nome": "VISEIRA TAURUS SAN MARINO 0,80 MM FUME POLIVISOR",
-    "estoque": "17",
+    "estoque": "14",
     "preco": "6,62"
   },
   {
