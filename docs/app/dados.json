@@ -5204,7 +5204,7 @@
     "fabric": "KOI0315",
     "marca": "MOTOKOI",
     "nome": "ARO RODA 2.15 X 17 BROS 125/150 TRAS MOTOKOI",
-    "estoque": "83",
+    "estoque": "82",
     "preco": "121,26"
   },
   {
@@ -16004,7 +16004,7 @@
     "fabric": "1097",
     "marca": "POLIVISOR",
     "nome": "BOTAO SAN MARINO UND POLIVISOR",
-    "estoque": "155",
+    "estoque": "153",
     "preco": "3,14"
   },
   {
@@ -25148,7 +25148,7 @@
     "fabric": "TM4008",
     "marca": "TMAC",
     "nome": "CABO EMBREAGEM FAN 125 09/11 TMAC",
-    "estoque": "271",
+    "estoque": "270",
     "preco": "9,44"
   },
   {
@@ -35980,7 +35980,7 @@
     "fabric": "1004001133",
     "marca": "PROTERCAPAS",
     "nome": "CAPA CHUVA PROTERCAPAS PVC LIDER GG",
-    "estoque": "34",
+    "estoque": "33",
     "preco": "89,24"
   },
   {
@@ -38468,7 +38468,7 @@
     "fabric": "1259058PFO",
     "marca": "EBF",
     "nome": "CAPACETE EBF AUTOMATICO SOLID PRETO FOSCO 58",
-    "estoque": "12",
+    "estoque": "11",
     "preco": "137,46"
   },
   {
@@ -38476,7 +38476,7 @@
     "fabric": "1259060PFO",
     "marca": "EBF",
     "nome": "CAPACETE EBF AUTOMATICO SOLID PRETO FOSCO 60",
-    "estoque": "6",
+    "estoque": "7",
     "preco": "137,45"
   },
   {
@@ -41584,14 +41584,6 @@
     "preco": "361,69"
   },
   {
-    "codigo": "54025",
-    "fabric": "1338056F11",
-    "marca": "EBF",
-    "nome": "CAPACETE EBF OPIUM ATTACK MONOCROMA PRETO BRILHO 56",
-    "estoque": "1",
-    "preco": "361,69"
-  },
-  {
     "codigo": "54026",
     "fabric": "1338058F11",
     "marca": "EBF",
@@ -41608,14 +41600,6 @@
     "preco": "361,69"
   },
   {
-    "codigo": "54022",
-    "fabric": "1338056P07",
-    "marca": "EBF",
-    "nome": "CAPACETE EBF OPIUM ATTACK MONOCROMA PRETO FOSCO 56",
-    "estoque": "1",
-    "preco": "361,68"
-  },
-  {
     "codigo": "54023",
     "fabric": "1338058P07",
     "marca": "EBF",
@@ -41630,6 +41614,14 @@
     "nome": "CAPACETE EBF OPIUM ATTACK MONOCROMA PRETO FOSCO 60",
     "estoque": "1",
     "preco": "361,68"
+  },
+  {
+    "codigo": "54025",
+    "fabric": "1338056F11",
+    "marca": "EBF",
+    "nome": "CAPACETE EBF OPIUM ATTACK MONOCROMA PRETO FOSCO/BRANCO 56",
+    "estoque": "1",
+    "preco": "361,69"
   },
   {
     "codigo": "54028",
@@ -41654,6 +41646,14 @@
     "nome": "CAPACETE EBF OPIUM ATTACK MONOCROMA PRETO FOSCO/VERMELO/CINZA 58",
     "estoque": "0",
     "preco": "361,69"
+  },
+  {
+    "codigo": "54022",
+    "fabric": "1338056P07",
+    "marca": "EBF",
+    "nome": "CAPACETE EBF OPIUM ATTACK MONOCROMA PRETO/ROSA 56",
+    "estoque": "1",
+    "preco": "361,68"
   },
   {
     "codigo": "53953",
@@ -51252,7 +51252,7 @@
     "fabric": "373608",
     "marca": "MELC",
     "nome": "CARENAGEM FAROL BIZ 100 /BIZ110 BRANCO 15/17 (373608)",
-    "estoque": "2",
+    "estoque": "1",
     "preco": "57,75"
   },
   {
@@ -57732,7 +57732,7 @@
     "fabric": "101002002",
     "marca": "POLIMET",
     "nome": "CAVALETE LATERAL BIZ 125 06/19 POLIMET",
-    "estoque": "4",
+    "estoque": "3",
     "preco": "23,1"
   },
   {
@@ -58076,7 +58076,7 @@
     "fabric": "2606",
     "marca": "PROJETIL",
     "nome": "CAVALETE LATERAL TITAN 150 03/10 C/ BORRACHA PROJETIL",
-    "estoque": "354",
+    "estoque": "353",
     "preco": "20,99"
   },
   {
@@ -60708,7 +60708,7 @@
     "fabric": "",
     "marca": "TOTAL PRINT",
     "nome": "CHAVEIRO UNIVERSAL AVULSO",
-    "estoque": "834",
+    "estoque": "832",
     "preco": "4,19"
   },
   {
@@ -74684,7 +74684,7 @@
     "fabric": "1015",
     "marca": "MS EXTENSOR",
     "nome": "ELASTICO PRETO 1,50 M UNIVERSAL C/ GANCHO FERRO MS EXTENSOR",
-    "estoque": "296",
+    "estoque": "288",
     "preco": "4,19"
   },
   {
@@ -75884,7 +75884,7 @@
     "fabric": "TM316",
     "marca": "TMAC",
     "nome": "ENGRENAGEM + PINHAO DE VELOCIMETRO  TITAN 2000KS / BIZ TMAC FERRO",
-    "estoque": "6",
+    "estoque": "5",
     "preco": "9,29"
   },
   {
@@ -80756,7 +80756,7 @@
     "fabric": "100500702",
     "marca": "POLIMET",
     "nome": "ESTRIBO PEDAL APOIO TITAN 150 04/15/FAN 125 09 ED POLIMET TUBULAR",
-    "estoque": "33",
+    "estoque": "32",
     "preco": "40,95"
   },
   {
@@ -101012,7 +101012,7 @@
     "fabric": "H03800XS",
     "marca": "VAZ",
     "nome": "KIT TRANSMISSAO BIZ 125 VAZ (34/14/428HX106L)",
-    "estoque": "1138",
+    "estoque": "1137",
     "preco": "57,74"
   },
   {
@@ -102236,7 +102236,7 @@
     "fabric": "H03673XS",
     "marca": "VAZ",
     "nome": "KIT TRANSMISSAO TITAN 150 VAZ (43/16/428HX118L) H03673XS",
-    "estoque": "3419",
+    "estoque": "3418",
     "preco": "57,74"
   },
   {
@@ -119348,7 +119348,7 @@
     "fabric": "07502",
     "marca": "REGGIO",
     "nome": "PARAFUSO CAVALETE LATERAL CG/TITAN/BIZ/BROS C/PORCA REGGIO",
-    "estoque": "206",
+    "estoque": "205",
     "preco": "4,36"
   },
   {
@@ -127460,7 +127460,7 @@
     "fabric": "KOI-00101 A",
     "marca": "MOTOKOI BR",
     "nome": "PATIM FREIO BIZ/BROS/XL 125 0,25 TRAS MOTOKOI BR",
-    "estoque": "217",
+    "estoque": "216",
     "preco": "15,74"
   },
   {
@@ -140076,7 +140076,7 @@
     "fabric": "",
     "marca": "MAGGION",
     "nome": "PNEU DIANT 60/100-17 MAGGION  BIZ 100 /DREAM STREETFIGHTER MF7 TT",
-    "estoque": "250",
+    "estoque": "249",
     "preco": "100,79"
   },
   {
@@ -141116,7 +141116,7 @@
     "fabric": "15353",
     "marca": "LEVORIN",
     "nome": "PNEU TRAS 90/90-18 LEVORIN MATRIX",
-    "estoque": "2652",
+    "estoque": "2651",
     "preco": "230,99"
   },
   {
@@ -148492,7 +148492,7 @@
     "fabric": "1099",
     "marca": "MS EXTENSOR",
     "nome": "REDE ELASTICA PRETO 35 X 35 MS EXTENSOR",
-    "estoque": "33",
+    "estoque": "32",
     "preco": "10,49"
   },
   {
@@ -156956,7 +156956,7 @@
     "fabric": "KOI0401",
     "marca": "MOTOKOI",
     "nome": "ROLAMENTO 6301-RS CROMO RODA DIANT. CG MOTOKOI",
-    "estoque": "320",
+    "estoque": "318",
     "preco": "4,19"
   },
   {
@@ -168740,7 +168740,7 @@
     "fabric": "CPR8EA9",
     "marca": "NGK",
     "nome": "VELA TITAN 150/FAN 150 CPR8EA-9 NGK",
-    "estoque": "798",
+    "estoque": "797",
     "preco": "31,49"
   },
   {
@@ -172052,7 +172052,7 @@
     "fabric": "1010C",
     "marca": "POLIVISOR",
     "nome": "VISEIRA TAURUS SAN MARINO 0,80 MM CRISTAL POLIVISOR",
-    "estoque": "751",
+    "estoque": "748",
     "preco": "6,29"
   },
   {
@@ -172676,7 +172676,7 @@
     "fabric": "1644C",
     "marca": "POLIVISOR",
     "nome": "VISEIRA TORK LIBERTY FOUR 2,20 MM POLIVISOR",
-    "estoque": "22",
+    "estoque": "21",
     "preco": "28,02"
   },
   {
