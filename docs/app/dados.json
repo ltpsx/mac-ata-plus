@@ -1580,7 +1580,7 @@
     "fabric": "1181",
     "marca": "POLIVISOR",
     "nome": "ADESIVO CAPACETE RETANGULAR KIT C/ 4 POLIVISOR",
-    "estoque": "14",
+    "estoque": "13",
     "preco": "4,19"
   },
   {
@@ -10116,7 +10116,7 @@
     "fabric": "BL9825",
     "marca": "METAL LEVE",
     "nome": "BIELA TITAN 160/BROS 160/XRE 190 METAL LEVE",
-    "estoque": "12",
+    "estoque": "10",
     "preco": "131,25"
   },
   {
@@ -13008,20 +13008,28 @@
     "preco": "8,93"
   },
   {
+    "codigo": "25455",
+    "fabric": "35779",
+    "marca": "JEC PRO",
+    "nome": "BOBINA PULSO TITAN 150/BROS 150 06- JEC PRO",
+    "estoque": "0",
+    "preco": "30,24"
+  },
+  {
     "codigo": "24311",
     "fabric": "90210970",
     "marca": "MAGNETRON",
-    "nome": "BOBINA PULSO TITAN 150 / BROS 150 /BIZ 125 MAGNETRON",
+    "nome": "BOBINA PULSO TITAN 150/BROS 150/TITAN 160/BIZ 125 MAGNETRON",
     "estoque": "3",
     "preco": "26,88"
   },
   {
-    "codigo": "25455",
-    "fabric": "35779",
-    "marca": "JEC PRO",
-    "nome": "BOBINA PULSO TITAN 150 / BROS 150 06- JEC PRO",
+    "codigo": "54163",
+    "fabric": "PDM0300",
+    "marca": "PANDAO",
+    "nome": "BOBINA PULSO TITAN 150/BROS 150/TITAN 160/BIZ 125 PANDAO",
     "estoque": "0",
-    "preco": "30,24"
+    "preco": "0"
   },
   {
     "codigo": "24344",
@@ -16004,7 +16012,7 @@
     "fabric": "1097",
     "marca": "POLIVISOR",
     "nome": "BOTAO SAN MARINO UND POLIVISOR",
-    "estoque": "153",
+    "estoque": "150",
     "preco": "3,14"
   },
   {
@@ -16084,7 +16092,7 @@
     "fabric": "01",
     "marca": "EX RACING",
     "nome": "BOTAO VISEIRA CAPACETE TORK NEW ATOMIC/NEW LIBERTY 3/JOY 23 EX RACING PAR",
-    "estoque": "311",
+    "estoque": "310",
     "preco": "7,34"
   },
   {
@@ -18380,7 +18388,7 @@
     "fabric": "23050",
     "marca": "MOTOBOR",
     "nome": "BUJAO OLEO CG/TOD/TIT/CBX 200 MOTOBOR C/ANEL",
-    "estoque": "59",
+    "estoque": "58",
     "preco": "7,56"
   },
   {
@@ -32068,7 +32076,7 @@
     "fabric": "KOI0167",
     "marca": "MOTOKOI",
     "nome": "CAMARA DE AR DIANT BIZ MOTOKOI (250-17)",
-    "estoque": "177",
+    "estoque": "176",
     "preco": "14,16"
   },
   {
@@ -32196,7 +32204,7 @@
     "fabric": "KOI0168",
     "marca": "MOTOKOI",
     "nome": "CAMARA DE AR DIANT/TRAS CG MOTOKOI 18",
-    "estoque": "59",
+    "estoque": "56",
     "preco": "14,69"
   },
   {
@@ -32420,7 +32428,7 @@
     "fabric": "KOI0289",
     "marca": "MOTOKOI",
     "nome": "CAMARA DE AR TRAS TWISTER/BROS/FALCON MOTOKOI (4.00-R17)",
-    "estoque": "99",
+    "estoque": "98",
     "preco": "20,99"
   },
   {
@@ -48492,7 +48500,7 @@
     "fabric": "TM391",
     "marca": "TMAC",
     "nome": "CARBURADOR BROS 125 TMAC",
-    "estoque": "3",
+    "estoque": "2",
     "preco": "118,32"
   },
   {
@@ -58368,6 +58376,14 @@
     "preco": "0"
   },
   {
+    "codigo": "54164",
+    "fabric": "PDM1308",
+    "marca": "PANDAO",
+    "nome": "CDI BIZ 100 / DREAM PANDAO",
+    "estoque": "0",
+    "preco": "0"
+  },
+  {
     "codigo": "47953",
     "fabric": "TM0300",
     "marca": "TMAC",
@@ -58846,6 +58862,14 @@
     "nome": "CDI TODAY/TITAN 92/02 MAGNETRON",
     "estoque": "12",
     "preco": "57,74"
+  },
+  {
+    "codigo": "54165",
+    "fabric": "PDM1337",
+    "marca": "PANDAO",
+    "nome": "CDI TODAY/TITAN PANDAO",
+    "estoque": "0",
+    "preco": "0"
   },
   {
     "codigo": "43508",
@@ -69700,7 +69724,7 @@
     "fabric": "0006-CB",
     "marca": "COBREQ",
     "nome": "CUBO RODA TITAN 2000 DIANTEIRO COBREQ",
-    "estoque": "3",
+    "estoque": "2",
     "preco": "228,29"
   },
   {
@@ -79363,7 +79387,7 @@
     "codigo": "2790",
     "fabric": "90278510",
     "marca": "MAGNETRON",
-    "nome": "ESTATOR TITAN 03/04/FAN 125 05/08 MAGNETRON",
+    "nome": "ESTATOR TITAN 125 03/04/FAN 125 05/08 MAGNETRON",
     "estoque": "1",
     "preco": "131,76"
   },
@@ -79371,7 +79395,7 @@
     "codigo": "53197",
     "fabric": "PDM0376",
     "marca": "PANDAO",
-    "nome": "ESTATOR TITAN 03/04/FAN 125 05/08 PANDAO",
+    "nome": "ESTATOR TITAN 125 03/04/FAN 125 05/08 PANDAO",
     "estoque": "1",
     "preco": "52,49"
   },
@@ -79379,7 +79403,7 @@
     "codigo": "37554",
     "fabric": "ES0005",
     "marca": "RT",
-    "nome": "ESTATOR TITAN 03/04/FAN 125 05/08 RT",
+    "nome": "ESTATOR TITAN 125 03/04/FAN 125 05/08 RT",
     "estoque": "0",
     "preco": "71"
   },
@@ -79387,7 +79411,7 @@
     "codigo": "36943",
     "fabric": "50.173.19",
     "marca": "SERVITEC",
-    "nome": "ESTATOR TITAN 03/04/FAN 125 05/08 SERVITEC",
+    "nome": "ESTATOR TITAN 125 03/04/FAN 125 05/08 SERVITEC",
     "estoque": "0",
     "preco": "128,33"
   },
@@ -79395,7 +79419,7 @@
     "codigo": "25552",
     "fabric": "TM705",
     "marca": "TMAC",
-    "nome": "ESTATOR TITAN 03/04/FAN 125 05/08 TMAC",
+    "nome": "ESTATOR TITAN 125 03/04/FAN 125 05/08 TMAC",
     "estoque": "0",
     "preco": "82,95"
   },
@@ -79403,9 +79427,57 @@
     "codigo": "45363",
     "fabric": "022-P21T-11600",
     "marca": "TOHON",
-    "nome": "ESTATOR TITAN 03/04/FAN 125 05/08 TOHON",
+    "nome": "ESTATOR TITAN 125 03/04/FAN 125 05/08 TOHON",
     "estoque": "0",
     "preco": "108,14"
+  },
+  {
+    "codigo": "2786",
+    "fabric": "90271590",
+    "marca": "MAGNETRON",
+    "nome": "ESTATOR TITAN 125 92/99 C/BASE MAGNETRON",
+    "estoque": "7",
+    "preco": "152,23"
+  },
+  {
+    "codigo": "0200000535551",
+    "fabric": "KOI0981",
+    "marca": "MOTOKOI",
+    "nome": "ESTATOR TITAN 125 92/99 C/BASE MOTOKOI",
+    "estoque": "0",
+    "preco": "0"
+  },
+  {
+    "codigo": "54166",
+    "fabric": "PDM0357",
+    "marca": "PANDAO",
+    "nome": "ESTATOR TITAN 125 92/99 C/BASE PANDAO",
+    "estoque": "0",
+    "preco": "0"
+  },
+  {
+    "codigo": "43712",
+    "fabric": "ES0001",
+    "marca": "RT",
+    "nome": "ESTATOR TITAN 125 92/99 C/BASE RT",
+    "estoque": "0",
+    "preco": "81,39"
+  },
+  {
+    "codigo": "25545",
+    "fabric": "TM701",
+    "marca": "TMAC",
+    "nome": "ESTATOR TITAN 125 92/99 C/BASE TMAC",
+    "estoque": "0",
+    "preco": "83,99"
+  },
+  {
+    "codigo": "25549",
+    "fabric": "TM702",
+    "marca": "TMAC",
+    "nome": "ESTATOR TITAN 125 92/99 S/BASE TMAC",
+    "estoque": "6",
+    "preco": "72,45"
   },
   {
     "codigo": "2787",
@@ -79574,46 +79646,6 @@
     "nome": "ESTATOR TITAN 160 17/18/BROS 18 RT",
     "estoque": "0",
     "preco": "79,73"
-  },
-  {
-    "codigo": "2786",
-    "fabric": "90271590",
-    "marca": "MAGNETRON",
-    "nome": "ESTATOR TITAN 92/99 C/BASE MAGNETRON",
-    "estoque": "7",
-    "preco": "152,23"
-  },
-  {
-    "codigo": "0200000535551",
-    "fabric": "KOI0981",
-    "marca": "MOTOKOI",
-    "nome": "ESTATOR TITAN 92/99 C/BASE MOTOKOI",
-    "estoque": "0",
-    "preco": "0"
-  },
-  {
-    "codigo": "43712",
-    "fabric": "ES0001",
-    "marca": "RT",
-    "nome": "ESTATOR TITAN 92/99 C/BASE RT",
-    "estoque": "0",
-    "preco": "81,39"
-  },
-  {
-    "codigo": "25545",
-    "fabric": "TM701",
-    "marca": "TMAC",
-    "nome": "ESTATOR TITAN 92/99 C/BASE TMAC",
-    "estoque": "0",
-    "preco": "83,99"
-  },
-  {
-    "codigo": "25549",
-    "fabric": "TM702",
-    "marca": "TMAC",
-    "nome": "ESTATOR TITAN 92/99 S/BASE TMAC",
-    "estoque": "6",
-    "preco": "72,45"
   },
   {
     "codigo": "25819",
@@ -87140,7 +87172,7 @@
     "fabric": "48512018",
     "marca": "VEDAMOTORS",
     "nome": "GUARNICAO ESCAPE XR 250 TORNADO/CB 300 VEDAMOTORS",
-    "estoque": "14",
+    "estoque": "13",
     "preco": "19,43"
   },
   {
@@ -96272,6 +96304,14 @@
     "preco": "13,92"
   },
   {
+    "codigo": "54167",
+    "fabric": "PDM1107",
+    "marca": "PANDAO",
+    "nome": "JOGO RAIO DIANT TITAN 99 PANDAO 4MM",
+    "estoque": "0",
+    "preco": "0"
+  },
+  {
     "codigo": "26348",
     "fabric": "30010",
     "marca": "SOLIDEZ",
@@ -101588,7 +101628,7 @@
     "fabric": "001-KOI-029H0",
     "marca": "MOTOKOI",
     "nome": "KIT TRANSMISSAO FAN 125 09 MOTOKOI (43/14/428HX116L)",
-    "estoque": "171",
+    "estoque": "170",
     "preco": "57,74"
   },
   {
@@ -102236,7 +102276,7 @@
     "fabric": "H03673XS",
     "marca": "VAZ",
     "nome": "KIT TRANSMISSAO TITAN 150 VAZ (43/16/428HX118L) H03673XS",
-    "estoque": "3415",
+    "estoque": "3414",
     "preco": "57,74"
   },
   {
@@ -102308,7 +102348,7 @@
     "fabric": "H04007XS",
     "marca": "VAZ",
     "nome": "KIT TRANSMISSAO TITAN 160 VAZ (44/15/428HX118L) H04007XS",
-    "estoque": "2183",
+    "estoque": "2182",
     "preco": "57,74"
   },
   {
@@ -103148,7 +103188,7 @@
     "fabric": "H4FIT",
     "marca": "PHILIPS",
     "nome": "LAMPADA FAROL TITAN H4 12V 35X35 PHILLIPS FIT",
-    "estoque": "573",
+    "estoque": "572",
     "preco": "29,16"
   },
   {
@@ -103180,7 +103220,7 @@
     "fabric": "11458U1MX1",
     "marca": "PHILIPS",
     "nome": "LAMPADA FAROL TITAN H4FIT/HS1 12V 4W PHILLIPS LED",
-    "estoque": "12",
+    "estoque": "10",
     "preco": "47,25"
   },
   {
@@ -105300,7 +105340,7 @@
     "fabric": "70101",
     "marca": "PLASMOTO",
     "nome": "LENTE PAINEL BIZ 125 18 PLASMOTO",
-    "estoque": "113",
+    "estoque": "112",
     "preco": "31,49"
   },
   {
@@ -106196,7 +106236,7 @@
     "fabric": "01026931",
     "marca": "LUBRAX",
     "nome": "LUBRIFICANTES MOTO 4T LUBRAX 10W30 SL PROFISSIONAL",
-    "estoque": "1868",
+    "estoque": "1866",
     "preco": "30,44"
   },
   {
@@ -106636,7 +106676,7 @@
     "fabric": "1202",
     "marca": "IMPORTADA",
     "nome": "LUVA MOTOQUEIRO IMPORTADA TAMANHO UNICO",
-    "estoque": "452",
+    "estoque": "451",
     "preco": "37,11"
   },
   {
@@ -109028,7 +109068,7 @@
     "fabric": "1078",
     "marca": "PROTEC",
     "nome": "MANETE EMBREAGEM LANDER ( XTZ 250 ) 09 ED PROTEC  MOD. ORIGINAL",
-    "estoque": "11",
+    "estoque": "10",
     "preco": "13,52"
   },
   {
@@ -109844,7 +109884,7 @@
     "fabric": "1076",
     "marca": "PROTEC",
     "nome": "MANETE FREIO FACTOR A DISCO PROTEC  MOD. ORIGINAL",
-    "estoque": "17",
+    "estoque": "16",
     "preco": "14,18"
   },
   {
@@ -109908,7 +109948,7 @@
     "fabric": "1077",
     "marca": "PROTEC",
     "nome": "MANETE FREIO LANDER ( XTZ 250 ) 09 ED PROTEC  MOD. ORIGINAL",
-    "estoque": "4",
+    "estoque": "3",
     "preco": "9,29"
   },
   {
@@ -110180,7 +110220,7 @@
     "fabric": "1073",
     "marca": "PROTEC",
     "nome": "MANETE FREIO YES 125 EDN PROTEC",
-    "estoque": "22",
+    "estoque": "21",
     "preco": "14,61"
   },
   {
@@ -140012,7 +140052,7 @@
     "fabric": "6103",
     "marca": "TECHNIC",
     "nome": "PNEU DIANT 2.75-18 TECHNIC SPORT R TT 42P",
-    "estoque": "842",
+    "estoque": "841",
     "preco": "115,49"
   },
   {
@@ -140076,7 +140116,7 @@
     "fabric": "",
     "marca": "MAGGION",
     "nome": "PNEU DIANT 60/100-17 MAGGION  BIZ 100 /DREAM STREETFIGHTER MF7 TT",
-    "estoque": "249",
+    "estoque": "248",
     "preco": "100,79"
   },
   {
@@ -141116,7 +141156,7 @@
     "fabric": "15353",
     "marca": "LEVORIN",
     "nome": "PNEU TRAS 90/90-18 LEVORIN MATRIX",
-    "estoque": "2642",
+    "estoque": "2641",
     "preco": "230,99"
   },
   {
@@ -141132,7 +141172,7 @@
     "fabric": "100649",
     "marca": "MAGGION",
     "nome": "PNEU TRAS 90/90-18 MAGGION WINNER TT",
-    "estoque": "375",
+    "estoque": "374",
     "preco": "141,74"
   },
   {
@@ -141180,7 +141220,7 @@
     "fabric": "6113",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 90/90-18 TECHNIC SPORT R TT 57P",
-    "estoque": "1197",
+    "estoque": "1196",
     "preco": "136,49"
   },
   {
@@ -144724,7 +144764,7 @@
     "fabric": "",
     "marca": "RACING DESIGNS",
     "nome": "PROTETOR TANQUE RACING DESINGS",
-    "estoque": "236",
+    "estoque": "235",
     "preco": "35,02"
   },
   {
@@ -156020,7 +156060,7 @@
     "fabric": "KOI0242",
     "marca": "MOTOKOI BR",
     "nome": "RETROVISOR TITAN 150 NOVA PAR MOTOKOI BR",
-    "estoque": "76",
+    "estoque": "75",
     "preco": "22,04"
   },
   {
@@ -169836,7 +169876,7 @@
     "fabric": "1689C",
     "marca": "POLIVISOR",
     "nome": "VISEIRA EBF E8 2,20 MM CRISTAL POLIVISOR",
-    "estoque": "2",
+    "estoque": "1",
     "preco": "26,78"
   },
   {
@@ -172052,7 +172092,7 @@
     "fabric": "1010C",
     "marca": "POLIVISOR",
     "nome": "VISEIRA TAURUS SAN MARINO 0,80 MM CRISTAL POLIVISOR",
-    "estoque": "743",
+    "estoque": "742",
     "preco": "6,29"
   },
   {
