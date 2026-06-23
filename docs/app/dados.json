@@ -5076,7 +5076,7 @@
     "fabric": "KOI0311",
     "marca": "MOTOKOI",
     "nome": "ARO RODA 1.60 X 18 CG/TOD/TIT DIANT MOTOKOI",
-    "estoque": "638",
+    "estoque": "637",
     "preco": "69,29"
   },
   {
@@ -5148,7 +5148,7 @@
     "fabric": "KOI0313",
     "marca": "MOTOKOI",
     "nome": "ARO RODA 1.85 X 18 CG/TOD/TIT TRAS MOTOKOI",
-    "estoque": "775",
+    "estoque": "774",
     "preco": "80,84"
   },
   {
@@ -5380,7 +5380,7 @@
     "fabric": "1708",
     "marca": "CEMOPAR",
     "nome": "ARRUELA CEMOPAR  M 8  PRESSAO",
-    "estoque": "297",
+    "estoque": "296",
     "preco": "0,16"
   },
   {
@@ -5388,7 +5388,7 @@
     "fabric": "1508",
     "marca": "CEMOPAR",
     "nome": "ARRUELA CEMOPAR  M 8 UNID LISA",
-    "estoque": "3428",
+    "estoque": "3427",
     "preco": "0,22"
   },
   {
@@ -8284,7 +8284,7 @@
     "fabric": "MTX6L-BS",
     "marca": "MOTOKOI BR",
     "nome": "BATERIA BIZ / FAN 125 ES 09/TITAN150 MIX 09 ED MTX6L-BS MOTOKOI",
-    "estoque": "1281",
+    "estoque": "1280",
     "preco": "124,07"
   },
   {
@@ -8604,7 +8604,7 @@
     "fabric": "BP-09",
     "marca": "TORK",
     "nome": "BAULETO TORK SMART BOX 2 PRETO 45 LITROS (LENTE VERMELHA)",
-    "estoque": "25",
+    "estoque": "24",
     "preco": "155,4"
   },
   {
@@ -10100,7 +10100,7 @@
     "fabric": "S410210321004",
     "marca": "VEDAMOTORS",
     "nome": "BIELA TITAN 150/BROS 150 VEDAMOTORS",
-    "estoque": "14",
+    "estoque": "13",
     "preco": "80,85"
   },
   {
@@ -13820,7 +13820,7 @@
     "fabric": "90217541",
     "marca": "MAGNETRON",
     "nome": "BOIA TANQUE TITAN 150 14 ED / BROS 160 15-18  MAGNETRON",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "98,09"
   },
   {
@@ -14508,7 +14508,7 @@
     "fabric": "90217540",
     "marca": "MAGNETRON",
     "nome": "BOMBA COMBUSTIVEL TITAN 150 FAN TITAN FLEX ESD EX CES ES 2014/ BROS 160 15-18  MAGNETRON",
-    "estoque": "3",
+    "estoque": "2",
     "preco": "401,89"
   },
   {
@@ -18260,7 +18260,7 @@
     "fabric": "1520",
     "marca": "REGGIO",
     "nome": "BUJAO OLEO 13 MM REGGIO",
-    "estoque": "74",
+    "estoque": "73",
     "preco": "1,58"
   },
   {
@@ -18324,7 +18324,7 @@
     "fabric": "01519",
     "marca": "REGGIO",
     "nome": "BUJAO OLEO 150 REGGIO C/ANEL NYLON",
-    "estoque": "102",
+    "estoque": "101",
     "preco": "1,58"
   },
   {
@@ -18428,7 +18428,7 @@
     "fabric": "10124571",
     "marca": "WGK",
     "nome": "BUJAO OLEO CG 125 COMPLETO WGK",
-    "estoque": "20",
+    "estoque": "19",
     "preco": "5,24"
   },
   {
@@ -18468,7 +18468,7 @@
     "fabric": "1013211",
     "marca": "WGK",
     "nome": "BUJAO OLEO CG/TOD/TIT/CBX 200 WGK C/ANEL",
-    "estoque": "10",
+    "estoque": "5",
     "preco": "5,24"
   },
   {
@@ -25188,7 +25188,7 @@
     "fabric": "TM4024",
     "marca": "TMAC",
     "nome": "CABO EMBREAGEM FAN 125 05/08 TMAC",
-    "estoque": "96",
+    "estoque": "91",
     "preco": "9,44"
   },
   {
@@ -25404,7 +25404,7 @@
     "fabric": "TM4018",
     "marca": "TMAC",
     "nome": "CABO EMBREAGEM FAZER 250 ATE 10/ E 11 E/D TMAC",
-    "estoque": "97",
+    "estoque": "93",
     "preco": "15,38"
   },
   {
@@ -30564,7 +30564,7 @@
     "fabric": "KOI0065",
     "marca": "MOTOKOI",
     "nome": "CABO VELOCIMETRO YBR K 02/08 MOTOKOI",
-    "estoque": "254",
+    "estoque": "251",
     "preco": "9,42"
   },
   {
@@ -31572,7 +31572,7 @@
     "fabric": "1014531",
     "marca": "WGK",
     "nome": "CAIXA DIRECAO COLAR TITAN 00/FAN 125/TITAN 150/TITAN 160 WGK",
-    "estoque": "88",
+    "estoque": "86",
     "preco": "26,24"
   },
   {
@@ -32220,7 +32220,7 @@
     "fabric": "KOI0167",
     "marca": "MOTOKOI",
     "nome": "CAMARA DE AR DIANT BIZ MOTOKOI (250-17)",
-    "estoque": "1641",
+    "estoque": "1640",
     "preco": "14,16"
   },
   {
@@ -32348,7 +32348,7 @@
     "fabric": "KOI0168",
     "marca": "MOTOKOI",
     "nome": "CAMARA DE AR DIANT/TRAS CG MOTOKOI 18",
-    "estoque": "28128",
+    "estoque": "28126",
     "preco": "14,69"
   },
   {
@@ -34084,7 +34084,7 @@
     "fabric": "KOI0255",
     "marca": "MOTOKOI BR",
     "nome": "CAPA BANCO FAZER 06/11 PRETA MOTOKOI",
-    "estoque": "21",
+    "estoque": "19",
     "preco": "23,63"
   },
   {
@@ -47340,7 +47340,7 @@
     "fabric": "10013432",
     "marca": "TAURUS",
     "nome": "CAPACETE TAURUS SAN MARINO PRETO 56",
-    "estoque": "143",
+    "estoque": "141",
     "preco": "178,49"
   },
   {
@@ -48596,7 +48596,7 @@
     "fabric": "TM403",
     "marca": "TMAC",
     "nome": "CARBURADOR BIZ 100 TMAC",
-    "estoque": "147",
+    "estoque": "146",
     "preco": "94,49"
   },
   {
@@ -48996,7 +48996,7 @@
     "fabric": "KOI0170",
     "marca": "MOTOKOI",
     "nome": "CARBURADOR TITAN 150 04/08 MOTOKOI",
-    "estoque": "320",
+    "estoque": "317",
     "preco": "73,49"
   },
   {
@@ -49020,7 +49020,7 @@
     "fabric": "TM401",
     "marca": "TMAC",
     "nome": "CARBURADOR TITAN 150 04/08 TMAC",
-    "estoque": "431",
+    "estoque": "430",
     "preco": "86,51"
   },
   {
@@ -57372,7 +57372,7 @@
     "fabric": "Z18L-B1",
     "marca": "STALLION",
     "nome": "CARREGADOR CELULAR C. SUPORTE STALLION S/CARREGADOR FIXO GUIDAO MODELO CAPA",
-    "estoque": "67",
+    "estoque": "66",
     "preco": "86,63"
   },
   {
@@ -58556,7 +58556,7 @@
     "fabric": "90271190",
     "marca": "MAGNETRON",
     "nome": "CDI BIZ 100 / DREAM MAGNETRON",
-    "estoque": "2",
+    "estoque": "1",
     "preco": "47,25"
   },
   {
@@ -60420,7 +60420,7 @@
     "fabric": "1103932",
     "marca": "CONDOR",
     "nome": "CHAVE CONTATO TITAN 150 14/FAN 150 14 CONDOR",
-    "estoque": "2",
+    "estoque": "1",
     "preco": "67,95"
   },
   {
@@ -71212,7 +71212,7 @@
     "fabric": "PDM1752",
     "marca": "PANDAO",
     "nome": "DISCO FREIO BIZ+ 125 DIANTEIRO PANDAO",
-    "estoque": "108",
+    "estoque": "107",
     "preco": "29,93"
   },
   {
@@ -71228,7 +71228,7 @@
     "fabric": "PDM1744",
     "marca": "PANDAO",
     "nome": "DISCO FREIO BROS 150/160 DIANT PANDAO",
-    "estoque": "8",
+    "estoque": "6",
     "preco": "44,63"
   },
   {
@@ -71260,7 +71260,7 @@
     "fabric": "PDM1774",
     "marca": "PANDAO",
     "nome": "DISCO FREIO CB 250 16 DIANTEIRO PANDAO",
-    "estoque": "8",
+    "estoque": "7",
     "preco": "57,75"
   },
   {
@@ -71308,7 +71308,7 @@
     "fabric": "PDM1750",
     "marca": "PANDAO",
     "nome": "DISCO FREIO CB 300/HORNET S. ABS TRASEIRO PANDAO",
-    "estoque": "102",
+    "estoque": "101",
     "preco": "44,1"
   },
   {
@@ -71516,7 +71516,7 @@
     "fabric": "PDM1757",
     "marca": "PANDAO",
     "nome": "DISCO FREIO FALCON/NX350 SAHARA/CBR 450 DIANTEIRO PANDAO",
-    "estoque": "102",
+    "estoque": "100",
     "preco": "43,04"
   },
   {
@@ -71796,7 +71796,7 @@
     "fabric": "PDM1741",
     "marca": "PANDAO",
     "nome": "DISCO FREIO TITAN 150 DIANTEIRO PANDAO",
-    "estoque": "278",
+    "estoque": "276",
     "preco": "38,84"
   },
   {
@@ -76276,7 +76276,7 @@
     "fabric": "TM326",
     "marca": "TMAC",
     "nome": "ENGRENAGEM + PINHAO DO VELOCIMETRO TITAN 150 KS/ES 04/11/FAN 150 ESI 10/13 /TITAN 125 KS/ES 09/13/ TMAC",
-    "estoque": "226",
+    "estoque": "225",
     "preco": "7,88"
   },
   {
@@ -77108,7 +77108,7 @@
     "fabric": "TM312",
     "marca": "TMAC",
     "nome": "ENGRENAGEM VELOCIMETRO TITAN 150 ESD TMAC COMPLETA",
-    "estoque": "136",
+    "estoque": "134",
     "preco": "19,82"
   },
   {
@@ -79572,7 +79572,7 @@
     "fabric": "PDM0374",
     "marca": "PANDAO",
     "nome": "ESTATOR TITAN 00/01 PANDAO",
-    "estoque": "108",
+    "estoque": "106",
     "preco": "55,13"
   },
   {
@@ -79684,7 +79684,7 @@
     "fabric": "PDM0357",
     "marca": "PANDAO",
     "nome": "ESTATOR TITAN 125 92/99 C/BASE PANDAO",
-    "estoque": "200",
+    "estoque": "198",
     "preco": "64,58"
   },
   {
@@ -79732,7 +79732,7 @@
     "fabric": "PDM0377",
     "marca": "PANDAO",
     "nome": "ESTATOR TITAN 150 04/08 PANDAO",
-    "estoque": "206",
+    "estoque": "204",
     "preco": "55,13"
   },
   {
@@ -79796,7 +79796,7 @@
     "fabric": "PDM0361",
     "marca": "PANDAO",
     "nome": "ESTATOR TITAN 150 ESD/EX 14/15/FAN 150 ESDI 14/15/TITAN 160 16/24/FAN 160 16/24/START 150 15/16 PANDAO",
-    "estoque": "208",
+    "estoque": "206",
     "preco": "64,58"
   },
   {
@@ -79844,7 +79844,7 @@
     "fabric": "PDM0358",
     "marca": "PANDAO",
     "nome": "ESTATOR TITAN 150 I.E/ MIX / FAN ESI 09 EM DIANTE PANDAO",
-    "estoque": "200",
+    "estoque": "198",
     "preco": "64,58"
   },
   {
@@ -84660,7 +84660,7 @@
     "fabric": "KOI0355",
     "marca": "MOTOKOI",
     "nome": "FILTRO OLEO TWISTER/FALCON/CB300/XRE300/TORNADO/XLX MOTOKOI",
-    "estoque": "370",
+    "estoque": "369",
     "preco": "4,19"
   },
   {
@@ -89052,7 +89052,7 @@
     "fabric": "C1519",
     "marca": "CORAMI",
     "nome": "GUIA VALVULA FAZER 250/LANDER/TENERE 250/XT 225 CORAMI",
-    "estoque": "6",
+    "estoque": "5",
     "preco": "7,88"
   },
   {
@@ -89604,7 +89604,7 @@
     "fabric": "100408102",
     "marca": "POLIMET",
     "nome": "GUIDAO POP 100 07-15 PRETO POLIMET",
-    "estoque": "2",
+    "estoque": "1",
     "preco": "78,56"
   },
   {
@@ -90068,7 +90068,7 @@
     "fabric": "PDM3010",
     "marca": "QINLIFE",
     "nome": "INTERCOMUNICADOR V10 BLUETOOTH RGB QINLIFE",
-    "estoque": "240",
+    "estoque": "239",
     "preco": "47,25"
   },
   {
@@ -91748,7 +91748,7 @@
     "fabric": "1101249",
     "marca": "GP7/GP",
     "nome": "INTERRUPTOR PISCA BIZ 100 GP",
-    "estoque": "32",
+    "estoque": "29",
     "preco": "4,35"
   },
   {
@@ -95764,7 +95764,7 @@
     "fabric": "VS10700090180",
     "marca": "VEDAMOTORS",
     "nome": "JOGO JUNTAS FAZER 250/XTZ 250 VEDAMOTORS",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "91,35"
   },
   {
@@ -96228,7 +96228,7 @@
     "fabric": "TC041",
     "marca": "TMAC",
     "nome": "JOGO RAIO DIANT BIZ 100/125 TMAC 3,5MM",
-    "estoque": "107",
+    "estoque": "105",
     "preco": "28,88"
   },
   {
@@ -96548,7 +96548,7 @@
     "fabric": "PDM1107",
     "marca": "PANDAO",
     "nome": "JOGO RAIO DIANT TITAN 99 PANDAO 4MM",
-    "estoque": "435",
+    "estoque": "434",
     "preco": "20,99"
   },
   {
@@ -96812,7 +96812,7 @@
     "fabric": "TM013",
     "marca": "TMAC",
     "nome": "JOGO RAIO DIANT/TRAS TITAN/FAN KS 2000/150 TMAC 4MM",
-    "estoque": "2325",
+    "estoque": "2323",
     "preco": "24,14"
   },
   {
@@ -96860,7 +96860,7 @@
     "fabric": "TC042",
     "marca": "TMAC",
     "nome": "JOGO RAIO TRAS BIZ 100/125/POP TMAC 3,5 MM",
-    "estoque": "298",
+    "estoque": "297",
     "preco": "20,99"
   },
   {
@@ -98292,7 +98292,7 @@
     "fabric": "VS05003000263",
     "marca": "VEDAMOTORS",
     "nome": "JUNTA TAMPA LATERAL DIREITO TITAN 160/BROS 160 VEDAMOTORS",
-    "estoque": "15",
+    "estoque": "10",
     "preco": "13,13"
   },
   {
@@ -98996,7 +98996,7 @@
     "fabric": "VS10610090195",
     "marca": "VEDAMOTORS",
     "nome": "KIT A FAZER/LANDER 250  VEDAMOTORS",
-    "estoque": "9",
+    "estoque": "8",
     "preco": "45,97"
   },
   {
@@ -99892,7 +99892,7 @@
     "fabric": "1103887",
     "marca": "KMP",
     "nome": "KIT CILINDRO TITAN 150 KMP C/KIT A",
-    "estoque": "40",
+    "estoque": "39",
     "preco": "278,25"
   },
   {
@@ -101428,7 +101428,7 @@
     "fabric": "H04003XS",
     "marca": "VAZ",
     "nome": "KIT TRANSMISSAO BROS 160/XRE 190 VAZ (48/16/428HX128L)",
-    "estoque": "226",
+    "estoque": "225",
     "preco": "102,66"
   },
   {
@@ -101948,7 +101948,7 @@
     "fabric": "001-KOI-040H0",
     "marca": "MOTOKOI",
     "nome": "KIT TRANSMISSAO FAZER 250 MOTOKOI (45/15/428HX132L)",
-    "estoque": "32",
+    "estoque": "31",
     "preco": "76,13"
   },
   {
@@ -101956,7 +101956,7 @@
     "fabric": "001-KOI-040H4",
     "marca": "MOTOKOI",
     "nome": "KIT TRANSMISSAO FAZER 250 MOTOKOI (45/15/428VOX132L) C/RETENTOR",
-    "estoque": "52",
+    "estoque": "51",
     "preco": "142,28"
   },
   {
@@ -103364,7 +103364,7 @@
     "fabric": "H4FIT",
     "marca": "PHILIPS",
     "nome": "LAMPADA FAROL TITAN H4 12V 35X35 PHILLIPS FIT",
-    "estoque": "540",
+    "estoque": "510",
     "preco": "29,16"
   },
   {
@@ -103540,7 +103540,7 @@
     "fabric": "LF-01 SB",
     "marca": "STALLION",
     "nome": "LAMPADA LED FAROL TITAN H4 LED STALLION",
-    "estoque": "1138",
+    "estoque": "1137",
     "preco": "18,38"
   },
   {
@@ -106428,7 +106428,7 @@
     "fabric": "123075",
     "marca": "MOBIL",
     "nome": "LUBRIFICANTES MOTO 4T MOBIL 10W30 SEMI-SINTETICO",
-    "estoque": "3356",
+    "estoque": "3351",
     "preco": "36,74"
   },
   {
@@ -106460,7 +106460,7 @@
     "fabric": "121708",
     "marca": "MOBIL",
     "nome": "LUBRIFICANTES MOTO 4T MOBIL 20W50",
-    "estoque": "9703",
+    "estoque": "9691",
     "preco": "27,29"
   },
   {
@@ -106580,7 +106580,7 @@
     "fabric": "23544",
     "marca": "REVOLUXX",
     "nome": "LUBRIFICANTES MOTO 4T REVOLUXX 20W50 MIXXON",
-    "estoque": "3031",
+    "estoque": "3028",
     "preco": "18,89"
   },
   {
@@ -111444,7 +111444,7 @@
     "fabric": "MA037-001",
     "marca": "CIRCUIT",
     "nome": "MANOPLA CIRCUIT INTERLAGOS PT PLUS",
-    "estoque": "611",
+    "estoque": "608",
     "preco": "23,09"
   },
   {
@@ -113756,7 +113756,7 @@
     "fabric": "90205020",
     "marca": "MAGNETRON",
     "nome": "MESA PORTA ESCOVA TITAN 150 / FAN 09 MAGNETRON",
-    "estoque": "2657",
+    "estoque": "2653",
     "preco": "10,49"
   },
   {
@@ -120156,7 +120156,7 @@
     "fabric": "21552K",
     "marca": "MOTOKOI BR",
     "nome": "PARAFUSO PROTETOR ESCAPAMENTO TITAN 00/FALCON MOTOKOI",
-    "estoque": "219",
+    "estoque": "218",
     "preco": "1,7"
   },
   {
@@ -122388,7 +122388,7 @@
     "fabric": "300101",
     "marca": "MELC",
     "nome": "PARALAMA DIANT CG 88/94 PRETO MELC (300101)",
-    "estoque": "6",
+    "estoque": "5",
     "preco": "41,99"
   },
   {
@@ -123508,7 +123508,7 @@
     "fabric": "301707",
     "marca": "MELC",
     "nome": "PARALAMA DIANT TITAN 02/03 VERDE MELC (301707)",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "23,84"
   },
   {
@@ -124764,7 +124764,7 @@
     "fabric": "301900",
     "marca": "MELC",
     "nome": "PARALAMA DIANT YBR 125 00 VERMELHO MELC (301900)",
-    "estoque": "2",
+    "estoque": "1",
     "preco": "47,34"
   },
   {
@@ -125724,7 +125724,7 @@
     "fabric": "PDM1362",
     "marca": "PANDAO",
     "nome": "PASTILHA FREIO BROS 160/BIZ 125/PCX 19 CBS DIANT PANDAO",
-    "estoque": "61",
+    "estoque": "51",
     "preco": "6,29"
   },
   {
@@ -127100,7 +127100,7 @@
     "fabric": "FA160",
     "marca": "TMAC",
     "nome": "PASTILHA FREIO TITAN 160 18/FAN 150 18 CBS TMAC",
-    "estoque": "96",
+    "estoque": "86",
     "preco": "10,49"
   },
   {
@@ -127132,7 +127132,7 @@
     "fabric": "PDM1785",
     "marca": "PANDAO",
     "nome": "PASTILHA FREIO TITAN 160 TRAS PANDAO",
-    "estoque": "20",
+    "estoque": "0",
     "preco": "6,29"
   },
   {
@@ -127460,7 +127460,7 @@
     "fabric": "PDM1393",
     "marca": "PANDAO",
     "nome": "PASTILHA FREIO YBR FACTOR 150 16/FAZER 150 DIANTEIRO PANDAO",
-    "estoque": "42",
+    "estoque": "22",
     "preco": "6,29"
   },
   {
@@ -128308,7 +128308,7 @@
     "fabric": "302CP",
     "marca": "COBREQ",
     "nome": "PATIM FREIO TITAN 00/TITAN 150 0,00 DIANT/TRAS COBREQ 302CP",
-    "estoque": "2569",
+    "estoque": "2563",
     "preco": "31,49"
   },
   {
@@ -128372,7 +128372,7 @@
     "fabric": "302CPX",
     "marca": "COBREQ",
     "nome": "PATIM FREIO TITAN 00/TITAN 150 0,25 DIANT/TRAS COBREQ 302CPX",
-    "estoque": "2706",
+    "estoque": "2700",
     "preco": "34,64"
   },
   {
@@ -128460,7 +128460,7 @@
     "fabric": "KOI-00100 D",
     "marca": "MOTOKOI BR",
     "nome": "PATIM FREIO TITAN 00/TITAN 150 1,00 DIANT/TRAS MOTOKOI BR",
-    "estoque": "381",
+    "estoque": "379",
     "preco": "17,84"
   },
   {
@@ -132364,7 +132364,7 @@
     "fabric": "23281K",
     "marca": "MOTOKOI BR",
     "nome": "PINO TRAVA TAMPA LATERAL BIZ 100/BIZ 125/TITAN 150 14/TITAN 160 MOTOKOI (MAIOR)",
-    "estoque": "197",
+    "estoque": "187",
     "preco": "2,1"
   },
   {
@@ -140324,7 +140324,7 @@
     "fabric": "3100",
     "marca": "TECHNIC",
     "nome": "PNEU DIANT 60/100-17 TECHNIC TIGER BIZ TT 33L",
-    "estoque": "313",
+    "estoque": "312",
     "preco": "97,13"
   },
   {
@@ -141340,7 +141340,7 @@
     "fabric": "100649",
     "marca": "MAGGION",
     "nome": "PNEU TRAS 90/90-18 MAGGION WINNER TT",
-    "estoque": "363",
+    "estoque": "360",
     "preco": "141,74"
   },
   {
@@ -141388,7 +141388,7 @@
     "fabric": "6113",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 90/90-18 TECHNIC SPORT R TT 57P",
-    "estoque": "1169",
+    "estoque": "1168",
     "preco": "136,49"
   },
   {
@@ -141988,7 +141988,7 @@
     "fabric": "TM7231",
     "marca": "TMAC",
     "nome": "PORCA ESCAPAMENTO TITAN 00/STRADA 7MM TMAC",
-    "estoque": "493",
+    "estoque": "473",
     "preco": "1,04"
   },
   {
@@ -142100,7 +142100,7 @@
     "fabric": "9084",
     "marca": "TRILHA",
     "nome": "PORCA M6  SEXT. TRILHA  CH 10  10 UNID",
-    "estoque": "1234",
+    "estoque": "1214",
     "preco": "0,33"
   },
   {
@@ -142636,7 +142636,7 @@
     "fabric": "23282K",
     "marca": "MOTOKOI BR",
     "nome": "PRESILHA FIXACAO CARENAGEM TITAN 160/TITAN 150 14/FAZER 150 MOTOKOI",
-    "estoque": "600",
+    "estoque": "590",
     "preco": "1,67"
   },
   {
@@ -142740,7 +142740,7 @@
     "fabric": "23283K",
     "marca": "MOTOKOI BR",
     "nome": "PRESILHA FIXACAO RABETA TITAN/FAN 150 160 14/20 POP 110I 15/21 MOTOKOI",
-    "estoque": "462",
+    "estoque": "442",
     "preco": "1,33"
   },
   {
@@ -144268,7 +144268,7 @@
     "fabric": "4000131",
     "marca": "EBF",
     "nome": "PROTETOR LATERAL EBF NEW SPARK/EOX \"\"PAR\"\"",
-    "estoque": "36",
+    "estoque": "35",
     "preco": "20,99"
   },
   {
@@ -145156,7 +145156,7 @@
     "fabric": "TM0122",
     "marca": "TMAC",
     "nome": "PUNHO LUZ BROS 150 KS/MIX/FLEX 09/12/BROS 150 ES/MIX/FLEX 10/14/BROS 150 ESD/MIX/FLEX 10/15 TMAC",
-    "estoque": "2",
+    "estoque": "1",
     "preco": "40,97"
   },
   {
@@ -147620,7 +147620,7 @@
     "fabric": "332718",
     "marca": "MELC",
     "nome": "RABETA TITAN 150 08 PRATA METALICO MELC (332718)",
-    "estoque": "12",
+    "estoque": "11",
     "preco": "67,2"
   },
   {
@@ -149116,7 +149116,7 @@
     "fabric": "TC910",
     "marca": "TMAC",
     "nome": "REFIL BOMBA COMBUSTIVEL TITAN 150 14/15/TITAN 160/FAN 160 16/ED/BROS 160 ESD15/17/TWISTER16/22/XRE 190 16/ED TMAC C/FILTRO",
-    "estoque": "36",
+    "estoque": "35",
     "preco": "103,95"
   },
   {
@@ -153052,7 +153052,7 @@
     "fabric": "M73FG00028000",
     "marca": "VEDAMOTORS",
     "nome": "RETENTOR CAMBIO TITAN 150/TITAN 160/BROS 160 VEDAMOTORS",
-    "estoque": "84",
+    "estoque": "83",
     "preco": "6,28"
   },
   {
@@ -153284,7 +153284,7 @@
     "fabric": "M730900249100",
     "marca": "VEDAMOTORS",
     "nome": "RETENTOR HASTE EMBREAGEM TWISTER/FAZER/FALCON/YBR 125/TITAN 150 VEDAMOTORS",
-    "estoque": "147",
+    "estoque": "146",
     "preco": "6,83"
   },
   {
@@ -153444,7 +153444,7 @@
     "fabric": "7780V",
     "marca": "CORTECO",
     "nome": "RETENTOR HASTE VALVULA FAZER 250/LANDER 250/XT 225/XT 660 CORTECO ***UNITARIO***",
-    "estoque": "8",
+    "estoque": "7",
     "preco": "30,23"
   },
   {
@@ -156228,7 +156228,7 @@
     "fabric": "1458",
     "marca": "NEXTPART",
     "nome": "RETROVISOR TITAN 150 PAR NEXPART",
-    "estoque": "3146",
+    "estoque": "3144",
     "preco": "16,79"
   },
   {
@@ -159356,7 +159356,7 @@
     "fabric": "PDM1429",
     "marca": "PANDAO",
     "nome": "SENSOR VELOCIMETRO FAN 125 ES/ESD 14/15 PANDAO",
-    "estoque": "2",
+    "estoque": "1",
     "preco": "57,75"
   },
   {
@@ -161380,7 +161380,7 @@
     "fabric": "MMB0053",
     "marca": "MEGA MOTO",
     "nome": "SUPORTE PARALAMA DIANT TITAN 2000 MEGA MOTO",
-    "estoque": "50",
+    "estoque": "47",
     "preco": "14,69"
   },
   {
@@ -165428,7 +165428,7 @@
     "fabric": "1011001",
     "marca": "WGK",
     "nome": "TENSION /ACION. CORRENTE TITAN 150/BIZ 125/TITAN 160/BROS 160/CB 250/CB 300/XRE 300/CRF 230 WGK",
-    "estoque": "14",
+    "estoque": "11",
     "preco": "65,63"
   },
   {
@@ -167220,7 +167220,7 @@
     "fabric": "10111351",
     "marca": "WGK",
     "nome": "VALVULA ADMISSAO TITAN 150 WGK",
-    "estoque": "12",
+    "estoque": "10",
     "preco": "20,15"
   },
   {
@@ -167780,7 +167780,7 @@
     "fabric": "10111491",
     "marca": "WGK",
     "nome": "VALVULA ESCAPE FAZER 250 WGK",
-    "estoque": "3",
+    "estoque": "2",
     "preco": "36,74"
   },
   {
@@ -167900,7 +167900,7 @@
     "fabric": "10111371",
     "marca": "WGK",
     "nome": "VALVULA ESCAPE TITAN 150 WGK",
-    "estoque": "13",
+    "estoque": "11",
     "preco": "24,34"
   },
   {
@@ -168932,7 +168932,7 @@
     "fabric": "CPR8EA9",
     "marca": "NGK",
     "nome": "VELA TITAN 150/FAN 150 CPR8EA-9 NGK",
-    "estoque": "732",
+    "estoque": "726",
     "preco": "31,49"
   },
   {
@@ -169996,7 +169996,7 @@
     "fabric": "4000183",
     "marca": "EBF",
     "nome": "VISEIRA EBF E0X/NEW SPARK INJ 2,00 MM EBF",
-    "estoque": "9",
+    "estoque": "8",
     "preco": "39,38"
   },
   {
