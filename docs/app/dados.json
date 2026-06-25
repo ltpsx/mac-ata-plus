@@ -1916,7 +1916,7 @@
     "fabric": "11353",
     "marca": "SIVERST",
     "nome": "AGULHA BOIA C/ SEDE CG/ML/TU ECCO MED. 10,05MM SIVERST",
-    "estoque": "62",
+    "estoque": "61",
     "preco": "16,93"
   },
   {
@@ -1932,7 +1932,7 @@
     "fabric": "10710",
     "marca": "SIVERST",
     "nome": "AGULHA BOIA C/ SEDE CG/ML/TU ECCO MED. 9,95 MM SIVERST",
-    "estoque": "3",
+    "estoque": "2",
     "preco": "16,79"
   },
   {
@@ -2628,7 +2628,7 @@
     "fabric": "100300402",
     "marca": "POLIMET",
     "nome": "ALCA MODELO ORIGINAL TITAN 00/04 FAN125 05/08 PRETO POLIMET",
-    "estoque": "16",
+    "estoque": "15",
     "preco": "52,49"
   },
   {
@@ -8284,7 +8284,7 @@
     "fabric": "MTX6L-BS",
     "marca": "MOTOKOI BR",
     "nome": "BATERIA BIZ / FAN 125 ES 09/TITAN150 MIX 09 ED MTX6L-BS MOTOKOI",
-    "estoque": "1268",
+    "estoque": "1267",
     "preco": "124,07"
   },
   {
@@ -8364,7 +8364,7 @@
     "fabric": "00810B",
     "marca": "RAIOM",
     "nome": "BATERIA CBX/NX/XR200/SAHA RTX8-BS RAIOM",
-    "estoque": "4",
+    "estoque": "3",
     "preco": "203,33"
   },
   {
@@ -8420,7 +8420,7 @@
     "fabric": "MTX7L-BS",
     "marca": "MOTOKOI BR",
     "nome": "BATERIA TWISTER/BROS 150/HUNTER/FALCON/INTRUDER/TITAN150 ES/ESD MTX7L-BS MOTOKOI",
-    "estoque": "318",
+    "estoque": "317",
     "preco": "145,92"
   },
   {
@@ -23948,7 +23948,7 @@
     "fabric": "KOI0102",
     "marca": "MOTOKOI",
     "nome": "CABO AFOGADOR TWISTER MOTOKOI",
-    "estoque": "59",
+    "estoque": "58",
     "preco": "6,6"
   },
   {
@@ -30652,7 +30652,7 @@
     "fabric": "TM7030",
     "marca": "TMAC",
     "nome": "CABO VELOCIMETRO YES 125 2011/ TMAC",
-    "estoque": "9",
+    "estoque": "8",
     "preco": "8,94"
   },
   {
@@ -31220,7 +31220,7 @@
     "fabric": "TD 002",
     "marca": "STALLION",
     "nome": "CADEADO TRAVA DISCO STALLION PRETO C/ALARME",
-    "estoque": "33",
+    "estoque": "32",
     "preco": "41,99"
   },
   {
@@ -36012,7 +36012,7 @@
     "fabric": "1005001143",
     "marca": "PROTERCAPAS",
     "nome": "CAPA CHUVA PROTERCAPA NYLON UNISEX GG",
-    "estoque": "8",
+    "estoque": "7",
     "preco": "148,46"
   },
   {
@@ -36084,7 +36084,7 @@
     "fabric": "1005001144",
     "marca": "PROTERCAPAS",
     "nome": "CAPA CHUVA PROTERCAPAS NYLON UNISEX EG",
-    "estoque": "8",
+    "estoque": "9",
     "preco": "173,25"
   },
   {
@@ -36156,7 +36156,7 @@
     "fabric": "1004001131",
     "marca": "PROTERCAPAS",
     "nome": "CAPA CHUVA PROTERCAPAS PVC LIDER M",
-    "estoque": "16",
+    "estoque": "15",
     "preco": "89,24"
   },
   {
@@ -48940,7 +48940,7 @@
     "fabric": "PDM1102",
     "marca": "PANDAO",
     "nome": "CARBURADOR TITAN 02/04/FAN 125 05/08 PANDAO",
-    "estoque": "285",
+    "estoque": "284",
     "preco": "59,85"
   },
   {
@@ -50484,7 +50484,7 @@
     "fabric": "4910ORB",
     "marca": "ORBITAL",
     "nome": "CARCACA PAINEL INTERNA BRANCA TITAN/FAN 150/160 14-24 ORBITAL",
-    "estoque": "18",
+    "estoque": "17",
     "preco": "13,64"
   },
   {
@@ -57340,7 +57340,7 @@
     "fabric": "SR-07C",
     "marca": "STALLION",
     "nome": "CARREGADOR CELULAR C. SUPORTE STALLION C/CARREGADOR (BOLSA) FIXO RETROVISOR",
-    "estoque": "17",
+    "estoque": "16",
     "preco": "44,63"
   },
   {
@@ -66556,7 +66556,7 @@
     "fabric": "90264250",
     "marca": "MAGNETRON",
     "nome": "CONJ. DE TRAVAS TWISTER 06/08  MAGNETRON",
-    "estoque": "2",
+    "estoque": "1",
     "preco": "169,31"
   },
   {
@@ -71378,7 +71378,7 @@
   {
     "codigo": "54256",
     "fabric": "10160037",
-    "marca": "TMAC",
+    "marca": "SCUD",
     "nome": "DISCO FREIO CB 300/HORNET S. ABS TRASEIRO SCUD",
     "estoque": "0",
     "preco": "0"
@@ -72260,7 +72260,7 @@
     "fabric": "PDM1747",
     "marca": "PANDAO",
     "nome": "DISCO FREIO YES DIANTEIRO PANDAO",
-    "estoque": "5",
+    "estoque": "4",
     "preco": "46,2"
   },
   {
@@ -75748,7 +75748,7 @@
     "fabric": "KOI0352",
     "marca": "MOTOKOI",
     "nome": "EMBREAGEM KIT COMPLETO YBR 125/XTZ 125 MOTOKOI",
-    "estoque": "8",
+    "estoque": "7",
     "preco": "83,99"
   },
   {
@@ -75780,7 +75780,7 @@
     "fabric": "KOI0353",
     "marca": "MOTOKOI",
     "nome": "EMBREAGEM KIT COMPLETO YES MOTOKOI",
-    "estoque": "6",
+    "estoque": "5",
     "preco": "83,99"
   },
   {
@@ -86916,7 +86916,7 @@
     "fabric": "2006 GBP-80 VM",
     "marca": "JEROD",
     "nome": "GRAXA BRANCA P/ CORRENTE 80G",
-    "estoque": "4318",
+    "estoque": "4317",
     "preco": "2,77"
   },
   {
@@ -86948,7 +86948,7 @@
     "fabric": "21531000487",
     "marca": "TEKBOND",
     "nome": "GRAXA TEKBOND BRANCA SPRAY 300ML TEKBOND",
-    "estoque": "7",
+    "estoque": "6",
     "preco": "29,93"
   },
   {
@@ -87100,7 +87100,7 @@
     "fabric": "12202K",
     "marca": "MOTOKOI BR",
     "nome": "GUARDA PO BENGALA TWISTER/XR200/NX/XLX 350/CB500/CB 300 MOTOKOI ***PAR***",
-    "estoque": "24",
+    "estoque": "23",
     "preco": "6,83"
   },
   {
@@ -87292,7 +87292,7 @@
     "fabric": "51133K",
     "marca": "MOTOKOI BR",
     "nome": "GUARNICAO CUBA CARBURADOR CG/ML/TUR/XL125/CBX/NX150 MOTOKOI (C/ANEIS)",
-    "estoque": "50",
+    "estoque": "45",
     "preco": "2,09"
   },
   {
@@ -98500,7 +98500,7 @@
     "fabric": "VS10003000663",
     "marca": "VEDAMOTORS",
     "nome": "JUNTA TAMPA LATERAL DIREITO YBR 125 VEDAMOTORS",
-    "estoque": "3",
+    "estoque": "2",
     "preco": "8,39"
   },
   {
@@ -98508,7 +98508,7 @@
     "fabric": "VS25003002413",
     "marca": "VEDAMOTORS",
     "nome": "JUNTA TAMPA LATERAL DIREITO YES 125 VEDAMOTORS",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "18,03"
   },
   {
@@ -102124,7 +102124,7 @@
     "fabric": "001-KOI-040H4",
     "marca": "MOTOKOI",
     "nome": "KIT TRANSMISSAO FAZER 250 MOTOKOI (45/15/428VOX132L) C/RETENTOR",
-    "estoque": "51",
+    "estoque": "50",
     "preco": "142,28"
   },
   {
@@ -102764,7 +102764,7 @@
     "fabric": "H01190XS",
     "marca": "VAZ",
     "nome": "KIT TRANSMISSAO TITAN 2000 VAZ (44/14/428HX116) H01190XS",
-    "estoque": "426",
+    "estoque": "425",
     "preco": "57,74"
   },
   {
@@ -102900,7 +102900,7 @@
     "fabric": "001-KOI-013H0",
     "marca": "MOTOKOI",
     "nome": "KIT TRANSMISSAO XRE 300 MOTOKOI (39/13/520HX104)",
-    "estoque": "15",
+    "estoque": "14",
     "preco": "94,49"
   },
   {
@@ -103532,7 +103532,7 @@
     "fabric": "H4FIT",
     "marca": "PHILIPS",
     "nome": "LAMPADA FAROL TITAN H4 12V 35X35 PHILLIPS FIT",
-    "estoque": "495",
+    "estoque": "492",
     "preco": "29,16"
   },
   {
@@ -106748,7 +106748,7 @@
     "fabric": "23544",
     "marca": "REVOLUXX",
     "nome": "LUBRIFICANTES MOTO 4T REVOLUXX 20W50 MIXXON",
-    "estoque": "2963",
+    "estoque": "2961",
     "preco": "18,89"
   },
   {
@@ -128772,7 +128772,7 @@
     "fabric": "KOI0132",
     "marca": "MOTOKOI",
     "nome": "PATIM FREIO TITAN 00/TITAN 150 0,00 DIANT/TRAS MOTOKOI",
-    "estoque": "1438",
+    "estoque": "1437",
     "preco": "16,21"
   },
   {
@@ -152636,7 +152636,7 @@
     "fabric": "10116031",
     "marca": "WGK",
     "nome": "RESSALTO COMANDO CG 125 TITAN 2000 WGK",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "33,22"
   },
   {
@@ -152820,7 +152820,7 @@
     "fabric": "M730902002030",
     "marca": "VEDAMOTORS",
     "nome": "RETENTOR BENGALA CG/TITAN/BIZ 100/BIZ 125 VEDAMOTORS (PAR)",
-    "estoque": "31",
+    "estoque": "30",
     "preco": "15,51"
   },
   {
@@ -153068,7 +153068,7 @@
     "fabric": "P40FORK455015",
     "marca": "VEDAMOTORS",
     "nome": "RETENTOR BENGALA TITAN 150/CBX 150/BROS VEDAMOTORS (PAR)",
-    "estoque": "64",
+    "estoque": "65",
     "preco": "18,66"
   },
   {
@@ -153116,7 +153116,7 @@
     "fabric": "TM083",
     "marca": "TMAC",
     "nome": "RETENTOR BENGALA TWISTER/CB 500/CRF 230/FAZER ATE 10 TMAC",
-    "estoque": "524",
+    "estoque": "523",
     "preco": "4,19"
   },
   {
@@ -153156,7 +153156,7 @@
     "fabric": "P40FORK455054",
     "marca": "VEDAMOTORS",
     "nome": "RETENTOR BENGALA XRE 300 VEDAMOTORS (PAR)",
-    "estoque": "24",
+    "estoque": "23",
     "preco": "24,03"
   },
   {
