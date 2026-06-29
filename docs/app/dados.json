@@ -1820,7 +1820,7 @@
     "fabric": "109590",
     "marca": "MOTUL",
     "nome": "ADITIVO P/ RADIADOR MOTUL MOTOCOOL EXPERT -37ºC",
-    "estoque": "38",
+    "estoque": "36",
     "preco": "41,99"
   },
   {
@@ -8284,7 +8284,7 @@
     "fabric": "MTX6L-BS",
     "marca": "MOTOKOI BR",
     "nome": "BATERIA BIZ / FAN 125 ES 09/TITAN150 MIX 09 ED MTX6L-BS MOTOKOI",
-    "estoque": "1233",
+    "estoque": "1232",
     "preco": "124,07"
   },
   {
@@ -8316,7 +8316,7 @@
     "fabric": "MT4L-BS",
     "marca": "MOTOKOI BR",
     "nome": "BATERIA BIZ/TITAN 2000 KS MT4L-BS MOTOKOI",
-    "estoque": "50",
+    "estoque": "48",
     "preco": "110,84"
   },
   {
@@ -8420,7 +8420,7 @@
     "fabric": "MTX7L-BS",
     "marca": "MOTOKOI BR",
     "nome": "BATERIA TWISTER/BROS 150/HUNTER/FALCON/INTRUDER/TITAN150 ES/ESD MTX7L-BS MOTOKOI",
-    "estoque": "306",
+    "estoque": "302",
     "preco": "145,92"
   },
   {
@@ -10644,7 +10644,7 @@
     "fabric": "04025",
     "marca": "PLASMOTO",
     "nome": "BLOCO OPTICO BIZ 125 PLASMOTO",
-    "estoque": "26",
+    "estoque": "25",
     "preco": "44,63"
   },
   {
@@ -11116,7 +11116,7 @@
     "fabric": "802700",
     "marca": "MELC",
     "nome": "BLOCO OPTICO TITAN 150 05-08/FAN 150 09-13 MELC (802700)",
-    "estoque": "202",
+    "estoque": "201",
     "preco": "16,79"
   },
   {
@@ -24796,7 +24796,7 @@
     "fabric": "KOI0083",
     "marca": "MOTOKOI",
     "nome": "CABO EMBREAGEM BROS 150 09/12 MOTOKOI",
-    "estoque": "14",
+    "estoque": "13",
     "preco": "8,39"
   },
   {
@@ -31424,6 +31424,14 @@
     "preco": "47,25"
   },
   {
+    "codigo": "54305",
+    "fabric": "9020880596",
+    "marca": "VINNI",
+    "nome": "CAIXA DIRECAO COLAR BURGMAN ATE 09 VINNI",
+    "estoque": "0",
+    "preco": "0"
+  },
+  {
     "codigo": "12134",
     "fabric": "05003",
     "marca": "DANIDREA",
@@ -31528,6 +31536,14 @@
     "preco": "21"
   },
   {
+    "codigo": "54303",
+    "fabric": "9020880565",
+    "marca": "VINNI",
+    "nome": "CAIXA DIRECAO COLAR FACTOR 125/FACTOR 150/FAZER 150 VINNI",
+    "estoque": "0",
+    "preco": "0"
+  },
+  {
     "codigo": "46772",
     "fabric": "TM548",
     "marca": "TMAC",
@@ -31550,6 +31566,14 @@
     "nome": "CAIXA DIRECAO COLAR FAZER 250/XTZ 250/XT 600 TMAC",
     "estoque": "8",
     "preco": "28,88"
+  },
+  {
+    "codigo": "54306",
+    "fabric": "9020880482",
+    "marca": "VINNI",
+    "nome": "CAIXA DIRECAO COLAR FAZER 250/XTZ 250/XT 600 VINNI",
+    "estoque": "0",
+    "preco": "0"
   },
   {
     "codigo": "22540",
@@ -31808,6 +31832,14 @@
     "preco": "24,12"
   },
   {
+    "codigo": "54304",
+    "fabric": "9020880566",
+    "marca": "VINNI",
+    "nome": "CAIXA DIRECAO COLAR YES/KATANA/INTRUDER125 VINNI",
+    "estoque": "0",
+    "preco": "0"
+  },
+  {
     "codigo": "50477",
     "fabric": "1014471",
     "marca": "WGK",
@@ -31832,6 +31864,46 @@
     "preco": "25,7"
   },
   {
+    "codigo": "17822",
+    "fabric": "40023",
+    "marca": "DANIDREA",
+    "nome": "CAIXA DIRECAO CONICO BROS 150/160/XR200/250/XRE300/XLR125/NX350/NX400 DANIDREA",
+    "estoque": "1",
+    "preco": "57,75"
+  },
+  {
+    "codigo": "22817",
+    "fabric": "36075",
+    "marca": "DANNIXX",
+    "nome": "CAIXA DIRECAO CONICO BROS 150/160/XR200/250/XRE300/XLR125/NX350/NX400 DANNIX",
+    "estoque": "1",
+    "preco": "18,12"
+  },
+  {
+    "codigo": "19344",
+    "fabric": "TM557",
+    "marca": "TMAC",
+    "nome": "CAIXA DIRECAO CONICO BROS 150/160/XR200/250/XRE300/XLR125/NX350/NX400 TMAC",
+    "estoque": "4",
+    "preco": "46,76"
+  },
+  {
+    "codigo": "26108",
+    "fabric": "TM556",
+    "marca": "TMAC",
+    "nome": "CAIXA DIRECAO CONICO BROS 150/160/XR200/250/XRE300/XLR125/NX350/NX400 TMAC",
+    "estoque": "6",
+    "preco": "23,63"
+  },
+  {
+    "codigo": "46770",
+    "fabric": "TM546",
+    "marca": "TMAC",
+    "nome": "CAIXA DIRECAO CONICO BROS 150/160/XR200/250/XRE300/XLR125/NX350/NX400 TMAC (C/CALCO)",
+    "estoque": "8",
+    "preco": "23,63"
+  },
+  {
     "codigo": "52920",
     "fabric": "10116561",
     "marca": "WGK",
@@ -31843,9 +31915,17 @@
     "codigo": "26107",
     "fabric": "TM555",
     "marca": "TMAC",
-    "nome": "CAIXA DIRECAO CONICO FACTOR 125/MAX 125 TMAC",
+    "nome": "CAIXA DIRECAO CONICO FACTOR 125 09-16/VIRAGO 250 95-02/MAX 125 TMAC",
     "estoque": "5",
     "preco": "20,39"
+  },
+  {
+    "codigo": "54302",
+    "fabric": "9020880136",
+    "marca": "VINNI",
+    "nome": "CAIXA DIRECAO CONICO FACTOR 125 09-16/VIRAGO 250 95-02/MAX 125 VINNI",
+    "estoque": "0",
+    "preco": "0"
   },
   {
     "codigo": "45237",
@@ -31870,46 +31950,6 @@
     "nome": "CAIXA DIRECAO CONICO FAZER 250/XTZ 250/XT 600/XT 660R TMAC",
     "estoque": "2",
     "preco": "28,88"
-  },
-  {
-    "codigo": "17822",
-    "fabric": "40023",
-    "marca": "DANIDREA",
-    "nome": "CAIXA DIRECAO CONICO NX150/NX200/XR200/XLR125/NX350/NX400 DANIDREA",
-    "estoque": "1",
-    "preco": "57,75"
-  },
-  {
-    "codigo": "22817",
-    "fabric": "36075",
-    "marca": "DANNIXX",
-    "nome": "CAIXA DIRECAO CONICO NX150/NX200/XR200/XLR125/NX350/NX400 DANNIXX",
-    "estoque": "1",
-    "preco": "18,12"
-  },
-  {
-    "codigo": "19344",
-    "fabric": "TM557",
-    "marca": "TMAC",
-    "nome": "CAIXA DIRECAO CONICO NX150/NX200/XR200/XLR125/NX350/NX400 TMAC",
-    "estoque": "4",
-    "preco": "46,76"
-  },
-  {
-    "codigo": "26108",
-    "fabric": "TM556",
-    "marca": "TMAC",
-    "nome": "CAIXA DIRECAO CONICO NX150/NX200/XR200/XLR125/NX350/NX400 TMAC",
-    "estoque": "6",
-    "preco": "23,63"
-  },
-  {
-    "codigo": "46770",
-    "fabric": "TM546",
-    "marca": "TMAC",
-    "nome": "CAIXA DIRECAO CONICO NXR125/NXR150/NX150//NX200 TMAC",
-    "estoque": "8",
-    "preco": "23,63"
   },
   {
     "codigo": "17043",
@@ -32348,7 +32388,7 @@
     "fabric": "KOI0167",
     "marca": "MOTOKOI",
     "nome": "CAMARA DE AR DIANT BIZ MOTOKOI (250-17)",
-    "estoque": "1565",
+    "estoque": "1564",
     "preco": "14,16"
   },
   {
@@ -32588,7 +32628,7 @@
     "fabric": "KOI0169",
     "marca": "MOTOKOI",
     "nome": "CAMARA DE AR TRAS BIZ MOTOKOI R14",
-    "estoque": "11200",
+    "estoque": "11199",
     "preco": "14,16"
   },
   {
@@ -42452,7 +42492,7 @@
     "fabric": "1250058PTO",
     "marca": "EBF",
     "nome": "CAPACETE EBF SPARK JET SOLID PRETO 58",
-    "estoque": "9",
+    "estoque": "8",
     "preco": "131,25"
   },
   {
@@ -47452,7 +47492,7 @@
     "fabric": "10013572",
     "marca": "TAURUS",
     "nome": "CAPACETE TAURUS SAN MARINO PRETO 61/62",
-    "estoque": "26",
+    "estoque": "25",
     "preco": "178,49"
   },
   {
@@ -47796,7 +47836,7 @@
     "fabric": "CAP-35PT",
     "marca": "TORK",
     "nome": "CAPACETE TORK LIBERTY FOUR PRETO 58",
-    "estoque": "446",
+    "estoque": "445",
     "preco": "94,49"
   },
   {
@@ -48728,6 +48768,14 @@
     "preco": "158,42"
   },
   {
+    "codigo": "54307",
+    "fabric": "9020840035",
+    "marca": "VINNI",
+    "nome": "CARBURADOR BIZ 125 VINNI",
+    "estoque": "0",
+    "preco": "0"
+  },
+  {
     "codigo": "28298",
     "fabric": "TM398",
     "marca": "TMAC",
@@ -49056,6 +49104,14 @@
     "preco": "81,89"
   },
   {
+    "codigo": "54309",
+    "fabric": "9020840026",
+    "marca": "VINNI",
+    "nome": "CARBURADOR TITAN 02/04/FAN 125 05/08 VINNI",
+    "estoque": "0",
+    "preco": "0"
+  },
+  {
     "codigo": "44232",
     "fabric": "CX010",
     "marca": "CX3",
@@ -49112,6 +49168,14 @@
     "preco": "86,51"
   },
   {
+    "codigo": "54310",
+    "fabric": "9020840029",
+    "marca": "VINNI",
+    "nome": "CARBURADOR TITAN 150 04/08 VINNI",
+    "estoque": "0",
+    "preco": "0"
+  },
+  {
     "codigo": "26109",
     "fabric": "TM416",
     "marca": "TMAC",
@@ -49158,6 +49222,14 @@
     "nome": "CARBURADOR TWISTER TMAC",
     "estoque": "0",
     "preco": "320,25"
+  },
+  {
+    "codigo": "54308",
+    "fabric": "9020840065",
+    "marca": "VINNI",
+    "nome": "CARBURADOR TWISTER VINNI",
+    "estoque": "0",
+    "preco": "0"
   },
   {
     "codigo": "28303",
@@ -61072,6 +61144,22 @@
     "preco": "54,03"
   },
   {
+    "codigo": "54322",
+    "fabric": "9020890070",
+    "marca": "VINNI",
+    "nome": "CHAVETA TRAVA VALVULA CG 125 ATE 01 / CBX NX 150 200 / XLR 125 UNID. VINNI",
+    "estoque": "0",
+    "preco": "0"
+  },
+  {
+    "codigo": "54323",
+    "fabric": "9020890069",
+    "marca": "VINNI",
+    "nome": "CHAVETA TRAVA VALVULA TITAN 150 04 ED/TITAN 150 09 ED/FAN 125 09 ED/BROS 125 13-14 VINNI",
+    "estoque": "0",
+    "preco": "0"
+  },
+  {
     "codigo": "12493",
     "fabric": "16137",
     "marca": "TRILHA",
@@ -64508,7 +64596,7 @@
     "fabric": "500",
     "marca": "PROTEC",
     "nome": "COLETOR ADMISSAO CG/TODAY/TITAN 125 PROTEC",
-    "estoque": "29",
+    "estoque": "28",
     "preco": "24,34"
   },
   {
@@ -85748,7 +85836,7 @@
     "fabric": "90250281",
     "marca": "MAGNETRON",
     "nome": "FUSIVEL 15A LAMINA MINI MAGNETRON",
-    "estoque": "13",
+    "estoque": "8",
     "preco": "1,58"
   },
   {
@@ -97068,7 +97156,7 @@
     "fabric": "KOI0119",
     "marca": "MOTOKOI",
     "nome": "JOGO RAIO DIANT/TRAS TITAN/FAN KS 2000/150 MOTOKOI 4MM",
-    "estoque": "7871",
+    "estoque": "7870",
     "preco": "24,14"
   },
   {
@@ -97900,7 +97988,7 @@
     "fabric": "VE05001010101",
     "marca": "VEDAMOTORS",
     "nome": "JUNTA CABECOTE TITAN 150/FAN 150/NXR 150 VEDAMOTORS",
-    "estoque": "25",
+    "estoque": "24",
     "preco": "10,49"
   },
   {
@@ -99292,7 +99380,7 @@
     "fabric": "VS0561001190K",
     "marca": "VEDAMOTORS",
     "nome": "KIT A TITAN 150 P/ 190CC ACO D. 65.50 VEDAMOTORS",
-    "estoque": "3",
+    "estoque": "2",
     "preco": "25,2"
   },
   {
@@ -100116,6 +100204,14 @@
     "fabric": "P400210100034",
     "marca": "VEDAMOTORS",
     "nome": "KIT CILINDRO TITAN 02/04 VEDAMOTORS",
+    "estoque": "0",
+    "preco": "0"
+  },
+  {
+    "codigo": "54324",
+    "fabric": "9020840004",
+    "marca": "VINNI",
+    "nome": "KIT CILINDRO TITAN 150 04-15/FAN 150 10-15/BROS 150 06-15 VINNI",
     "estoque": "0",
     "preco": "0"
   },
@@ -101516,7 +101612,7 @@
     "fabric": "H03800XS",
     "marca": "VAZ",
     "nome": "KIT TRANSMISSAO BIZ 125 VAZ (34/14/428HX106L)",
-    "estoque": "1059",
+    "estoque": "1058",
     "preco": "57,74"
   },
   {
@@ -101692,7 +101788,7 @@
     "fabric": "H04003XS",
     "marca": "VAZ",
     "nome": "KIT TRANSMISSAO BROS 160/XRE 190 VAZ (48/16/428HX128L)",
-    "estoque": "224",
+    "estoque": "223",
     "preco": "102,66"
   },
   {
@@ -103396,7 +103492,7 @@
     "fabric": "VE05084000001",
     "marca": "VEDAMOTORS",
     "nome": "KIT VEDACAO TAMPA VALVULA TITAN 150 VEDAMOTORS - GUARNICAO + 2 RETENTORES",
-    "estoque": "130",
+    "estoque": "129",
     "preco": "11,03"
   },
   {
@@ -106668,7 +106764,7 @@
     "fabric": "4407",
     "marca": "IPIRANGA",
     "nome": "LUBRIFICANTES MOTO 4T IPIRANGA 20W50 SL",
-    "estoque": "23",
+    "estoque": "22",
     "preco": "29,39"
   },
   {
@@ -106676,7 +106772,7 @@
     "fabric": "01026931",
     "marca": "LUBRAX",
     "nome": "LUBRIFICANTES MOTO 4T LUBRAX 10W30 SL PROFISSIONAL",
-    "estoque": "1797",
+    "estoque": "1793",
     "preco": "30,44"
   },
   {
@@ -106724,7 +106820,7 @@
     "fabric": "121708",
     "marca": "MOBIL",
     "nome": "LUBRIFICANTES MOTO 4T MOBIL 20W50",
-    "estoque": "9252",
+    "estoque": "9251",
     "preco": "27,29"
   },
   {
@@ -106772,7 +106868,7 @@
     "fabric": "104071",
     "marca": "MOTUL",
     "nome": "LUBRIFICANTES MOTO 4T MOTUL 5100 10W30",
-    "estoque": "241",
+    "estoque": "239",
     "preco": "68,24"
   },
   {
@@ -106844,7 +106940,7 @@
     "fabric": "23544",
     "marca": "REVOLUXX",
     "nome": "LUBRIFICANTES MOTO 4T REVOLUXX 20W50 MIXXON",
-    "estoque": "2909",
+    "estoque": "2906",
     "preco": "18,89"
   },
   {
@@ -107348,7 +107444,7 @@
     "fabric": "1442484",
     "marca": "SKY",
     "nome": "LUVA SKY IMPERMEAVEL PRETO/LARANJA G",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "71,41"
   },
   {
@@ -108980,7 +109076,7 @@
     "fabric": "11041823",
     "marca": "X11",
     "nome": "LUVA X11 NITRO WIN PRETO M",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "81,38"
   },
   {
@@ -109660,7 +109756,7 @@
     "fabric": "P-020",
     "marca": "PROTEC",
     "nome": "MANETE EMBREAGEM TITAN 2000 / TITAN 150 PROTEC",
-    "estoque": "948",
+    "estoque": "947",
     "preco": "6,83"
   },
   {
@@ -110588,7 +110684,7 @@
     "fabric": "19",
     "marca": "PROTEC",
     "nome": "MANETE FREIO TITAN 2000 / TITAN 150 PROTEC",
-    "estoque": "559",
+    "estoque": "558",
     "preco": "6,48"
   },
   {
@@ -117364,7 +117460,7 @@
     "fabric": "KOI0405",
     "marca": "MOTOKOI",
     "nome": "MOTOR PARTIDA TITAN 150/SPORT/MIX/BROS150 06-/FAN150 09 MOTOKOI",
-    "estoque": "40",
+    "estoque": "37",
     "preco": "104,99"
   },
   {
@@ -126220,7 +126316,7 @@
     "fabric": "N1840",
     "marca": "COBREQ",
     "nome": "PASTILHA FREIO BROS 160/CB 250 TWISTER/CRF 250 2015/XRE 300 22 C/ABS TRASEIRA COBREQ N-1840",
-    "estoque": "982",
+    "estoque": "981",
     "preco": "28,88"
   },
   {
@@ -128140,7 +128236,7 @@
     "fabric": "KOI-00101 STD",
     "marca": "MOTOKOI BR",
     "nome": "PATIM FREIO BIZ/BROS/XL 125 0,00 TRAS MOTOKOI BR",
-    "estoque": "46",
+    "estoque": "45",
     "preco": "15,74"
   },
   {
@@ -128924,7 +129020,7 @@
     "fabric": "KOI-00100 A",
     "marca": "MOTOKOI BR",
     "nome": "PATIM FREIO TITAN 00/TITAN 150 0,25 DIANT/TRAS MOTOKOI BR",
-    "estoque": "1175",
+    "estoque": "1174",
     "preco": "15,74"
   },
   {
@@ -141428,7 +141524,7 @@
     "fabric": "3019",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 120/80-18 TECHNIC TEC TORNADO/LANDER TT 62S",
-    "estoque": "6",
+    "estoque": "5",
     "preco": "241,52"
   },
   {
@@ -141580,7 +141676,7 @@
     "fabric": "",
     "marca": "LEVORIN",
     "nome": "PNEU TRAS 140/70-17 LEVORIN MATRIX SPORT II CB 300",
-    "estoque": "11",
+    "estoque": "10",
     "preco": "509,24"
   },
   {
@@ -141860,7 +141956,7 @@
     "fabric": "3101",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 80/100-14 TECHNIC TIGER BIZ TT 49L",
-    "estoque": "410",
+    "estoque": "409",
     "preco": "110,24"
   },
   {
@@ -142396,7 +142492,7 @@
     "fabric": "11538",
     "marca": "REGGIO",
     "nome": "PORCA EIXO TRASEIRO CB 300 REGGIO",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "5,24"
   },
   {
@@ -143820,7 +143916,7 @@
     "fabric": "PR-236HPLT",
     "marca": "TORK",
     "nome": "PROTETOR CARENAGEM TITAN 160/FAN 125/150 14/TITAN 150 14 ARMOR TORK LIGHT PRETO",
-    "estoque": "9",
+    "estoque": "8",
     "preco": "231,83"
   },
   {
@@ -145952,12 +146048,28 @@
     "preco": "37,28"
   },
   {
+    "codigo": "54315",
+    "fabric": "9020780069",
+    "marca": "VINNI",
+    "nome": "PUNHO LUZ FAN 05/08 VINNI",
+    "estoque": "0",
+    "preco": "0"
+  },
+  {
     "codigo": "27106",
     "fabric": "90237400",
     "marca": "MAGNETRON",
     "nome": "PUNHO LUZ FAN 125 14/15 MAGNETRON",
     "estoque": "2",
     "preco": "86,38"
+  },
+  {
+    "codigo": "54321",
+    "fabric": "9020780071",
+    "marca": "VINNI",
+    "nome": "PUNHO LUZ FAN 125 14/15 VINNI",
+    "estoque": "0",
+    "preco": "0"
   },
   {
     "codigo": "46822",
@@ -146232,6 +146344,14 @@
     "preco": "36,75"
   },
   {
+    "codigo": "54314",
+    "fabric": "9020780068",
+    "marca": "VINNI",
+    "nome": "PUNHO LUZ TITAN 00/04 ES VINNI",
+    "estoque": "0",
+    "preco": "0"
+  },
+  {
     "codigo": "13200",
     "fabric": "90235410",
     "marca": "MAGNETRON",
@@ -146288,6 +146408,14 @@
     "preco": "41,99"
   },
   {
+    "codigo": "54313",
+    "fabric": "9020780067",
+    "marca": "VINNI",
+    "nome": "PUNHO LUZ TITAN 00/04 KS VINNI",
+    "estoque": "0",
+    "preco": "0"
+  },
+  {
     "codigo": "0200000535728",
     "fabric": "KOI0999",
     "marca": "MOTOKOI",
@@ -146310,6 +146438,14 @@
     "nome": "PUNHO LUZ TITAN 150 09/11 KS/ES/ESD/MIX MAGNETRON",
     "estoque": "10",
     "preco": "76,53"
+  },
+  {
+    "codigo": "54319",
+    "fabric": "9020780074",
+    "marca": "VINNI",
+    "nome": "PUNHO LUZ TITAN 150 09/11 KS/ES/ESD/MIX VINNI",
+    "estoque": "0",
+    "preco": "0"
   },
   {
     "codigo": "0200000535681",
@@ -146368,6 +146504,14 @@
     "preco": "35,5"
   },
   {
+    "codigo": "54318",
+    "fabric": "9020780073",
+    "marca": "VINNI",
+    "nome": "PUNHO LUZ TITAN 150 ES/ESD 04/08/FAN 125 ES 09/13/FAN 150 ESI/ESDI 10/13 VINNI",
+    "estoque": "0",
+    "preco": "0"
+  },
+  {
     "codigo": "9036",
     "fabric": "90235010",
     "marca": "MAGNETRON",
@@ -146414,6 +146558,14 @@
     "nome": "PUNHO LUZ TITAN 150 KS 04/08/FAN 125 KS 09/13 TMAC",
     "estoque": "40",
     "preco": "34,13"
+  },
+  {
+    "codigo": "54317",
+    "fabric": "9020780072",
+    "marca": "VINNI",
+    "nome": "PUNHO LUZ TITAN 150 KS 04/08/FAN 125 KS 09/13 VINNI",
+    "estoque": "0",
+    "preco": "0"
   },
   {
     "codigo": "10403",
@@ -146472,6 +146624,14 @@
     "preco": "51,45"
   },
   {
+    "codigo": "54320",
+    "fabric": "9020780070",
+    "marca": "VINNI",
+    "nome": "PUNHO LUZ TITAN 160/FAN 160/FAN 125 ES/ESD/KS/FAN 150 ESDI 14/15/TITAN 150 14/15 ES/ESD/EX 14/15 VINNI",
+    "estoque": "0",
+    "preco": "0"
+  },
+  {
     "codigo": "23128",
     "fabric": "1103229",
     "marca": "CONDOR",
@@ -146500,6 +146660,14 @@
     "fabric": "004599",
     "marca": "SCUD",
     "nome": "PUNHO LUZ TITAN 99 SCUD",
+    "estoque": "0",
+    "preco": "0"
+  },
+  {
+    "codigo": "54312",
+    "fabric": "9020780066",
+    "marca": "VINNI",
+    "nome": "PUNHO LUZ TITAN 99 VINNI",
     "estoque": "0",
     "preco": "0"
   },
@@ -155364,7 +155532,7 @@
     "fabric": "KOI0243",
     "marca": "MOTOKOI BR",
     "nome": "RETROVISOR BIZ 125/POP/BROS 09 PAR MOTOKOI BR",
-    "estoque": "645",
+    "estoque": "644",
     "preco": "20,99"
   },
   {
@@ -156812,7 +156980,7 @@
     "fabric": "KOI0241",
     "marca": "MOTOKOI BR",
     "nome": "RETROVISOR TITAN 150 PAR MOTOKOI BR",
-    "estoque": "823",
+    "estoque": "822",
     "preco": "19,94"
   },
   {
@@ -160332,7 +160500,7 @@
     "fabric": "90294171",
     "marca": "MAGNETRON",
     "nome": "SOQUETE FAROL BIZ 100 MAGNETRON",
-    "estoque": "19",
+    "estoque": "18",
     "preco": "13,66"
   },
   {
@@ -165644,7 +165812,7 @@
     "fabric": "90261060",
     "marca": "MAGNETRON",
     "nome": "TAMPA TANQUE YBR 125 05 ED/XTZ 06/FAZER/LANDER MAGNETRON",
-    "estoque": "4",
+    "estoque": "3",
     "preco": "36,04"
   },
   {
@@ -169196,7 +169364,7 @@
     "fabric": "CPR6EA9",
     "marca": "NGK",
     "nome": "VELA BIZ 125 CPR6EA9 NGK",
-    "estoque": "62",
+    "estoque": "61",
     "preco": "36,75"
   },
   {
