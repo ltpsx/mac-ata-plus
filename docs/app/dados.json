@@ -3964,7 +3964,7 @@
     "fabric": "TM1050",
     "marca": "TMAC",
     "nome": "ANEL ESCAPAMENTO CG/ML/TUR/XL TMAC",
-    "estoque": "348",
+    "estoque": "347",
     "preco": "0,58"
   },
   {
@@ -8428,7 +8428,7 @@
     "fabric": "MTX5L-BS",
     "marca": "MOTOKOI BR",
     "nome": "BATERIA BIZ/TITAN 2000 ES/TITAN150 KS 125 MTX5L-BS MOTOKOI",
-    "estoque": "187",
+    "estoque": "186",
     "preco": "112,08"
   },
   {
@@ -8828,7 +8828,7 @@
     "fabric": "LBJ028",
     "marca": "LBJ",
     "nome": "BICO INJETOR BIZ 125 09/10 LBJ",
-    "estoque": "53",
+    "estoque": "52",
     "preco": "104,99"
   },
   {
@@ -9172,7 +9172,7 @@
     "fabric": "TM0402",
     "marca": "TMAC",
     "nome": "BICO RODA S/CAMARA TR413 TMAC",
-    "estoque": "19",
+    "estoque": "17",
     "preco": "2,89"
   },
   {
@@ -22092,7 +22092,7 @@
     "fabric": "KOI0004",
     "marca": "MOTOKOI",
     "nome": "CABO ACELERADOR TITAN 150 04/08 MOTOKOI",
-    "estoque": "32",
+    "estoque": "30",
     "preco": "7,34"
   },
   {
@@ -22180,7 +22180,7 @@
     "fabric": "TM5005",
     "marca": "TMAC",
     "nome": "CABO ACELERADOR TITAN 150 09/11 TMAC",
-    "estoque": "151",
+    "estoque": "149",
     "preco": "9,44"
   },
   {
@@ -24148,7 +24148,7 @@
     "fabric": "KOI0102",
     "marca": "MOTOKOI",
     "nome": "CABO AFOGADOR TWISTER MOTOKOI",
-    "estoque": "51",
+    "estoque": "50",
     "preco": "6,6"
   },
   {
@@ -26252,7 +26252,7 @@
     "fabric": "TM4004",
     "marca": "TMAC",
     "nome": "CABO EMBREAGEM TITAN 02/04 TMAC",
-    "estoque": "40",
+    "estoque": "39",
     "preco": "9,44"
   },
   {
@@ -30540,7 +30540,7 @@
     "fabric": "TM7014",
     "marca": "TMAC",
     "nome": "CABO VELOCIMETRO TWISTER TMAC",
-    "estoque": "132",
+    "estoque": "131",
     "preco": "9,44"
   },
   {
@@ -32620,7 +32620,7 @@
     "fabric": "KOI0168",
     "marca": "MOTOKOI",
     "nome": "CAMARA DE AR DIANT/TRAS CG MOTOKOI 18",
-    "estoque": "23671",
+    "estoque": "23669",
     "preco": "14,69"
   },
   {
@@ -36069,7 +36069,7 @@
     "marca": "MOTOKOI BR",
     "nome": "CAPA CHUVA MOTOKOI PVC P",
     "estoque": "20",
-    "preco": "99,74"
+    "preco": "99,75"
   },
   {
     "codigo": "31802",
@@ -67228,7 +67228,7 @@
     "fabric": "C251",
     "marca": "CORAMI",
     "nome": "CORRENTE COMANDO BIZ 100/DREAM 100 84 L CORAMI",
-    "estoque": "17",
+    "estoque": "15",
     "preco": "12,59"
   },
   {
@@ -67492,7 +67492,7 @@
     "fabric": "C250",
     "marca": "CORAMI",
     "nome": "CORRENTE COMANDO TITAN 150 04-13/FAN 125/150 09-13 94 L CORAMI",
-    "estoque": "44",
+    "estoque": "43",
     "preco": "18,38"
   },
   {
@@ -74092,7 +74092,7 @@
     "fabric": "04501",
     "marca": "REGGIO",
     "nome": "EIXO RODA CG/ML/TUR/TIT TRASEIRO REGGIO",
-    "estoque": "388",
+    "estoque": "387",
     "preco": "20,99"
   },
   {
@@ -98908,7 +98908,7 @@
     "fabric": "2122",
     "marca": "PROTEC",
     "nome": "KIT BUCHA DA COROA C/ PRISIONEIROS PROTEC CG/TITAN",
-    "estoque": "35",
+    "estoque": "34",
     "preco": "26,22"
   },
   {
@@ -105276,7 +105276,7 @@
     "fabric": "102005",
     "marca": "MELC",
     "nome": "LENTE PAINEL SUPERIOR TWISTER MELC",
-    "estoque": "6",
+    "estoque": "5",
     "preco": "20,22"
   },
   {
@@ -106060,7 +106060,7 @@
     "fabric": "01026931",
     "marca": "LUBRAX",
     "nome": "LUBRIFICANTES MOTO 4T LUBRAX 10W30 SL PROFISSIONAL",
-    "estoque": "1454",
+    "estoque": "1451",
     "preco": "30,44"
   },
   {
@@ -106108,7 +106108,7 @@
     "fabric": "121708",
     "marca": "MOBIL",
     "nome": "LUBRIFICANTES MOTO 4T MOBIL 20W50",
-    "estoque": "6161",
+    "estoque": "6159",
     "preco": "29,39"
   },
   {
@@ -106220,7 +106220,7 @@
     "fabric": "23544",
     "marca": "REVOLUXX",
     "nome": "LUBRIFICANTES MOTO 4T REVOLUXX 20W50 MIXXON",
-    "estoque": "803",
+    "estoque": "797",
     "preco": "19,94"
   },
   {
@@ -136460,7 +136460,7 @@
     "fabric": "1102752",
     "marca": "KMP",
     "nome": "PISTAO TITAN 150/BROS 150 0,50 KMP",
-    "estoque": "65",
+    "estoque": "64",
     "preco": "68,25"
   },
   {
@@ -139364,7 +139364,7 @@
     "fabric": "",
     "marca": "MAGGION",
     "nome": "PNEU DIANT 60/100-17 MAGGION  BIZ 100 /DREAM STREETFIGHTER MF7 TT",
-    "estoque": "160",
+    "estoque": "159",
     "preco": "100,79"
   },
   {
@@ -140484,7 +140484,7 @@
     "fabric": "100649",
     "marca": "MAGGION",
     "nome": "PNEU TRAS 90/90-18 MAGGION WINNER TT",
-    "estoque": "228",
+    "estoque": "226",
     "preco": "141,74"
   },
   {
@@ -153084,7 +153084,7 @@
     "fabric": "TM093",
     "marca": "TMAC",
     "nome": "RETENTOR PARTIDA BIZ 100/DREAM 100/POP 100 TMAC",
-    "estoque": "435",
+    "estoque": "430",
     "preco": "1,68"
   },
   {
@@ -156492,7 +156492,7 @@
     "fabric": "KOI0402",
     "marca": "MOTOKOI",
     "nome": "ROLAMENTO 6302-RS CROMO RODA TRAS. CG MOTOKOI",
-    "estoque": "37",
+    "estoque": "35",
     "preco": "5,24"
   },
   {
@@ -164476,7 +164476,7 @@
     "fabric": "44455K",
     "marca": "MOTOKOI BR",
     "nome": "TENSION /ACION. CORRENTE BIZ 100/DREAM 100/POP 100 ROLETES (9 PCS) MOTOKOI",
-    "estoque": "20",
+    "estoque": "19",
     "preco": "34,65"
   },
   {
@@ -165300,7 +165300,7 @@
     "fabric": "1101901",
     "marca": "GP7/GP",
     "nome": "TORNEIRA GASOLINA CG ATE 82 GP",
-    "estoque": "12",
+    "estoque": "11",
     "preco": "9,52"
   },
   {
